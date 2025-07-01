@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 3685 (737.0 per locale)
+ * Strings: 4180 (836.0 per locale)
  *
- * Built on 2024-03-08 at 04:22 UTC
+ * Built on 2025-07-01 at 03:14 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -576,7 +576,7 @@ class _StringsEn {
 	String get k_11cm5lm => 'focus manually';
 	String get k_002uzrd => 'preview';
 	String get k_003qkn3 => 'record';
-	String get k_003k6a7 => 'take picture';
+	String get k_003k6a7 => 'Camera';
 	String get k_0bqpqco => 'shooting button';
 	String get k_1626ozl => 'stop recording';
 	String get k_003lvmu => 'Front';
@@ -1066,6 +1066,105 @@ class _StringsEn {
 	String get k_0zw0eau => 'Flutter';
 	String get k_132m79q => 'Call End';
 	String get k_002robo => 'Clear';
+	String get k_1t9kzib => 'Please enter your password';
+	String get k_16b2aut => 'Red Packet Promotion';
+	String get k_0vfj9tf => 'Wallet and Services';
+	String get k_03ejj51 => 'Video number';
+	String get k_13h55ia => 'Fun Games';
+	String get k_003qqtv => 'Friends';
+	String get k_003l10k => 'Discoveries';
+	String get k_162mbbl => 'New Friends';
+	String get k_18uctn2 => 'Nearby People';
+	String k_1knbm23({required Object option1}) => '$option1 contacts';
+	String get k_00034e3 => 'Like';
+	String get k_002wpbv => 'Comment';
+	String get k_121iefi => 'Location';
+	String get k_10saydh => 'Who can see';
+	String get k_003rga1 => 'Public';
+	String get k_003rx1e => 'Private';
+	String get k_0fu3ftx => 'Partially visible';
+	String get k_112hsnv => 'Not visible to';
+	String get k_1jpytj6 => 'All friends visible';
+	String get k_0pa0kj9 => 'Only visible to yourself';
+	String get k_162pmzp => 'Select friends';
+	String get k_119q5qn => 'Select visible friends';
+	String get k_0m9pzvm => 'Select invisible friends';
+	String get k_1666obb => 'Delete friends';
+	String get k_0yx7ush => 'Delete friends?';
+	String get k_1knw84v => 'After deleting friends, their information will be deleted, and you will no longer receive their messages.';
+	String get k_003qio2 => 'Red packet';
+	String get k_002s44p => 'Amount';
+	String get k_03fav83 => 'Send Red Packet';
+	String get k_176ufyf => 'Record';
+	String get k_0bs3o81 => 'Cover';
+	String get k_114aic6 => 'Perpare Red Packet';
+	String get k_003ja6q => 'use';
+	String get k_17ia1tg => 'My Cover';
+	String get k_10x9cpi => 'I received it';
+	String get k_10x1923 => 'I sent it out';
+	String k_1rbmhsn({required Object option1}) => 'Received red packet total $option1';
+	String k_1rbli7u({required Object option1}) => 'Sent red packet total $option1';
+	String get k_02nwx6i => 'Benediction';
+	String get k_0bm58o5 => 'No Red Packet Record';
+	String get k_19u8qtn => 'Best wishes';
+	String get k_03fagpe => 'Received in total';
+	String get k_03eik7z => 'Sent in total';
+	String k_0dr49p7({required Object option1}) => 'Red Packet from $option1';
+	String get k_0d3qn8u => 'Red packet amount';
+	String get k_0dan0fy => 'Red Packet transferred to Wallet';
+	String get k_03ejxbk => 'not yet opened';
+	String get k_03ejxmv => 'opened';
+	String get k_18od22b => 'You opened its';
+	String get k_08eujvb => 'opened yours';
+	String get k_03i860j => 'opened ';
+	String get k_12b45i0 => 'Quantity';
+	String get k_02jsbaq => 'Total';
+	String get k_10cst1d => 'Random Amount';
+	String get k_160sjee => 'Identical Amount';
+	String get k_1g3xzll => 'Enter number';
+	String get k_0d3pviu => 'Total';
+	String get k_0fxppee => 'Enter valid red packet amount';
+	String get k_1extztb => 'Enter red packet amount';
+	String get k_0phafco => 'Red packet quantity cannot be less than 2';
+	String get k_0n3qmfe => 'Enter number';
+	String get k_18wj08c => 'Select year';
+	String get k_03fasmg => 'Red Packets';
+	String get k_1oemvgr => '[Phichat Red Packet]';
+	String get k_1hbnyi8 => '[Phichat Red Packet Opened]';
+	String get k_0k8endz => 'Exit group chat?';
+	String get k_08peder => 'After exiting the group chat, the group chat information will be deleted, and the group chat members will no longer receive group chat messages.';
+	String get k_0flvtl1 => 'Enter group nickname';
+	String get k_03eayet => 'Money';
+	String get k_003pp1t => 'Wallet';
+	String get k_002rhwi => 'Balance';
+	String get k_03em872 => 'Bank Cards';
+	String get k_003puja => 'Transactions';
+	String get k_0cl9lh3 => 'My Balance';
+	String get k_11x4ckq => 'Transactions';
+	String get k_003qjuk => 'Top Up';
+	String get k_003l46d => 'Withdraw';
+	String get k_0fl3t0o => 'Withdrawal to';
+	String get k_0d3x98p => 'Withdrawal amount';
+	String get k_11h7h7p => 'Withdrawal all';
+	String get k_04xepvc => 'Balance';
+	String get k_16pfqy2 => 'Top-up Method';
+	String get k_0d3rnv4 => 'Top-up amount';
+	String get k_16439fj => 'Use new card to top up';
+	String get k_02lq0mu => 'Select the bank card';
+	String get k_0fkxov9 => 'Add a Bank Card';
+	String get k_03ex667 => 'Account Name';
+	String get k_0zp04ji => 'Enter account name';
+	String get k_003qoz7 => 'Card Number';
+	String get k_153r1te => 'Enter card number';
+	String get k_11l9jnm => 'Bank Name';
+	String get k_0uxhnkz => 'Enter bank name';
+	String get k_03emtyg => 'Debit Card';
+	String get k_0kppvpk => 'Please enter the withdrawal amount';
+	String get k_167rp65 => 'Please enter a valid amount';
+	String get k_0foqurj => 'Insufficient balance';
+	String get k_15w96ru => 'Withdrawal successful';
+	String get k_07kavjl => 'Please enter the recharge amount';
+	String get k_17s548n => 'Recharge amount must be greater than 0';
 }
 
 // Path: <root>
@@ -1821,6 +1920,105 @@ class _StringsJa implements _StringsEn {
 	@override String get k_0zw0eau => '風雨人生';
 	@override String get k_132m79q => '通話が終わる';
 	@override String get k_002robo => 'クリア';
+	@override String get k_1t9kzib => '请输入密码';
+	@override String get k_16b2aut => '红包推广';
+	@override String get k_0vfj9tf => '钱包与服务';
+	@override String get k_03ejj51 => '视频号';
+	@override String get k_13h55ia => '趣味游戏';
+	@override String get k_003qqtv => '好友';
+	@override String get k_003l10k => '发现';
+	@override String get k_162mbbl => '新的朋友';
+	@override String get k_18uctn2 => '附近的人';
+	@override String k_1knbm23({required Object option1}) => '$option1位联系人';
+	@override String get k_00034e3 => '赞';
+	@override String get k_002wpbv => '评论';
+	@override String get k_121iefi => '所在位置';
+	@override String get k_10saydh => '谁可以看';
+	@override String get k_003rga1 => '公开';
+	@override String get k_003rx1e => '私密';
+	@override String get k_0fu3ftx => '部分可见';
+	@override String get k_112hsnv => '不给谁看';
+	@override String get k_1jpytj6 => '所有朋友可见';
+	@override String get k_0pa0kj9 => '仅自己可见';
+	@override String get k_162pmzp => '选择朋友';
+	@override String get k_119q5qn => '选择可见的朋友';
+	@override String get k_0m9pzvm => '选择不可见的朋友';
+	@override String get k_1666obb => '删除好友';
+	@override String get k_0yx7ush => '是否删除好友？';
+	@override String get k_1knw84v => '删除好友后，好友信息将被删除，您将无法再收到好友的消息。';
+	@override String get k_003qio2 => '红包';
+	@override String get k_002s44p => '金额';
+	@override String get k_03fav83 => '发红包';
+	@override String get k_176ufyf => '红包记录';
+	@override String get k_0bs3o81 => '红包封面';
+	@override String get k_114aic6 => '塞钱进红包';
+	@override String get k_003ja6q => '使用';
+	@override String get k_17ia1tg => '我的红包封面';
+	@override String get k_10x9cpi => '我收到的';
+	@override String get k_10x1923 => '我发出的';
+	@override String k_1rbmhsn({required Object option1}) => '收到的红包总数$option1个';
+	@override String k_1rbli7u({required Object option1}) => '发出的红包总数$option1个';
+	@override String get k_02nwx6i => '祝福语';
+	@override String get k_0bm58o5 => '暂无红包记录';
+	@override String get k_19u8qtn => '恭喜发财，大吉大利';
+	@override String get k_03fagpe => '共收到';
+	@override String get k_03eik7z => '共发出';
+	@override String k_0dr49p7({required Object option1}) => '$option1发出的红包';
+	@override String get k_0d3qn8u => '红包金额';
+	@override String get k_0dan0fy => '已存入钱包';
+	@override String get k_03ejxbk => '待领取';
+	@override String get k_03ejxmv => '已领取';
+	@override String get k_18od22b => '你领取了';
+	@override String get k_08eujvb => '领取了你的';
+	@override String get k_03i860j => '领取了';
+	@override String get k_12b45i0 => '红包个数';
+	@override String get k_02jsbaq => '总金额';
+	@override String get k_10cst1d => '拼手气红包';
+	@override String get k_160sjee => '普通红包';
+	@override String get k_1g3xzll => '请输入红包个数';
+	@override String get k_0d3pviu => '单个金额';
+	@override String get k_0fxppee => '请输入合法的红包金额';
+	@override String get k_1extztb => '请输入红包金额';
+	@override String get k_0phafco => '拼手气红包个数不能小于2';
+	@override String get k_0n3qmfe => '填写红包个数';
+	@override String get k_18wj08c => '选择年份';
+	@override String get k_03fasmg => '个红包';
+	@override String get k_1oemvgr => '[Phichat 红包]';
+	@override String get k_1hbnyi8 => '[有红包被领取了]';
+	@override String get k_0k8endz => '是否退出群聊？';
+	@override String get k_08peder => '退出群聊后，群聊信息将被删除，群聊成员将无法再收到群聊消息。';
+	@override String get k_0flvtl1 => '请输入群昵称';
+	@override String get k_03eayet => '收付款';
+	@override String get k_003pp1t => '钱包';
+	@override String get k_002rhwi => '零钱';
+	@override String get k_03em872 => '银行卡';
+	@override String get k_003puja => '账单';
+	@override String get k_0cl9lh3 => '我的零钱';
+	@override String get k_11x4ckq => '零钱明细';
+	@override String get k_003qjuk => '充值';
+	@override String get k_003l46d => '提现';
+	@override String get k_0fl3t0o => '到账银行卡';
+	@override String get k_0d3x98p => '提现金额';
+	@override String get k_11h7h7p => '全部提现';
+	@override String get k_04xepvc => '当前零钱余额';
+	@override String get k_16pfqy2 => '充值方式';
+	@override String get k_0d3rnv4 => '充值金额';
+	@override String get k_16439fj => '绑定新卡';
+	@override String get k_02lq0mu => '提现至';
+	@override String get k_0fkxov9 => '添加银行卡';
+	@override String get k_03ex667 => '开户名';
+	@override String get k_0zp04ji => '请输入开户名';
+	@override String get k_003qoz7 => '卡号';
+	@override String get k_153r1te => '请输入卡号';
+	@override String get k_11l9jnm => '银行名称';
+	@override String get k_0uxhnkz => '请输入银行名称';
+	@override String get k_03emtyg => '储蓄卡';
+	@override String get k_0kppvpk => '请输入提现金额';
+	@override String get k_167rp65 => '请输入有效的金额';
+	@override String get k_0foqurj => '余额不足';
+	@override String get k_15w96ru => '提现成功';
+	@override String get k_07kavjl => '请输入充值金额';
+	@override String get k_17s548n => '充值金额必须大于0';
 }
 
 // Path: <root>
@@ -2576,6 +2774,105 @@ class _StringsKo implements _StringsEn {
 	@override String get k_0zw0eau => 'Flutter';
 	@override String get k_132m79q => '통화가 끝나다';
 	@override String get k_002robo => '제거';
+	@override String get k_1t9kzib => '请输入密码';
+	@override String get k_16b2aut => '红包推广';
+	@override String get k_0vfj9tf => '钱包与服务';
+	@override String get k_03ejj51 => '视频号';
+	@override String get k_13h55ia => '趣味游戏';
+	@override String get k_003qqtv => '好友';
+	@override String get k_003l10k => '发现';
+	@override String get k_162mbbl => '新的朋友';
+	@override String get k_18uctn2 => '附近的人';
+	@override String k_1knbm23({required Object option1}) => '$option1位联系人';
+	@override String get k_00034e3 => '赞';
+	@override String get k_002wpbv => '评论';
+	@override String get k_121iefi => '所在位置';
+	@override String get k_10saydh => '谁可以看';
+	@override String get k_003rga1 => '公开';
+	@override String get k_003rx1e => '私密';
+	@override String get k_0fu3ftx => '部分可见';
+	@override String get k_112hsnv => '不给谁看';
+	@override String get k_1jpytj6 => '所有朋友可见';
+	@override String get k_0pa0kj9 => '仅自己可见';
+	@override String get k_162pmzp => '选择朋友';
+	@override String get k_119q5qn => '选择可见的朋友';
+	@override String get k_0m9pzvm => '选择不可见的朋友';
+	@override String get k_1666obb => '删除好友';
+	@override String get k_0yx7ush => '是否删除好友？';
+	@override String get k_1knw84v => '删除好友后，好友信息将被删除，您将无法再收到好友的消息。';
+	@override String get k_003qio2 => '红包';
+	@override String get k_002s44p => '金额';
+	@override String get k_03fav83 => '发红包';
+	@override String get k_176ufyf => '红包记录';
+	@override String get k_0bs3o81 => '红包封面';
+	@override String get k_114aic6 => '塞钱进红包';
+	@override String get k_003ja6q => '使用';
+	@override String get k_17ia1tg => '我的红包封面';
+	@override String get k_10x9cpi => '我收到的';
+	@override String get k_10x1923 => '我发出的';
+	@override String k_1rbmhsn({required Object option1}) => '收到的红包总数$option1个';
+	@override String k_1rbli7u({required Object option1}) => '发出的红包总数$option1个';
+	@override String get k_02nwx6i => '祝福语';
+	@override String get k_0bm58o5 => '暂无红包记录';
+	@override String get k_19u8qtn => '恭喜发财，大吉大利';
+	@override String get k_03fagpe => '共收到';
+	@override String get k_03eik7z => '共发出';
+	@override String k_0dr49p7({required Object option1}) => '$option1发出的红包';
+	@override String get k_0d3qn8u => '红包金额';
+	@override String get k_0dan0fy => '已存入钱包';
+	@override String get k_03ejxbk => '待领取';
+	@override String get k_03ejxmv => '已领取';
+	@override String get k_18od22b => '你领取了';
+	@override String get k_08eujvb => '领取了你的';
+	@override String get k_03i860j => '领取了';
+	@override String get k_12b45i0 => '红包个数';
+	@override String get k_02jsbaq => '总金额';
+	@override String get k_10cst1d => '拼手气红包';
+	@override String get k_160sjee => '普通红包';
+	@override String get k_1g3xzll => '请输入红包个数';
+	@override String get k_0d3pviu => '单个金额';
+	@override String get k_0fxppee => '请输入合法的红包金额';
+	@override String get k_1extztb => '请输入红包金额';
+	@override String get k_0phafco => '拼手气红包个数不能小于2';
+	@override String get k_0n3qmfe => '填写红包个数';
+	@override String get k_18wj08c => '选择年份';
+	@override String get k_03fasmg => '个红包';
+	@override String get k_1oemvgr => '[Phichat 红包]';
+	@override String get k_1hbnyi8 => '[有红包被领取了]';
+	@override String get k_0k8endz => '是否退出群聊？';
+	@override String get k_08peder => '退出群聊后，群聊信息将被删除，群聊成员将无法再收到群聊消息。';
+	@override String get k_0flvtl1 => '请输入群昵称';
+	@override String get k_03eayet => '收付款';
+	@override String get k_003pp1t => '钱包';
+	@override String get k_002rhwi => '零钱';
+	@override String get k_03em872 => '银行卡';
+	@override String get k_003puja => '账单';
+	@override String get k_0cl9lh3 => '我的零钱';
+	@override String get k_11x4ckq => '零钱明细';
+	@override String get k_003qjuk => '充值';
+	@override String get k_003l46d => '提现';
+	@override String get k_0fl3t0o => '到账银行卡';
+	@override String get k_0d3x98p => '提现金额';
+	@override String get k_11h7h7p => '全部提现';
+	@override String get k_04xepvc => '当前零钱余额';
+	@override String get k_16pfqy2 => '充值方式';
+	@override String get k_0d3rnv4 => '充值金额';
+	@override String get k_16439fj => '绑定新卡';
+	@override String get k_02lq0mu => '提现至';
+	@override String get k_0fkxov9 => '添加银行卡';
+	@override String get k_03ex667 => '开户名';
+	@override String get k_0zp04ji => '请输入开户名';
+	@override String get k_003qoz7 => '卡号';
+	@override String get k_153r1te => '请输入卡号';
+	@override String get k_11l9jnm => '银行名称';
+	@override String get k_0uxhnkz => '请输入银行名称';
+	@override String get k_03emtyg => '储蓄卡';
+	@override String get k_0kppvpk => '请输入提现金额';
+	@override String get k_167rp65 => '请输入有效的金额';
+	@override String get k_0foqurj => '余额不足';
+	@override String get k_15w96ru => '提现成功';
+	@override String get k_07kavjl => '请输入充值金额';
+	@override String get k_17s548n => '充值金额必须大于0';
 }
 
 // Path: <root>
@@ -3331,6 +3628,105 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_0zw0eau => '风雨人生';
 	@override String get k_132m79q => '通话结束';
 	@override String get k_002robo => '清除';
+	@override String get k_1t9kzib => '请输入密码';
+	@override String get k_16b2aut => '红包推广';
+	@override String get k_0vfj9tf => '钱包与服务';
+	@override String get k_03ejj51 => '视频号';
+	@override String get k_13h55ia => '趣味游戏';
+	@override String get k_003qqtv => '好友';
+	@override String get k_003l10k => '发现';
+	@override String get k_162mbbl => '新的朋友';
+	@override String get k_18uctn2 => '附近的人';
+	@override String k_1knbm23({required Object option1}) => '$option1位联系人';
+	@override String get k_00034e3 => '赞';
+	@override String get k_002wpbv => '评论';
+	@override String get k_121iefi => '所在位置';
+	@override String get k_10saydh => '谁可以看';
+	@override String get k_003rga1 => '公开';
+	@override String get k_003rx1e => '私密';
+	@override String get k_0fu3ftx => '部分可见';
+	@override String get k_112hsnv => '不给谁看';
+	@override String get k_1jpytj6 => '所有朋友可见';
+	@override String get k_0pa0kj9 => '仅自己可见';
+	@override String get k_162pmzp => '选择朋友';
+	@override String get k_119q5qn => '选择可见的朋友';
+	@override String get k_0m9pzvm => '选择不可见的朋友';
+	@override String get k_1666obb => '删除好友';
+	@override String get k_0yx7ush => '是否删除好友？';
+	@override String get k_1knw84v => '删除好友后，好友信息将被删除，您将无法再收到好友的消息。';
+	@override String get k_003qio2 => '红包';
+	@override String get k_002s44p => '金额';
+	@override String get k_03fav83 => '发红包';
+	@override String get k_176ufyf => '红包记录';
+	@override String get k_0bs3o81 => '红包封面';
+	@override String get k_114aic6 => '塞钱进红包';
+	@override String get k_003ja6q => '使用';
+	@override String get k_17ia1tg => '我的红包封面';
+	@override String get k_10x9cpi => '我收到的';
+	@override String get k_10x1923 => '我发出的';
+	@override String k_1rbmhsn({required Object option1}) => '收到的红包总数$option1个';
+	@override String k_1rbli7u({required Object option1}) => '发出的红包总数$option1个';
+	@override String get k_02nwx6i => '祝福语';
+	@override String get k_0bm58o5 => '暂无红包记录';
+	@override String get k_19u8qtn => '恭喜发财，大吉大利';
+	@override String get k_03fagpe => '共收到';
+	@override String get k_03eik7z => '共发出';
+	@override String k_0dr49p7({required Object option1}) => '$option1发出的红包';
+	@override String get k_0d3qn8u => '红包金额';
+	@override String get k_0dan0fy => '已存入钱包';
+	@override String get k_03ejxbk => '待领取';
+	@override String get k_03ejxmv => '已领取';
+	@override String get k_18od22b => '你领取了';
+	@override String get k_08eujvb => '领取了你的';
+	@override String get k_03i860j => '领取了';
+	@override String get k_12b45i0 => '红包个数';
+	@override String get k_02jsbaq => '总金额';
+	@override String get k_10cst1d => '拼手气红包';
+	@override String get k_160sjee => '普通红包';
+	@override String get k_1g3xzll => '请输入红包个数';
+	@override String get k_0d3pviu => '单个金额';
+	@override String get k_0fxppee => '请输入合法的红包金额';
+	@override String get k_1extztb => '请输入红包金额';
+	@override String get k_0phafco => '拼手气红包个数不能小于2';
+	@override String get k_0n3qmfe => '填写红包个数';
+	@override String get k_18wj08c => '选择年份';
+	@override String get k_03fasmg => '个红包';
+	@override String get k_1oemvgr => '[Phichat 红包]';
+	@override String get k_1hbnyi8 => '[有红包被领取了]';
+	@override String get k_0k8endz => '是否退出群聊？';
+	@override String get k_08peder => '退出群聊后，群聊信息将被删除，群聊成员将无法再收到群聊消息。';
+	@override String get k_0flvtl1 => '请输入群昵称';
+	@override String get k_03eayet => '收付款';
+	@override String get k_003pp1t => '钱包';
+	@override String get k_002rhwi => '零钱';
+	@override String get k_03em872 => '银行卡';
+	@override String get k_003puja => '账单';
+	@override String get k_0cl9lh3 => '我的零钱';
+	@override String get k_11x4ckq => '零钱明细';
+	@override String get k_003qjuk => '充值';
+	@override String get k_003l46d => '提现';
+	@override String get k_0fl3t0o => '到账银行卡';
+	@override String get k_0d3x98p => '提现金额';
+	@override String get k_11h7h7p => '全部提现';
+	@override String get k_04xepvc => '当前零钱余额';
+	@override String get k_16pfqy2 => '充值方式';
+	@override String get k_0d3rnv4 => '充值金额';
+	@override String get k_16439fj => '绑定新卡';
+	@override String get k_02lq0mu => '提现至';
+	@override String get k_0fkxov9 => '添加银行卡';
+	@override String get k_03ex667 => '开户名';
+	@override String get k_0zp04ji => '请输入开户名';
+	@override String get k_003qoz7 => '卡号';
+	@override String get k_153r1te => '请输入卡号';
+	@override String get k_11l9jnm => '银行名称';
+	@override String get k_0uxhnkz => '请输入银行名称';
+	@override String get k_03emtyg => '储蓄卡';
+	@override String get k_0kppvpk => '请输入提现金额';
+	@override String get k_167rp65 => '请输入有效的金额';
+	@override String get k_0foqurj => '余额不足';
+	@override String get k_15w96ru => '提现成功';
+	@override String get k_07kavjl => '请输入充值金额';
+	@override String get k_17s548n => '充值金额必须大于0';
 }
 
 // Path: <root>
@@ -4086,6 +4482,105 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_0zw0eau => '風雨人生';
 	@override String get k_132m79q => '通話結束';
 	@override String get k_002robo => '清除';
+	@override String get k_1t9kzib => '请输入密码';
+	@override String get k_16b2aut => '红包推广';
+	@override String get k_0vfj9tf => '钱包与服务';
+	@override String get k_03ejj51 => '视频号';
+	@override String get k_13h55ia => '趣味游戏';
+	@override String get k_003qqtv => '好友';
+	@override String get k_003l10k => '发现';
+	@override String get k_162mbbl => '新的朋友';
+	@override String get k_18uctn2 => '附近的人';
+	@override String k_1knbm23({required Object option1}) => '$option1位联系人';
+	@override String get k_00034e3 => '赞';
+	@override String get k_002wpbv => '评论';
+	@override String get k_121iefi => '所在位置';
+	@override String get k_10saydh => '谁可以看';
+	@override String get k_003rga1 => '公开';
+	@override String get k_003rx1e => '私密';
+	@override String get k_0fu3ftx => '部分可见';
+	@override String get k_112hsnv => '不给谁看';
+	@override String get k_1jpytj6 => '所有朋友可见';
+	@override String get k_0pa0kj9 => '仅自己可见';
+	@override String get k_162pmzp => '选择朋友';
+	@override String get k_119q5qn => '选择可见的朋友';
+	@override String get k_0m9pzvm => '选择不可见的朋友';
+	@override String get k_1666obb => '删除好友';
+	@override String get k_0yx7ush => '是否删除好友？';
+	@override String get k_1knw84v => '删除好友后，好友信息将被删除，您将无法再收到好友的消息。';
+	@override String get k_003qio2 => '红包';
+	@override String get k_002s44p => '金额';
+	@override String get k_03fav83 => '发红包';
+	@override String get k_176ufyf => '红包记录';
+	@override String get k_0bs3o81 => '红包封面';
+	@override String get k_114aic6 => '塞钱进红包';
+	@override String get k_003ja6q => '使用';
+	@override String get k_17ia1tg => '我的红包封面';
+	@override String get k_10x9cpi => '我收到的';
+	@override String get k_10x1923 => '我发出的';
+	@override String k_1rbmhsn({required Object option1}) => '收到的红包总数$option1个';
+	@override String k_1rbli7u({required Object option1}) => '发出的红包总数$option1个';
+	@override String get k_02nwx6i => '祝福语';
+	@override String get k_0bm58o5 => '暂无红包记录';
+	@override String get k_19u8qtn => '恭喜发财，大吉大利';
+	@override String get k_03fagpe => '共收到';
+	@override String get k_03eik7z => '共发出';
+	@override String k_0dr49p7({required Object option1}) => '$option1发出的红包';
+	@override String get k_0d3qn8u => '红包金额';
+	@override String get k_0dan0fy => '已存入钱包';
+	@override String get k_03ejxbk => '待领取';
+	@override String get k_03ejxmv => '已领取';
+	@override String get k_18od22b => '你领取了';
+	@override String get k_08eujvb => '领取了你的';
+	@override String get k_03i860j => '领取了';
+	@override String get k_12b45i0 => '红包个数';
+	@override String get k_02jsbaq => '总金额';
+	@override String get k_10cst1d => '拼手气红包';
+	@override String get k_160sjee => '普通红包';
+	@override String get k_1g3xzll => '请输入红包个数';
+	@override String get k_0d3pviu => '单个金额';
+	@override String get k_0fxppee => '请输入合法的红包金额';
+	@override String get k_1extztb => '请输入红包金额';
+	@override String get k_0phafco => '拼手气红包个数不能小于2';
+	@override String get k_0n3qmfe => '填写红包个数';
+	@override String get k_18wj08c => '选择年份';
+	@override String get k_03fasmg => '个红包';
+	@override String get k_1oemvgr => '[Phichat 红包]';
+	@override String get k_1hbnyi8 => '[有红包被领取了]';
+	@override String get k_0k8endz => '是否退出群聊？';
+	@override String get k_08peder => '退出群聊后，群聊信息将被删除，群聊成员将无法再收到群聊消息。';
+	@override String get k_0flvtl1 => '请输入群昵称';
+	@override String get k_03eayet => '收付款';
+	@override String get k_003pp1t => '钱包';
+	@override String get k_002rhwi => '零钱';
+	@override String get k_03em872 => '银行卡';
+	@override String get k_003puja => '账单';
+	@override String get k_0cl9lh3 => '我的零钱';
+	@override String get k_11x4ckq => '零钱明细';
+	@override String get k_003qjuk => '充值';
+	@override String get k_003l46d => '提现';
+	@override String get k_0fl3t0o => '到账银行卡';
+	@override String get k_0d3x98p => '提现金额';
+	@override String get k_11h7h7p => '全部提现';
+	@override String get k_04xepvc => '当前零钱余额';
+	@override String get k_16pfqy2 => '充值方式';
+	@override String get k_0d3rnv4 => '充值金额';
+	@override String get k_16439fj => '绑定新卡';
+	@override String get k_02lq0mu => '提现至';
+	@override String get k_0fkxov9 => '添加银行卡';
+	@override String get k_03ex667 => '开户名';
+	@override String get k_0zp04ji => '请输入开户名';
+	@override String get k_003qoz7 => '卡号';
+	@override String get k_153r1te => '请输入卡号';
+	@override String get k_11l9jnm => '银行名称';
+	@override String get k_0uxhnkz => '请输入银行名称';
+	@override String get k_03emtyg => '储蓄卡';
+	@override String get k_0kppvpk => '请输入提现金额';
+	@override String get k_167rp65 => '请输入有效的金额';
+	@override String get k_0foqurj => '余额不足';
+	@override String get k_15w96ru => '提现成功';
+	@override String get k_07kavjl => '请输入充值金额';
+	@override String get k_17s548n => '充值金额必须大于0';
 }
 
 /// Flat map(s) containing all translations.
@@ -4341,7 +4836,7 @@ extension on _StringsEn {
 			'k_11cm5lm': 'focus manually',
 			'k_002uzrd': 'preview',
 			'k_003qkn3': 'record',
-			'k_003k6a7': 'take picture',
+			'k_003k6a7': 'Camera',
 			'k_0bqpqco': 'shooting button',
 			'k_1626ozl': 'stop recording',
 			'k_003lvmu': 'Front',
@@ -4831,6 +5326,105 @@ extension on _StringsEn {
 			'k_0zw0eau': 'Flutter',
 			'k_132m79q': 'Call End',
 			'k_002robo': 'Clear',
+			'k_1t9kzib': 'Please enter your password',
+			'k_16b2aut': 'Red Packet Promotion',
+			'k_0vfj9tf': 'Wallet and Services',
+			'k_03ejj51': 'Video number',
+			'k_13h55ia': 'Fun Games',
+			'k_003qqtv': 'Friends',
+			'k_003l10k': 'Discoveries',
+			'k_162mbbl': 'New Friends',
+			'k_18uctn2': 'Nearby People',
+			'k_1knbm23': ({required Object option1}) => '$option1 contacts',
+			'k_00034e3': 'Like',
+			'k_002wpbv': 'Comment',
+			'k_121iefi': 'Location',
+			'k_10saydh': 'Who can see',
+			'k_003rga1': 'Public',
+			'k_003rx1e': 'Private',
+			'k_0fu3ftx': 'Partially visible',
+			'k_112hsnv': 'Not visible to',
+			'k_1jpytj6': 'All friends visible',
+			'k_0pa0kj9': 'Only visible to yourself',
+			'k_162pmzp': 'Select friends',
+			'k_119q5qn': 'Select visible friends',
+			'k_0m9pzvm': 'Select invisible friends',
+			'k_1666obb': 'Delete friends',
+			'k_0yx7ush': 'Delete friends?',
+			'k_1knw84v': 'After deleting friends, their information will be deleted, and you will no longer receive their messages.',
+			'k_003qio2': 'Red packet',
+			'k_002s44p': 'Amount',
+			'k_03fav83': 'Send Red Packet',
+			'k_176ufyf': 'Record',
+			'k_0bs3o81': 'Cover',
+			'k_114aic6': 'Perpare Red Packet',
+			'k_003ja6q': 'use',
+			'k_17ia1tg': 'My Cover',
+			'k_10x9cpi': 'I received it',
+			'k_10x1923': 'I sent it out',
+			'k_1rbmhsn': ({required Object option1}) => 'Received red packet total $option1',
+			'k_1rbli7u': ({required Object option1}) => 'Sent red packet total $option1',
+			'k_02nwx6i': 'Benediction',
+			'k_0bm58o5': 'No Red Packet Record',
+			'k_19u8qtn': 'Best wishes',
+			'k_03fagpe': 'Received in total',
+			'k_03eik7z': 'Sent in total',
+			'k_0dr49p7': ({required Object option1}) => 'Red Packet from $option1',
+			'k_0d3qn8u': 'Red packet amount',
+			'k_0dan0fy': 'Red Packet transferred to Wallet',
+			'k_03ejxbk': 'not yet opened',
+			'k_03ejxmv': 'opened',
+			'k_18od22b': 'You opened its',
+			'k_08eujvb': 'opened yours',
+			'k_03i860j': 'opened ',
+			'k_12b45i0': 'Quantity',
+			'k_02jsbaq': 'Total',
+			'k_10cst1d': 'Random Amount',
+			'k_160sjee': 'Identical Amount',
+			'k_1g3xzll': 'Enter number',
+			'k_0d3pviu': 'Total',
+			'k_0fxppee': 'Enter valid red packet amount',
+			'k_1extztb': 'Enter red packet amount',
+			'k_0phafco': 'Red packet quantity cannot be less than 2',
+			'k_0n3qmfe': 'Enter number',
+			'k_18wj08c': 'Select year',
+			'k_03fasmg': 'Red Packets',
+			'k_1oemvgr': '[Phichat Red Packet]',
+			'k_1hbnyi8': '[Phichat Red Packet Opened]',
+			'k_0k8endz': 'Exit group chat?',
+			'k_08peder': 'After exiting the group chat, the group chat information will be deleted, and the group chat members will no longer receive group chat messages.',
+			'k_0flvtl1': 'Enter group nickname',
+			'k_03eayet': 'Money',
+			'k_003pp1t': 'Wallet',
+			'k_002rhwi': 'Balance',
+			'k_03em872': 'Bank Cards',
+			'k_003puja': 'Transactions',
+			'k_0cl9lh3': 'My Balance',
+			'k_11x4ckq': 'Transactions',
+			'k_003qjuk': 'Top Up',
+			'k_003l46d': 'Withdraw',
+			'k_0fl3t0o': 'Withdrawal to',
+			'k_0d3x98p': 'Withdrawal amount',
+			'k_11h7h7p': 'Withdrawal all',
+			'k_04xepvc': 'Balance',
+			'k_16pfqy2': 'Top-up Method',
+			'k_0d3rnv4': 'Top-up amount',
+			'k_16439fj': 'Use new card to top up',
+			'k_02lq0mu': 'Select the bank card',
+			'k_0fkxov9': 'Add a Bank Card',
+			'k_03ex667': 'Account Name',
+			'k_0zp04ji': 'Enter account name',
+			'k_003qoz7': 'Card Number',
+			'k_153r1te': 'Enter card number',
+			'k_11l9jnm': 'Bank Name',
+			'k_0uxhnkz': 'Enter bank name',
+			'k_03emtyg': 'Debit Card',
+			'k_0kppvpk': 'Please enter the withdrawal amount',
+			'k_167rp65': 'Please enter a valid amount',
+			'k_0foqurj': 'Insufficient balance',
+			'k_15w96ru': 'Withdrawal successful',
+			'k_07kavjl': 'Please enter the recharge amount',
+			'k_17s548n': 'Recharge amount must be greater than 0',
 		};
 	}
 }
@@ -5575,6 +6169,105 @@ extension on _StringsJa {
 			'k_0zw0eau': '風雨人生',
 			'k_132m79q': '通話が終わる',
 			'k_002robo': 'クリア',
+			'k_1t9kzib': '请输入密码',
+			'k_16b2aut': '红包推广',
+			'k_0vfj9tf': '钱包与服务',
+			'k_03ejj51': '视频号',
+			'k_13h55ia': '趣味游戏',
+			'k_003qqtv': '好友',
+			'k_003l10k': '发现',
+			'k_162mbbl': '新的朋友',
+			'k_18uctn2': '附近的人',
+			'k_1knbm23': ({required Object option1}) => '$option1位联系人',
+			'k_00034e3': '赞',
+			'k_002wpbv': '评论',
+			'k_121iefi': '所在位置',
+			'k_10saydh': '谁可以看',
+			'k_003rga1': '公开',
+			'k_003rx1e': '私密',
+			'k_0fu3ftx': '部分可见',
+			'k_112hsnv': '不给谁看',
+			'k_1jpytj6': '所有朋友可见',
+			'k_0pa0kj9': '仅自己可见',
+			'k_162pmzp': '选择朋友',
+			'k_119q5qn': '选择可见的朋友',
+			'k_0m9pzvm': '选择不可见的朋友',
+			'k_1666obb': '删除好友',
+			'k_0yx7ush': '是否删除好友？',
+			'k_1knw84v': '删除好友后，好友信息将被删除，您将无法再收到好友的消息。',
+			'k_003qio2': '红包',
+			'k_002s44p': '金额',
+			'k_03fav83': '发红包',
+			'k_176ufyf': '红包记录',
+			'k_0bs3o81': '红包封面',
+			'k_114aic6': '塞钱进红包',
+			'k_003ja6q': '使用',
+			'k_17ia1tg': '我的红包封面',
+			'k_10x9cpi': '我收到的',
+			'k_10x1923': '我发出的',
+			'k_1rbmhsn': ({required Object option1}) => '收到的红包总数$option1个',
+			'k_1rbli7u': ({required Object option1}) => '发出的红包总数$option1个',
+			'k_02nwx6i': '祝福语',
+			'k_0bm58o5': '暂无红包记录',
+			'k_19u8qtn': '恭喜发财，大吉大利',
+			'k_03fagpe': '共收到',
+			'k_03eik7z': '共发出',
+			'k_0dr49p7': ({required Object option1}) => '$option1发出的红包',
+			'k_0d3qn8u': '红包金额',
+			'k_0dan0fy': '已存入钱包',
+			'k_03ejxbk': '待领取',
+			'k_03ejxmv': '已领取',
+			'k_18od22b': '你领取了',
+			'k_08eujvb': '领取了你的',
+			'k_03i860j': '领取了',
+			'k_12b45i0': '红包个数',
+			'k_02jsbaq': '总金额',
+			'k_10cst1d': '拼手气红包',
+			'k_160sjee': '普通红包',
+			'k_1g3xzll': '请输入红包个数',
+			'k_0d3pviu': '单个金额',
+			'k_0fxppee': '请输入合法的红包金额',
+			'k_1extztb': '请输入红包金额',
+			'k_0phafco': '拼手气红包个数不能小于2',
+			'k_0n3qmfe': '填写红包个数',
+			'k_18wj08c': '选择年份',
+			'k_03fasmg': '个红包',
+			'k_1oemvgr': '[Phichat 红包]',
+			'k_1hbnyi8': '[有红包被领取了]',
+			'k_0k8endz': '是否退出群聊？',
+			'k_08peder': '退出群聊后，群聊信息将被删除，群聊成员将无法再收到群聊消息。',
+			'k_0flvtl1': '请输入群昵称',
+			'k_03eayet': '收付款',
+			'k_003pp1t': '钱包',
+			'k_002rhwi': '零钱',
+			'k_03em872': '银行卡',
+			'k_003puja': '账单',
+			'k_0cl9lh3': '我的零钱',
+			'k_11x4ckq': '零钱明细',
+			'k_003qjuk': '充值',
+			'k_003l46d': '提现',
+			'k_0fl3t0o': '到账银行卡',
+			'k_0d3x98p': '提现金额',
+			'k_11h7h7p': '全部提现',
+			'k_04xepvc': '当前零钱余额',
+			'k_16pfqy2': '充值方式',
+			'k_0d3rnv4': '充值金额',
+			'k_16439fj': '绑定新卡',
+			'k_02lq0mu': '提现至',
+			'k_0fkxov9': '添加银行卡',
+			'k_03ex667': '开户名',
+			'k_0zp04ji': '请输入开户名',
+			'k_003qoz7': '卡号',
+			'k_153r1te': '请输入卡号',
+			'k_11l9jnm': '银行名称',
+			'k_0uxhnkz': '请输入银行名称',
+			'k_03emtyg': '储蓄卡',
+			'k_0kppvpk': '请输入提现金额',
+			'k_167rp65': '请输入有效的金额',
+			'k_0foqurj': '余额不足',
+			'k_15w96ru': '提现成功',
+			'k_07kavjl': '请输入充值金额',
+			'k_17s548n': '充值金额必须大于0',
 		};
 	}
 }
@@ -6319,6 +7012,105 @@ extension on _StringsKo {
 			'k_0zw0eau': 'Flutter',
 			'k_132m79q': '통화가 끝나다',
 			'k_002robo': '제거',
+			'k_1t9kzib': '请输入密码',
+			'k_16b2aut': '红包推广',
+			'k_0vfj9tf': '钱包与服务',
+			'k_03ejj51': '视频号',
+			'k_13h55ia': '趣味游戏',
+			'k_003qqtv': '好友',
+			'k_003l10k': '发现',
+			'k_162mbbl': '新的朋友',
+			'k_18uctn2': '附近的人',
+			'k_1knbm23': ({required Object option1}) => '$option1位联系人',
+			'k_00034e3': '赞',
+			'k_002wpbv': '评论',
+			'k_121iefi': '所在位置',
+			'k_10saydh': '谁可以看',
+			'k_003rga1': '公开',
+			'k_003rx1e': '私密',
+			'k_0fu3ftx': '部分可见',
+			'k_112hsnv': '不给谁看',
+			'k_1jpytj6': '所有朋友可见',
+			'k_0pa0kj9': '仅自己可见',
+			'k_162pmzp': '选择朋友',
+			'k_119q5qn': '选择可见的朋友',
+			'k_0m9pzvm': '选择不可见的朋友',
+			'k_1666obb': '删除好友',
+			'k_0yx7ush': '是否删除好友？',
+			'k_1knw84v': '删除好友后，好友信息将被删除，您将无法再收到好友的消息。',
+			'k_003qio2': '红包',
+			'k_002s44p': '金额',
+			'k_03fav83': '发红包',
+			'k_176ufyf': '红包记录',
+			'k_0bs3o81': '红包封面',
+			'k_114aic6': '塞钱进红包',
+			'k_003ja6q': '使用',
+			'k_17ia1tg': '我的红包封面',
+			'k_10x9cpi': '我收到的',
+			'k_10x1923': '我发出的',
+			'k_1rbmhsn': ({required Object option1}) => '收到的红包总数$option1个',
+			'k_1rbli7u': ({required Object option1}) => '发出的红包总数$option1个',
+			'k_02nwx6i': '祝福语',
+			'k_0bm58o5': '暂无红包记录',
+			'k_19u8qtn': '恭喜发财，大吉大利',
+			'k_03fagpe': '共收到',
+			'k_03eik7z': '共发出',
+			'k_0dr49p7': ({required Object option1}) => '$option1发出的红包',
+			'k_0d3qn8u': '红包金额',
+			'k_0dan0fy': '已存入钱包',
+			'k_03ejxbk': '待领取',
+			'k_03ejxmv': '已领取',
+			'k_18od22b': '你领取了',
+			'k_08eujvb': '领取了你的',
+			'k_03i860j': '领取了',
+			'k_12b45i0': '红包个数',
+			'k_02jsbaq': '总金额',
+			'k_10cst1d': '拼手气红包',
+			'k_160sjee': '普通红包',
+			'k_1g3xzll': '请输入红包个数',
+			'k_0d3pviu': '单个金额',
+			'k_0fxppee': '请输入合法的红包金额',
+			'k_1extztb': '请输入红包金额',
+			'k_0phafco': '拼手气红包个数不能小于2',
+			'k_0n3qmfe': '填写红包个数',
+			'k_18wj08c': '选择年份',
+			'k_03fasmg': '个红包',
+			'k_1oemvgr': '[Phichat 红包]',
+			'k_1hbnyi8': '[有红包被领取了]',
+			'k_0k8endz': '是否退出群聊？',
+			'k_08peder': '退出群聊后，群聊信息将被删除，群聊成员将无法再收到群聊消息。',
+			'k_0flvtl1': '请输入群昵称',
+			'k_03eayet': '收付款',
+			'k_003pp1t': '钱包',
+			'k_002rhwi': '零钱',
+			'k_03em872': '银行卡',
+			'k_003puja': '账单',
+			'k_0cl9lh3': '我的零钱',
+			'k_11x4ckq': '零钱明细',
+			'k_003qjuk': '充值',
+			'k_003l46d': '提现',
+			'k_0fl3t0o': '到账银行卡',
+			'k_0d3x98p': '提现金额',
+			'k_11h7h7p': '全部提现',
+			'k_04xepvc': '当前零钱余额',
+			'k_16pfqy2': '充值方式',
+			'k_0d3rnv4': '充值金额',
+			'k_16439fj': '绑定新卡',
+			'k_02lq0mu': '提现至',
+			'k_0fkxov9': '添加银行卡',
+			'k_03ex667': '开户名',
+			'k_0zp04ji': '请输入开户名',
+			'k_003qoz7': '卡号',
+			'k_153r1te': '请输入卡号',
+			'k_11l9jnm': '银行名称',
+			'k_0uxhnkz': '请输入银行名称',
+			'k_03emtyg': '储蓄卡',
+			'k_0kppvpk': '请输入提现金额',
+			'k_167rp65': '请输入有效的金额',
+			'k_0foqurj': '余额不足',
+			'k_15w96ru': '提现成功',
+			'k_07kavjl': '请输入充值金额',
+			'k_17s548n': '充值金额必须大于0',
 		};
 	}
 }
@@ -7063,6 +7855,105 @@ extension on _StringsZhHans {
 			'k_0zw0eau': '风雨人生',
 			'k_132m79q': '通话结束',
 			'k_002robo': '清除',
+			'k_1t9kzib': '请输入密码',
+			'k_16b2aut': '红包推广',
+			'k_0vfj9tf': '钱包与服务',
+			'k_03ejj51': '视频号',
+			'k_13h55ia': '趣味游戏',
+			'k_003qqtv': '好友',
+			'k_003l10k': '发现',
+			'k_162mbbl': '新的朋友',
+			'k_18uctn2': '附近的人',
+			'k_1knbm23': ({required Object option1}) => '$option1位联系人',
+			'k_00034e3': '赞',
+			'k_002wpbv': '评论',
+			'k_121iefi': '所在位置',
+			'k_10saydh': '谁可以看',
+			'k_003rga1': '公开',
+			'k_003rx1e': '私密',
+			'k_0fu3ftx': '部分可见',
+			'k_112hsnv': '不给谁看',
+			'k_1jpytj6': '所有朋友可见',
+			'k_0pa0kj9': '仅自己可见',
+			'k_162pmzp': '选择朋友',
+			'k_119q5qn': '选择可见的朋友',
+			'k_0m9pzvm': '选择不可见的朋友',
+			'k_1666obb': '删除好友',
+			'k_0yx7ush': '是否删除好友？',
+			'k_1knw84v': '删除好友后，好友信息将被删除，您将无法再收到好友的消息。',
+			'k_003qio2': '红包',
+			'k_002s44p': '金额',
+			'k_03fav83': '发红包',
+			'k_176ufyf': '红包记录',
+			'k_0bs3o81': '红包封面',
+			'k_114aic6': '塞钱进红包',
+			'k_003ja6q': '使用',
+			'k_17ia1tg': '我的红包封面',
+			'k_10x9cpi': '我收到的',
+			'k_10x1923': '我发出的',
+			'k_1rbmhsn': ({required Object option1}) => '收到的红包总数$option1个',
+			'k_1rbli7u': ({required Object option1}) => '发出的红包总数$option1个',
+			'k_02nwx6i': '祝福语',
+			'k_0bm58o5': '暂无红包记录',
+			'k_19u8qtn': '恭喜发财，大吉大利',
+			'k_03fagpe': '共收到',
+			'k_03eik7z': '共发出',
+			'k_0dr49p7': ({required Object option1}) => '$option1发出的红包',
+			'k_0d3qn8u': '红包金额',
+			'k_0dan0fy': '已存入钱包',
+			'k_03ejxbk': '待领取',
+			'k_03ejxmv': '已领取',
+			'k_18od22b': '你领取了',
+			'k_08eujvb': '领取了你的',
+			'k_03i860j': '领取了',
+			'k_12b45i0': '红包个数',
+			'k_02jsbaq': '总金额',
+			'k_10cst1d': '拼手气红包',
+			'k_160sjee': '普通红包',
+			'k_1g3xzll': '请输入红包个数',
+			'k_0d3pviu': '单个金额',
+			'k_0fxppee': '请输入合法的红包金额',
+			'k_1extztb': '请输入红包金额',
+			'k_0phafco': '拼手气红包个数不能小于2',
+			'k_0n3qmfe': '填写红包个数',
+			'k_18wj08c': '选择年份',
+			'k_03fasmg': '个红包',
+			'k_1oemvgr': '[Phichat 红包]',
+			'k_1hbnyi8': '[有红包被领取了]',
+			'k_0k8endz': '是否退出群聊？',
+			'k_08peder': '退出群聊后，群聊信息将被删除，群聊成员将无法再收到群聊消息。',
+			'k_0flvtl1': '请输入群昵称',
+			'k_03eayet': '收付款',
+			'k_003pp1t': '钱包',
+			'k_002rhwi': '零钱',
+			'k_03em872': '银行卡',
+			'k_003puja': '账单',
+			'k_0cl9lh3': '我的零钱',
+			'k_11x4ckq': '零钱明细',
+			'k_003qjuk': '充值',
+			'k_003l46d': '提现',
+			'k_0fl3t0o': '到账银行卡',
+			'k_0d3x98p': '提现金额',
+			'k_11h7h7p': '全部提现',
+			'k_04xepvc': '当前零钱余额',
+			'k_16pfqy2': '充值方式',
+			'k_0d3rnv4': '充值金额',
+			'k_16439fj': '绑定新卡',
+			'k_02lq0mu': '提现至',
+			'k_0fkxov9': '添加银行卡',
+			'k_03ex667': '开户名',
+			'k_0zp04ji': '请输入开户名',
+			'k_003qoz7': '卡号',
+			'k_153r1te': '请输入卡号',
+			'k_11l9jnm': '银行名称',
+			'k_0uxhnkz': '请输入银行名称',
+			'k_03emtyg': '储蓄卡',
+			'k_0kppvpk': '请输入提现金额',
+			'k_167rp65': '请输入有效的金额',
+			'k_0foqurj': '余额不足',
+			'k_15w96ru': '提现成功',
+			'k_07kavjl': '请输入充值金额',
+			'k_17s548n': '充值金额必须大于0',
 		};
 	}
 }
@@ -7807,6 +8698,105 @@ extension on _StringsZhHant {
 			'k_0zw0eau': '風雨人生',
 			'k_132m79q': '通話結束',
 			'k_002robo': '清除',
+			'k_1t9kzib': '请输入密码',
+			'k_16b2aut': '红包推广',
+			'k_0vfj9tf': '钱包与服务',
+			'k_03ejj51': '视频号',
+			'k_13h55ia': '趣味游戏',
+			'k_003qqtv': '好友',
+			'k_003l10k': '发现',
+			'k_162mbbl': '新的朋友',
+			'k_18uctn2': '附近的人',
+			'k_1knbm23': ({required Object option1}) => '$option1位联系人',
+			'k_00034e3': '赞',
+			'k_002wpbv': '评论',
+			'k_121iefi': '所在位置',
+			'k_10saydh': '谁可以看',
+			'k_003rga1': '公开',
+			'k_003rx1e': '私密',
+			'k_0fu3ftx': '部分可见',
+			'k_112hsnv': '不给谁看',
+			'k_1jpytj6': '所有朋友可见',
+			'k_0pa0kj9': '仅自己可见',
+			'k_162pmzp': '选择朋友',
+			'k_119q5qn': '选择可见的朋友',
+			'k_0m9pzvm': '选择不可见的朋友',
+			'k_1666obb': '删除好友',
+			'k_0yx7ush': '是否删除好友？',
+			'k_1knw84v': '删除好友后，好友信息将被删除，您将无法再收到好友的消息。',
+			'k_003qio2': '红包',
+			'k_002s44p': '金额',
+			'k_03fav83': '发红包',
+			'k_176ufyf': '红包记录',
+			'k_0bs3o81': '红包封面',
+			'k_114aic6': '塞钱进红包',
+			'k_003ja6q': '使用',
+			'k_17ia1tg': '我的红包封面',
+			'k_10x9cpi': '我收到的',
+			'k_10x1923': '我发出的',
+			'k_1rbmhsn': ({required Object option1}) => '收到的红包总数$option1个',
+			'k_1rbli7u': ({required Object option1}) => '发出的红包总数$option1个',
+			'k_02nwx6i': '祝福语',
+			'k_0bm58o5': '暂无红包记录',
+			'k_19u8qtn': '恭喜发财，大吉大利',
+			'k_03fagpe': '共收到',
+			'k_03eik7z': '共发出',
+			'k_0dr49p7': ({required Object option1}) => '$option1发出的红包',
+			'k_0d3qn8u': '红包金额',
+			'k_0dan0fy': '已存入钱包',
+			'k_03ejxbk': '待领取',
+			'k_03ejxmv': '已领取',
+			'k_18od22b': '你领取了',
+			'k_08eujvb': '领取了你的',
+			'k_03i860j': '领取了',
+			'k_12b45i0': '红包个数',
+			'k_02jsbaq': '总金额',
+			'k_10cst1d': '拼手气红包',
+			'k_160sjee': '普通红包',
+			'k_1g3xzll': '请输入红包个数',
+			'k_0d3pviu': '单个金额',
+			'k_0fxppee': '请输入合法的红包金额',
+			'k_1extztb': '请输入红包金额',
+			'k_0phafco': '拼手气红包个数不能小于2',
+			'k_0n3qmfe': '填写红包个数',
+			'k_18wj08c': '选择年份',
+			'k_03fasmg': '个红包',
+			'k_1oemvgr': '[Phichat 红包]',
+			'k_1hbnyi8': '[有红包被领取了]',
+			'k_0k8endz': '是否退出群聊？',
+			'k_08peder': '退出群聊后，群聊信息将被删除，群聊成员将无法再收到群聊消息。',
+			'k_0flvtl1': '请输入群昵称',
+			'k_03eayet': '收付款',
+			'k_003pp1t': '钱包',
+			'k_002rhwi': '零钱',
+			'k_03em872': '银行卡',
+			'k_003puja': '账单',
+			'k_0cl9lh3': '我的零钱',
+			'k_11x4ckq': '零钱明细',
+			'k_003qjuk': '充值',
+			'k_003l46d': '提现',
+			'k_0fl3t0o': '到账银行卡',
+			'k_0d3x98p': '提现金额',
+			'k_11h7h7p': '全部提现',
+			'k_04xepvc': '当前零钱余额',
+			'k_16pfqy2': '充值方式',
+			'k_0d3rnv4': '充值金额',
+			'k_16439fj': '绑定新卡',
+			'k_02lq0mu': '提现至',
+			'k_0fkxov9': '添加银行卡',
+			'k_03ex667': '开户名',
+			'k_0zp04ji': '请输入开户名',
+			'k_003qoz7': '卡号',
+			'k_153r1te': '请输入卡号',
+			'k_11l9jnm': '银行名称',
+			'k_0uxhnkz': '请输入银行名称',
+			'k_03emtyg': '储蓄卡',
+			'k_0kppvpk': '请输入提现金额',
+			'k_167rp65': '请输入有效的金额',
+			'k_0foqurj': '余额不足',
+			'k_15w96ru': '提现成功',
+			'k_07kavjl': '请输入充值金额',
+			'k_17s548n': '充值金额必须大于0',
 		};
 	}
 }
