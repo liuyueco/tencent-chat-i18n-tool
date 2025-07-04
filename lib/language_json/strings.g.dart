@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 4180 (836.0 per locale)
+ * Strings: 4225 (845.0 per locale)
  *
- * Built on 2025-07-01 at 03:14 UTC
+ * Built on 2025-07-03 at 03:45 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1165,6 +1165,15 @@ class _StringsEn {
 	String get k_15w96ru => 'Withdrawal successful';
 	String get k_07kavjl => 'Please enter the recharge amount';
 	String get k_17s548n => 'Recharge amount must be greater than 0';
+	String get k_0gzrq73 => 'Enter card number';
+	String get k_1dc6ax4 => 'Enter card number';
+	String get k_0fkw8z9 => 'Binding bank card';
+	String get k_1ejcv6z => 'You haven\'t bound a bank card, do you want to bind';
+	String get k_1t8oqov => 'successfully, please wait';
+	String get k_04bbwnd => 'successfully, please wait';
+	String get k_0saejuk => 'You haven\'t bound a bank card, do you want to bind?';
+	String get k_161l65x => 'Crop avatar';
+	String get k_18kngum => 'From phone album';
 }
 
 // Path: <root>
@@ -2019,6 +2028,15 @@ class _StringsJa implements _StringsEn {
 	@override String get k_15w96ru => '提现成功';
 	@override String get k_07kavjl => '请输入充值金额';
 	@override String get k_17s548n => '充值金额必须大于0';
+	@override String get k_0gzrq73 => '请输入银行卡';
+	@override String get k_1dc6ax4 => '请输入银行卡号';
+	@override String get k_0fkw8z9 => '绑定银行卡';
+	@override String get k_1ejcv6z => '你还没有绑定银行卡，是否绑定';
+	@override String get k_1t8oqov => '添加成功，请等待审核';
+	@override String get k_04bbwnd => '提交成功, 请等待';
+	@override String get k_0saejuk => '您还没有绑定银行卡，是否绑定?';
+	@override String get k_161l65x => '裁剪头像';
+	@override String get k_18kngum => '从手机相册选择';
 }
 
 // Path: <root>
@@ -2873,6 +2891,15 @@ class _StringsKo implements _StringsEn {
 	@override String get k_15w96ru => '提现成功';
 	@override String get k_07kavjl => '请输入充值金额';
 	@override String get k_17s548n => '充值金额必须大于0';
+	@override String get k_0gzrq73 => '请输入银行卡';
+	@override String get k_1dc6ax4 => '请输入银行卡号';
+	@override String get k_0fkw8z9 => '绑定银行卡';
+	@override String get k_1ejcv6z => '你还没有绑定银行卡，是否绑定';
+	@override String get k_1t8oqov => '添加成功，请等待审核';
+	@override String get k_04bbwnd => '提交成功, 请等待';
+	@override String get k_0saejuk => '您还没有绑定银行卡，是否绑定?';
+	@override String get k_161l65x => '裁剪头像';
+	@override String get k_18kngum => '从手机相册选择';
 }
 
 // Path: <root>
@@ -3727,6 +3754,15 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_15w96ru => '提现成功';
 	@override String get k_07kavjl => '请输入充值金额';
 	@override String get k_17s548n => '充值金额必须大于0';
+	@override String get k_0gzrq73 => '请输入银行卡';
+	@override String get k_1dc6ax4 => '请输入银行卡号';
+	@override String get k_0fkw8z9 => '绑定银行卡';
+	@override String get k_1ejcv6z => '你还没有绑定银行卡，是否绑定';
+	@override String get k_1t8oqov => '添加成功，请等待审核';
+	@override String get k_04bbwnd => '提交成功, 请等待';
+	@override String get k_0saejuk => '您还没有绑定银行卡，是否绑定?';
+	@override String get k_161l65x => '裁剪头像';
+	@override String get k_18kngum => '从手机相册选择';
 }
 
 // Path: <root>
@@ -4581,6 +4617,15 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_15w96ru => '提现成功';
 	@override String get k_07kavjl => '请输入充值金额';
 	@override String get k_17s548n => '充值金额必须大于0';
+	@override String get k_0gzrq73 => '请输入银行卡';
+	@override String get k_1dc6ax4 => '请输入银行卡号';
+	@override String get k_0fkw8z9 => '绑定银行卡';
+	@override String get k_1ejcv6z => '你还没有绑定银行卡，是否绑定';
+	@override String get k_1t8oqov => '添加成功，请等待审核';
+	@override String get k_04bbwnd => '提交成功, 请等待';
+	@override String get k_0saejuk => '您还没有绑定银行卡，是否绑定?';
+	@override String get k_161l65x => '裁剪头像';
+	@override String get k_18kngum => '从手机相册选择';
 }
 
 /// Flat map(s) containing all translations.
@@ -5425,6 +5470,15 @@ extension on _StringsEn {
 			'k_15w96ru': 'Withdrawal successful',
 			'k_07kavjl': 'Please enter the recharge amount',
 			'k_17s548n': 'Recharge amount must be greater than 0',
+			'k_0gzrq73': 'Enter card number',
+			'k_1dc6ax4': 'Enter card number',
+			'k_0fkw8z9': 'Binding bank card',
+			'k_1ejcv6z': 'You haven\'t bound a bank card, do you want to bind',
+			'k_1t8oqov': 'successfully, please wait',
+			'k_04bbwnd': 'successfully, please wait',
+			'k_0saejuk': 'You haven\'t bound a bank card, do you want to bind?',
+			'k_161l65x': 'Crop avatar',
+			'k_18kngum': 'From phone album',
 		};
 	}
 }
@@ -6268,6 +6322,15 @@ extension on _StringsJa {
 			'k_15w96ru': '提现成功',
 			'k_07kavjl': '请输入充值金额',
 			'k_17s548n': '充值金额必须大于0',
+			'k_0gzrq73': '请输入银行卡',
+			'k_1dc6ax4': '请输入银行卡号',
+			'k_0fkw8z9': '绑定银行卡',
+			'k_1ejcv6z': '你还没有绑定银行卡，是否绑定',
+			'k_1t8oqov': '添加成功，请等待审核',
+			'k_04bbwnd': '提交成功, 请等待',
+			'k_0saejuk': '您还没有绑定银行卡，是否绑定?',
+			'k_161l65x': '裁剪头像',
+			'k_18kngum': '从手机相册选择',
 		};
 	}
 }
@@ -7111,6 +7174,15 @@ extension on _StringsKo {
 			'k_15w96ru': '提现成功',
 			'k_07kavjl': '请输入充值金额',
 			'k_17s548n': '充值金额必须大于0',
+			'k_0gzrq73': '请输入银行卡',
+			'k_1dc6ax4': '请输入银行卡号',
+			'k_0fkw8z9': '绑定银行卡',
+			'k_1ejcv6z': '你还没有绑定银行卡，是否绑定',
+			'k_1t8oqov': '添加成功，请等待审核',
+			'k_04bbwnd': '提交成功, 请等待',
+			'k_0saejuk': '您还没有绑定银行卡，是否绑定?',
+			'k_161l65x': '裁剪头像',
+			'k_18kngum': '从手机相册选择',
 		};
 	}
 }
@@ -7954,6 +8026,15 @@ extension on _StringsZhHans {
 			'k_15w96ru': '提现成功',
 			'k_07kavjl': '请输入充值金额',
 			'k_17s548n': '充值金额必须大于0',
+			'k_0gzrq73': '请输入银行卡',
+			'k_1dc6ax4': '请输入银行卡号',
+			'k_0fkw8z9': '绑定银行卡',
+			'k_1ejcv6z': '你还没有绑定银行卡，是否绑定',
+			'k_1t8oqov': '添加成功，请等待审核',
+			'k_04bbwnd': '提交成功, 请等待',
+			'k_0saejuk': '您还没有绑定银行卡，是否绑定?',
+			'k_161l65x': '裁剪头像',
+			'k_18kngum': '从手机相册选择',
 		};
 	}
 }
@@ -8797,6 +8878,15 @@ extension on _StringsZhHant {
 			'k_15w96ru': '提现成功',
 			'k_07kavjl': '请输入充值金额',
 			'k_17s548n': '充值金额必须大于0',
+			'k_0gzrq73': '请输入银行卡',
+			'k_1dc6ax4': '请输入银行卡号',
+			'k_0fkw8z9': '绑定银行卡',
+			'k_1ejcv6z': '你还没有绑定银行卡，是否绑定',
+			'k_1t8oqov': '添加成功，请等待审核',
+			'k_04bbwnd': '提交成功, 请等待',
+			'k_0saejuk': '您还没有绑定银行卡，是否绑定?',
+			'k_161l65x': '裁剪头像',
+			'k_18kngum': '从手机相册选择',
 		};
 	}
 }
