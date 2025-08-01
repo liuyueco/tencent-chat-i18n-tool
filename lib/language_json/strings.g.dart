@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 4225 (845.0 per locale)
+ * Strings: 4431 (886.2 per locale)
  *
- * Built on 2025-07-03 at 03:45 UTC
+ * Built on 2025-07-21 at 05:48 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1174,6 +1174,46 @@ class _StringsEn {
 	String get k_0saejuk => 'You haven\'t bound a bank card, do you want to bind?';
 	String get k_161l65x => 'Crop avatar';
 	String get k_18kngum => 'From phone album';
+	String get k_154qms0 => 'Create Account';
+	String get k_153sqml => 'Welcome to Sign Up';
+	String get k_16kxaek => 'Password Login';
+	String get k_13328o1 => 'Please enter your nickname';
+	String get k_003ph29 => 'Sign Up';
+	String get k_08tspe6 => 'Read agree';
+	String get k_0ip9ys7 => 'User Agreement';
+	String get k_15wdhxq => 'Reg Success';
+	String get k_003qe0a => 'Success';
+	String get k_1alvphi => 'Enter remark name';
+	String get k_12wsv87 => 'No new friends';
+	String get k_1d3qejc => 'They are no longer your friend. Add them?';
+	String get k_122sg5a => 'Create Community';
+	String get k_11vqgas => 'Create Group';
+	String get k_0gcu9eq => 'Search user\'s phone number';
+	String get k_1pmyses => 'Red envelopes in Moments! Hurry to grab them!';
+	String get k_0dtj3qd => 'Thoughts at this moment';
+	String get k_125n40d => 'Visible to all friends';
+	String get k_1y0gumy => 'Visible only to yourself';
+	String get k_1ppxgl6 => 'Enter comment';
+	String get k_1i05far => 'No Moments content';
+	String get k_0v5ilv9 => 'Pull up to load more';
+	String get k_1jxgrp7 => 'Loading...';
+	String get k_1sgrooq => 'Load failed, tap to retry';
+	String get k_0v5swmg => 'Release to load more';
+	String get k_08g0il5 => 'No more content';
+	String get k_0dy4tc2 => 'Image upload failed';
+	String get k_08fez14 => 'Enter content';
+	String get k_0f7fh6r => 'Post failed';
+	String get k_13q8im6 => 'Post update';
+	String get k_0nq6ed3 => 'Enter signature';
+	String get k_15f8sie => 'All bills';
+	String get k_003pk40 => 'Expenses';
+	String get k_003pl2u => 'Income';
+	String get k_05c6hcx => 'Block friend requests';
+	String get k_003lpcj => 'English';
+	String get k_003qbnt => 'Services';
+	String get k_1jvrjp4 => 'Log out?';
+	String get k_0tnlko7 => 'Log out?';
+	String get k_002ulox => 'skip';
 }
 
 // Path: <root>
@@ -2037,6 +2077,48 @@ class _StringsJa implements _StringsEn {
 	@override String get k_0saejuk => '您还没有绑定银行卡，是否绑定?';
 	@override String get k_161l65x => '裁剪头像';
 	@override String get k_18kngum => '从手机相册选择';
+	@override String get k_154qms0 => '账号注册';
+	@override String get k_153sqml => '欢迎注册';
+	@override String get k_16kxaek => '密码登录';
+	@override String get k_13328o1 => '请输入昵称';
+	@override String get k_003ph29 => '注册';
+	@override String get k_08tspe6 => '阅读并同意';
+	@override String get k_0ip9ys7 => '用户服务协议';
+	@override String get k_003qtgq => '以及';
+	@override String get k_000045h => '';
+	@override String get k_15wdhxq => '注册成功';
+	@override String get k_003qe0a => '成功';
+	@override String get k_1alvphi => '请输入备注名';
+	@override String get k_12wsv87 => '暂无新朋友';
+	@override String get k_1d3qejc => '对方已不是您的好友，是否添加好友？';
+	@override String get k_122sg5a => '创建社群';
+	@override String get k_11vqgas => '创建群组';
+	@override String get k_0gcu9eq => '搜索用户手机号';
+	@override String get k_1pmyses => '朋友圈发红包啦！赶紧去拼手气！';
+	@override String get k_0dtj3qd => '这一刻的想法';
+	@override String get k_125n40d => '所有朋友可以看';
+	@override String get k_1y0gumy => '仅自己可以看';
+	@override String get k_1ppxgl6 => '请输入评论';
+	@override String get k_1i05far => '暂无朋友圈内容';
+	@override String get k_0v5ilv9 => '上拉加载更多';
+	@override String get k_1jxgrp7 => '加载中...';
+	@override String get k_1sgrooq => '加载失败，点击重试';
+	@override String get k_0v5swmg => '松开加载更多';
+	@override String get k_08g0il5 => '没有更多内容了';
+	@override String get k_0dy4tc2 => '上传图片失败';
+	@override String get k_08fez14 => '请输入内容';
+	@override String get k_0f7fh6r => '发布失败';
+	@override String get k_13q8im6 => '发布动态';
+	@override String get k_0nq6ed3 => '请输入签名';
+	@override String get k_15f8sie => '全部账单';
+	@override String get k_003pk40 => '支出';
+	@override String get k_003pl2u => '收入';
+	@override String get k_05c6hcx => '禁止加我好友';
+	@override String get k_003lpcj => '英文';
+	@override String get k_003qbnt => '服务';
+	@override String get k_1jvrjp4 => '是否退出登录';
+	@override String get k_0tnlko7 => '是否退出登录?';
+	@override String get k_002ulox => '跳过';
 }
 
 // Path: <root>
@@ -2900,6 +2982,48 @@ class _StringsKo implements _StringsEn {
 	@override String get k_0saejuk => '您还没有绑定银行卡，是否绑定?';
 	@override String get k_161l65x => '裁剪头像';
 	@override String get k_18kngum => '从手机相册选择';
+	@override String get k_154qms0 => '账号注册';
+	@override String get k_153sqml => '欢迎注册';
+	@override String get k_16kxaek => '密码登录';
+	@override String get k_13328o1 => '请输入昵称';
+	@override String get k_003ph29 => '注册';
+	@override String get k_08tspe6 => '阅读并同意';
+	@override String get k_0ip9ys7 => '用户服务协议';
+	@override String get k_003qtgq => '以及';
+	@override String get k_000045h => '';
+	@override String get k_15wdhxq => '注册成功';
+	@override String get k_003qe0a => '成功';
+	@override String get k_1alvphi => '请输入备注名';
+	@override String get k_12wsv87 => '暂无新朋友';
+	@override String get k_1d3qejc => '对方已不是您的好友，是否添加好友？';
+	@override String get k_122sg5a => '创建社群';
+	@override String get k_11vqgas => '创建群组';
+	@override String get k_0gcu9eq => '搜索用户手机号';
+	@override String get k_1pmyses => '朋友圈发红包啦！赶紧去拼手气！';
+	@override String get k_0dtj3qd => '这一刻的想法';
+	@override String get k_125n40d => '所有朋友可以看';
+	@override String get k_1y0gumy => '仅自己可以看';
+	@override String get k_1ppxgl6 => '请输入评论';
+	@override String get k_1i05far => '暂无朋友圈内容';
+	@override String get k_0v5ilv9 => '上拉加载更多';
+	@override String get k_1jxgrp7 => '加载中...';
+	@override String get k_1sgrooq => '加载失败，点击重试';
+	@override String get k_0v5swmg => '松开加载更多';
+	@override String get k_08g0il5 => '没有更多内容了';
+	@override String get k_0dy4tc2 => '上传图片失败';
+	@override String get k_08fez14 => '请输入内容';
+	@override String get k_0f7fh6r => '发布失败';
+	@override String get k_13q8im6 => '发布动态';
+	@override String get k_0nq6ed3 => '请输入签名';
+	@override String get k_15f8sie => '全部账单';
+	@override String get k_003pk40 => '支出';
+	@override String get k_003pl2u => '收入';
+	@override String get k_05c6hcx => '禁止加我好友';
+	@override String get k_003lpcj => '英文';
+	@override String get k_003qbnt => '服务';
+	@override String get k_1jvrjp4 => '是否退出登录';
+	@override String get k_0tnlko7 => '是否退出登录?';
+	@override String get k_002ulox => '跳过';
 }
 
 // Path: <root>
@@ -3763,6 +3887,46 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_0saejuk => '您还没有绑定银行卡，是否绑定?';
 	@override String get k_161l65x => '裁剪头像';
 	@override String get k_18kngum => '从手机相册选择';
+	@override String get k_154qms0 => '账号注册';
+	@override String get k_153sqml => '欢迎注册';
+	@override String get k_16kxaek => '密码登录';
+	@override String get k_13328o1 => '请输入昵称';
+	@override String get k_003ph29 => '注册';
+	@override String get k_08tspe6 => '阅读并同意';
+	@override String get k_0ip9ys7 => '用户服务协议';
+	@override String get k_15wdhxq => '注册成功';
+	@override String get k_003qe0a => '成功';
+	@override String get k_1alvphi => '请输入备注名';
+	@override String get k_12wsv87 => '暂无新朋友';
+	@override String get k_1d3qejc => '对方已不是您的好友，是否添加好友？';
+	@override String get k_122sg5a => '创建社群';
+	@override String get k_11vqgas => '创建群组';
+	@override String get k_0gcu9eq => '搜索用户手机号';
+	@override String get k_1pmyses => '朋友圈发红包啦！赶紧去拼手气！';
+	@override String get k_0dtj3qd => '这一刻的想法';
+	@override String get k_125n40d => '所有朋友可以看';
+	@override String get k_1y0gumy => '仅自己可以看';
+	@override String get k_1ppxgl6 => '请输入评论';
+	@override String get k_1i05far => '暂无朋友圈内容';
+	@override String get k_0v5ilv9 => '上拉加载更多';
+	@override String get k_1jxgrp7 => '加载中...';
+	@override String get k_1sgrooq => '加载失败，点击重试';
+	@override String get k_0v5swmg => '松开加载更多';
+	@override String get k_08g0il5 => '没有更多内容了';
+	@override String get k_0dy4tc2 => '上传图片失败';
+	@override String get k_08fez14 => '请输入内容';
+	@override String get k_0f7fh6r => '发布失败';
+	@override String get k_13q8im6 => '发布动态';
+	@override String get k_0nq6ed3 => '请输入签名';
+	@override String get k_15f8sie => '全部账单';
+	@override String get k_003pk40 => '支出';
+	@override String get k_003pl2u => '收入';
+	@override String get k_05c6hcx => '禁止加我为好友';
+	@override String get k_003lpcj => '英文';
+	@override String get k_003qbnt => '服务';
+	@override String get k_1jvrjp4 => '是否退出登录';
+	@override String get k_0tnlko7 => '是否退出登录?';
+	@override String get k_002ulox => '跳过';
 }
 
 // Path: <root>
@@ -4626,6 +4790,48 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_0saejuk => '您还没有绑定银行卡，是否绑定?';
 	@override String get k_161l65x => '裁剪头像';
 	@override String get k_18kngum => '从手机相册选择';
+	@override String get k_154qms0 => '账号注册';
+	@override String get k_153sqml => '欢迎注册';
+	@override String get k_16kxaek => '密码登录';
+	@override String get k_13328o1 => '请输入昵称';
+	@override String get k_003ph29 => '注册';
+	@override String get k_08tspe6 => '阅读并同意';
+	@override String get k_0ip9ys7 => '用户服务协议';
+	@override String get k_003qtgq => '以及';
+	@override String get k_000045h => '';
+	@override String get k_15wdhxq => '注册成功';
+	@override String get k_003qe0a => '成功';
+	@override String get k_1alvphi => '请输入备注名';
+	@override String get k_12wsv87 => '暂无新朋友';
+	@override String get k_1d3qejc => '对方已不是您的好友，是否添加好友？';
+	@override String get k_122sg5a => '创建社群';
+	@override String get k_11vqgas => '创建群组';
+	@override String get k_0gcu9eq => '搜索用户手机号';
+	@override String get k_1pmyses => '朋友圈发红包啦！赶紧去拼手气！';
+	@override String get k_0dtj3qd => '这一刻的想法';
+	@override String get k_125n40d => '所有朋友可以看';
+	@override String get k_1y0gumy => '仅自己可以看';
+	@override String get k_1ppxgl6 => '请输入评论';
+	@override String get k_1i05far => '暂无朋友圈内容';
+	@override String get k_0v5ilv9 => '上拉加载更多';
+	@override String get k_1jxgrp7 => '加载中...';
+	@override String get k_1sgrooq => '加载失败，点击重试';
+	@override String get k_0v5swmg => '松开加载更多';
+	@override String get k_08g0il5 => '没有更多内容了';
+	@override String get k_0dy4tc2 => '上传图片失败';
+	@override String get k_08fez14 => '请输入内容';
+	@override String get k_0f7fh6r => '发布失败';
+	@override String get k_13q8im6 => '发布动态';
+	@override String get k_0nq6ed3 => '请输入签名';
+	@override String get k_15f8sie => '全部账单';
+	@override String get k_003pk40 => '支出';
+	@override String get k_003pl2u => '收入';
+	@override String get k_05c6hcx => '禁止加我好友';
+	@override String get k_003lpcj => '英文';
+	@override String get k_003qbnt => '服务';
+	@override String get k_1jvrjp4 => '是否退出登录';
+	@override String get k_0tnlko7 => '是否退出登录?';
+	@override String get k_002ulox => '跳过';
 }
 
 /// Flat map(s) containing all translations.
@@ -5479,6 +5685,46 @@ extension on _StringsEn {
 			'k_0saejuk': 'You haven\'t bound a bank card, do you want to bind?',
 			'k_161l65x': 'Crop avatar',
 			'k_18kngum': 'From phone album',
+			'k_154qms0': 'Create Account',
+			'k_153sqml': 'Welcome to Sign Up',
+			'k_16kxaek': 'Password Login',
+			'k_13328o1': 'Please enter your nickname',
+			'k_003ph29': 'Sign Up',
+			'k_08tspe6': 'Read agree',
+			'k_0ip9ys7': 'User Agreement',
+			'k_15wdhxq': 'Reg Success',
+			'k_003qe0a': 'Success',
+			'k_1alvphi': 'Enter remark name',
+			'k_12wsv87': 'No new friends',
+			'k_1d3qejc': 'They are no longer your friend. Add them?',
+			'k_122sg5a': 'Create Community',
+			'k_11vqgas': 'Create Group',
+			'k_0gcu9eq': 'Search user\'s phone number',
+			'k_1pmyses': 'Red envelopes in Moments! Hurry to grab them!',
+			'k_0dtj3qd': 'Thoughts at this moment',
+			'k_125n40d': 'Visible to all friends',
+			'k_1y0gumy': 'Visible only to yourself',
+			'k_1ppxgl6': 'Enter comment',
+			'k_1i05far': 'No Moments content',
+			'k_0v5ilv9': 'Pull up to load more',
+			'k_1jxgrp7': 'Loading...',
+			'k_1sgrooq': 'Load failed, tap to retry',
+			'k_0v5swmg': 'Release to load more',
+			'k_08g0il5': 'No more content',
+			'k_0dy4tc2': 'Image upload failed',
+			'k_08fez14': 'Enter content',
+			'k_0f7fh6r': 'Post failed',
+			'k_13q8im6': 'Post update',
+			'k_0nq6ed3': 'Enter signature',
+			'k_15f8sie': 'All bills',
+			'k_003pk40': 'Expenses',
+			'k_003pl2u': 'Income',
+			'k_05c6hcx': 'Block friend requests',
+			'k_003lpcj': 'English',
+			'k_003qbnt': 'Services',
+			'k_1jvrjp4': 'Log out?',
+			'k_0tnlko7': 'Log out?',
+			'k_002ulox': 'skip',
 		};
 	}
 }
@@ -6331,6 +6577,48 @@ extension on _StringsJa {
 			'k_0saejuk': '您还没有绑定银行卡，是否绑定?',
 			'k_161l65x': '裁剪头像',
 			'k_18kngum': '从手机相册选择',
+			'k_154qms0': '账号注册',
+			'k_153sqml': '欢迎注册',
+			'k_16kxaek': '密码登录',
+			'k_13328o1': '请输入昵称',
+			'k_003ph29': '注册',
+			'k_08tspe6': '阅读并同意',
+			'k_0ip9ys7': '用户服务协议',
+			'k_003qtgq': '以及',
+			'k_000045h': '',
+			'k_15wdhxq': '注册成功',
+			'k_003qe0a': '成功',
+			'k_1alvphi': '请输入备注名',
+			'k_12wsv87': '暂无新朋友',
+			'k_1d3qejc': '对方已不是您的好友，是否添加好友？',
+			'k_122sg5a': '创建社群',
+			'k_11vqgas': '创建群组',
+			'k_0gcu9eq': '搜索用户手机号',
+			'k_1pmyses': '朋友圈发红包啦！赶紧去拼手气！',
+			'k_0dtj3qd': '这一刻的想法',
+			'k_125n40d': '所有朋友可以看',
+			'k_1y0gumy': '仅自己可以看',
+			'k_1ppxgl6': '请输入评论',
+			'k_1i05far': '暂无朋友圈内容',
+			'k_0v5ilv9': '上拉加载更多',
+			'k_1jxgrp7': '加载中...',
+			'k_1sgrooq': '加载失败，点击重试',
+			'k_0v5swmg': '松开加载更多',
+			'k_08g0il5': '没有更多内容了',
+			'k_0dy4tc2': '上传图片失败',
+			'k_08fez14': '请输入内容',
+			'k_0f7fh6r': '发布失败',
+			'k_13q8im6': '发布动态',
+			'k_0nq6ed3': '请输入签名',
+			'k_15f8sie': '全部账单',
+			'k_003pk40': '支出',
+			'k_003pl2u': '收入',
+			'k_05c6hcx': '禁止加我好友',
+			'k_003lpcj': '英文',
+			'k_003qbnt': '服务',
+			'k_1jvrjp4': '是否退出登录',
+			'k_0tnlko7': '是否退出登录?',
+			'k_002ulox': '跳过',
 		};
 	}
 }
@@ -7183,6 +7471,48 @@ extension on _StringsKo {
 			'k_0saejuk': '您还没有绑定银行卡，是否绑定?',
 			'k_161l65x': '裁剪头像',
 			'k_18kngum': '从手机相册选择',
+			'k_154qms0': '账号注册',
+			'k_153sqml': '欢迎注册',
+			'k_16kxaek': '密码登录',
+			'k_13328o1': '请输入昵称',
+			'k_003ph29': '注册',
+			'k_08tspe6': '阅读并同意',
+			'k_0ip9ys7': '用户服务协议',
+			'k_003qtgq': '以及',
+			'k_000045h': '',
+			'k_15wdhxq': '注册成功',
+			'k_003qe0a': '成功',
+			'k_1alvphi': '请输入备注名',
+			'k_12wsv87': '暂无新朋友',
+			'k_1d3qejc': '对方已不是您的好友，是否添加好友？',
+			'k_122sg5a': '创建社群',
+			'k_11vqgas': '创建群组',
+			'k_0gcu9eq': '搜索用户手机号',
+			'k_1pmyses': '朋友圈发红包啦！赶紧去拼手气！',
+			'k_0dtj3qd': '这一刻的想法',
+			'k_125n40d': '所有朋友可以看',
+			'k_1y0gumy': '仅自己可以看',
+			'k_1ppxgl6': '请输入评论',
+			'k_1i05far': '暂无朋友圈内容',
+			'k_0v5ilv9': '上拉加载更多',
+			'k_1jxgrp7': '加载中...',
+			'k_1sgrooq': '加载失败，点击重试',
+			'k_0v5swmg': '松开加载更多',
+			'k_08g0il5': '没有更多内容了',
+			'k_0dy4tc2': '上传图片失败',
+			'k_08fez14': '请输入内容',
+			'k_0f7fh6r': '发布失败',
+			'k_13q8im6': '发布动态',
+			'k_0nq6ed3': '请输入签名',
+			'k_15f8sie': '全部账单',
+			'k_003pk40': '支出',
+			'k_003pl2u': '收入',
+			'k_05c6hcx': '禁止加我好友',
+			'k_003lpcj': '英文',
+			'k_003qbnt': '服务',
+			'k_1jvrjp4': '是否退出登录',
+			'k_0tnlko7': '是否退出登录?',
+			'k_002ulox': '跳过',
 		};
 	}
 }
@@ -8035,6 +8365,46 @@ extension on _StringsZhHans {
 			'k_0saejuk': '您还没有绑定银行卡，是否绑定?',
 			'k_161l65x': '裁剪头像',
 			'k_18kngum': '从手机相册选择',
+			'k_154qms0': '账号注册',
+			'k_153sqml': '欢迎注册',
+			'k_16kxaek': '密码登录',
+			'k_13328o1': '请输入昵称',
+			'k_003ph29': '注册',
+			'k_08tspe6': '阅读并同意',
+			'k_0ip9ys7': '用户服务协议',
+			'k_15wdhxq': '注册成功',
+			'k_003qe0a': '成功',
+			'k_1alvphi': '请输入备注名',
+			'k_12wsv87': '暂无新朋友',
+			'k_1d3qejc': '对方已不是您的好友，是否添加好友？',
+			'k_122sg5a': '创建社群',
+			'k_11vqgas': '创建群组',
+			'k_0gcu9eq': '搜索用户手机号',
+			'k_1pmyses': '朋友圈发红包啦！赶紧去拼手气！',
+			'k_0dtj3qd': '这一刻的想法',
+			'k_125n40d': '所有朋友可以看',
+			'k_1y0gumy': '仅自己可以看',
+			'k_1ppxgl6': '请输入评论',
+			'k_1i05far': '暂无朋友圈内容',
+			'k_0v5ilv9': '上拉加载更多',
+			'k_1jxgrp7': '加载中...',
+			'k_1sgrooq': '加载失败，点击重试',
+			'k_0v5swmg': '松开加载更多',
+			'k_08g0il5': '没有更多内容了',
+			'k_0dy4tc2': '上传图片失败',
+			'k_08fez14': '请输入内容',
+			'k_0f7fh6r': '发布失败',
+			'k_13q8im6': '发布动态',
+			'k_0nq6ed3': '请输入签名',
+			'k_15f8sie': '全部账单',
+			'k_003pk40': '支出',
+			'k_003pl2u': '收入',
+			'k_05c6hcx': '禁止加我为好友',
+			'k_003lpcj': '英文',
+			'k_003qbnt': '服务',
+			'k_1jvrjp4': '是否退出登录',
+			'k_0tnlko7': '是否退出登录?',
+			'k_002ulox': '跳过',
 		};
 	}
 }
@@ -8887,6 +9257,48 @@ extension on _StringsZhHant {
 			'k_0saejuk': '您还没有绑定银行卡，是否绑定?',
 			'k_161l65x': '裁剪头像',
 			'k_18kngum': '从手机相册选择',
+			'k_154qms0': '账号注册',
+			'k_153sqml': '欢迎注册',
+			'k_16kxaek': '密码登录',
+			'k_13328o1': '请输入昵称',
+			'k_003ph29': '注册',
+			'k_08tspe6': '阅读并同意',
+			'k_0ip9ys7': '用户服务协议',
+			'k_003qtgq': '以及',
+			'k_000045h': '',
+			'k_15wdhxq': '注册成功',
+			'k_003qe0a': '成功',
+			'k_1alvphi': '请输入备注名',
+			'k_12wsv87': '暂无新朋友',
+			'k_1d3qejc': '对方已不是您的好友，是否添加好友？',
+			'k_122sg5a': '创建社群',
+			'k_11vqgas': '创建群组',
+			'k_0gcu9eq': '搜索用户手机号',
+			'k_1pmyses': '朋友圈发红包啦！赶紧去拼手气！',
+			'k_0dtj3qd': '这一刻的想法',
+			'k_125n40d': '所有朋友可以看',
+			'k_1y0gumy': '仅自己可以看',
+			'k_1ppxgl6': '请输入评论',
+			'k_1i05far': '暂无朋友圈内容',
+			'k_0v5ilv9': '上拉加载更多',
+			'k_1jxgrp7': '加载中...',
+			'k_1sgrooq': '加载失败，点击重试',
+			'k_0v5swmg': '松开加载更多',
+			'k_08g0il5': '没有更多内容了',
+			'k_0dy4tc2': '上传图片失败',
+			'k_08fez14': '请输入内容',
+			'k_0f7fh6r': '发布失败',
+			'k_13q8im6': '发布动态',
+			'k_0nq6ed3': '请输入签名',
+			'k_15f8sie': '全部账单',
+			'k_003pk40': '支出',
+			'k_003pl2u': '收入',
+			'k_05c6hcx': '禁止加我好友',
+			'k_003lpcj': '英文',
+			'k_003qbnt': '服务',
+			'k_1jvrjp4': '是否退出登录',
+			'k_0tnlko7': '是否退出登录?',
+			'k_002ulox': '跳过',
 		};
 	}
 }
