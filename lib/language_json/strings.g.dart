@@ -5,7 +5,7 @@
  * Locales: 5
  * Strings: 4431 (886.2 per locale)
  *
- * Built on 2025-07-21 at 05:48 UTC
+ * Built on 2025-08-04 at 11:58 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1067,7 +1067,7 @@ class _StringsEn {
 	String get k_132m79q => 'Call End';
 	String get k_002robo => 'Clear';
 	String get k_1t9kzib => 'Please enter your password';
-	String get k_16b2aut => 'Red Packet Promotion';
+	String get k_16b2aut => 'Ampao Promotion';
 	String get k_0vfj9tf => 'Wallet and Services';
 	String get k_03ejj51 => 'Video number';
 	String get k_13h55ia => 'Fun Games';
@@ -1092,26 +1092,26 @@ class _StringsEn {
 	String get k_1666obb => 'Delete friends';
 	String get k_0yx7ush => 'Delete friends?';
 	String get k_1knw84v => 'After deleting friends, their information will be deleted, and you will no longer receive their messages.';
-	String get k_003qio2 => 'Red packet';
+	String get k_003qio2 => 'Ampao';
 	String get k_002s44p => 'Amount';
-	String get k_03fav83 => 'Send Red Packet';
+	String get k_03fav83 => 'Send Ampao';
 	String get k_176ufyf => 'Record';
 	String get k_0bs3o81 => 'Cover';
-	String get k_114aic6 => 'Perpare Red Packet';
+	String get k_114aic6 => 'Perpare Ampao';
 	String get k_003ja6q => 'use';
 	String get k_17ia1tg => 'My Cover';
 	String get k_10x9cpi => 'I received it';
 	String get k_10x1923 => 'I sent it out';
-	String k_1rbmhsn({required Object option1}) => 'Received red packet total $option1';
-	String k_1rbli7u({required Object option1}) => 'Sent red packet total $option1';
+	String k_1rbmhsn({required Object option1}) => 'Received Ampao total $option1';
+	String k_1rbli7u({required Object option1}) => 'Sent Ampao total $option1';
 	String get k_02nwx6i => 'Benediction';
-	String get k_0bm58o5 => 'No Red Packet Record';
+	String get k_0bm58o5 => 'No Ampao Record';
 	String get k_19u8qtn => 'Best wishes';
 	String get k_03fagpe => 'Received in total';
 	String get k_03eik7z => 'Sent in total';
-	String k_0dr49p7({required Object option1}) => 'Red Packet from $option1';
-	String get k_0d3qn8u => 'Red packet amount';
-	String get k_0dan0fy => 'Red Packet transferred to Wallet';
+	String k_0dr49p7({required Object option1}) => 'Ampao from $option1';
+	String get k_0d3qn8u => 'Ampao amount';
+	String get k_0dan0fy => 'Ampao transferred to Wallet';
 	String get k_03ejxbk => 'not yet opened';
 	String get k_03ejxmv => 'opened';
 	String get k_18od22b => 'You opened its';
@@ -1123,14 +1123,14 @@ class _StringsEn {
 	String get k_160sjee => 'Identical Amount';
 	String get k_1g3xzll => 'Enter number';
 	String get k_0d3pviu => 'Total';
-	String get k_0fxppee => 'Enter valid red packet amount';
-	String get k_1extztb => 'Enter red packet amount';
-	String get k_0phafco => 'Red packet quantity cannot be less than 2';
+	String get k_0fxppee => 'Enter valid Ampao amount';
+	String get k_1extztb => 'Enter Ampao amount';
+	String get k_0phafco => 'Ampao quantity cannot be less than 2';
 	String get k_0n3qmfe => 'Enter number';
 	String get k_18wj08c => 'Select year';
-	String get k_03fasmg => 'Red Packets';
-	String get k_1oemvgr => '[Phichat Red Packet]';
-	String get k_1hbnyi8 => '[Phichat Red Packet Opened]';
+	String get k_03fasmg => 'Ampaos';
+	String get k_1oemvgr => '[Phichat Ampao]';
+	String get k_1hbnyi8 => '[Phichat Ampao Opened]';
 	String get k_0k8endz => 'Exit group chat?';
 	String get k_08peder => 'After exiting the group chat, the group chat information will be deleted, and the group chat members will no longer receive group chat messages.';
 	String get k_0flvtl1 => 'Enter group nickname';
@@ -5578,7 +5578,7 @@ extension on _StringsEn {
 			'k_132m79q': 'Call End',
 			'k_002robo': 'Clear',
 			'k_1t9kzib': 'Please enter your password',
-			'k_16b2aut': 'Red Packet Promotion',
+			'k_16b2aut': 'Ampao Promotion',
 			'k_0vfj9tf': 'Wallet and Services',
 			'k_03ejj51': 'Video number',
 			'k_13h55ia': 'Fun Games',
@@ -5603,26 +5603,26 @@ extension on _StringsEn {
 			'k_1666obb': 'Delete friends',
 			'k_0yx7ush': 'Delete friends?',
 			'k_1knw84v': 'After deleting friends, their information will be deleted, and you will no longer receive their messages.',
-			'k_003qio2': 'Red packet',
+			'k_003qio2': 'Ampao',
 			'k_002s44p': 'Amount',
-			'k_03fav83': 'Send Red Packet',
+			'k_03fav83': 'Send Ampao',
 			'k_176ufyf': 'Record',
 			'k_0bs3o81': 'Cover',
-			'k_114aic6': 'Perpare Red Packet',
+			'k_114aic6': 'Perpare Ampao',
 			'k_003ja6q': 'use',
 			'k_17ia1tg': 'My Cover',
 			'k_10x9cpi': 'I received it',
 			'k_10x1923': 'I sent it out',
-			'k_1rbmhsn': ({required Object option1}) => 'Received red packet total $option1',
-			'k_1rbli7u': ({required Object option1}) => 'Sent red packet total $option1',
+			'k_1rbmhsn': ({required Object option1}) => 'Received Ampao total $option1',
+			'k_1rbli7u': ({required Object option1}) => 'Sent Ampao total $option1',
 			'k_02nwx6i': 'Benediction',
-			'k_0bm58o5': 'No Red Packet Record',
+			'k_0bm58o5': 'No Ampao Record',
 			'k_19u8qtn': 'Best wishes',
 			'k_03fagpe': 'Received in total',
 			'k_03eik7z': 'Sent in total',
-			'k_0dr49p7': ({required Object option1}) => 'Red Packet from $option1',
-			'k_0d3qn8u': 'Red packet amount',
-			'k_0dan0fy': 'Red Packet transferred to Wallet',
+			'k_0dr49p7': ({required Object option1}) => 'Ampao from $option1',
+			'k_0d3qn8u': 'Ampao amount',
+			'k_0dan0fy': 'Ampao transferred to Wallet',
 			'k_03ejxbk': 'not yet opened',
 			'k_03ejxmv': 'opened',
 			'k_18od22b': 'You opened its',
@@ -5634,14 +5634,14 @@ extension on _StringsEn {
 			'k_160sjee': 'Identical Amount',
 			'k_1g3xzll': 'Enter number',
 			'k_0d3pviu': 'Total',
-			'k_0fxppee': 'Enter valid red packet amount',
-			'k_1extztb': 'Enter red packet amount',
-			'k_0phafco': 'Red packet quantity cannot be less than 2',
+			'k_0fxppee': 'Enter valid Ampao amount',
+			'k_1extztb': 'Enter Ampao amount',
+			'k_0phafco': 'Ampao quantity cannot be less than 2',
 			'k_0n3qmfe': 'Enter number',
 			'k_18wj08c': 'Select year',
-			'k_03fasmg': 'Red Packets',
-			'k_1oemvgr': '[Phichat Red Packet]',
-			'k_1hbnyi8': '[Phichat Red Packet Opened]',
+			'k_03fasmg': 'Ampaos',
+			'k_1oemvgr': '[Phichat Ampao]',
+			'k_1hbnyi8': '[Phichat Ampao Opened]',
 			'k_0k8endz': 'Exit group chat?',
 			'k_08peder': 'After exiting the group chat, the group chat information will be deleted, and the group chat members will no longer receive group chat messages.',
 			'k_0flvtl1': 'Enter group nickname',
