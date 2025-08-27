@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 4761 (952.2 per locale)
+ * Strings: 4766 (953.2 per locale)
  *
- * Built on 2025-08-27 at 11:18 UTC
+ * Built on 2025-08-27 at 11:36 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1280,6 +1280,7 @@ class _StringsEn {
 	String get k_0o13ckd => 'Copied to clipboard';
 	String get k_03ig94q => 'Publishing';
 	String get k_117aw1u => 'Ampao have expired';
+	String get k_147ngkl => 'All of them were robbed';
 }
 
 // Path: <root>
@@ -2251,6 +2252,7 @@ class _StringsJa implements _StringsEn {
 	@override String get k_0o13ckd => '已复制到剪贴板';
 	@override String get k_03ig94q => '发布中';
 	@override String get k_117aw1u => '个红包已过期';
+	@override String get k_147ngkl => '全部被抢光';
 }
 
 // Path: <root>
@@ -3222,6 +3224,7 @@ class _StringsKo implements _StringsEn {
 	@override String get k_0o13ckd => '已复制到剪贴板';
 	@override String get k_03ig94q => '发布中';
 	@override String get k_117aw1u => '个红包已过期';
+	@override String get k_147ngkl => '全部被抢光';
 }
 
 // Path: <root>
@@ -4191,6 +4194,7 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_0o13ckd => '已复制到剪贴板';
 	@override String get k_03ig94q => '发布中';
 	@override String get k_117aw1u => '个红包已过期';
+	@override String get k_147ngkl => '全部被抢光';
 }
 
 // Path: <root>
@@ -5162,6 +5166,7 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_0o13ckd => '已复制到剪贴板';
 	@override String get k_03ig94q => '发布中';
 	@override String get k_117aw1u => '个红包已过期';
+	@override String get k_147ngkl => '全部被抢光';
 }
 
 /// Flat map(s) containing all translations.
@@ -6121,6 +6126,7 @@ extension on _StringsEn {
 			'k_0o13ckd': 'Copied to clipboard',
 			'k_03ig94q': 'Publishing',
 			'k_117aw1u': 'Ampao have expired',
+			'k_147ngkl': 'All of them were robbed',
 		};
 	}
 }
@@ -7081,6 +7087,7 @@ extension on _StringsJa {
 			'k_0o13ckd': '已复制到剪贴板',
 			'k_03ig94q': '发布中',
 			'k_117aw1u': '个红包已过期',
+			'k_147ngkl': '全部被抢光',
 		};
 	}
 }
@@ -8041,6 +8048,7 @@ extension on _StringsKo {
 			'k_0o13ckd': '已复制到剪贴板',
 			'k_03ig94q': '发布中',
 			'k_117aw1u': '个红包已过期',
+			'k_147ngkl': '全部被抢光',
 		};
 	}
 }
@@ -8999,6 +9007,7 @@ extension on _StringsZhHans {
 			'k_0o13ckd': '已复制到剪贴板',
 			'k_03ig94q': '发布中',
 			'k_117aw1u': '个红包已过期',
+			'k_147ngkl': '全部被抢光',
 		};
 	}
 }
@@ -9959,6 +9968,7 @@ extension on _StringsZhHant {
 			'k_0o13ckd': '已复制到剪贴板',
 			'k_03ig94q': '发布中',
 			'k_117aw1u': '个红包已过期',
+			'k_147ngkl': '全部被抢光',
 		};
 	}
 }
