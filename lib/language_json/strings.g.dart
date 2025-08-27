@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 4431 (886.2 per locale)
+ * Strings: 4761 (952.2 per locale)
  *
- * Built on 2025-08-04 at 11:58 UTC
+ * Built on 2025-08-27 at 11:18 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1189,7 +1189,7 @@ class _StringsEn {
 	String get k_122sg5a => 'Create Community';
 	String get k_11vqgas => 'Create Group';
 	String get k_0gcu9eq => 'Search user\'s phone number';
-	String get k_1pmyses => 'Red envelopes in Moments! Hurry to grab them!';
+	String get k_1pmyses => 'Ampaos in Moments! Hurry to grab them!';
 	String get k_0dtj3qd => 'Thoughts at this moment';
 	String get k_125n40d => 'Visible to all friends';
 	String get k_1y0gumy => 'Visible only to yourself';
@@ -1214,6 +1214,72 @@ class _StringsEn {
 	String get k_1jvrjp4 => 'Log out?';
 	String get k_0tnlko7 => 'Log out?';
 	String get k_002ulox => 'skip';
+	String get k_03giwlz => 'Obtained';
+	String get k_03cebos => 'Activated';
+	String get k_0h0ov4a => 'Invite Now';
+	String get k_1rkj6a3 => 'Face-to-Face Invite';
+	String get k_15qja5g => 'Newbie Tasks';
+	String get k_15i7req => 'Task Rules';
+	String get k_003poph => 'Claim';
+	String get k_03chmbm => 'Go Complete';
+	String get k_15qiysj => 'Complete Task';
+	String get k_15qmi3z => 'Accept Task';
+	String get k_16pw0w5 => 'Maximum Reward';
+	String get k_03f0s1x => 'Do Tasks';
+	String get k_03f16dg => 'Claim Rewards';
+	String get k_116906c => 'Daily Red Packets';
+	String get k_03ckc9x => 'Scan';
+	String get k_03bqp24 => 'QR Code';
+	String get k_172zmzc => 'Add Me as Friend';
+	String get k_1wamano => 'Place QR code within frame to scan automatically';
+	String get k_1ymiwcp => 'My QR Code';
+	String get k_09ka24d => 'Search Chat History';
+	String get k_0295ot7 => 'Enter keywords to search chat history';
+	String get k_002vqvn => 'Download';
+	String get k_04wwghh => 'Cannot add yourself';
+	String get k_0ta4zuc => 'Login with Facebook';
+	String get k_00zo106 => 'Login with Google';
+	String get k_0bper38 => 'Save to Album';
+	String get k_104jmnj => 'QR code saved to album';
+	String get k_0xgua91 => 'Save failed, please check permissions';
+	String get k_1nvlkka => 'Recognizing QR code';
+	String get k_1wzrjey => 'Image recognition failed, please try again';
+	String get k_1r8k35z => 'Failed to select image, please try again';
+	String get k_18ttxht => 'Tap to light up';
+	String get k_096np2c => 'Photo or Video';
+	String get k_0upl6oi => 'Tap for photo, hold for video';
+	String get k_0plh1fn => 'The Ampao has exceeded the collection time and cannot be claimed';
+	String get k_192veig => 'Other side has rejected';
+	String get k_03cg9l5 => 'Cancelled';
+	String get k_0l3r3l5 => 'Other side has cancelled';
+	String get k_0bzjruz => 'Call duration';
+	String get k_1wgznad => 'No response';
+	String get k_1iuuwvi => 'Other side is busy';
+	String get k_0h14fl7 => 'Answer call';
+	String get k_1px3nuo => 'Switch to voice call';
+	String get k_1px7bel => 'Confirm switch to voice';
+	String get k_0h1b18t => 'Unknown call';
+	String get k_0bhgqme => 'Started a group call';
+	String get k_03ewmue => 'Missed';
+	String get k_1swytgp => 'Rejected group call';
+	String get k_0m0eb1f => 'Agreed to switch to voice call';
+	String get k_0osyeaw => 'The Ampao has expired';
+	String get k_002vu36 => 'Reversal';
+	String get k_0eezr77 => 'Delete this friend moments?';
+	String get k_002umy9 => 'Failed';
+	String get k_003re34 => 'Expand';
+	String get k_003qkcd => 'Collapse';
+	String get k_02ichs4 => 'Change Cover';
+	String get k_0rlrmdd => 'Failed to upload image, please try again';
+	String get k_124pohq => 'Cover updated successfully';
+	String get k_0jfbk67 => 'Error selecting image';
+	String get k_01p6lp4 => 'Change Moments Cover';
+	String get k_03idmyq => 'Take a photo';
+	String get k_0003y0c => 'etc.';
+	String get k_00046qn => 'person(s)';
+	String get k_0o13ckd => 'Copied to clipboard';
+	String get k_03ig94q => 'Publishing';
+	String get k_117aw1u => 'Ampao have expired';
 }
 
 // Path: <root>
@@ -2119,6 +2185,72 @@ class _StringsJa implements _StringsEn {
 	@override String get k_1jvrjp4 => '是否退出登录';
 	@override String get k_0tnlko7 => '是否退出登录?';
 	@override String get k_002ulox => '跳过';
+	@override String get k_03giwlz => '已获得';
+	@override String get k_03cebos => '已激活';
+	@override String get k_0h0ov4a => '立即邀请';
+	@override String get k_1rkj6a3 => '面对面邀请';
+	@override String get k_15qja5g => '新手任务';
+	@override String get k_15i7req => '任务规则';
+	@override String get k_003poph => '领取';
+	@override String get k_03chmbm => '去完成';
+	@override String get k_15qiysj => '完成任务';
+	@override String get k_15qmi3z => '领取任务';
+	@override String get k_16pw0w5 => '最高可得';
+	@override String get k_03f0s1x => '做任务';
+	@override String get k_03f16dg => '领奖励';
+	@override String get k_116906c => '天天领红包';
+	@override String get k_03ckc9x => '扫一扫';
+	@override String get k_03bqp24 => '二维码';
+	@override String get k_172zmzc => '加我为好友';
+	@override String get k_1wamano => '将二维码放入框内,即可自动扫描';
+	@override String get k_1ymiwcp => '我的二维码';
+	@override String get k_09ka24d => '搜索聊天记录';
+	@override String get k_0295ot7 => '输入关键词搜索聊天记录';
+	@override String get k_002vqvn => '下载';
+	@override String get k_04wwghh => '不能添加自己';
+	@override String get k_0ta4zuc => '使用Facebook登录';
+	@override String get k_00zo106 => '使用谷歌账号登录';
+	@override String get k_0bper38 => '保存到相册';
+	@override String get k_104jmnj => '二维码已保存到相册';
+	@override String get k_0xgua91 => '保存失败请检查权限设置';
+	@override String get k_1nvlkka => '正在识别二维码';
+	@override String get k_1wzrjey => '图片识别失败请重试';
+	@override String get k_1r8k35z => '选择图片失败请重试';
+	@override String get k_18ttxht => '轻触照亮';
+	@override String get k_096np2c => '照片或视频';
+	@override String get k_0upl6oi => '轻触拍照，长按录像';
+	@override String get k_0plh1fn => '该红包已经超过领取时间，无法领取';
+	@override String get k_192veig => '对方已拒绝';
+	@override String get k_03cg9l5 => '已取消';
+	@override String get k_0l3r3l5 => '对方已取消';
+	@override String get k_0bzjruz => '通话时长';
+	@override String get k_1wgznad => '对方无应答';
+	@override String get k_1iuuwvi => '对方忙线中';
+	@override String get k_0h14fl7 => '接听通话';
+	@override String get k_1px3nuo => '视频转语音';
+	@override String get k_1px7bel => '确认转语音';
+	@override String get k_0h1b18t => '未知通话';
+	@override String get k_0bhgqme => '发起了群通话';
+	@override String get k_03ewmue => '未接听';
+	@override String get k_1swytgp => '拒绝群通话';
+	@override String get k_0m0eb1f => '同意视频转语音';
+	@override String get k_0osyeaw => '红包已过期';
+	@override String get k_002vu36 => '翻转';
+	@override String get k_0eezr77 => '删除该朋友圈？';
+	@override String get k_002umy9 => '失败';
+	@override String get k_003re34 => '展开';
+	@override String get k_003qkcd => '折叠';
+	@override String get k_02ichs4 => '换封面';
+	@override String get k_0rlrmdd => '上传图片失败, 请重试';
+	@override String get k_124pohq => '修改封面成功';
+	@override String get k_0jfbk67 => '选择图片出错';
+	@override String get k_01p6lp4 => '更换朋友圈封面';
+	@override String get k_03idmyq => '拍一个';
+	@override String get k_0003y0c => '等';
+	@override String get k_00046qn => '人';
+	@override String get k_0o13ckd => '已复制到剪贴板';
+	@override String get k_03ig94q => '发布中';
+	@override String get k_117aw1u => '个红包已过期';
 }
 
 // Path: <root>
@@ -3024,6 +3156,72 @@ class _StringsKo implements _StringsEn {
 	@override String get k_1jvrjp4 => '是否退出登录';
 	@override String get k_0tnlko7 => '是否退出登录?';
 	@override String get k_002ulox => '跳过';
+	@override String get k_03giwlz => '已获得';
+	@override String get k_03cebos => '已激活';
+	@override String get k_0h0ov4a => '立即邀请';
+	@override String get k_1rkj6a3 => '面对面邀请';
+	@override String get k_15qja5g => '新手任务';
+	@override String get k_15i7req => '任务规则';
+	@override String get k_003poph => '领取';
+	@override String get k_03chmbm => '去完成';
+	@override String get k_15qiysj => '完成任务';
+	@override String get k_15qmi3z => '领取任务';
+	@override String get k_16pw0w5 => '最高可得';
+	@override String get k_03f0s1x => '做任务';
+	@override String get k_03f16dg => '领奖励';
+	@override String get k_116906c => '天天领红包';
+	@override String get k_03ckc9x => '扫一扫';
+	@override String get k_03bqp24 => '二维码';
+	@override String get k_172zmzc => '加我为好友';
+	@override String get k_1wamano => '将二维码放入框内,即可自动扫描';
+	@override String get k_1ymiwcp => '我的二维码';
+	@override String get k_09ka24d => '搜索聊天记录';
+	@override String get k_0295ot7 => '输入关键词搜索聊天记录';
+	@override String get k_002vqvn => '下载';
+	@override String get k_04wwghh => '不能添加自己';
+	@override String get k_0ta4zuc => '使用Facebook登录';
+	@override String get k_00zo106 => '使用谷歌账号登录';
+	@override String get k_0bper38 => '保存到相册';
+	@override String get k_104jmnj => '二维码已保存到相册';
+	@override String get k_0xgua91 => '保存失败请检查权限设置';
+	@override String get k_1nvlkka => '正在识别二维码';
+	@override String get k_1wzrjey => '图片识别失败请重试';
+	@override String get k_1r8k35z => '选择图片失败请重试';
+	@override String get k_18ttxht => '轻触照亮';
+	@override String get k_096np2c => '照片或视频';
+	@override String get k_0upl6oi => '轻触拍照，长按录像';
+	@override String get k_0plh1fn => '该红包已经超过领取时间，无法领取';
+	@override String get k_192veig => '对方已拒绝';
+	@override String get k_03cg9l5 => '已取消';
+	@override String get k_0l3r3l5 => '对方已取消';
+	@override String get k_0bzjruz => '通话时长';
+	@override String get k_1wgznad => '对方无应答';
+	@override String get k_1iuuwvi => '对方忙线中';
+	@override String get k_0h14fl7 => '接听通话';
+	@override String get k_1px3nuo => '视频转语音';
+	@override String get k_1px7bel => '确认转语音';
+	@override String get k_0h1b18t => '未知通话';
+	@override String get k_0bhgqme => '发起了群通话';
+	@override String get k_03ewmue => '未接听';
+	@override String get k_1swytgp => '拒绝群通话';
+	@override String get k_0m0eb1f => '同意视频转语音';
+	@override String get k_0osyeaw => '红包已过期';
+	@override String get k_002vu36 => '翻转';
+	@override String get k_0eezr77 => '删除该朋友圈？';
+	@override String get k_002umy9 => '失败';
+	@override String get k_003re34 => '展开';
+	@override String get k_003qkcd => '折叠';
+	@override String get k_02ichs4 => '换封面';
+	@override String get k_0rlrmdd => '上传图片失败, 请重试';
+	@override String get k_124pohq => '修改封面成功';
+	@override String get k_0jfbk67 => '选择图片出错';
+	@override String get k_01p6lp4 => '更换朋友圈封面';
+	@override String get k_03idmyq => '拍一个';
+	@override String get k_0003y0c => '等';
+	@override String get k_00046qn => '人';
+	@override String get k_0o13ckd => '已复制到剪贴板';
+	@override String get k_03ig94q => '发布中';
+	@override String get k_117aw1u => '个红包已过期';
 }
 
 // Path: <root>
@@ -3927,6 +4125,72 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_1jvrjp4 => '是否退出登录';
 	@override String get k_0tnlko7 => '是否退出登录?';
 	@override String get k_002ulox => '跳过';
+	@override String get k_03giwlz => '已获得';
+	@override String get k_03cebos => '已激活';
+	@override String get k_0h0ov4a => '立即邀请';
+	@override String get k_1rkj6a3 => '面对面邀请';
+	@override String get k_15qja5g => '新手任务';
+	@override String get k_15i7req => '任务规则';
+	@override String get k_003poph => '领取';
+	@override String get k_03chmbm => '去完成';
+	@override String get k_15qiysj => '完成任务';
+	@override String get k_15qmi3z => '领取任务';
+	@override String get k_16pw0w5 => '最高可得';
+	@override String get k_03f0s1x => '做任务';
+	@override String get k_03f16dg => '领奖励';
+	@override String get k_116906c => '天天领红包';
+	@override String get k_03ckc9x => '扫一扫';
+	@override String get k_03bqp24 => '二维码';
+	@override String get k_172zmzc => '加我为好友';
+	@override String get k_1wamano => '将二维码放入框内,即可自动扫描';
+	@override String get k_1ymiwcp => '我的二维码';
+	@override String get k_09ka24d => '搜索聊天记录';
+	@override String get k_0295ot7 => '输入关键词搜索聊天记录';
+	@override String get k_002vqvn => '下载';
+	@override String get k_04wwghh => '不能添加自己';
+	@override String get k_0ta4zuc => '使用Facebook登录';
+	@override String get k_00zo106 => '使用谷歌账号登录';
+	@override String get k_0bper38 => '保存到相册';
+	@override String get k_104jmnj => '二维码已保存到相册';
+	@override String get k_0xgua91 => '保存失败请检查权限设置';
+	@override String get k_1nvlkka => '正在识别二维码';
+	@override String get k_1wzrjey => '图片识别失败请重试';
+	@override String get k_1r8k35z => '选择图片失败请重试';
+	@override String get k_18ttxht => '轻触照亮';
+	@override String get k_096np2c => '照片或视频';
+	@override String get k_0upl6oi => '轻触拍照，长按录像';
+	@override String get k_0plh1fn => '该红包已经超过领取时间，无法领取';
+	@override String get k_192veig => '对方已拒绝';
+	@override String get k_03cg9l5 => '已取消';
+	@override String get k_0l3r3l5 => '对方已取消';
+	@override String get k_0bzjruz => '通话时长';
+	@override String get k_1wgznad => '对方无应答';
+	@override String get k_1iuuwvi => '对方忙线中';
+	@override String get k_0h14fl7 => '接听通话';
+	@override String get k_1px3nuo => '视频转语音';
+	@override String get k_1px7bel => '确认转语音';
+	@override String get k_0h1b18t => '未知通话';
+	@override String get k_0bhgqme => '发起了群通话';
+	@override String get k_03ewmue => '未接听';
+	@override String get k_1swytgp => '拒绝群通话';
+	@override String get k_0m0eb1f => '同意视频转语音';
+	@override String get k_0osyeaw => '红包已过期';
+	@override String get k_002vu36 => '翻转';
+	@override String get k_0eezr77 => '删除该朋友圈？';
+	@override String get k_002umy9 => '失败';
+	@override String get k_003re34 => '展开';
+	@override String get k_003qkcd => '折叠';
+	@override String get k_02ichs4 => '换封面';
+	@override String get k_0rlrmdd => '上传图片失败, 请重试';
+	@override String get k_124pohq => '修改封面成功';
+	@override String get k_0jfbk67 => '选择图片出错';
+	@override String get k_01p6lp4 => '更换朋友圈封面';
+	@override String get k_03idmyq => '拍一个';
+	@override String get k_0003y0c => '等';
+	@override String get k_00046qn => '人';
+	@override String get k_0o13ckd => '已复制到剪贴板';
+	@override String get k_03ig94q => '发布中';
+	@override String get k_117aw1u => '个红包已过期';
 }
 
 // Path: <root>
@@ -4832,6 +5096,72 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_1jvrjp4 => '是否退出登录';
 	@override String get k_0tnlko7 => '是否退出登录?';
 	@override String get k_002ulox => '跳过';
+	@override String get k_03giwlz => '已获得';
+	@override String get k_03cebos => '已激活';
+	@override String get k_0h0ov4a => '立即邀请';
+	@override String get k_1rkj6a3 => '面对面邀请';
+	@override String get k_15qja5g => '新手任务';
+	@override String get k_15i7req => '任务规则';
+	@override String get k_003poph => '领取';
+	@override String get k_03chmbm => '去完成';
+	@override String get k_15qiysj => '完成任务';
+	@override String get k_15qmi3z => '领取任务';
+	@override String get k_16pw0w5 => '最高可得';
+	@override String get k_03f0s1x => '做任务';
+	@override String get k_03f16dg => '领奖励';
+	@override String get k_116906c => '天天领红包';
+	@override String get k_03ckc9x => '扫一扫';
+	@override String get k_03bqp24 => '二维码';
+	@override String get k_172zmzc => '加我为好友';
+	@override String get k_1wamano => '将二维码放入框内,即可自动扫描';
+	@override String get k_1ymiwcp => '我的二维码';
+	@override String get k_09ka24d => '搜索聊天记录';
+	@override String get k_0295ot7 => '输入关键词搜索聊天记录';
+	@override String get k_002vqvn => '下载';
+	@override String get k_04wwghh => '不能添加自己';
+	@override String get k_0ta4zuc => '使用Facebook登录';
+	@override String get k_00zo106 => '使用谷歌账号登录';
+	@override String get k_0bper38 => '保存到相册';
+	@override String get k_104jmnj => '二维码已保存到相册';
+	@override String get k_0xgua91 => '保存失败请检查权限设置';
+	@override String get k_1nvlkka => '正在识别二维码';
+	@override String get k_1wzrjey => '图片识别失败请重试';
+	@override String get k_1r8k35z => '选择图片失败请重试';
+	@override String get k_18ttxht => '轻触照亮';
+	@override String get k_096np2c => '照片或视频';
+	@override String get k_0upl6oi => '轻触拍照，长按录像';
+	@override String get k_0plh1fn => '该红包已经超过领取时间，无法领取';
+	@override String get k_192veig => '对方已拒绝';
+	@override String get k_03cg9l5 => '已取消';
+	@override String get k_0l3r3l5 => '对方已取消';
+	@override String get k_0bzjruz => '通话时长';
+	@override String get k_1wgznad => '对方无应答';
+	@override String get k_1iuuwvi => '对方忙线中';
+	@override String get k_0h14fl7 => '接听通话';
+	@override String get k_1px3nuo => '视频转语音';
+	@override String get k_1px7bel => '确认转语音';
+	@override String get k_0h1b18t => '未知通话';
+	@override String get k_0bhgqme => '发起了群通话';
+	@override String get k_03ewmue => '未接听';
+	@override String get k_1swytgp => '拒绝群通话';
+	@override String get k_0m0eb1f => '同意视频转语音';
+	@override String get k_0osyeaw => '红包已过期';
+	@override String get k_002vu36 => '翻转';
+	@override String get k_0eezr77 => '删除该朋友圈？';
+	@override String get k_002umy9 => '失败';
+	@override String get k_003re34 => '展开';
+	@override String get k_003qkcd => '折叠';
+	@override String get k_02ichs4 => '换封面';
+	@override String get k_0rlrmdd => '上传图片失败, 请重试';
+	@override String get k_124pohq => '修改封面成功';
+	@override String get k_0jfbk67 => '选择图片出错';
+	@override String get k_01p6lp4 => '更换朋友圈封面';
+	@override String get k_03idmyq => '拍一个';
+	@override String get k_0003y0c => '等';
+	@override String get k_00046qn => '人';
+	@override String get k_0o13ckd => '已复制到剪贴板';
+	@override String get k_03ig94q => '发布中';
+	@override String get k_117aw1u => '个红包已过期';
 }
 
 /// Flat map(s) containing all translations.
@@ -5700,7 +6030,7 @@ extension on _StringsEn {
 			'k_122sg5a': 'Create Community',
 			'k_11vqgas': 'Create Group',
 			'k_0gcu9eq': 'Search user\'s phone number',
-			'k_1pmyses': 'Red envelopes in Moments! Hurry to grab them!',
+			'k_1pmyses': 'Ampaos in Moments! Hurry to grab them!',
 			'k_0dtj3qd': 'Thoughts at this moment',
 			'k_125n40d': 'Visible to all friends',
 			'k_1y0gumy': 'Visible only to yourself',
@@ -5725,6 +6055,72 @@ extension on _StringsEn {
 			'k_1jvrjp4': 'Log out?',
 			'k_0tnlko7': 'Log out?',
 			'k_002ulox': 'skip',
+			'k_03giwlz': 'Obtained',
+			'k_03cebos': 'Activated',
+			'k_0h0ov4a': 'Invite Now',
+			'k_1rkj6a3': 'Face-to-Face Invite',
+			'k_15qja5g': 'Newbie Tasks',
+			'k_15i7req': 'Task Rules',
+			'k_003poph': 'Claim',
+			'k_03chmbm': 'Go Complete',
+			'k_15qiysj': 'Complete Task',
+			'k_15qmi3z': 'Accept Task',
+			'k_16pw0w5': 'Maximum Reward',
+			'k_03f0s1x': 'Do Tasks',
+			'k_03f16dg': 'Claim Rewards',
+			'k_116906c': 'Daily Red Packets',
+			'k_03ckc9x': 'Scan',
+			'k_03bqp24': 'QR Code',
+			'k_172zmzc': 'Add Me as Friend',
+			'k_1wamano': 'Place QR code within frame to scan automatically',
+			'k_1ymiwcp': 'My QR Code',
+			'k_09ka24d': 'Search Chat History',
+			'k_0295ot7': 'Enter keywords to search chat history',
+			'k_002vqvn': 'Download',
+			'k_04wwghh': 'Cannot add yourself',
+			'k_0ta4zuc': 'Login with Facebook',
+			'k_00zo106': 'Login with Google',
+			'k_0bper38': 'Save to Album',
+			'k_104jmnj': 'QR code saved to album',
+			'k_0xgua91': 'Save failed, please check permissions',
+			'k_1nvlkka': 'Recognizing QR code',
+			'k_1wzrjey': 'Image recognition failed, please try again',
+			'k_1r8k35z': 'Failed to select image, please try again',
+			'k_18ttxht': 'Tap to light up',
+			'k_096np2c': 'Photo or Video',
+			'k_0upl6oi': 'Tap for photo, hold for video',
+			'k_0plh1fn': 'The Ampao has exceeded the collection time and cannot be claimed',
+			'k_192veig': 'Other side has rejected',
+			'k_03cg9l5': 'Cancelled',
+			'k_0l3r3l5': 'Other side has cancelled',
+			'k_0bzjruz': 'Call duration',
+			'k_1wgznad': 'No response',
+			'k_1iuuwvi': 'Other side is busy',
+			'k_0h14fl7': 'Answer call',
+			'k_1px3nuo': 'Switch to voice call',
+			'k_1px7bel': 'Confirm switch to voice',
+			'k_0h1b18t': 'Unknown call',
+			'k_0bhgqme': 'Started a group call',
+			'k_03ewmue': 'Missed',
+			'k_1swytgp': 'Rejected group call',
+			'k_0m0eb1f': 'Agreed to switch to voice call',
+			'k_0osyeaw': 'The Ampao has expired',
+			'k_002vu36': 'Reversal',
+			'k_0eezr77': 'Delete this friend moments?',
+			'k_002umy9': 'Failed',
+			'k_003re34': 'Expand',
+			'k_003qkcd': 'Collapse',
+			'k_02ichs4': 'Change Cover',
+			'k_0rlrmdd': 'Failed to upload image, please try again',
+			'k_124pohq': 'Cover updated successfully',
+			'k_0jfbk67': 'Error selecting image',
+			'k_01p6lp4': 'Change Moments Cover',
+			'k_03idmyq': 'Take a photo',
+			'k_0003y0c': 'etc.',
+			'k_00046qn': 'person(s)',
+			'k_0o13ckd': 'Copied to clipboard',
+			'k_03ig94q': 'Publishing',
+			'k_117aw1u': 'Ampao have expired',
 		};
 	}
 }
@@ -6619,6 +7015,72 @@ extension on _StringsJa {
 			'k_1jvrjp4': '是否退出登录',
 			'k_0tnlko7': '是否退出登录?',
 			'k_002ulox': '跳过',
+			'k_03giwlz': '已获得',
+			'k_03cebos': '已激活',
+			'k_0h0ov4a': '立即邀请',
+			'k_1rkj6a3': '面对面邀请',
+			'k_15qja5g': '新手任务',
+			'k_15i7req': '任务规则',
+			'k_003poph': '领取',
+			'k_03chmbm': '去完成',
+			'k_15qiysj': '完成任务',
+			'k_15qmi3z': '领取任务',
+			'k_16pw0w5': '最高可得',
+			'k_03f0s1x': '做任务',
+			'k_03f16dg': '领奖励',
+			'k_116906c': '天天领红包',
+			'k_03ckc9x': '扫一扫',
+			'k_03bqp24': '二维码',
+			'k_172zmzc': '加我为好友',
+			'k_1wamano': '将二维码放入框内,即可自动扫描',
+			'k_1ymiwcp': '我的二维码',
+			'k_09ka24d': '搜索聊天记录',
+			'k_0295ot7': '输入关键词搜索聊天记录',
+			'k_002vqvn': '下载',
+			'k_04wwghh': '不能添加自己',
+			'k_0ta4zuc': '使用Facebook登录',
+			'k_00zo106': '使用谷歌账号登录',
+			'k_0bper38': '保存到相册',
+			'k_104jmnj': '二维码已保存到相册',
+			'k_0xgua91': '保存失败请检查权限设置',
+			'k_1nvlkka': '正在识别二维码',
+			'k_1wzrjey': '图片识别失败请重试',
+			'k_1r8k35z': '选择图片失败请重试',
+			'k_18ttxht': '轻触照亮',
+			'k_096np2c': '照片或视频',
+			'k_0upl6oi': '轻触拍照，长按录像',
+			'k_0plh1fn': '该红包已经超过领取时间，无法领取',
+			'k_192veig': '对方已拒绝',
+			'k_03cg9l5': '已取消',
+			'k_0l3r3l5': '对方已取消',
+			'k_0bzjruz': '通话时长',
+			'k_1wgznad': '对方无应答',
+			'k_1iuuwvi': '对方忙线中',
+			'k_0h14fl7': '接听通话',
+			'k_1px3nuo': '视频转语音',
+			'k_1px7bel': '确认转语音',
+			'k_0h1b18t': '未知通话',
+			'k_0bhgqme': '发起了群通话',
+			'k_03ewmue': '未接听',
+			'k_1swytgp': '拒绝群通话',
+			'k_0m0eb1f': '同意视频转语音',
+			'k_0osyeaw': '红包已过期',
+			'k_002vu36': '翻转',
+			'k_0eezr77': '删除该朋友圈？',
+			'k_002umy9': '失败',
+			'k_003re34': '展开',
+			'k_003qkcd': '折叠',
+			'k_02ichs4': '换封面',
+			'k_0rlrmdd': '上传图片失败, 请重试',
+			'k_124pohq': '修改封面成功',
+			'k_0jfbk67': '选择图片出错',
+			'k_01p6lp4': '更换朋友圈封面',
+			'k_03idmyq': '拍一个',
+			'k_0003y0c': '等',
+			'k_00046qn': '人',
+			'k_0o13ckd': '已复制到剪贴板',
+			'k_03ig94q': '发布中',
+			'k_117aw1u': '个红包已过期',
 		};
 	}
 }
@@ -7513,6 +7975,72 @@ extension on _StringsKo {
 			'k_1jvrjp4': '是否退出登录',
 			'k_0tnlko7': '是否退出登录?',
 			'k_002ulox': '跳过',
+			'k_03giwlz': '已获得',
+			'k_03cebos': '已激活',
+			'k_0h0ov4a': '立即邀请',
+			'k_1rkj6a3': '面对面邀请',
+			'k_15qja5g': '新手任务',
+			'k_15i7req': '任务规则',
+			'k_003poph': '领取',
+			'k_03chmbm': '去完成',
+			'k_15qiysj': '完成任务',
+			'k_15qmi3z': '领取任务',
+			'k_16pw0w5': '最高可得',
+			'k_03f0s1x': '做任务',
+			'k_03f16dg': '领奖励',
+			'k_116906c': '天天领红包',
+			'k_03ckc9x': '扫一扫',
+			'k_03bqp24': '二维码',
+			'k_172zmzc': '加我为好友',
+			'k_1wamano': '将二维码放入框内,即可自动扫描',
+			'k_1ymiwcp': '我的二维码',
+			'k_09ka24d': '搜索聊天记录',
+			'k_0295ot7': '输入关键词搜索聊天记录',
+			'k_002vqvn': '下载',
+			'k_04wwghh': '不能添加自己',
+			'k_0ta4zuc': '使用Facebook登录',
+			'k_00zo106': '使用谷歌账号登录',
+			'k_0bper38': '保存到相册',
+			'k_104jmnj': '二维码已保存到相册',
+			'k_0xgua91': '保存失败请检查权限设置',
+			'k_1nvlkka': '正在识别二维码',
+			'k_1wzrjey': '图片识别失败请重试',
+			'k_1r8k35z': '选择图片失败请重试',
+			'k_18ttxht': '轻触照亮',
+			'k_096np2c': '照片或视频',
+			'k_0upl6oi': '轻触拍照，长按录像',
+			'k_0plh1fn': '该红包已经超过领取时间，无法领取',
+			'k_192veig': '对方已拒绝',
+			'k_03cg9l5': '已取消',
+			'k_0l3r3l5': '对方已取消',
+			'k_0bzjruz': '通话时长',
+			'k_1wgznad': '对方无应答',
+			'k_1iuuwvi': '对方忙线中',
+			'k_0h14fl7': '接听通话',
+			'k_1px3nuo': '视频转语音',
+			'k_1px7bel': '确认转语音',
+			'k_0h1b18t': '未知通话',
+			'k_0bhgqme': '发起了群通话',
+			'k_03ewmue': '未接听',
+			'k_1swytgp': '拒绝群通话',
+			'k_0m0eb1f': '同意视频转语音',
+			'k_0osyeaw': '红包已过期',
+			'k_002vu36': '翻转',
+			'k_0eezr77': '删除该朋友圈？',
+			'k_002umy9': '失败',
+			'k_003re34': '展开',
+			'k_003qkcd': '折叠',
+			'k_02ichs4': '换封面',
+			'k_0rlrmdd': '上传图片失败, 请重试',
+			'k_124pohq': '修改封面成功',
+			'k_0jfbk67': '选择图片出错',
+			'k_01p6lp4': '更换朋友圈封面',
+			'k_03idmyq': '拍一个',
+			'k_0003y0c': '等',
+			'k_00046qn': '人',
+			'k_0o13ckd': '已复制到剪贴板',
+			'k_03ig94q': '发布中',
+			'k_117aw1u': '个红包已过期',
 		};
 	}
 }
@@ -8405,6 +8933,72 @@ extension on _StringsZhHans {
 			'k_1jvrjp4': '是否退出登录',
 			'k_0tnlko7': '是否退出登录?',
 			'k_002ulox': '跳过',
+			'k_03giwlz': '已获得',
+			'k_03cebos': '已激活',
+			'k_0h0ov4a': '立即邀请',
+			'k_1rkj6a3': '面对面邀请',
+			'k_15qja5g': '新手任务',
+			'k_15i7req': '任务规则',
+			'k_003poph': '领取',
+			'k_03chmbm': '去完成',
+			'k_15qiysj': '完成任务',
+			'k_15qmi3z': '领取任务',
+			'k_16pw0w5': '最高可得',
+			'k_03f0s1x': '做任务',
+			'k_03f16dg': '领奖励',
+			'k_116906c': '天天领红包',
+			'k_03ckc9x': '扫一扫',
+			'k_03bqp24': '二维码',
+			'k_172zmzc': '加我为好友',
+			'k_1wamano': '将二维码放入框内,即可自动扫描',
+			'k_1ymiwcp': '我的二维码',
+			'k_09ka24d': '搜索聊天记录',
+			'k_0295ot7': '输入关键词搜索聊天记录',
+			'k_002vqvn': '下载',
+			'k_04wwghh': '不能添加自己',
+			'k_0ta4zuc': '使用Facebook登录',
+			'k_00zo106': '使用谷歌账号登录',
+			'k_0bper38': '保存到相册',
+			'k_104jmnj': '二维码已保存到相册',
+			'k_0xgua91': '保存失败请检查权限设置',
+			'k_1nvlkka': '正在识别二维码',
+			'k_1wzrjey': '图片识别失败请重试',
+			'k_1r8k35z': '选择图片失败请重试',
+			'k_18ttxht': '轻触照亮',
+			'k_096np2c': '照片或视频',
+			'k_0upl6oi': '轻触拍照，长按录像',
+			'k_0plh1fn': '该红包已经超过领取时间，无法领取',
+			'k_192veig': '对方已拒绝',
+			'k_03cg9l5': '已取消',
+			'k_0l3r3l5': '对方已取消',
+			'k_0bzjruz': '通话时长',
+			'k_1wgznad': '对方无应答',
+			'k_1iuuwvi': '对方忙线中',
+			'k_0h14fl7': '接听通话',
+			'k_1px3nuo': '视频转语音',
+			'k_1px7bel': '确认转语音',
+			'k_0h1b18t': '未知通话',
+			'k_0bhgqme': '发起了群通话',
+			'k_03ewmue': '未接听',
+			'k_1swytgp': '拒绝群通话',
+			'k_0m0eb1f': '同意视频转语音',
+			'k_0osyeaw': '红包已过期',
+			'k_002vu36': '翻转',
+			'k_0eezr77': '删除该朋友圈？',
+			'k_002umy9': '失败',
+			'k_003re34': '展开',
+			'k_003qkcd': '折叠',
+			'k_02ichs4': '换封面',
+			'k_0rlrmdd': '上传图片失败, 请重试',
+			'k_124pohq': '修改封面成功',
+			'k_0jfbk67': '选择图片出错',
+			'k_01p6lp4': '更换朋友圈封面',
+			'k_03idmyq': '拍一个',
+			'k_0003y0c': '等',
+			'k_00046qn': '人',
+			'k_0o13ckd': '已复制到剪贴板',
+			'k_03ig94q': '发布中',
+			'k_117aw1u': '个红包已过期',
 		};
 	}
 }
@@ -9299,6 +9893,72 @@ extension on _StringsZhHant {
 			'k_1jvrjp4': '是否退出登录',
 			'k_0tnlko7': '是否退出登录?',
 			'k_002ulox': '跳过',
+			'k_03giwlz': '已获得',
+			'k_03cebos': '已激活',
+			'k_0h0ov4a': '立即邀请',
+			'k_1rkj6a3': '面对面邀请',
+			'k_15qja5g': '新手任务',
+			'k_15i7req': '任务规则',
+			'k_003poph': '领取',
+			'k_03chmbm': '去完成',
+			'k_15qiysj': '完成任务',
+			'k_15qmi3z': '领取任务',
+			'k_16pw0w5': '最高可得',
+			'k_03f0s1x': '做任务',
+			'k_03f16dg': '领奖励',
+			'k_116906c': '天天领红包',
+			'k_03ckc9x': '扫一扫',
+			'k_03bqp24': '二维码',
+			'k_172zmzc': '加我为好友',
+			'k_1wamano': '将二维码放入框内,即可自动扫描',
+			'k_1ymiwcp': '我的二维码',
+			'k_09ka24d': '搜索聊天记录',
+			'k_0295ot7': '输入关键词搜索聊天记录',
+			'k_002vqvn': '下载',
+			'k_04wwghh': '不能添加自己',
+			'k_0ta4zuc': '使用Facebook登录',
+			'k_00zo106': '使用谷歌账号登录',
+			'k_0bper38': '保存到相册',
+			'k_104jmnj': '二维码已保存到相册',
+			'k_0xgua91': '保存失败请检查权限设置',
+			'k_1nvlkka': '正在识别二维码',
+			'k_1wzrjey': '图片识别失败请重试',
+			'k_1r8k35z': '选择图片失败请重试',
+			'k_18ttxht': '轻触照亮',
+			'k_096np2c': '照片或视频',
+			'k_0upl6oi': '轻触拍照，长按录像',
+			'k_0plh1fn': '该红包已经超过领取时间，无法领取',
+			'k_192veig': '对方已拒绝',
+			'k_03cg9l5': '已取消',
+			'k_0l3r3l5': '对方已取消',
+			'k_0bzjruz': '通话时长',
+			'k_1wgznad': '对方无应答',
+			'k_1iuuwvi': '对方忙线中',
+			'k_0h14fl7': '接听通话',
+			'k_1px3nuo': '视频转语音',
+			'k_1px7bel': '确认转语音',
+			'k_0h1b18t': '未知通话',
+			'k_0bhgqme': '发起了群通话',
+			'k_03ewmue': '未接听',
+			'k_1swytgp': '拒绝群通话',
+			'k_0m0eb1f': '同意视频转语音',
+			'k_0osyeaw': '红包已过期',
+			'k_002vu36': '翻转',
+			'k_0eezr77': '删除该朋友圈？',
+			'k_002umy9': '失败',
+			'k_003re34': '展开',
+			'k_003qkcd': '折叠',
+			'k_02ichs4': '换封面',
+			'k_0rlrmdd': '上传图片失败, 请重试',
+			'k_124pohq': '修改封面成功',
+			'k_0jfbk67': '选择图片出错',
+			'k_01p6lp4': '更换朋友圈封面',
+			'k_03idmyq': '拍一个',
+			'k_0003y0c': '等',
+			'k_00046qn': '人',
+			'k_0o13ckd': '已复制到剪贴板',
+			'k_03ig94q': '发布中',
+			'k_117aw1u': '个红包已过期',
 		};
 	}
 }
