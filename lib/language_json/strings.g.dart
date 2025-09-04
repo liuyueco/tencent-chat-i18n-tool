@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 4766 (953.2 per locale)
+ * Strings: 5031 (1006.2 per locale)
  *
- * Built on 2025-08-27 at 11:36 UTC
+ * Built on 2025-09-04 at 03:19 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1215,16 +1215,16 @@ class _StringsEn {
 	String get k_0tnlko7 => 'Log out?';
 	String get k_002ulox => 'skip';
 	String get k_03giwlz => 'Obtained';
-	String get k_03cebos => 'Activated';
+	String get k_03cebos => 'Asked';
 	String get k_0h0ov4a => 'Invite Now';
 	String get k_1rkj6a3 => 'Face-to-Face Invite';
 	String get k_15qja5g => 'Newbie Tasks';
 	String get k_15i7req => 'Task Rules';
 	String get k_003poph => 'Claim';
-	String get k_03chmbm => 'Go Complete';
+	String get k_03chmbm => 'Finish';
 	String get k_15qiysj => 'Complete Task';
 	String get k_15qmi3z => 'Accept Task';
-	String get k_16pw0w5 => 'Maximum Reward';
+	String get k_16pw0w5 => 'MaxR';
 	String get k_03f0s1x => 'Do Tasks';
 	String get k_03f16dg => 'Claim Rewards';
 	String get k_116906c => 'Daily Red Packets';
@@ -1276,11 +1276,64 @@ class _StringsEn {
 	String get k_01p6lp4 => 'Change Moments Cover';
 	String get k_03idmyq => 'Take a photo';
 	String get k_0003y0c => 'etc.';
-	String get k_00046qn => 'person(s)';
+	String get k_00046qn => 'person';
 	String get k_0o13ckd => 'Copied to clipboard';
 	String get k_03ig94q => 'Publishing';
 	String get k_117aw1u => 'Ampao have expired';
 	String get k_147ngkl => 'All of them were robbed';
+	String get k_0fjomxg => 'Choose spot';
+	String get k_03f4jmh => 'Signed';
+	String get k_003qbt7 => 'Sign in';
+	String get k_03f4o01 => 'Unsign';
+	String get k_03icknz => 'Task1';
+	String get k_03ig64z => 'Task2';
+	String get k_03idiae => 'Task3';
+	String get k_03ecaro => 'Task4';
+	String get k_03igidn => 'Task5';
+	String get k_03fut9c => 'Day1';
+	String get k_03fuqb0 => 'Day2';
+	String get k_03futft => 'Day3';
+	String get k_03ftb4r => 'Day4';
+	String get k_03fuppw => 'Day5';
+	String get k_03fuxm5 => 'Day6';
+	String get k_03futab => 'Day7';
+	String get k_0s5szyd => 'Locked';
+	String get k_0t0ts1c => 'Rewarded';
+	String get k_0ruq0wm => 'My invites';
+	String get k_166jy2e => 'Invited';
+	String get k_10qzstq => 'Earnings';
+	String get k_1opznfb => 'FinishT5';
+	String get k_1fy42dn => 'FinishT1-4';
+	String get k_15i7r92 => 'Rules';
+	String get k_15u6ri9 => 'Daily sign';
+	String get k_02o1z1c => 'Invited';
+	String get k_05l9de1 => 'Enter code';
+	String get k_0y0p5ye => 'My code';
+	String get k_0d2vbpb => 'Claim after login';
+	String get k_0opat74 => 'Share to FB/IG';
+	String get k_0dp2x7p => 'Invite one user';
+	String get k_0pc55ca => 'Invite three friends';
+	String k_0vt9742({required Object option1}) => 'Max $option1';
+	String get k_1j4lyr6 => 'Send red packet to chat';
+	String k_05mwwnn({required Object option1}) => 'Invite $option1 more';
+	String get k_003q8jm => 'Reward';
+	String get k_15ween8 => 'Signed';
+	String get k_15wdoje => 'Claimed';
+	String get k_13liia3 => 'Congrats';
+	String get k_003ru11 => 'Get';
+	String get k_003s038 => 'Prize';
+	String get k_0rl4297 => 'Invite success';
+	String get k_0rvbid9 => 'Pick 1 hidden friend';
+	String get k_0ncyfe8 => 'Pick 1 visible friend';
+	String get k_0pd2760 => 'Part hidden';
+	String get k_10zkzrl => 'Claim after login';
+	String get k_16zbs42 => 'Change name';
+	String get k_164xl46 => 'A good name helps friends remember you.';
+	String get k_09xk3b3 => 'A good status helps friends know you better.';
+	String get k_1vlgifq => 'Remarks will show in your contacts list.';
+	String get k_0dk3zpu => 'Only visible in this group, not your WeChat name.';
+	String get k_1mjiyr9 => 'My group nickname';
+	String get k_1ioeo2q => 'All members can see the new group name.';
 }
 
 // Path: <root>
@@ -2253,6 +2306,59 @@ class _StringsJa implements _StringsEn {
 	@override String get k_03ig94q => '发布中';
 	@override String get k_117aw1u => '个红包已过期';
 	@override String get k_147ngkl => '全部被抢光';
+	@override String get k_0fjomxg => '选择发布位置';
+	@override String get k_03f4jmh => '已签到';
+	@override String get k_003qbt7 => '签到';
+	@override String get k_03f4o01 => '未签到';
+	@override String get k_03icknz => '任务一';
+	@override String get k_03ig64z => '任务二';
+	@override String get k_03idiae => '任务三';
+	@override String get k_03ecaro => '任务四';
+	@override String get k_03igidn => '任务五';
+	@override String get k_03fut9c => '第一天';
+	@override String get k_03fuqb0 => '第二天';
+	@override String get k_03futft => '第三天';
+	@override String get k_03ftb4r => '第四天';
+	@override String get k_03fuppw => '第五天';
+	@override String get k_03fuxm5 => '第六天';
+	@override String get k_03futab => '第七天';
+	@override String get k_0s5szyd => '待解锁奖励';
+	@override String get k_0t0ts1c => '已获得奖励';
+	@override String get k_0ruq0wm => '我的邀请事业';
+	@override String get k_166jy2e => '已邀请好友';
+	@override String get k_10qzstq => '邀请收益';
+	@override String get k_1opznfb => '完成任务五';
+	@override String get k_1fy42dn => '完成任务一至四';
+	@override String get k_15i7r92 => '签到规则';
+	@override String get k_15u6ri9 => '每日签到';
+	@override String get k_02o1z1c => '已邀请';
+	@override String get k_05l9de1 => '输入好友验证码';
+	@override String get k_0y0p5ye => '我的邀请码';
+	@override String get k_0d2vbpb => '注册后登录后领取';
+	@override String get k_0opat74 => '转发红包任务页面分享至Facebook和Instagram';
+	@override String get k_0dp2x7p => '邀请1名新用户注册';
+	@override String get k_0pc55ca => '邀请3名好友组建群聊';
+	@override String k_0vt9742({required Object option1}) => '最高可领$option1';
+	@override String get k_1j4lyr6 => '并发红包到聊天群';
+	@override String k_05mwwnn({required Object option1}) => '再邀请$option1人,即可领取';
+	@override String get k_003q8jm => '奖励';
+	@override String get k_15ween8 => '签到成功';
+	@override String get k_15wdoje => '领取成功';
+	@override String get k_13liia3 => '恭喜用户';
+	@override String get k_003ru11 => '获得';
+	@override String get k_003s038 => '大奖';
+	@override String get k_0rl4297 => '邀请好友成功';
+	@override String get k_0rvbid9 => '请至少选择一个不可见的朋友';
+	@override String get k_0ncyfe8 => '请至少选择一个可见的朋友';
+	@override String get k_0pd2760 => '部分不可见';
+	@override String get k_10zkzrl => '注册登录后领取';
+	@override String get k_16zbs42 => '更改名字';
+	@override String get k_164xl46 => '好名字可以让你的朋友更容易记住你。';
+	@override String get k_09xk3b3 => '好的个性签名可以让朋友更好地了解你。';
+	@override String get k_1vlgifq => '设置备注后，将在好友列表中显示备注名。';
+	@override String get k_0dk3zpu => '设置后仅在本群显示，不会修改您的微信昵称。';
+	@override String get k_1mjiyr9 => '我在本群的昵称';
+	@override String get k_1ioeo2q => '修改群名称后，所有群成员都可以看到。';
 }
 
 // Path: <root>
@@ -3225,6 +3331,59 @@ class _StringsKo implements _StringsEn {
 	@override String get k_03ig94q => '发布中';
 	@override String get k_117aw1u => '个红包已过期';
 	@override String get k_147ngkl => '全部被抢光';
+	@override String get k_0fjomxg => '选择发布位置';
+	@override String get k_03f4jmh => '已签到';
+	@override String get k_003qbt7 => '签到';
+	@override String get k_03f4o01 => '未签到';
+	@override String get k_03icknz => '任务一';
+	@override String get k_03ig64z => '任务二';
+	@override String get k_03idiae => '任务三';
+	@override String get k_03ecaro => '任务四';
+	@override String get k_03igidn => '任务五';
+	@override String get k_03fut9c => '第一天';
+	@override String get k_03fuqb0 => '第二天';
+	@override String get k_03futft => '第三天';
+	@override String get k_03ftb4r => '第四天';
+	@override String get k_03fuppw => '第五天';
+	@override String get k_03fuxm5 => '第六天';
+	@override String get k_03futab => '第七天';
+	@override String get k_0s5szyd => '待解锁奖励';
+	@override String get k_0t0ts1c => '已获得奖励';
+	@override String get k_0ruq0wm => '我的邀请事业';
+	@override String get k_166jy2e => '已邀请好友';
+	@override String get k_10qzstq => '邀请收益';
+	@override String get k_1opznfb => '完成任务五';
+	@override String get k_1fy42dn => '完成任务一至四';
+	@override String get k_15i7r92 => '签到规则';
+	@override String get k_15u6ri9 => '每日签到';
+	@override String get k_02o1z1c => '已邀请';
+	@override String get k_05l9de1 => '输入好友验证码';
+	@override String get k_0y0p5ye => '我的邀请码';
+	@override String get k_0d2vbpb => '注册后登录后领取';
+	@override String get k_0opat74 => '转发红包任务页面分享至Facebook和Instagram';
+	@override String get k_0dp2x7p => '邀请1名新用户注册';
+	@override String get k_0pc55ca => '邀请3名好友组建群聊';
+	@override String k_0vt9742({required Object option1}) => '最高可领$option1';
+	@override String get k_1j4lyr6 => '并发红包到聊天群';
+	@override String k_05mwwnn({required Object option1}) => '再邀请$option1人,即可领取';
+	@override String get k_003q8jm => '奖励';
+	@override String get k_15ween8 => '签到成功';
+	@override String get k_15wdoje => '领取成功';
+	@override String get k_13liia3 => '恭喜用户';
+	@override String get k_003ru11 => '获得';
+	@override String get k_003s038 => '大奖';
+	@override String get k_0rl4297 => '邀请好友成功';
+	@override String get k_0rvbid9 => '请至少选择一个不可见的朋友';
+	@override String get k_0ncyfe8 => '请至少选择一个可见的朋友';
+	@override String get k_0pd2760 => '部分不可见';
+	@override String get k_10zkzrl => '注册登录后领取';
+	@override String get k_16zbs42 => '更改名字';
+	@override String get k_164xl46 => '好名字可以让你的朋友更容易记住你。';
+	@override String get k_09xk3b3 => '好的个性签名可以让朋友更好地了解你。';
+	@override String get k_1vlgifq => '设置备注后，将在好友列表中显示备注名。';
+	@override String get k_0dk3zpu => '设置后仅在本群显示，不会修改您的微信昵称。';
+	@override String get k_1mjiyr9 => '我在本群的昵称';
+	@override String get k_1ioeo2q => '修改群名称后，所有群成员都可以看到。';
 }
 
 // Path: <root>
@@ -4195,6 +4354,59 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_03ig94q => '发布中';
 	@override String get k_117aw1u => '个红包已过期';
 	@override String get k_147ngkl => '全部被抢光';
+	@override String get k_0fjomxg => '选择发布位置';
+	@override String get k_03f4jmh => '已签到';
+	@override String get k_003qbt7 => '签到';
+	@override String get k_03f4o01 => '未签到';
+	@override String get k_03icknz => '任务一';
+	@override String get k_03ig64z => '任务二';
+	@override String get k_03idiae => '任务三';
+	@override String get k_03ecaro => '任务四';
+	@override String get k_03igidn => '任务五';
+	@override String get k_03fut9c => '第一天';
+	@override String get k_03fuqb0 => '第二天';
+	@override String get k_03futft => '第三天';
+	@override String get k_03ftb4r => '第四天';
+	@override String get k_03fuppw => '第五天';
+	@override String get k_03fuxm5 => '第六天';
+	@override String get k_03futab => '第七天';
+	@override String get k_0s5szyd => '待解锁奖励';
+	@override String get k_0t0ts1c => '已获得奖励';
+	@override String get k_0ruq0wm => '我的邀请事业';
+	@override String get k_166jy2e => '已邀请好友';
+	@override String get k_10qzstq => '邀请收益';
+	@override String get k_1opznfb => '完成任务五';
+	@override String get k_1fy42dn => '完成任务一至四';
+	@override String get k_15i7r92 => '签到规则';
+	@override String get k_15u6ri9 => '每日签到';
+	@override String get k_02o1z1c => '已邀请';
+	@override String get k_05l9de1 => '输入好友验证码';
+	@override String get k_0y0p5ye => '我的邀请码';
+	@override String get k_0d2vbpb => '注册后登录后领取';
+	@override String get k_0opat74 => '转发红包任务页面分享至Facebook和Instagram';
+	@override String get k_0dp2x7p => '邀请1名新用户注册';
+	@override String get k_0pc55ca => '邀请3名好友组建群聊';
+	@override String k_0vt9742({required Object option1}) => '最高可领$option1';
+	@override String get k_1j4lyr6 => '并发红包到聊天群';
+	@override String k_05mwwnn({required Object option1}) => '再邀请$option1人,即可领取';
+	@override String get k_003q8jm => '奖励';
+	@override String get k_15ween8 => '签到成功';
+	@override String get k_15wdoje => '领取成功';
+	@override String get k_13liia3 => '恭喜用户';
+	@override String get k_003ru11 => '获得';
+	@override String get k_003s038 => '大奖';
+	@override String get k_0rl4297 => '邀请好友成功';
+	@override String get k_0rvbid9 => '请至少选择一个不可见的朋友';
+	@override String get k_0ncyfe8 => '请至少选择一个可见的朋友';
+	@override String get k_0pd2760 => '部分不可见';
+	@override String get k_10zkzrl => '注册登录后领取';
+	@override String get k_16zbs42 => '更改名字';
+	@override String get k_164xl46 => '好名字可以让你的朋友更容易记住你。';
+	@override String get k_09xk3b3 => '好的个性签名可以让朋友更好地了解你。';
+	@override String get k_1vlgifq => '设置备注后，将在好友列表中显示备注名。';
+	@override String get k_0dk3zpu => '设置后仅在本群显示，不会修改您的微信昵称。';
+	@override String get k_1mjiyr9 => '我在本群的昵称';
+	@override String get k_1ioeo2q => '修改群名称后，所有群成员都可以看到。';
 }
 
 // Path: <root>
@@ -4842,7 +5054,7 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_0rcqou9 => 'Copyright © 2013-2023 Tencent Cloud. All Rights Reserved. 騰訊雲 版權所有';
 	@override String get k_003lmhx => '群組';
 	@override String get k_1s251fa => '聯系人 & 群組';
-	@override String get k_0cjp3hx => '請選擇聯系人或群組，以查看詳情';
+	@override String get k_0cjp3hx => '請選擇聯系/^人/或群組，以查看詳情';
 	@override String get k_12veoax => '渠道切換：';
 	@override String get k_002rfh9 => '國際';
 	@override String get k_0864lq3 => '如果您在使用過程中有任何疑問，請通過如下渠道聯系我們';
@@ -4862,7 +5074,7 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_003is6v => '通用';
 	@override String get k_12s2mfc => '查看詳情';
 	@override String get k_12fsjye => '相關網站';
-	@override String get k_16uejmj => '個人中心';
+	@override String get k_16uejmj => '個中心';
 	@override String get k_0dtyory => '意見反饋';
 	@override String get k_03oy6z4 => '所有 SDK';
 	@override String get k_03bh54n => '源代碼';
@@ -4911,8 +5123,8 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_0y4cs5n => '[私有]';
 	@override String get k_0y6agtt => '[匿名]';
 	@override String get k_0y68wmo => '[實名]';
-	@override String k_1pssgjf({required Object option1}) => '應參與人數：$option1';
-	@override String k_0x9zkqf({required Object option2}) => '實際參與人數：$option2';
+	@override String k_1pssgjf({required Object option1}) => '應參與數：$option1';
+	@override String k_0x9zkqf({required Object option2}) => '實際參與數：$option2';
 	@override String get k_09ikyqj => '查看全部選項';
 	@override String k_0h2jp2z({required Object option1}) => '$option1票';
 	@override String get k_0y2zr3y => '[投票]';
@@ -4941,13 +5153,13 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_1fszgep => '歡迎黎我哋嘅知聊社區參與討論';
 	@override String get k_1xtvvs9 => '呢個社區用咗同款 Flutter UIKit，進行咗全平台開發';
 	@override String get k_0cdljc3 => '前往知聊社區';
-	@override String get k_167dvo3 => '揀選聯絡人';
+	@override String get k_167dvo3 => '揀選聯絡';
 	@override String get k_1u1jwb8 => 'zhiliao.qq.com';
 	@override String get k_003lyik => '直播';
 	@override String get k_1vwbpp2 => '直播主暫時未開播';
 	@override String get k_1l1p7uv => '喺一個鐘頭排行榜名次162';
-	@override String get k_0p7ezww => '歡迎嚟到直播間！未成年人唔准直播、打賞或者向未成年人出售酒精類產品。如果播主銷售酒精，未成年人仔請陪伴家長一齊觀看。直播間度唔容許出現違法、低俗色情、吸煙飲酒等行為。發現唔啱嘅獎勵或交易，請謹慎對待，免得衰走財失。如果要買產品，請撳下面購物車鍵，私下交易係違規嘅，留意財產安全，謹防上當受騙。';
-	@override String get k_0zw0eau => '風雨人生';
+	@override String get k_0p7ezww => '歡迎嚟到直播間！未成年唔准直播、打賞或者向未成年出售酒精類產品。如果播主銷售酒精，未成年仔請陪伴家長一齊觀看。直播間度唔容許出現違法、低俗色情、吸煙飲酒等行為。發現唔啱嘅獎勵或交易，請謹慎對待，免得衰走財失。如果要買產品，請撳下面購物車鍵，私下交易係違規嘅，留意財產安全，謹防上當受騙。';
+	@override String get k_0zw0eau => '風雨生';
 	@override String get k_132m79q => '通話結束';
 	@override String get k_002robo => '清除';
 	@override String get k_1t9kzib => '请输入密码';
@@ -4958,8 +5170,8 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_003qqtv => '好友';
 	@override String get k_003l10k => '发现';
 	@override String get k_162mbbl => '新的朋友';
-	@override String get k_18uctn2 => '附近的人';
-	@override String k_1knbm23({required Object option1}) => '$option1位联系人';
+	@override String get k_18uctn2 => '附近的';
+	@override String k_1knbm23({required Object option1}) => '$option1位联系';
 	@override String get k_00034e3 => '赞';
 	@override String get k_002wpbv => '评论';
 	@override String get k_121iefi => '所在位置';
@@ -5162,11 +5374,64 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_01p6lp4 => '更换朋友圈封面';
 	@override String get k_03idmyq => '拍一个';
 	@override String get k_0003y0c => '等';
-	@override String get k_00046qn => '人';
+	@override String get k_00046qn => '';
 	@override String get k_0o13ckd => '已复制到剪贴板';
 	@override String get k_03ig94q => '发布中';
 	@override String get k_117aw1u => '个红包已过期';
 	@override String get k_147ngkl => '全部被抢光';
+	@override String get k_0fjomxg => '选择发布位置';
+	@override String get k_03f4jmh => '已签到';
+	@override String get k_003qbt7 => '签到';
+	@override String get k_03f4o01 => '未签到';
+	@override String get k_03icknz => '任务一';
+	@override String get k_03ig64z => '任务二';
+	@override String get k_03idiae => '任务三';
+	@override String get k_03ecaro => '任务四';
+	@override String get k_03igidn => '任务五';
+	@override String get k_03fut9c => '第一天';
+	@override String get k_03fuqb0 => '第二天';
+	@override String get k_03futft => '第三天';
+	@override String get k_03ftb4r => '第四天';
+	@override String get k_03fuppw => '第五天';
+	@override String get k_03fuxm5 => '第六天';
+	@override String get k_03futab => '第七天';
+	@override String get k_0s5szyd => '待解锁奖励';
+	@override String get k_0t0ts1c => '已获得奖励';
+	@override String get k_0ruq0wm => '我的邀请事业';
+	@override String get k_166jy2e => '已邀请好友';
+	@override String get k_10qzstq => '邀请收益';
+	@override String get k_1opznfb => '完成任务五';
+	@override String get k_1fy42dn => '完成任务一至四';
+	@override String get k_15i7r92 => '签到规则';
+	@override String get k_15u6ri9 => '每日签到';
+	@override String get k_02o1z1c => '已邀请';
+	@override String get k_05l9de1 => '输入好友验证码';
+	@override String get k_0y0p5ye => '我的邀请码';
+	@override String get k_0d2vbpb => '注册后登录后领取';
+	@override String get k_0opat74 => '转发红包任务页面分享至Facebook和Instagram';
+	@override String get k_0dp2x7p => '邀请1名新用户注册';
+	@override String get k_0pc55ca => '邀请3名好友组建群聊';
+	@override String k_0vt9742({required Object option1}) => '最高可领$option1';
+	@override String get k_1j4lyr6 => '并发红包到聊天群';
+	@override String k_05mwwnn({required Object option1}) => '再邀请$option1,即可领取';
+	@override String get k_003q8jm => '奖励';
+	@override String get k_15ween8 => '签到成功';
+	@override String get k_15wdoje => '领取成功';
+	@override String get k_13liia3 => '恭喜用户';
+	@override String get k_003ru11 => '获得';
+	@override String get k_003s038 => '大奖';
+	@override String get k_0rl4297 => '邀请好友成功';
+	@override String get k_0rvbid9 => '请至少选择一个不可见的朋友';
+	@override String get k_0ncyfe8 => '请至少选择一个可见的朋友';
+	@override String get k_0pd2760 => '部分不可见';
+	@override String get k_10zkzrl => '注册登录后领取';
+	@override String get k_16zbs42 => '更改名字';
+	@override String get k_164xl46 => '好名字可以让你的朋友更容易记住你。';
+	@override String get k_09xk3b3 => '好的个性签名可以让朋友更好地了解你。';
+	@override String get k_1vlgifq => '设置备注后，将在好友列表中显示备注名。';
+	@override String get k_0dk3zpu => '设置后仅在本群显示，不会修改您的微信昵称。';
+	@override String get k_1mjiyr9 => '我在本群的昵称';
+	@override String get k_1ioeo2q => '修改群名称后，所有群成员都可以看到。';
 }
 
 /// Flat map(s) containing all translations.
@@ -6061,16 +6326,16 @@ extension on _StringsEn {
 			'k_0tnlko7': 'Log out?',
 			'k_002ulox': 'skip',
 			'k_03giwlz': 'Obtained',
-			'k_03cebos': 'Activated',
+			'k_03cebos': 'Asked',
 			'k_0h0ov4a': 'Invite Now',
 			'k_1rkj6a3': 'Face-to-Face Invite',
 			'k_15qja5g': 'Newbie Tasks',
 			'k_15i7req': 'Task Rules',
 			'k_003poph': 'Claim',
-			'k_03chmbm': 'Go Complete',
+			'k_03chmbm': 'Finish',
 			'k_15qiysj': 'Complete Task',
 			'k_15qmi3z': 'Accept Task',
-			'k_16pw0w5': 'Maximum Reward',
+			'k_16pw0w5': 'MaxR',
 			'k_03f0s1x': 'Do Tasks',
 			'k_03f16dg': 'Claim Rewards',
 			'k_116906c': 'Daily Red Packets',
@@ -6122,11 +6387,64 @@ extension on _StringsEn {
 			'k_01p6lp4': 'Change Moments Cover',
 			'k_03idmyq': 'Take a photo',
 			'k_0003y0c': 'etc.',
-			'k_00046qn': 'person(s)',
+			'k_00046qn': 'person',
 			'k_0o13ckd': 'Copied to clipboard',
 			'k_03ig94q': 'Publishing',
 			'k_117aw1u': 'Ampao have expired',
 			'k_147ngkl': 'All of them were robbed',
+			'k_0fjomxg': 'Choose spot',
+			'k_03f4jmh': 'Signed',
+			'k_003qbt7': 'Sign in',
+			'k_03f4o01': 'Unsign',
+			'k_03icknz': 'Task1',
+			'k_03ig64z': 'Task2',
+			'k_03idiae': 'Task3',
+			'k_03ecaro': 'Task4',
+			'k_03igidn': 'Task5',
+			'k_03fut9c': 'Day1',
+			'k_03fuqb0': 'Day2',
+			'k_03futft': 'Day3',
+			'k_03ftb4r': 'Day4',
+			'k_03fuppw': 'Day5',
+			'k_03fuxm5': 'Day6',
+			'k_03futab': 'Day7',
+			'k_0s5szyd': 'Locked',
+			'k_0t0ts1c': 'Rewarded',
+			'k_0ruq0wm': 'My invites',
+			'k_166jy2e': 'Invited',
+			'k_10qzstq': 'Earnings',
+			'k_1opznfb': 'FinishT5',
+			'k_1fy42dn': 'FinishT1-4',
+			'k_15i7r92': 'Rules',
+			'k_15u6ri9': 'Daily sign',
+			'k_02o1z1c': 'Invited',
+			'k_05l9de1': 'Enter code',
+			'k_0y0p5ye': 'My code',
+			'k_0d2vbpb': 'Claim after login',
+			'k_0opat74': 'Share to FB/IG',
+			'k_0dp2x7p': 'Invite one user',
+			'k_0pc55ca': 'Invite three friends',
+			'k_0vt9742': ({required Object option1}) => 'Max $option1',
+			'k_1j4lyr6': 'Send red packet to chat',
+			'k_05mwwnn': ({required Object option1}) => 'Invite $option1 more',
+			'k_003q8jm': 'Reward',
+			'k_15ween8': 'Signed',
+			'k_15wdoje': 'Claimed',
+			'k_13liia3': 'Congrats',
+			'k_003ru11': 'Get',
+			'k_003s038': 'Prize',
+			'k_0rl4297': 'Invite success',
+			'k_0rvbid9': 'Pick 1 hidden friend',
+			'k_0ncyfe8': 'Pick 1 visible friend',
+			'k_0pd2760': 'Part hidden',
+			'k_10zkzrl': 'Claim after login',
+			'k_16zbs42': 'Change name',
+			'k_164xl46': 'A good name helps friends remember you.',
+			'k_09xk3b3': 'A good status helps friends know you better.',
+			'k_1vlgifq': 'Remarks will show in your contacts list.',
+			'k_0dk3zpu': 'Only visible in this group, not your WeChat name.',
+			'k_1mjiyr9': 'My group nickname',
+			'k_1ioeo2q': 'All members can see the new group name.',
 		};
 	}
 }
@@ -7088,6 +7406,59 @@ extension on _StringsJa {
 			'k_03ig94q': '发布中',
 			'k_117aw1u': '个红包已过期',
 			'k_147ngkl': '全部被抢光',
+			'k_0fjomxg': '选择发布位置',
+			'k_03f4jmh': '已签到',
+			'k_003qbt7': '签到',
+			'k_03f4o01': '未签到',
+			'k_03icknz': '任务一',
+			'k_03ig64z': '任务二',
+			'k_03idiae': '任务三',
+			'k_03ecaro': '任务四',
+			'k_03igidn': '任务五',
+			'k_03fut9c': '第一天',
+			'k_03fuqb0': '第二天',
+			'k_03futft': '第三天',
+			'k_03ftb4r': '第四天',
+			'k_03fuppw': '第五天',
+			'k_03fuxm5': '第六天',
+			'k_03futab': '第七天',
+			'k_0s5szyd': '待解锁奖励',
+			'k_0t0ts1c': '已获得奖励',
+			'k_0ruq0wm': '我的邀请事业',
+			'k_166jy2e': '已邀请好友',
+			'k_10qzstq': '邀请收益',
+			'k_1opznfb': '完成任务五',
+			'k_1fy42dn': '完成任务一至四',
+			'k_15i7r92': '签到规则',
+			'k_15u6ri9': '每日签到',
+			'k_02o1z1c': '已邀请',
+			'k_05l9de1': '输入好友验证码',
+			'k_0y0p5ye': '我的邀请码',
+			'k_0d2vbpb': '注册后登录后领取',
+			'k_0opat74': '转发红包任务页面分享至Facebook和Instagram',
+			'k_0dp2x7p': '邀请1名新用户注册',
+			'k_0pc55ca': '邀请3名好友组建群聊',
+			'k_0vt9742': ({required Object option1}) => '最高可领$option1',
+			'k_1j4lyr6': '并发红包到聊天群',
+			'k_05mwwnn': ({required Object option1}) => '再邀请$option1人,即可领取',
+			'k_003q8jm': '奖励',
+			'k_15ween8': '签到成功',
+			'k_15wdoje': '领取成功',
+			'k_13liia3': '恭喜用户',
+			'k_003ru11': '获得',
+			'k_003s038': '大奖',
+			'k_0rl4297': '邀请好友成功',
+			'k_0rvbid9': '请至少选择一个不可见的朋友',
+			'k_0ncyfe8': '请至少选择一个可见的朋友',
+			'k_0pd2760': '部分不可见',
+			'k_10zkzrl': '注册登录后领取',
+			'k_16zbs42': '更改名字',
+			'k_164xl46': '好名字可以让你的朋友更容易记住你。',
+			'k_09xk3b3': '好的个性签名可以让朋友更好地了解你。',
+			'k_1vlgifq': '设置备注后，将在好友列表中显示备注名。',
+			'k_0dk3zpu': '设置后仅在本群显示，不会修改您的微信昵称。',
+			'k_1mjiyr9': '我在本群的昵称',
+			'k_1ioeo2q': '修改群名称后，所有群成员都可以看到。',
 		};
 	}
 }
@@ -8049,6 +8420,59 @@ extension on _StringsKo {
 			'k_03ig94q': '发布中',
 			'k_117aw1u': '个红包已过期',
 			'k_147ngkl': '全部被抢光',
+			'k_0fjomxg': '选择发布位置',
+			'k_03f4jmh': '已签到',
+			'k_003qbt7': '签到',
+			'k_03f4o01': '未签到',
+			'k_03icknz': '任务一',
+			'k_03ig64z': '任务二',
+			'k_03idiae': '任务三',
+			'k_03ecaro': '任务四',
+			'k_03igidn': '任务五',
+			'k_03fut9c': '第一天',
+			'k_03fuqb0': '第二天',
+			'k_03futft': '第三天',
+			'k_03ftb4r': '第四天',
+			'k_03fuppw': '第五天',
+			'k_03fuxm5': '第六天',
+			'k_03futab': '第七天',
+			'k_0s5szyd': '待解锁奖励',
+			'k_0t0ts1c': '已获得奖励',
+			'k_0ruq0wm': '我的邀请事业',
+			'k_166jy2e': '已邀请好友',
+			'k_10qzstq': '邀请收益',
+			'k_1opznfb': '完成任务五',
+			'k_1fy42dn': '完成任务一至四',
+			'k_15i7r92': '签到规则',
+			'k_15u6ri9': '每日签到',
+			'k_02o1z1c': '已邀请',
+			'k_05l9de1': '输入好友验证码',
+			'k_0y0p5ye': '我的邀请码',
+			'k_0d2vbpb': '注册后登录后领取',
+			'k_0opat74': '转发红包任务页面分享至Facebook和Instagram',
+			'k_0dp2x7p': '邀请1名新用户注册',
+			'k_0pc55ca': '邀请3名好友组建群聊',
+			'k_0vt9742': ({required Object option1}) => '最高可领$option1',
+			'k_1j4lyr6': '并发红包到聊天群',
+			'k_05mwwnn': ({required Object option1}) => '再邀请$option1人,即可领取',
+			'k_003q8jm': '奖励',
+			'k_15ween8': '签到成功',
+			'k_15wdoje': '领取成功',
+			'k_13liia3': '恭喜用户',
+			'k_003ru11': '获得',
+			'k_003s038': '大奖',
+			'k_0rl4297': '邀请好友成功',
+			'k_0rvbid9': '请至少选择一个不可见的朋友',
+			'k_0ncyfe8': '请至少选择一个可见的朋友',
+			'k_0pd2760': '部分不可见',
+			'k_10zkzrl': '注册登录后领取',
+			'k_16zbs42': '更改名字',
+			'k_164xl46': '好名字可以让你的朋友更容易记住你。',
+			'k_09xk3b3': '好的个性签名可以让朋友更好地了解你。',
+			'k_1vlgifq': '设置备注后，将在好友列表中显示备注名。',
+			'k_0dk3zpu': '设置后仅在本群显示，不会修改您的微信昵称。',
+			'k_1mjiyr9': '我在本群的昵称',
+			'k_1ioeo2q': '修改群名称后，所有群成员都可以看到。',
 		};
 	}
 }
@@ -9008,6 +9432,59 @@ extension on _StringsZhHans {
 			'k_03ig94q': '发布中',
 			'k_117aw1u': '个红包已过期',
 			'k_147ngkl': '全部被抢光',
+			'k_0fjomxg': '选择发布位置',
+			'k_03f4jmh': '已签到',
+			'k_003qbt7': '签到',
+			'k_03f4o01': '未签到',
+			'k_03icknz': '任务一',
+			'k_03ig64z': '任务二',
+			'k_03idiae': '任务三',
+			'k_03ecaro': '任务四',
+			'k_03igidn': '任务五',
+			'k_03fut9c': '第一天',
+			'k_03fuqb0': '第二天',
+			'k_03futft': '第三天',
+			'k_03ftb4r': '第四天',
+			'k_03fuppw': '第五天',
+			'k_03fuxm5': '第六天',
+			'k_03futab': '第七天',
+			'k_0s5szyd': '待解锁奖励',
+			'k_0t0ts1c': '已获得奖励',
+			'k_0ruq0wm': '我的邀请事业',
+			'k_166jy2e': '已邀请好友',
+			'k_10qzstq': '邀请收益',
+			'k_1opznfb': '完成任务五',
+			'k_1fy42dn': '完成任务一至四',
+			'k_15i7r92': '签到规则',
+			'k_15u6ri9': '每日签到',
+			'k_02o1z1c': '已邀请',
+			'k_05l9de1': '输入好友验证码',
+			'k_0y0p5ye': '我的邀请码',
+			'k_0d2vbpb': '注册后登录后领取',
+			'k_0opat74': '转发红包任务页面分享至Facebook和Instagram',
+			'k_0dp2x7p': '邀请1名新用户注册',
+			'k_0pc55ca': '邀请3名好友组建群聊',
+			'k_0vt9742': ({required Object option1}) => '最高可领$option1',
+			'k_1j4lyr6': '并发红包到聊天群',
+			'k_05mwwnn': ({required Object option1}) => '再邀请$option1人,即可领取',
+			'k_003q8jm': '奖励',
+			'k_15ween8': '签到成功',
+			'k_15wdoje': '领取成功',
+			'k_13liia3': '恭喜用户',
+			'k_003ru11': '获得',
+			'k_003s038': '大奖',
+			'k_0rl4297': '邀请好友成功',
+			'k_0rvbid9': '请至少选择一个不可见的朋友',
+			'k_0ncyfe8': '请至少选择一个可见的朋友',
+			'k_0pd2760': '部分不可见',
+			'k_10zkzrl': '注册登录后领取',
+			'k_16zbs42': '更改名字',
+			'k_164xl46': '好名字可以让你的朋友更容易记住你。',
+			'k_09xk3b3': '好的个性签名可以让朋友更好地了解你。',
+			'k_1vlgifq': '设置备注后，将在好友列表中显示备注名。',
+			'k_0dk3zpu': '设置后仅在本群显示，不会修改您的微信昵称。',
+			'k_1mjiyr9': '我在本群的昵称',
+			'k_1ioeo2q': '修改群名称后，所有群成员都可以看到。',
 		};
 	}
 }
@@ -9644,7 +10121,7 @@ extension on _StringsZhHant {
 			'k_0rcqou9': 'Copyright © 2013-2023 Tencent Cloud. All Rights Reserved. 騰訊雲 版權所有',
 			'k_003lmhx': '群組',
 			'k_1s251fa': '聯系人 & 群組',
-			'k_0cjp3hx': '請選擇聯系人或群組，以查看詳情',
+			'k_0cjp3hx': '請選擇聯系/^人/或群組，以查看詳情',
 			'k_12veoax': '渠道切換：',
 			'k_002rfh9': '國際',
 			'k_0864lq3': '如果您在使用過程中有任何疑問，請通過如下渠道聯系我們',
@@ -9664,7 +10141,7 @@ extension on _StringsZhHant {
 			'k_003is6v': '通用',
 			'k_12s2mfc': '查看詳情',
 			'k_12fsjye': '相關網站',
-			'k_16uejmj': '個人中心',
+			'k_16uejmj': '個中心',
 			'k_0dtyory': '意見反饋',
 			'k_03oy6z4': '所有 SDK',
 			'k_03bh54n': '源代碼',
@@ -9713,8 +10190,8 @@ extension on _StringsZhHant {
 			'k_0y4cs5n': '[私有]',
 			'k_0y6agtt': '[匿名]',
 			'k_0y68wmo': '[實名]',
-			'k_1pssgjf': ({required Object option1}) => '應參與人數：$option1',
-			'k_0x9zkqf': ({required Object option2}) => '實際參與人數：$option2',
+			'k_1pssgjf': ({required Object option1}) => '應參與數：$option1',
+			'k_0x9zkqf': ({required Object option2}) => '實際參與數：$option2',
 			'k_09ikyqj': '查看全部選項',
 			'k_0h2jp2z': ({required Object option1}) => '$option1票',
 			'k_0y2zr3y': '[投票]',
@@ -9743,13 +10220,13 @@ extension on _StringsZhHant {
 			'k_1fszgep': '歡迎黎我哋嘅知聊社區參與討論',
 			'k_1xtvvs9': '呢個社區用咗同款 Flutter UIKit，進行咗全平台開發',
 			'k_0cdljc3': '前往知聊社區',
-			'k_167dvo3': '揀選聯絡人',
+			'k_167dvo3': '揀選聯絡',
 			'k_1u1jwb8': 'zhiliao.qq.com',
 			'k_003lyik': '直播',
 			'k_1vwbpp2': '直播主暫時未開播',
 			'k_1l1p7uv': '喺一個鐘頭排行榜名次162',
-			'k_0p7ezww': '歡迎嚟到直播間！未成年人唔准直播、打賞或者向未成年人出售酒精類產品。如果播主銷售酒精，未成年人仔請陪伴家長一齊觀看。直播間度唔容許出現違法、低俗色情、吸煙飲酒等行為。發現唔啱嘅獎勵或交易，請謹慎對待，免得衰走財失。如果要買產品，請撳下面購物車鍵，私下交易係違規嘅，留意財產安全，謹防上當受騙。',
-			'k_0zw0eau': '風雨人生',
+			'k_0p7ezww': '歡迎嚟到直播間！未成年唔准直播、打賞或者向未成年出售酒精類產品。如果播主銷售酒精，未成年仔請陪伴家長一齊觀看。直播間度唔容許出現違法、低俗色情、吸煙飲酒等行為。發現唔啱嘅獎勵或交易，請謹慎對待，免得衰走財失。如果要買產品，請撳下面購物車鍵，私下交易係違規嘅，留意財產安全，謹防上當受騙。',
+			'k_0zw0eau': '風雨生',
 			'k_132m79q': '通話結束',
 			'k_002robo': '清除',
 			'k_1t9kzib': '请输入密码',
@@ -9760,8 +10237,8 @@ extension on _StringsZhHant {
 			'k_003qqtv': '好友',
 			'k_003l10k': '发现',
 			'k_162mbbl': '新的朋友',
-			'k_18uctn2': '附近的人',
-			'k_1knbm23': ({required Object option1}) => '$option1位联系人',
+			'k_18uctn2': '附近的',
+			'k_1knbm23': ({required Object option1}) => '$option1位联系',
 			'k_00034e3': '赞',
 			'k_002wpbv': '评论',
 			'k_121iefi': '所在位置',
@@ -9964,11 +10441,64 @@ extension on _StringsZhHant {
 			'k_01p6lp4': '更换朋友圈封面',
 			'k_03idmyq': '拍一个',
 			'k_0003y0c': '等',
-			'k_00046qn': '人',
+			'k_00046qn': '',
 			'k_0o13ckd': '已复制到剪贴板',
 			'k_03ig94q': '发布中',
 			'k_117aw1u': '个红包已过期',
 			'k_147ngkl': '全部被抢光',
+			'k_0fjomxg': '选择发布位置',
+			'k_03f4jmh': '已签到',
+			'k_003qbt7': '签到',
+			'k_03f4o01': '未签到',
+			'k_03icknz': '任务一',
+			'k_03ig64z': '任务二',
+			'k_03idiae': '任务三',
+			'k_03ecaro': '任务四',
+			'k_03igidn': '任务五',
+			'k_03fut9c': '第一天',
+			'k_03fuqb0': '第二天',
+			'k_03futft': '第三天',
+			'k_03ftb4r': '第四天',
+			'k_03fuppw': '第五天',
+			'k_03fuxm5': '第六天',
+			'k_03futab': '第七天',
+			'k_0s5szyd': '待解锁奖励',
+			'k_0t0ts1c': '已获得奖励',
+			'k_0ruq0wm': '我的邀请事业',
+			'k_166jy2e': '已邀请好友',
+			'k_10qzstq': '邀请收益',
+			'k_1opznfb': '完成任务五',
+			'k_1fy42dn': '完成任务一至四',
+			'k_15i7r92': '签到规则',
+			'k_15u6ri9': '每日签到',
+			'k_02o1z1c': '已邀请',
+			'k_05l9de1': '输入好友验证码',
+			'k_0y0p5ye': '我的邀请码',
+			'k_0d2vbpb': '注册后登录后领取',
+			'k_0opat74': '转发红包任务页面分享至Facebook和Instagram',
+			'k_0dp2x7p': '邀请1名新用户注册',
+			'k_0pc55ca': '邀请3名好友组建群聊',
+			'k_0vt9742': ({required Object option1}) => '最高可领$option1',
+			'k_1j4lyr6': '并发红包到聊天群',
+			'k_05mwwnn': ({required Object option1}) => '再邀请$option1,即可领取',
+			'k_003q8jm': '奖励',
+			'k_15ween8': '签到成功',
+			'k_15wdoje': '领取成功',
+			'k_13liia3': '恭喜用户',
+			'k_003ru11': '获得',
+			'k_003s038': '大奖',
+			'k_0rl4297': '邀请好友成功',
+			'k_0rvbid9': '请至少选择一个不可见的朋友',
+			'k_0ncyfe8': '请至少选择一个可见的朋友',
+			'k_0pd2760': '部分不可见',
+			'k_10zkzrl': '注册登录后领取',
+			'k_16zbs42': '更改名字',
+			'k_164xl46': '好名字可以让你的朋友更容易记住你。',
+			'k_09xk3b3': '好的个性签名可以让朋友更好地了解你。',
+			'k_1vlgifq': '设置备注后，将在好友列表中显示备注名。',
+			'k_0dk3zpu': '设置后仅在本群显示，不会修改您的微信昵称。',
+			'k_1mjiyr9': '我在本群的昵称',
+			'k_1ioeo2q': '修改群名称后，所有群成员都可以看到。',
 		};
 	}
 }
