@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 5031 (1006.2 per locale)
+ * Strings: 5513 (1102.6 per locale)
  *
- * Built on 2025-09-04 at 03:19 UTC
+ * Built on 2025-09-30 at 08:52 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1230,7 +1230,7 @@ class _StringsEn {
 	String get k_116906c => 'Daily Red Packets';
 	String get k_03ckc9x => 'Scan';
 	String get k_03bqp24 => 'QR Code';
-	String get k_172zmzc => 'Add Me as Friend';
+	String get k_172zmzc => 'Add Friend';
 	String get k_1wamano => 'Place QR code within frame to scan automatically';
 	String get k_1ymiwcp => 'My QR Code';
 	String get k_09ka24d => 'Search Chat History';
@@ -1334,6 +1334,103 @@ class _StringsEn {
 	String get k_0dk3zpu => 'Only visible in this group, not your WeChat name.';
 	String get k_1mjiyr9 => 'My group nickname';
 	String get k_1ioeo2q => 'All members can see the new group name.';
+	String get k_0003zqr => 'or';
+	String get k_003l8z3 => 'Prompt';
+	String get k_002wt6l => 'Retry';
+	String get k_04p8hzm => 'Unable to get location, check permission settings';
+	String get k_1mdwmix => 'Location failed, check network and permissions';
+	String get k_0qv0nd3 => 'Search failed, check network';
+	String get k_0988fsd => 'Search nearby places';
+	String get k_0v721yp => 'Loading more places...';
+	String get k_18ivne4 => 'No more places';
+	String get k_1by8r1r => 'Do not display location';
+	String get k_0p632lk => 'The current bill is empty';
+	String get k_156uaze => 'No related billing records available';
+	String get k_03e6obs => 'First';
+	String get k_03e6kys => 'Second';
+	String get k_03e6o3l => 'Third';
+	String get k_03eanbn => 'Fourth';
+	String get k_03e6ksc => 'Fifth';
+	String get k_03eb6p1 => 'Sixth';
+	String get k_03e6ocr => 'Seventh';
+	String get k_03ecvg3 => 'Signed';
+	String get k_13287fp => 'Enter Nickname';
+	String get k_03a2zjt => 'Choose Gift';
+	String get k_117w4en => 'Change Gift';
+	String get k_03ieuc4 => 'Final Price';
+	String get k_03c5a72 => 'Select';
+	String get k_02m3ixo => 'Recipient';
+	String get k_1lfqyfz => 'Exclude Myself';
+	String get k_18lxzk2 => 'Select Gift Quantity';
+	String get k_14xhavp => 'A Gift for You';
+	String get k_14s9ac4 => 'Pay & Send';
+	String get k_12bah4t => 'Gift Quantity';
+	String get k_00046s8 => 'Unit';
+	String get k_0vmerwq => 'Unclaimed gifts refunded in 24h';
+	String get k_117yd4t => 'Exclusive Gift';
+	String get k_0kgx188 => 'Flash Gift';
+	String get k_12b4ti2 => 'Enter Quantity';
+	String get k_15ntvjs => 'Gift Shop';
+	String get k_1j0a9ps => 'Select Members (Exclusive Gift)';
+	String get k_16s8i0w => 'Select Members (Flash Gift)';
+	String get k_0h1otop => 'Select Members';
+	String get k_1g6qg4o => 'Max Select for Exclusive Gift';
+	String get k_000045h => '';
+	String get k_086zisw => 'Select Members (Exclusive Gift)';
+	String get k_07tdzh1 => 'Select Members (Flash Gift)';
+	String get k_003ku40 => 'Gifts';
+	String get k_039shsq => 'Sent';
+	String get k_039rnvr => 'Received';
+	String get k_02n5bc7 => 'Cart';
+	String get k_03idvce => 'Myself';
+	String get k_1dgybz4 => 'Popular Gifts';
+	String get k_002r7g7 => 'Filter';
+	String get k_0jnnigy => 'Delete Item';
+	String get k_17bsyzp => 'View More';
+	String get k_03feguc => 'To Friend';
+	String get k_1372vgg => 'Recent Searches';
+	String get k_0nt2du5 => 'No Suggestions';
+	String get k_002rmhk => 'All';
+	String get k_002qizu => 'Sales';
+	String get k_003p9am => 'Price';
+	String get k_0c5lri8 => 'Price Range';
+	String get k_003ozdl => 'Sold';
+	String get k_038m9wo => 'For Women';
+	String get k_038ojfw => 'For Men';
+	String get k_02n74dv => 'For Seniors';
+	String get k_03gdxfh => 'For Kids';
+	String get k_03iexy4 => 'Min Price';
+	String get k_03jgf4a => 'Max Price';
+	String get k_003m86e => 'Reset';
+	String get k_15khsa6 => 'Add Address';
+	String get k_117ljcq => 'Confirm Gift';
+	String get k_003o6f1 => 'Specification';
+	String get k_1sb5dy2 => 'Select items, coordinate with seller';
+	String get k_00034cy => 'From';
+	String get k_1cbvcrh => 'Supports Gift Cover';
+	String get k_002uosz => 'Shipping';
+	String get k_1xt7r9f => 'Ships within 48h';
+	String get k_1atykm8 => 'Free Shipping, from Linyi, Shandong';
+	String get k_002rero => 'Guarantee';
+	String get k_0c8fbte => 'Eco Return';
+	String get k_02i8dl1 => 'Shipping Insurance';
+	String get k_1ew1nv0 => '7-Day Return';
+	String get k_003pxgi => 'Product';
+	String get k_003mow6 => 'Details';
+	String get k_12rxq1t => 'Product Details';
+	String get k_1rl1fy0 => 'Product Images';
+	String get k_15hwc1r => 'Buy Product';
+	String get k_14qm6hi => 'Purchase Successful!';
+	String get k_03todpw => '[Incoming Call]';
+	String get k_03ckobz => 'Expired';
+	String get k_03b4dcj => 'Pending receipt';
+	String get k_02m48om => 'Pending shipment';
+	String get k_03jfsh0 => 'In delivery';
+	String get k_02m7ugh => 'Pending delivery';
+	String get k_03je36b => 'Pending review';
+	String get k_03cho97 => 'Completed';
+	String get k_02iq161 => 'Closed';
+	String get k_13we9fh => 'Unknown status';
 }
 
 // Path: <root>
@@ -2359,6 +2456,102 @@ class _StringsJa implements _StringsEn {
 	@override String get k_0dk3zpu => '设置后仅在本群显示，不会修改您的微信昵称。';
 	@override String get k_1mjiyr9 => '我在本群的昵称';
 	@override String get k_1ioeo2q => '修改群名称后，所有群成员都可以看到。';
+	@override String get k_0003zqr => '或';
+	@override String get k_003l8z3 => '提示';
+	@override String get k_002wt6l => '重试';
+	@override String get k_04p8hzm => '无法获取当前位置，请检查位置权限设置';
+	@override String get k_1mdwmix => '获取位置信息失败，请检查网络连接和位置权限';
+	@override String get k_0qv0nd3 => '搜索失败，请检查网络连接';
+	@override String get k_0988fsd => '搜索附近位置';
+	@override String get k_0v721yp => '加载更多地点...';
+	@override String get k_18ivne4 => '没有更多地点了';
+	@override String get k_1by8r1r => '不显示位置';
+	@override String get k_0p632lk => '当前账单为空';
+	@override String get k_156uaze => '暂无相关账单记录';
+	@override String get k_03e6obs => '第一次';
+	@override String get k_03e6kys => '第二次';
+	@override String get k_03e6o3l => '第三次';
+	@override String get k_03eanbn => '第四次';
+	@override String get k_03e6ksc => '第五次';
+	@override String get k_03eb6p1 => '第六次';
+	@override String get k_03e6ocr => '第七次';
+	@override String get k_03ecvg3 => '已注册';
+	@override String get k_13287fp => '请填写昵称';
+	@override String get k_03a2zjt => '选礼物';
+	@override String get k_117w4en => '换份礼物';
+	@override String get k_03ieuc4 => '实付价';
+	@override String get k_03c5a72 => '去选择';
+	@override String get k_02m3ixo => '送给谁';
+	@override String get k_1lfqyfz => '自己不参与';
+	@override String get k_18lxzk2 => '请先选择礼物份数';
+	@override String get k_14xhavp => '送你一份心意';
+	@override String get k_14s9ac4 => '付款并赠送';
+	@override String get k_12bah4t => '礼物份数';
+	@override String get k_00046s8 => '份';
+	@override String get k_0vmerwq => '未收下的礼物，将于24小时后自动退款';
+	@override String get k_117yd4t => '专属礼物';
+	@override String get k_0kgx188 => '拼手速礼物';
+	@override String get k_12b4ti2 => '填写份数';
+	@override String get k_15ntvjs => '礼物商城';
+	@override String get k_1j0a9ps => '选择群成员（专属礼物）';
+	@override String get k_16s8i0w => '选择群成员（拼手速）';
+	@override String get k_0h1otop => '选择群成员';
+	@override String get k_1g6qg4o => '专属礼物最多可选择';
+	@override String get k_086zisw => '选择群成员(专属礼物)';
+	@override String get k_07tdzh1 => '选择群成员(拼手速礼物)';
+	@override String get k_003ku40 => '礼物';
+	@override String get k_039shsq => '送出的';
+	@override String get k_039rnvr => '收到的';
+	@override String get k_02n5bc7 => '购物车';
+	@override String get k_03idvce => '自己买';
+	@override String get k_1dgybz4 => '大家都在送';
+	@override String get k_002r7g7 => '筛选';
+	@override String get k_0jnnigy => '删除此商品';
+	@override String get k_17bsyzp => '查看更多';
+	@override String get k_03feguc => '送朋友';
+	@override String get k_1372vgg => '最近在搜';
+	@override String get k_0nt2du5 => '暂无搜索建议';
+	@override String get k_002rmhk => '不限';
+	@override String get k_002qizu => '销量';
+	@override String get k_003p9am => '价格';
+	@override String get k_0c5lri8 => '价格区间';
+	@override String get k_003ozdl => '已售';
+	@override String get k_038m9wo => '送女生';
+	@override String get k_038ojfw => '送男生';
+	@override String get k_02n74dv => '送长辈';
+	@override String get k_03gdxfh => '送孩子';
+	@override String get k_03iexy4 => '最低价';
+	@override String get k_03jgf4a => '最高价';
+	@override String get k_003m86e => '重置';
+	@override String get k_15khsa6 => '添加地址';
+	@override String get k_117ljcq => '确认礼物';
+	@override String get k_003o6f1 => '规格';
+	@override String get k_1sb5dy2 => '选购，建议与商家协商一致';
+	@override String get k_00034cy => '起';
+	@override String get k_1cbvcrh => '支持礼物封面';
+	@override String get k_002uosz => '发货';
+	@override String get k_1xt7r9f => '48小时内发货';
+	@override String get k_1atykm8 => '免运费，山东临沂发货';
+	@override String get k_002rero => '保障';
+	@override String get k_0c8fbte => '环保包退';
+	@override String get k_02i8dl1 => '运费险';
+	@override String get k_1ew1nv0 => '7天无理由';
+	@override String get k_003pxgi => '商品';
+	@override String get k_003mow6 => '详情';
+	@override String get k_12rxq1t => '商品详情';
+	@override String get k_1rl1fy0 => '商品详情图片';
+	@override String get k_15hwc1r => '购买商品';
+	@override String get k_14qm6hi => '购买成功！';
+	@override String get k_03todpw => '[来电消息]';
+	@override String get k_03ckobz => '已过期';
+	@override String get k_03b4dcj => '待接收';
+	@override String get k_02m48om => '待发货';
+	@override String get k_03jfsh0 => '配送中';
+	@override String get k_02m7ugh => '待收货';
+	@override String get k_03je36b => '待评价';
+	@override String get k_03cho97 => '已完成';
+	@override String get k_02iq161 => '已关闭';
+	@override String get k_13we9fh => '未知状态';
 }
 
 // Path: <root>
@@ -3384,6 +3577,102 @@ class _StringsKo implements _StringsEn {
 	@override String get k_0dk3zpu => '设置后仅在本群显示，不会修改您的微信昵称。';
 	@override String get k_1mjiyr9 => '我在本群的昵称';
 	@override String get k_1ioeo2q => '修改群名称后，所有群成员都可以看到。';
+	@override String get k_0003zqr => '或';
+	@override String get k_003l8z3 => '提示';
+	@override String get k_002wt6l => '重试';
+	@override String get k_04p8hzm => '无法获取当前位置，请检查位置权限设置';
+	@override String get k_1mdwmix => '获取位置信息失败，请检查网络连接和位置权限';
+	@override String get k_0qv0nd3 => '搜索失败，请检查网络连接';
+	@override String get k_0988fsd => '搜索附近位置';
+	@override String get k_0v721yp => '加载更多地点...';
+	@override String get k_18ivne4 => '没有更多地点了';
+	@override String get k_1by8r1r => '不显示位置';
+	@override String get k_0p632lk => '当前账单为空';
+	@override String get k_156uaze => '暂无相关账单记录';
+	@override String get k_03e6obs => '第一次';
+	@override String get k_03e6kys => '第二次';
+	@override String get k_03e6o3l => '第三次';
+	@override String get k_03eanbn => '第四次';
+	@override String get k_03e6ksc => '第五次';
+	@override String get k_03eb6p1 => '第六次';
+	@override String get k_03e6ocr => '第七次';
+	@override String get k_03ecvg3 => '已注册';
+	@override String get k_13287fp => '请填写昵称';
+	@override String get k_03a2zjt => '选礼物';
+	@override String get k_117w4en => '换份礼物';
+	@override String get k_03ieuc4 => '实付价';
+	@override String get k_03c5a72 => '去选择';
+	@override String get k_02m3ixo => '送给谁';
+	@override String get k_1lfqyfz => '自己不参与';
+	@override String get k_18lxzk2 => '请先选择礼物份数';
+	@override String get k_14xhavp => '送你一份心意';
+	@override String get k_14s9ac4 => '付款并赠送';
+	@override String get k_12bah4t => '礼物份数';
+	@override String get k_00046s8 => '份';
+	@override String get k_0vmerwq => '未收下的礼物，将于24小时后自动退款';
+	@override String get k_117yd4t => '专属礼物';
+	@override String get k_0kgx188 => '拼手速礼物';
+	@override String get k_12b4ti2 => '填写份数';
+	@override String get k_15ntvjs => '礼物商城';
+	@override String get k_1j0a9ps => '选择群成员（专属礼物）';
+	@override String get k_16s8i0w => '选择群成员（拼手速）';
+	@override String get k_0h1otop => '选择群成员';
+	@override String get k_1g6qg4o => '专属礼物最多可选择';
+	@override String get k_086zisw => '选择群成员(专属礼物)';
+	@override String get k_07tdzh1 => '选择群成员(拼手速礼物)';
+	@override String get k_003ku40 => '礼物';
+	@override String get k_039shsq => '送出的';
+	@override String get k_039rnvr => '收到的';
+	@override String get k_02n5bc7 => '购物车';
+	@override String get k_03idvce => '自己买';
+	@override String get k_1dgybz4 => '大家都在送';
+	@override String get k_002r7g7 => '筛选';
+	@override String get k_0jnnigy => '删除此商品';
+	@override String get k_17bsyzp => '查看更多';
+	@override String get k_03feguc => '送朋友';
+	@override String get k_1372vgg => '最近在搜';
+	@override String get k_0nt2du5 => '暂无搜索建议';
+	@override String get k_002rmhk => '不限';
+	@override String get k_002qizu => '销量';
+	@override String get k_003p9am => '价格';
+	@override String get k_0c5lri8 => '价格区间';
+	@override String get k_003ozdl => '已售';
+	@override String get k_038m9wo => '送女生';
+	@override String get k_038ojfw => '送男生';
+	@override String get k_02n74dv => '送长辈';
+	@override String get k_03gdxfh => '送孩子';
+	@override String get k_03iexy4 => '最低价';
+	@override String get k_03jgf4a => '最高价';
+	@override String get k_003m86e => '重置';
+	@override String get k_15khsa6 => '添加地址';
+	@override String get k_117ljcq => '确认礼物';
+	@override String get k_003o6f1 => '规格';
+	@override String get k_1sb5dy2 => '选购，建议与商家协商一致';
+	@override String get k_00034cy => '起';
+	@override String get k_1cbvcrh => '支持礼物封面';
+	@override String get k_002uosz => '发货';
+	@override String get k_1xt7r9f => '48小时内发货';
+	@override String get k_1atykm8 => '免运费，山东临沂发货';
+	@override String get k_002rero => '保障';
+	@override String get k_0c8fbte => '环保包退';
+	@override String get k_02i8dl1 => '运费险';
+	@override String get k_1ew1nv0 => '7天无理由';
+	@override String get k_003pxgi => '商品';
+	@override String get k_003mow6 => '详情';
+	@override String get k_12rxq1t => '商品详情';
+	@override String get k_1rl1fy0 => '商品详情图片';
+	@override String get k_15hwc1r => '购买商品';
+	@override String get k_14qm6hi => '购买成功！';
+	@override String get k_03todpw => '[来电消息]';
+	@override String get k_03ckobz => '已过期';
+	@override String get k_03b4dcj => '待接收';
+	@override String get k_02m48om => '待发货';
+	@override String get k_03jfsh0 => '配送中';
+	@override String get k_02m7ugh => '待收货';
+	@override String get k_03je36b => '待评价';
+	@override String get k_03cho97 => '已完成';
+	@override String get k_02iq161 => '已关闭';
+	@override String get k_13we9fh => '未知状态';
 }
 
 // Path: <root>
@@ -4407,6 +4696,103 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_0dk3zpu => '设置后仅在本群显示，不会修改您的微信昵称。';
 	@override String get k_1mjiyr9 => '我在本群的昵称';
 	@override String get k_1ioeo2q => '修改群名称后，所有群成员都可以看到。';
+	@override String get k_0003zqr => '或';
+	@override String get k_003l8z3 => '提示';
+	@override String get k_002wt6l => '重试';
+	@override String get k_04p8hzm => '无法获取当前位置，请检查位置权限设置';
+	@override String get k_1mdwmix => '获取位置信息失败，请检查网络连接和位置权限';
+	@override String get k_0qv0nd3 => '搜索失败，请检查网络连接';
+	@override String get k_0988fsd => '搜索附近位置';
+	@override String get k_0v721yp => '加载更多地点...';
+	@override String get k_18ivne4 => '没有更多地点了';
+	@override String get k_1by8r1r => '不显示位置';
+	@override String get k_0p632lk => '当前账单为空';
+	@override String get k_156uaze => '暂无相关账单记录';
+	@override String get k_03e6obs => '第一次';
+	@override String get k_03e6kys => '第二次';
+	@override String get k_03e6o3l => '第三次';
+	@override String get k_03eanbn => '第四次';
+	@override String get k_03e6ksc => '第五次';
+	@override String get k_03eb6p1 => '第六次';
+	@override String get k_03e6ocr => '第七次';
+	@override String get k_03ecvg3 => '已注册';
+	@override String get k_13287fp => '请填写昵称';
+	@override String get k_03a2zjt => '选礼物';
+	@override String get k_117w4en => '换份礼物';
+	@override String get k_03ieuc4 => '实付价';
+	@override String get k_03c5a72 => '去选择';
+	@override String get k_02m3ixo => '送给谁';
+	@override String get k_1lfqyfz => '自己不参与';
+	@override String get k_18lxzk2 => '请先选择礼物份数';
+	@override String get k_14xhavp => '送你一份心意';
+	@override String get k_14s9ac4 => '付款并赠送';
+	@override String get k_12bah4t => '礼物份数';
+	@override String get k_00046s8 => '份';
+	@override String get k_0vmerwq => '未收下的礼物，将于24小时后自动退款';
+	@override String get k_117yd4t => '专属礼物';
+	@override String get k_0kgx188 => '拼手速礼物';
+	@override String get k_12b4ti2 => '填写份数';
+	@override String get k_15ntvjs => '礼物商城';
+	@override String get k_1j0a9ps => '选择群成员（专属礼物）';
+	@override String get k_16s8i0w => '选择群成员（拼手速）';
+	@override String get k_0h1otop => '选择群成员';
+	@override String get k_1g6qg4o => '专属礼物最多可选择';
+	@override String get k_000045h => '';
+	@override String get k_086zisw => '选择群成员(专属礼物)';
+	@override String get k_07tdzh1 => '选择群成员(拼手速礼物)';
+	@override String get k_003ku40 => '礼物';
+	@override String get k_039shsq => '送出的';
+	@override String get k_039rnvr => '收到的';
+	@override String get k_02n5bc7 => '购物车';
+	@override String get k_03idvce => '自己买';
+	@override String get k_1dgybz4 => '大家都在送';
+	@override String get k_002r7g7 => '筛选';
+	@override String get k_0jnnigy => '删除此商品';
+	@override String get k_17bsyzp => '查看更多';
+	@override String get k_03feguc => '送朋友';
+	@override String get k_1372vgg => '最近在搜';
+	@override String get k_0nt2du5 => '暂无搜索建议';
+	@override String get k_002rmhk => '不限';
+	@override String get k_002qizu => '销量';
+	@override String get k_003p9am => '价格';
+	@override String get k_0c5lri8 => '价格区间';
+	@override String get k_003ozdl => '已售';
+	@override String get k_038m9wo => '送女生';
+	@override String get k_038ojfw => '送男生';
+	@override String get k_02n74dv => '送长辈';
+	@override String get k_03gdxfh => '送孩子';
+	@override String get k_03iexy4 => '最低价';
+	@override String get k_03jgf4a => '最高价';
+	@override String get k_003m86e => '重置';
+	@override String get k_15khsa6 => '添加地址';
+	@override String get k_117ljcq => '确认礼物';
+	@override String get k_003o6f1 => '规格';
+	@override String get k_1sb5dy2 => '选购，建议与商家协商一致';
+	@override String get k_00034cy => '起';
+	@override String get k_1cbvcrh => '支持礼物封面';
+	@override String get k_002uosz => '发货';
+	@override String get k_1xt7r9f => '48小时内发货';
+	@override String get k_1atykm8 => '免运费，山东临沂发货';
+	@override String get k_002rero => '保障';
+	@override String get k_0c8fbte => '环保包退';
+	@override String get k_02i8dl1 => '运费险';
+	@override String get k_1ew1nv0 => '7天无理由';
+	@override String get k_003pxgi => '商品';
+	@override String get k_003mow6 => '详情';
+	@override String get k_12rxq1t => '商品详情';
+	@override String get k_1rl1fy0 => '商品详情图片';
+	@override String get k_15hwc1r => '购买商品';
+	@override String get k_14qm6hi => '购买成功！';
+	@override String get k_03todpw => '[来电消息]';
+	@override String get k_03ckobz => '已过期';
+	@override String get k_03b4dcj => '待接收';
+	@override String get k_02m48om => '待发货';
+	@override String get k_03jfsh0 => '配送中';
+	@override String get k_02m7ugh => '待收货';
+	@override String get k_03je36b => '待评价';
+	@override String get k_03cho97 => '已完成';
+	@override String get k_02iq161 => '已关闭';
+	@override String get k_13we9fh => '未知状态';
 }
 
 // Path: <root>
@@ -5432,6 +5818,102 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_0dk3zpu => '设置后仅在本群显示，不会修改您的微信昵称。';
 	@override String get k_1mjiyr9 => '我在本群的昵称';
 	@override String get k_1ioeo2q => '修改群名称后，所有群成员都可以看到。';
+	@override String get k_0003zqr => '或';
+	@override String get k_003l8z3 => '提示';
+	@override String get k_002wt6l => '重试';
+	@override String get k_04p8hzm => '无法获取当前位置，请检查位置权限设置';
+	@override String get k_1mdwmix => '获取位置信息失败，请检查网络连接和位置权限';
+	@override String get k_0qv0nd3 => '搜索失败，请检查网络连接';
+	@override String get k_0988fsd => '搜索附近位置';
+	@override String get k_0v721yp => '加载更多地点...';
+	@override String get k_18ivne4 => '没有更多地点了';
+	@override String get k_1by8r1r => '不显示位置';
+	@override String get k_0p632lk => '当前账单为空';
+	@override String get k_156uaze => '暂无相关账单记录';
+	@override String get k_03e6obs => '第一次';
+	@override String get k_03e6kys => '第二次';
+	@override String get k_03e6o3l => '第三次';
+	@override String get k_03eanbn => '第四次';
+	@override String get k_03e6ksc => '第五次';
+	@override String get k_03eb6p1 => '第六次';
+	@override String get k_03e6ocr => '第七次';
+	@override String get k_03ecvg3 => '已注册';
+	@override String get k_13287fp => '请填写昵称';
+	@override String get k_03a2zjt => '选礼物';
+	@override String get k_117w4en => '换份礼物';
+	@override String get k_03ieuc4 => '实付价';
+	@override String get k_03c5a72 => '去选择';
+	@override String get k_02m3ixo => '送给谁';
+	@override String get k_1lfqyfz => '自己不参与';
+	@override String get k_18lxzk2 => '请先选择礼物份数';
+	@override String get k_14xhavp => '送你一份心意';
+	@override String get k_14s9ac4 => '付款并赠送';
+	@override String get k_12bah4t => '礼物份数';
+	@override String get k_00046s8 => '份';
+	@override String get k_0vmerwq => '未收下的礼物，将于24小时后自动退款';
+	@override String get k_117yd4t => '专属礼物';
+	@override String get k_0kgx188 => '拼手速礼物';
+	@override String get k_12b4ti2 => '填写份数';
+	@override String get k_15ntvjs => '礼物商城';
+	@override String get k_1j0a9ps => '选择群成员（专属礼物）';
+	@override String get k_16s8i0w => '选择群成员（拼手速）';
+	@override String get k_0h1otop => '选择群成员';
+	@override String get k_1g6qg4o => '专属礼物最多可选择';
+	@override String get k_086zisw => '选择群成员(专属礼物)';
+	@override String get k_07tdzh1 => '选择群成员(拼手速礼物)';
+	@override String get k_003ku40 => '礼物';
+	@override String get k_039shsq => '送出的';
+	@override String get k_039rnvr => '收到的';
+	@override String get k_02n5bc7 => '购物车';
+	@override String get k_03idvce => '自己买';
+	@override String get k_1dgybz4 => '大家都在送';
+	@override String get k_002r7g7 => '筛选';
+	@override String get k_0jnnigy => '删除此商品';
+	@override String get k_17bsyzp => '查看更多';
+	@override String get k_03feguc => '送朋友';
+	@override String get k_1372vgg => '最近在搜';
+	@override String get k_0nt2du5 => '暂无搜索建议';
+	@override String get k_002rmhk => '不限';
+	@override String get k_002qizu => '销量';
+	@override String get k_003p9am => '价格';
+	@override String get k_0c5lri8 => '价格区间';
+	@override String get k_003ozdl => '已售';
+	@override String get k_038m9wo => '送女生';
+	@override String get k_038ojfw => '送男生';
+	@override String get k_02n74dv => '送长辈';
+	@override String get k_03gdxfh => '送孩子';
+	@override String get k_03iexy4 => '最低价';
+	@override String get k_03jgf4a => '最高价';
+	@override String get k_003m86e => '重置';
+	@override String get k_15khsa6 => '添加地址';
+	@override String get k_117ljcq => '确认礼物';
+	@override String get k_003o6f1 => '规格';
+	@override String get k_1sb5dy2 => '选购，建议与商家协商一致';
+	@override String get k_00034cy => '起';
+	@override String get k_1cbvcrh => '支持礼物封面';
+	@override String get k_002uosz => '发货';
+	@override String get k_1xt7r9f => '48小时内发货';
+	@override String get k_1atykm8 => '免运费，山东临沂发货';
+	@override String get k_002rero => '保障';
+	@override String get k_0c8fbte => '环保包退';
+	@override String get k_02i8dl1 => '运费险';
+	@override String get k_1ew1nv0 => '7天无理由';
+	@override String get k_003pxgi => '商品';
+	@override String get k_003mow6 => '详情';
+	@override String get k_12rxq1t => '商品详情';
+	@override String get k_1rl1fy0 => '商品详情图片';
+	@override String get k_15hwc1r => '购买商品';
+	@override String get k_14qm6hi => '购买成功！';
+	@override String get k_03todpw => '[来电消息]';
+	@override String get k_03ckobz => '已过期';
+	@override String get k_03b4dcj => '待接收';
+	@override String get k_02m48om => '待发货';
+	@override String get k_03jfsh0 => '配送中';
+	@override String get k_02m7ugh => '待收货';
+	@override String get k_03je36b => '待评价';
+	@override String get k_03cho97 => '已完成';
+	@override String get k_02iq161 => '已关闭';
+	@override String get k_13we9fh => '未知状态';
 }
 
 /// Flat map(s) containing all translations.
@@ -6341,7 +6823,7 @@ extension on _StringsEn {
 			'k_116906c': 'Daily Red Packets',
 			'k_03ckc9x': 'Scan',
 			'k_03bqp24': 'QR Code',
-			'k_172zmzc': 'Add Me as Friend',
+			'k_172zmzc': 'Add Friend',
 			'k_1wamano': 'Place QR code within frame to scan automatically',
 			'k_1ymiwcp': 'My QR Code',
 			'k_09ka24d': 'Search Chat History',
@@ -6445,6 +6927,103 @@ extension on _StringsEn {
 			'k_0dk3zpu': 'Only visible in this group, not your WeChat name.',
 			'k_1mjiyr9': 'My group nickname',
 			'k_1ioeo2q': 'All members can see the new group name.',
+			'k_0003zqr': 'or',
+			'k_003l8z3': 'Prompt',
+			'k_002wt6l': 'Retry',
+			'k_04p8hzm': 'Unable to get location, check permission settings',
+			'k_1mdwmix': 'Location failed, check network and permissions',
+			'k_0qv0nd3': 'Search failed, check network',
+			'k_0988fsd': 'Search nearby places',
+			'k_0v721yp': 'Loading more places...',
+			'k_18ivne4': 'No more places',
+			'k_1by8r1r': 'Do not display location',
+			'k_0p632lk': 'The current bill is empty',
+			'k_156uaze': 'No related billing records available',
+			'k_03e6obs': 'First',
+			'k_03e6kys': 'Second',
+			'k_03e6o3l': 'Third',
+			'k_03eanbn': 'Fourth',
+			'k_03e6ksc': 'Fifth',
+			'k_03eb6p1': 'Sixth',
+			'k_03e6ocr': 'Seventh',
+			'k_03ecvg3': 'Signed',
+			'k_13287fp': 'Enter Nickname',
+			'k_03a2zjt': 'Choose Gift',
+			'k_117w4en': 'Change Gift',
+			'k_03ieuc4': 'Final Price',
+			'k_03c5a72': 'Select',
+			'k_02m3ixo': 'Recipient',
+			'k_1lfqyfz': 'Exclude Myself',
+			'k_18lxzk2': 'Select Gift Quantity',
+			'k_14xhavp': 'A Gift for You',
+			'k_14s9ac4': 'Pay & Send',
+			'k_12bah4t': 'Gift Quantity',
+			'k_00046s8': 'Unit',
+			'k_0vmerwq': 'Unclaimed gifts refunded in 24h',
+			'k_117yd4t': 'Exclusive Gift',
+			'k_0kgx188': 'Flash Gift',
+			'k_12b4ti2': 'Enter Quantity',
+			'k_15ntvjs': 'Gift Shop',
+			'k_1j0a9ps': 'Select Members (Exclusive Gift)',
+			'k_16s8i0w': 'Select Members (Flash Gift)',
+			'k_0h1otop': 'Select Members',
+			'k_1g6qg4o': 'Max Select for Exclusive Gift',
+			'k_000045h': '',
+			'k_086zisw': 'Select Members (Exclusive Gift)',
+			'k_07tdzh1': 'Select Members (Flash Gift)',
+			'k_003ku40': 'Gifts',
+			'k_039shsq': 'Sent',
+			'k_039rnvr': 'Received',
+			'k_02n5bc7': 'Cart',
+			'k_03idvce': 'Myself',
+			'k_1dgybz4': 'Popular Gifts',
+			'k_002r7g7': 'Filter',
+			'k_0jnnigy': 'Delete Item',
+			'k_17bsyzp': 'View More',
+			'k_03feguc': 'To Friend',
+			'k_1372vgg': 'Recent Searches',
+			'k_0nt2du5': 'No Suggestions',
+			'k_002rmhk': 'All',
+			'k_002qizu': 'Sales',
+			'k_003p9am': 'Price',
+			'k_0c5lri8': 'Price Range',
+			'k_003ozdl': 'Sold',
+			'k_038m9wo': 'For Women',
+			'k_038ojfw': 'For Men',
+			'k_02n74dv': 'For Seniors',
+			'k_03gdxfh': 'For Kids',
+			'k_03iexy4': 'Min Price',
+			'k_03jgf4a': 'Max Price',
+			'k_003m86e': 'Reset',
+			'k_15khsa6': 'Add Address',
+			'k_117ljcq': 'Confirm Gift',
+			'k_003o6f1': 'Specification',
+			'k_1sb5dy2': 'Select items, coordinate with seller',
+			'k_00034cy': 'From',
+			'k_1cbvcrh': 'Supports Gift Cover',
+			'k_002uosz': 'Shipping',
+			'k_1xt7r9f': 'Ships within 48h',
+			'k_1atykm8': 'Free Shipping, from Linyi, Shandong',
+			'k_002rero': 'Guarantee',
+			'k_0c8fbte': 'Eco Return',
+			'k_02i8dl1': 'Shipping Insurance',
+			'k_1ew1nv0': '7-Day Return',
+			'k_003pxgi': 'Product',
+			'k_003mow6': 'Details',
+			'k_12rxq1t': 'Product Details',
+			'k_1rl1fy0': 'Product Images',
+			'k_15hwc1r': 'Buy Product',
+			'k_14qm6hi': 'Purchase Successful!',
+			'k_03todpw': '[Incoming Call]',
+			'k_03ckobz': 'Expired',
+			'k_03b4dcj': 'Pending receipt',
+			'k_02m48om': 'Pending shipment',
+			'k_03jfsh0': 'In delivery',
+			'k_02m7ugh': 'Pending delivery',
+			'k_03je36b': 'Pending review',
+			'k_03cho97': 'Completed',
+			'k_02iq161': 'Closed',
+			'k_13we9fh': 'Unknown status',
 		};
 	}
 }
@@ -7459,6 +8038,102 @@ extension on _StringsJa {
 			'k_0dk3zpu': '设置后仅在本群显示，不会修改您的微信昵称。',
 			'k_1mjiyr9': '我在本群的昵称',
 			'k_1ioeo2q': '修改群名称后，所有群成员都可以看到。',
+			'k_0003zqr': '或',
+			'k_003l8z3': '提示',
+			'k_002wt6l': '重试',
+			'k_04p8hzm': '无法获取当前位置，请检查位置权限设置',
+			'k_1mdwmix': '获取位置信息失败，请检查网络连接和位置权限',
+			'k_0qv0nd3': '搜索失败，请检查网络连接',
+			'k_0988fsd': '搜索附近位置',
+			'k_0v721yp': '加载更多地点...',
+			'k_18ivne4': '没有更多地点了',
+			'k_1by8r1r': '不显示位置',
+			'k_0p632lk': '当前账单为空',
+			'k_156uaze': '暂无相关账单记录',
+			'k_03e6obs': '第一次',
+			'k_03e6kys': '第二次',
+			'k_03e6o3l': '第三次',
+			'k_03eanbn': '第四次',
+			'k_03e6ksc': '第五次',
+			'k_03eb6p1': '第六次',
+			'k_03e6ocr': '第七次',
+			'k_03ecvg3': '已注册',
+			'k_13287fp': '请填写昵称',
+			'k_03a2zjt': '选礼物',
+			'k_117w4en': '换份礼物',
+			'k_03ieuc4': '实付价',
+			'k_03c5a72': '去选择',
+			'k_02m3ixo': '送给谁',
+			'k_1lfqyfz': '自己不参与',
+			'k_18lxzk2': '请先选择礼物份数',
+			'k_14xhavp': '送你一份心意',
+			'k_14s9ac4': '付款并赠送',
+			'k_12bah4t': '礼物份数',
+			'k_00046s8': '份',
+			'k_0vmerwq': '未收下的礼物，将于24小时后自动退款',
+			'k_117yd4t': '专属礼物',
+			'k_0kgx188': '拼手速礼物',
+			'k_12b4ti2': '填写份数',
+			'k_15ntvjs': '礼物商城',
+			'k_1j0a9ps': '选择群成员（专属礼物）',
+			'k_16s8i0w': '选择群成员（拼手速）',
+			'k_0h1otop': '选择群成员',
+			'k_1g6qg4o': '专属礼物最多可选择',
+			'k_086zisw': '选择群成员(专属礼物)',
+			'k_07tdzh1': '选择群成员(拼手速礼物)',
+			'k_003ku40': '礼物',
+			'k_039shsq': '送出的',
+			'k_039rnvr': '收到的',
+			'k_02n5bc7': '购物车',
+			'k_03idvce': '自己买',
+			'k_1dgybz4': '大家都在送',
+			'k_002r7g7': '筛选',
+			'k_0jnnigy': '删除此商品',
+			'k_17bsyzp': '查看更多',
+			'k_03feguc': '送朋友',
+			'k_1372vgg': '最近在搜',
+			'k_0nt2du5': '暂无搜索建议',
+			'k_002rmhk': '不限',
+			'k_002qizu': '销量',
+			'k_003p9am': '价格',
+			'k_0c5lri8': '价格区间',
+			'k_003ozdl': '已售',
+			'k_038m9wo': '送女生',
+			'k_038ojfw': '送男生',
+			'k_02n74dv': '送长辈',
+			'k_03gdxfh': '送孩子',
+			'k_03iexy4': '最低价',
+			'k_03jgf4a': '最高价',
+			'k_003m86e': '重置',
+			'k_15khsa6': '添加地址',
+			'k_117ljcq': '确认礼物',
+			'k_003o6f1': '规格',
+			'k_1sb5dy2': '选购，建议与商家协商一致',
+			'k_00034cy': '起',
+			'k_1cbvcrh': '支持礼物封面',
+			'k_002uosz': '发货',
+			'k_1xt7r9f': '48小时内发货',
+			'k_1atykm8': '免运费，山东临沂发货',
+			'k_002rero': '保障',
+			'k_0c8fbte': '环保包退',
+			'k_02i8dl1': '运费险',
+			'k_1ew1nv0': '7天无理由',
+			'k_003pxgi': '商品',
+			'k_003mow6': '详情',
+			'k_12rxq1t': '商品详情',
+			'k_1rl1fy0': '商品详情图片',
+			'k_15hwc1r': '购买商品',
+			'k_14qm6hi': '购买成功！',
+			'k_03todpw': '[来电消息]',
+			'k_03ckobz': '已过期',
+			'k_03b4dcj': '待接收',
+			'k_02m48om': '待发货',
+			'k_03jfsh0': '配送中',
+			'k_02m7ugh': '待收货',
+			'k_03je36b': '待评价',
+			'k_03cho97': '已完成',
+			'k_02iq161': '已关闭',
+			'k_13we9fh': '未知状态',
 		};
 	}
 }
@@ -8473,6 +9148,102 @@ extension on _StringsKo {
 			'k_0dk3zpu': '设置后仅在本群显示，不会修改您的微信昵称。',
 			'k_1mjiyr9': '我在本群的昵称',
 			'k_1ioeo2q': '修改群名称后，所有群成员都可以看到。',
+			'k_0003zqr': '或',
+			'k_003l8z3': '提示',
+			'k_002wt6l': '重试',
+			'k_04p8hzm': '无法获取当前位置，请检查位置权限设置',
+			'k_1mdwmix': '获取位置信息失败，请检查网络连接和位置权限',
+			'k_0qv0nd3': '搜索失败，请检查网络连接',
+			'k_0988fsd': '搜索附近位置',
+			'k_0v721yp': '加载更多地点...',
+			'k_18ivne4': '没有更多地点了',
+			'k_1by8r1r': '不显示位置',
+			'k_0p632lk': '当前账单为空',
+			'k_156uaze': '暂无相关账单记录',
+			'k_03e6obs': '第一次',
+			'k_03e6kys': '第二次',
+			'k_03e6o3l': '第三次',
+			'k_03eanbn': '第四次',
+			'k_03e6ksc': '第五次',
+			'k_03eb6p1': '第六次',
+			'k_03e6ocr': '第七次',
+			'k_03ecvg3': '已注册',
+			'k_13287fp': '请填写昵称',
+			'k_03a2zjt': '选礼物',
+			'k_117w4en': '换份礼物',
+			'k_03ieuc4': '实付价',
+			'k_03c5a72': '去选择',
+			'k_02m3ixo': '送给谁',
+			'k_1lfqyfz': '自己不参与',
+			'k_18lxzk2': '请先选择礼物份数',
+			'k_14xhavp': '送你一份心意',
+			'k_14s9ac4': '付款并赠送',
+			'k_12bah4t': '礼物份数',
+			'k_00046s8': '份',
+			'k_0vmerwq': '未收下的礼物，将于24小时后自动退款',
+			'k_117yd4t': '专属礼物',
+			'k_0kgx188': '拼手速礼物',
+			'k_12b4ti2': '填写份数',
+			'k_15ntvjs': '礼物商城',
+			'k_1j0a9ps': '选择群成员（专属礼物）',
+			'k_16s8i0w': '选择群成员（拼手速）',
+			'k_0h1otop': '选择群成员',
+			'k_1g6qg4o': '专属礼物最多可选择',
+			'k_086zisw': '选择群成员(专属礼物)',
+			'k_07tdzh1': '选择群成员(拼手速礼物)',
+			'k_003ku40': '礼物',
+			'k_039shsq': '送出的',
+			'k_039rnvr': '收到的',
+			'k_02n5bc7': '购物车',
+			'k_03idvce': '自己买',
+			'k_1dgybz4': '大家都在送',
+			'k_002r7g7': '筛选',
+			'k_0jnnigy': '删除此商品',
+			'k_17bsyzp': '查看更多',
+			'k_03feguc': '送朋友',
+			'k_1372vgg': '最近在搜',
+			'k_0nt2du5': '暂无搜索建议',
+			'k_002rmhk': '不限',
+			'k_002qizu': '销量',
+			'k_003p9am': '价格',
+			'k_0c5lri8': '价格区间',
+			'k_003ozdl': '已售',
+			'k_038m9wo': '送女生',
+			'k_038ojfw': '送男生',
+			'k_02n74dv': '送长辈',
+			'k_03gdxfh': '送孩子',
+			'k_03iexy4': '最低价',
+			'k_03jgf4a': '最高价',
+			'k_003m86e': '重置',
+			'k_15khsa6': '添加地址',
+			'k_117ljcq': '确认礼物',
+			'k_003o6f1': '规格',
+			'k_1sb5dy2': '选购，建议与商家协商一致',
+			'k_00034cy': '起',
+			'k_1cbvcrh': '支持礼物封面',
+			'k_002uosz': '发货',
+			'k_1xt7r9f': '48小时内发货',
+			'k_1atykm8': '免运费，山东临沂发货',
+			'k_002rero': '保障',
+			'k_0c8fbte': '环保包退',
+			'k_02i8dl1': '运费险',
+			'k_1ew1nv0': '7天无理由',
+			'k_003pxgi': '商品',
+			'k_003mow6': '详情',
+			'k_12rxq1t': '商品详情',
+			'k_1rl1fy0': '商品详情图片',
+			'k_15hwc1r': '购买商品',
+			'k_14qm6hi': '购买成功！',
+			'k_03todpw': '[来电消息]',
+			'k_03ckobz': '已过期',
+			'k_03b4dcj': '待接收',
+			'k_02m48om': '待发货',
+			'k_03jfsh0': '配送中',
+			'k_02m7ugh': '待收货',
+			'k_03je36b': '待评价',
+			'k_03cho97': '已完成',
+			'k_02iq161': '已关闭',
+			'k_13we9fh': '未知状态',
 		};
 	}
 }
@@ -9485,6 +10256,103 @@ extension on _StringsZhHans {
 			'k_0dk3zpu': '设置后仅在本群显示，不会修改您的微信昵称。',
 			'k_1mjiyr9': '我在本群的昵称',
 			'k_1ioeo2q': '修改群名称后，所有群成员都可以看到。',
+			'k_0003zqr': '或',
+			'k_003l8z3': '提示',
+			'k_002wt6l': '重试',
+			'k_04p8hzm': '无法获取当前位置，请检查位置权限设置',
+			'k_1mdwmix': '获取位置信息失败，请检查网络连接和位置权限',
+			'k_0qv0nd3': '搜索失败，请检查网络连接',
+			'k_0988fsd': '搜索附近位置',
+			'k_0v721yp': '加载更多地点...',
+			'k_18ivne4': '没有更多地点了',
+			'k_1by8r1r': '不显示位置',
+			'k_0p632lk': '当前账单为空',
+			'k_156uaze': '暂无相关账单记录',
+			'k_03e6obs': '第一次',
+			'k_03e6kys': '第二次',
+			'k_03e6o3l': '第三次',
+			'k_03eanbn': '第四次',
+			'k_03e6ksc': '第五次',
+			'k_03eb6p1': '第六次',
+			'k_03e6ocr': '第七次',
+			'k_03ecvg3': '已注册',
+			'k_13287fp': '请填写昵称',
+			'k_03a2zjt': '选礼物',
+			'k_117w4en': '换份礼物',
+			'k_03ieuc4': '实付价',
+			'k_03c5a72': '去选择',
+			'k_02m3ixo': '送给谁',
+			'k_1lfqyfz': '自己不参与',
+			'k_18lxzk2': '请先选择礼物份数',
+			'k_14xhavp': '送你一份心意',
+			'k_14s9ac4': '付款并赠送',
+			'k_12bah4t': '礼物份数',
+			'k_00046s8': '份',
+			'k_0vmerwq': '未收下的礼物，将于24小时后自动退款',
+			'k_117yd4t': '专属礼物',
+			'k_0kgx188': '拼手速礼物',
+			'k_12b4ti2': '填写份数',
+			'k_15ntvjs': '礼物商城',
+			'k_1j0a9ps': '选择群成员（专属礼物）',
+			'k_16s8i0w': '选择群成员（拼手速）',
+			'k_0h1otop': '选择群成员',
+			'k_1g6qg4o': '专属礼物最多可选择',
+			'k_000045h': '',
+			'k_086zisw': '选择群成员(专属礼物)',
+			'k_07tdzh1': '选择群成员(拼手速礼物)',
+			'k_003ku40': '礼物',
+			'k_039shsq': '送出的',
+			'k_039rnvr': '收到的',
+			'k_02n5bc7': '购物车',
+			'k_03idvce': '自己买',
+			'k_1dgybz4': '大家都在送',
+			'k_002r7g7': '筛选',
+			'k_0jnnigy': '删除此商品',
+			'k_17bsyzp': '查看更多',
+			'k_03feguc': '送朋友',
+			'k_1372vgg': '最近在搜',
+			'k_0nt2du5': '暂无搜索建议',
+			'k_002rmhk': '不限',
+			'k_002qizu': '销量',
+			'k_003p9am': '价格',
+			'k_0c5lri8': '价格区间',
+			'k_003ozdl': '已售',
+			'k_038m9wo': '送女生',
+			'k_038ojfw': '送男生',
+			'k_02n74dv': '送长辈',
+			'k_03gdxfh': '送孩子',
+			'k_03iexy4': '最低价',
+			'k_03jgf4a': '最高价',
+			'k_003m86e': '重置',
+			'k_15khsa6': '添加地址',
+			'k_117ljcq': '确认礼物',
+			'k_003o6f1': '规格',
+			'k_1sb5dy2': '选购，建议与商家协商一致',
+			'k_00034cy': '起',
+			'k_1cbvcrh': '支持礼物封面',
+			'k_002uosz': '发货',
+			'k_1xt7r9f': '48小时内发货',
+			'k_1atykm8': '免运费，山东临沂发货',
+			'k_002rero': '保障',
+			'k_0c8fbte': '环保包退',
+			'k_02i8dl1': '运费险',
+			'k_1ew1nv0': '7天无理由',
+			'k_003pxgi': '商品',
+			'k_003mow6': '详情',
+			'k_12rxq1t': '商品详情',
+			'k_1rl1fy0': '商品详情图片',
+			'k_15hwc1r': '购买商品',
+			'k_14qm6hi': '购买成功！',
+			'k_03todpw': '[来电消息]',
+			'k_03ckobz': '已过期',
+			'k_03b4dcj': '待接收',
+			'k_02m48om': '待发货',
+			'k_03jfsh0': '配送中',
+			'k_02m7ugh': '待收货',
+			'k_03je36b': '待评价',
+			'k_03cho97': '已完成',
+			'k_02iq161': '已关闭',
+			'k_13we9fh': '未知状态',
 		};
 	}
 }
@@ -10499,6 +11367,102 @@ extension on _StringsZhHant {
 			'k_0dk3zpu': '设置后仅在本群显示，不会修改您的微信昵称。',
 			'k_1mjiyr9': '我在本群的昵称',
 			'k_1ioeo2q': '修改群名称后，所有群成员都可以看到。',
+			'k_0003zqr': '或',
+			'k_003l8z3': '提示',
+			'k_002wt6l': '重试',
+			'k_04p8hzm': '无法获取当前位置，请检查位置权限设置',
+			'k_1mdwmix': '获取位置信息失败，请检查网络连接和位置权限',
+			'k_0qv0nd3': '搜索失败，请检查网络连接',
+			'k_0988fsd': '搜索附近位置',
+			'k_0v721yp': '加载更多地点...',
+			'k_18ivne4': '没有更多地点了',
+			'k_1by8r1r': '不显示位置',
+			'k_0p632lk': '当前账单为空',
+			'k_156uaze': '暂无相关账单记录',
+			'k_03e6obs': '第一次',
+			'k_03e6kys': '第二次',
+			'k_03e6o3l': '第三次',
+			'k_03eanbn': '第四次',
+			'k_03e6ksc': '第五次',
+			'k_03eb6p1': '第六次',
+			'k_03e6ocr': '第七次',
+			'k_03ecvg3': '已注册',
+			'k_13287fp': '请填写昵称',
+			'k_03a2zjt': '选礼物',
+			'k_117w4en': '换份礼物',
+			'k_03ieuc4': '实付价',
+			'k_03c5a72': '去选择',
+			'k_02m3ixo': '送给谁',
+			'k_1lfqyfz': '自己不参与',
+			'k_18lxzk2': '请先选择礼物份数',
+			'k_14xhavp': '送你一份心意',
+			'k_14s9ac4': '付款并赠送',
+			'k_12bah4t': '礼物份数',
+			'k_00046s8': '份',
+			'k_0vmerwq': '未收下的礼物，将于24小时后自动退款',
+			'k_117yd4t': '专属礼物',
+			'k_0kgx188': '拼手速礼物',
+			'k_12b4ti2': '填写份数',
+			'k_15ntvjs': '礼物商城',
+			'k_1j0a9ps': '选择群成员（专属礼物）',
+			'k_16s8i0w': '选择群成员（拼手速）',
+			'k_0h1otop': '选择群成员',
+			'k_1g6qg4o': '专属礼物最多可选择',
+			'k_086zisw': '选择群成员(专属礼物)',
+			'k_07tdzh1': '选择群成员(拼手速礼物)',
+			'k_003ku40': '礼物',
+			'k_039shsq': '送出的',
+			'k_039rnvr': '收到的',
+			'k_02n5bc7': '购物车',
+			'k_03idvce': '自己买',
+			'k_1dgybz4': '大家都在送',
+			'k_002r7g7': '筛选',
+			'k_0jnnigy': '删除此商品',
+			'k_17bsyzp': '查看更多',
+			'k_03feguc': '送朋友',
+			'k_1372vgg': '最近在搜',
+			'k_0nt2du5': '暂无搜索建议',
+			'k_002rmhk': '不限',
+			'k_002qizu': '销量',
+			'k_003p9am': '价格',
+			'k_0c5lri8': '价格区间',
+			'k_003ozdl': '已售',
+			'k_038m9wo': '送女生',
+			'k_038ojfw': '送男生',
+			'k_02n74dv': '送长辈',
+			'k_03gdxfh': '送孩子',
+			'k_03iexy4': '最低价',
+			'k_03jgf4a': '最高价',
+			'k_003m86e': '重置',
+			'k_15khsa6': '添加地址',
+			'k_117ljcq': '确认礼物',
+			'k_003o6f1': '规格',
+			'k_1sb5dy2': '选购，建议与商家协商一致',
+			'k_00034cy': '起',
+			'k_1cbvcrh': '支持礼物封面',
+			'k_002uosz': '发货',
+			'k_1xt7r9f': '48小时内发货',
+			'k_1atykm8': '免运费，山东临沂发货',
+			'k_002rero': '保障',
+			'k_0c8fbte': '环保包退',
+			'k_02i8dl1': '运费险',
+			'k_1ew1nv0': '7天无理由',
+			'k_003pxgi': '商品',
+			'k_003mow6': '详情',
+			'k_12rxq1t': '商品详情',
+			'k_1rl1fy0': '商品详情图片',
+			'k_15hwc1r': '购买商品',
+			'k_14qm6hi': '购买成功！',
+			'k_03todpw': '[来电消息]',
+			'k_03ckobz': '已过期',
+			'k_03b4dcj': '待接收',
+			'k_02m48om': '待发货',
+			'k_03jfsh0': '配送中',
+			'k_02m7ugh': '待收货',
+			'k_03je36b': '待评价',
+			'k_03cho97': '已完成',
+			'k_02iq161': '已关闭',
+			'k_13we9fh': '未知状态',
 		};
 	}
 }
