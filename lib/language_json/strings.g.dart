@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 5513 (1102.6 per locale)
+ * Strings: 6778 (1355.6 per locale)
  *
- * Built on 2025-09-30 at 08:52 UTC
+ * Built on 2025-10-21 at 03:16 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1431,6 +1431,259 @@ class _StringsEn {
 	String get k_03cho97 => 'Completed';
 	String get k_02iq161 => 'Closed';
 	String get k_13we9fh => 'Unknown status';
+	String get k_0f7d7a3 => 'Upload failed';
+	String get k_0dy9l60 => 'Image selection failed';
+	String get k_0xnstjy => 'Please upload store logo';
+	String get k_0v6jr10 => 'Please enter the legal representative\'s real name';
+	String get k_1b4gqn8 => 'Please enter the ID number';
+	String get k_11kqo3y => 'Please upload the front of the ID card';
+	String get k_116p7vl => 'Please upload the back of the ID card';
+	String get k_1qpq2nd => 'Please enter the business name';
+	String get k_04hd8xd => 'Please enter the contact person';
+	String get k_0lu0s3h => 'Please enter the contact information';
+	String get k_0w2meb4 => 'Please select the region';
+	String get k_1f35ums => 'Please enter the detailed address';
+	String get k_1oshklj => 'Please upload the business license';
+	String get k_1w3ksxr => 'Store logo upload error, please re-upload';
+	String get k_0elk1yd => 'Merchant registration information';
+	String get k_0s9wjwj => 'Mall merchant registration';
+	String get k_1sx3wgv => 'Submission successful!';
+	String get k_0yl8xqg => 'Platform is under review, please be patient~';
+	String get k_003qnm7 => 'Back';
+	String get k_160mxpt => 'Audit rejected';
+	String get k_18w9iq4 => 'Resubmit';
+	String get k_0i2fxe6 => 'Seller verification information';
+	String get k_1kvdx79 => 'Legal representative\'s real name';
+	String get k_15dr9ut => 'ID number';
+	String get k_0pf8dkb => 'Legal representative\'s ID card';
+	String get k_13macnl => 'Basic information';
+	String get k_11kde88 => 'Business name';
+	String get k_0s57rdv => 'Store logo';
+	String get k_16p9hcs => 'Contact information';
+	String get k_1674o87 => 'Region';
+	String get k_15kb28l => 'Detailed address';
+	String get k_10oclwa => 'Business license';
+	String get k_0zgj809 => 'Upload store logo';
+	String get k_03i81dp => 'Uploaded';
+	String get k_0f13r80 => 'Please add an image';
+	String get k_0kx0oe7 => 'Please take a clear photo of the ID';
+	String get k_01x3ok9 => 'Upload front of the ID';
+	String get k_0mshvzq => 'Upload back of the ID';
+	String get k_11lb2s5 => 'Store name';
+	String get k_03fkcas => 'Please enter';
+	String get k_1jx5cfg => 'Uploading...';
+	String get k_003tywh => 'Submit';
+	String get k_03c67bm => 'Please select';
+	String get k_15gthvr => 'My Orders';
+	String get k_0ei7wln => 'Merchant Registration';
+	String get k_0rkidry => 'Network error, please try again later';
+	String get k_0f7e3j5 => 'Claim failed';
+	String get k_1234rpc => 'Failed to retrieve sign-in data';
+	String get k_1bhscvi => 'Failed to get the invite friends list';
+	String get k_16f36li => 'No invited friends yet';
+	String get k_0y2wftq => 'Invite verification code';
+	String get k_17z9k8j => 'Enter friend\'s invite code';
+	String get k_1lan6wi => 'Please enter the invite code';
+	String get k_17uw4tn => 'You cannot use your own invite code';
+	String get k_0xfj8a9 => 'Invite code verification successful';
+	String get k_0ye6gwa => 'Invite code verification failed';
+	String get k_15rzweq => 'Claim reward';
+	String get k_1jhtygp => 'Sign in consecutively 7 times to get the highest reward';
+	String get k_1749j78 => 'Congratulations, you won';
+	String get k_19lgo1w => 'Got it';
+	String get k_13adcc9 => 'Select year and month';
+	String get k_0dy2l4e => 'Select filter options';
+	String get k_15iku3w => 'Income and expense type';
+	String get k_167e3w1 => 'No friends yet';
+	String get k_1mh977d => 'Failed to retrieve friends list';
+	String get k_1irava9 => 'Please select the giver first';
+	String get k_0cvw4bs => 'Failed to load product details';
+	String get k_07ho9zq => 'No search results';
+	String get k_1n4cahe => 'Try other keywords';
+	String get k_08i5je3 => 'Failed to load product';
+	String get k_19gdm83 => 'No gifts sent';
+	String get k_19wgq0u => 'No gifts received';
+	String get k_1g70l3l => 'Getting address...';
+	String get k_0aqxe57 => 'Actual (inc.¥ ';
+	String get k_1sp1dmq => 'Choose regular logistics for delivery';
+	String get k_01mnyj3 => 'Choose Lalamove for delivery';
+	String get k_17up9dp => 'Click to get shipping quote';
+	String get k_03v0q3x => 'No gifts sent yet';
+	String get k_0tkv7rh => 'Go to the mall and pick a gift for your friend';
+	String get k_02zu8wg => 'No gifts received yet';
+	String get k_0jww1j8 => 'You haven\'t received any gifts from friends yet';
+	String get k_08p9shr => 'No purchase records';
+	String get k_1roprys => 'Go to the mall and buy your favorite items';
+	String get k_13qhqgp => 'No data';
+	String get k_0wd6v0g => 'Try pulling to refresh';
+	String get k_09iahme => 'Go to the mall and check it out';
+	String get k_1ux4r7e => 'The shopping cart is empty';
+	String get k_104hko8 => 'Go to the mall and pick your favorite items';
+	String get k_1bqta80 => 'Favorited stores';
+	String get k_002tme4 => 'Favorite';
+	String get k_00dui6v => 'No stores favorited yet';
+	String get k_0mewmfw => 'Go and favorite your favorite stores';
+	String get k_1hd4wxx => 'No more items';
+	String get k_003s3sl => 'Merchant';
+	String get k_002r59q => 'Free shipping';
+	String get k_002vm4s => 'Shipping fee';
+	String get k_18nhqgu => 'Shipping quote';
+	String get k_16qe9qu => 'Expected shipping in 3-7 days';
+	String get k_141wow1 => 'Default specifications';
+	String get k_15ish3m => 'Waiting for shipping quote';
+	String get k_1ee9cb5 => 'Please get the Lalamove shipping quote first';
+	String get k_02l57fy => 'Favorited';
+	String get k_003qx6l => 'Store';
+	String get k_003nbbe => 'service';
+	String get k_1htb721 => 'Customer service information does not exist';
+	String get k_13aq24a => 'Merchant customer service';
+	String get k_0cvi7lg => 'Failed to get product details';
+	String get k_0h5t4gd => 'Merchant information error';
+	String get k_0sc2yur => 'Please select a shipping address';
+	String get k_1oca0hw => 'Change payment method feature is under development';
+	String get k_0f7dlgs => 'Purchase failed';
+	String get k_0gz4ni4 => 'Unknown error';
+	String get k_1k1734u => 'Added to cart';
+	String get k_0f7ezje => 'Add failed';
+	String get k_0quu7oi => 'Add failed, please check network connection';
+	String get k_0h6qd3k => 'Store information error';
+	String get k_12g4ma9 => 'Confirm receipt successful';
+	String get k_1ch687j => 'Please select a gift first';
+	String get k_0ir0y9u => 'Please select a recipient';
+	String get k_10lkfsf => 'Gift sent successfully';
+	String get k_0f7n898 => 'Gift sending failed';
+	String get k_0vgz4qh => 'Order information is abnormal, unable to receive gift';
+	String get k_1u2h02u => 'Receiving gift...';
+	String get k_1b4lsh9 => 'Gift received successfully!';
+	String get k_0svg4jd => 'Get quote successful';
+	String get k_1htllb5 => 'Order information does not exist';
+	String get k_0fboon2 => 'Confirm';
+	String get k_1stjzun => 'Have you received the product? Confirming will complete the order.';
+	String get k_12rwkb5 => 'Order details';
+	String get k_13m447n => 'Store information';
+	String get k_0bv1rmt => 'Product quality';
+	String get k_0edm5p2 => 'Service experience';
+	String get k_03fhjb9 => 'Order number';
+	String get k_002rhsq => 'Quantity';
+	String get k_002vfkb => 'Subtotal';
+	String get k_0dqsfdj => 'Failed to receive gift';
+	String get k_1wxokn3 => 'Go to view order information';
+	String get k_0jbrjmb => 'Gift receiving address';
+	String get k_06eeoma => 'Your friend will not see this information';
+	String get k_1jpxtpk => 'Gift pending reception';
+	String get k_1rskmr5 => 'Gift status has been updated';
+	String get k_0jr5vk7 => 'If the gift is not received within 24 hours, it will be automatically refunded';
+	String get k_0g1hquz => 'Pay for shipping';
+	String get k_117w359 => 'Accept gift';
+	String get k_1yq0xgx => 'Gifts everyone is giving';
+	String get k_1lrbggv => 'Failed to get address list';
+	String get k_0f8dn5h => 'Delete failed';
+	String get k_0f7m97l => 'Setting failed';
+	String get k_15wrir2 => 'Deleted successfully';
+	String get k_12d87au => 'Set default address successfully';
+	String get k_0cjfhqj => 'Confirm deletion';
+	String get k_1syxli7 => 'Are you sure you want to delete this address?';
+	String get k_182xfch => 'Please enter the recipient\'s name';
+	String get k_1cgfuwz => 'Please enter a phone number';
+	String get k_15wbpgu => 'Update successful';
+	String get k_0f7gvw5 => 'Update failed';
+	String get k_15wedv5 => 'Added successfully';
+	String get k_1jx2arn => 'Saving...';
+	String get k_003pvnf => 'Name';
+	String get k_1j4m3cd => 'Phone number (+63)';
+	String get k_12jd6qq => 'Phone number';
+	String get k_1gv6a9e => 'Province, city, district, street, doorplate information';
+	String get k_15lho7d => 'Default address';
+	String get k_176oa6w => 'Please select a region';
+	String get k_10yvaf6 => 'Add to cart';
+	String get k_0ecpg3g => 'Remove from favorites';
+	String get k_02i7ln1 => 'This store';
+	String get k_0ecjpnr => 'Still in favorites';
+	String get k_15wt6wj => 'Successfully favorited';
+	String get k_1b7c9gw => 'Favorite removed';
+	String get k_0f7dbkw => 'Operation failed';
+	String get k_15ken91 => 'Select address';
+	String get k_002qfmw => 'Store';
+	String get k_16blm3o => 'Favorite store';
+	String get k_003lpjs => 'Category';
+	String get k_11yhed6 => 'No categories yet';
+	String get k_18ffuol => 'This feature is for the premium version';
+	String get k_1hcklj3 => 'Login successful but missing necessary parameters';
+	String get k_0f7fyin => 'Login failed';
+	String get k_0o9hu0b => 'Verification code sent';
+	String get k_1p3vvkd => 'Failed to send verification code';
+	String get k_0fm408e => 'Cannot open download link';
+	String get k_0uzat73 => 'Failed to open download link';
+	String get k_02n4nt9 => 'App overall optimization';
+	String get k_0mrvupc => 'Storage permission required to download files';
+	String get k_0rwj9pv => 'Download link cannot be empty';
+	String get k_0uidjh6 => 'Unable to get storage directory';
+	String get k_1m30wzy => 'Download complete!';
+	String get k_0f8b4mf => 'Download failed';
+	String get k_0l2lo4f => 'Download canceled';
+	String get k_03fujs0 => 'Network connection timeout';
+	String get k_1tlrfjr => 'Please check your network connection and try again';
+	String get k_0319ikb => 'Data reception timeout';
+	String get k_1du932w => 'File not found (404)';
+	String get k_0hiey4e => 'Please check if the download link is correct';
+	String get k_00ydvfq => 'Access denied (403)';
+	String get k_16yl6qz => 'Server denied access to the file';
+	String get k_063q4df => 'Server error (500)';
+	String get k_1soxle1 => 'Please try again later';
+	String get k_0ayyfc7 => 'Network connection failed';
+	String get k_0lf27kx => 'Please check the network connection';
+	String get k_09coebk => 'Permission to install apps from unknown sources required';
+	String get k_0ugifnf => 'No installable file found';
+	String get k_0ovxa2y => 'Cannot open the installation package';
+	String get k_0f8d0yl => 'Installation failed';
+	String get k_0co0dow => 'New version found';
+	String get k_123lye5 => 'Upgrade now';
+	String get k_0gqm9km => 'Maybe later';
+	String get k_003q7wl => 'Just now';
+	String get k_03evj9t => 'Minutes ago';
+	String get k_03ezglt => 'Hours ago';
+	String get k_003qhfl => 'Days ago';
+	String get k_003qetc => 'Weeks ago';
+	String get k_1ppco93 => 'Phichat WeChat Public Account';
+	String get k_1go2inw => 'Failed to load wallet balance';
+	String get k_13m6yu4 => 'Payment information';
+	String get k_16pdm90 => 'Payment method';
+	String get k_0dhwwj9 => 'Wallet balance';
+	String get k_18oyvvu => 'Pay now';
+	String get k_1irh990 => 'Connecting to customer service...';
+	String get k_09alugs => 'Failed to add friend';
+	String get k_1d5l750 => 'But still redirecting to chat';
+	String get k_0b5w339 => 'Failed to connect to customer service';
+	String get k_0b609td => 'Failed to contact customer service';
+	String get k_13f5rvy => 'Payment completed';
+	String get k_0d66dtw => 'Failed to retrieve order details';
+	String get k_0gz64im => 'Network error';
+	String get k_18wha3k => 'Product unit price';
+	String get k_0ck7gxp => 'Product quantity';
+	String get k_0d3u5g1 => 'Discount amount';
+	String get k_03eb865 => 'Amount paid';
+	String get k_161ql77 => 'Order number';
+	String get k_13w6vnp => 'Order status';
+	String get k_0by84mx => 'Order time';
+	String get k_0by754g => 'Payment time';
+	String get k_14bvzst => 'Order remarks';
+	String get k_13ai6it => 'service';
+	String get k_10zzdu2 => 'Failed to confirm receipt';
+	String get k_1a6yd0f => 'Have you received the product? Confirming will complete the order.';
+	String get k_1d39k4z => 'Opening payment page...';
+	String get k_14qp8qa => 'Recharge successful!';
+	String get k_0l3ksla => 'Payment cancelled';
+	String get k_0ogawly => 'Generating QR code...';
+	String get k_0qyge5k => 'Recharge failed, please try again later';
+	String get k_0gwzn3r => 'Payment authentication';
+	String get k_002rk6d => 'Kilometer';
+	String get k_0003x06 => 'Meter';
+	String get k_15hr6ps => 'No products available';
+	String get k_1t8lgog => 'Submission successful, please wait for review';
+	String get k_16jmk1j => 'Current city';
+	String get k_0pnylvd => 'No address information available';
+	String get k_176uemr => 'Billing records';
+	String get k_03iikc9 => 'Under development';
 }
 
 // Path: <root>
@@ -2552,6 +2805,259 @@ class _StringsJa implements _StringsEn {
 	@override String get k_03cho97 => '已完成';
 	@override String get k_02iq161 => '已关闭';
 	@override String get k_13we9fh => '未知状态';
+	@override String get k_0f7d7a3 => '上传失败';
+	@override String get k_0dy9l60 => '选择图片失败';
+	@override String get k_0xnstjy => '请上传店铺logo';
+	@override String get k_0v6jr10 => '请输入法人真实姓名';
+	@override String get k_1b4gqn8 => '请输入身份证号';
+	@override String get k_11kqo3y => '请上传身份证正面';
+	@override String get k_116p7vl => '请上传身份证背面';
+	@override String get k_1qpq2nd => '请输入商家名称';
+	@override String get k_04hd8xd => '请输入联系人';
+	@override String get k_0lu0s3h => '请输入联系方式';
+	@override String get k_0w2meb4 => '请选择所在地区';
+	@override String get k_1f35ums => '请输入详细地址';
+	@override String get k_1oshklj => '请上传营业执照';
+	@override String get k_1w3ksxr => '店铺logo上传异常，请重新上传';
+	@override String get k_0elk1yd => '商家入驻信息';
+	@override String get k_0s9wjwj => '商城商家入驻';
+	@override String get k_1sx3wgv => '提交成功!';
+	@override String get k_0yl8xqg => '平台审核中，请耐心等待~';
+	@override String get k_003qnm7 => '返回';
+	@override String get k_160mxpt => '审核驳回';
+	@override String get k_18w9iq4 => '重新提交';
+	@override String get k_0i2fxe6 => '卖家认证信息';
+	@override String get k_1kvdx79 => '法人真实姓名';
+	@override String get k_15dr9ut => '身份证号';
+	@override String get k_0pf8dkb => '法人身份证件';
+	@override String get k_13macnl => '基础信息';
+	@override String get k_11kde88 => '商家名称';
+	@override String get k_0s57rdv => '店铺logo';
+	@override String get k_16p9hcs => '联系方式';
+	@override String get k_1674o87 => '所在地区';
+	@override String get k_15kb28l => '详细地址';
+	@override String get k_10oclwa => '营业执照';
+	@override String get k_0zgj809 => '上传店铺logo';
+	@override String get k_03i81dp => '已上传';
+	@override String get k_0f13r80 => '请添加图片';
+	@override String get k_0kx0oe7 => '请拍证件片并确保清晰';
+	@override String get k_01x3ok9 => '上传证件正面';
+	@override String get k_0mshvzq => '上传证件背面';
+	@override String get k_11lb2s5 => '店铺名称';
+	@override String get k_03fkcas => '请输入';
+	@override String get k_1jx5cfg => '上传中...';
+	@override String get k_003tywh => '提交';
+	@override String get k_03c67bm => '请选择';
+	@override String get k_15gthvr => '我的订单';
+	@override String get k_0ei7wln => '商家入驻';
+	@override String get k_0rkidry => '网络错误，请稍后重试';
+	@override String get k_0f7e3j5 => '领取失败';
+	@override String get k_1234rpc => '获取签到数据失败';
+	@override String get k_1bhscvi => '获取邀请好友列表失败';
+	@override String get k_16f36li => '暂无邀请好友';
+	@override String get k_0y2wftq => '邀请验证码';
+	@override String get k_17z9k8j => '输入好友邀请码';
+	@override String get k_1lan6wi => '请输入邀请码';
+	@override String get k_17uw4tn => '不能使用自己的邀请码';
+	@override String get k_0xfj8a9 => '邀请码验证成功';
+	@override String get k_0ye6gwa => '邀请码验证失败';
+	@override String get k_15rzweq => '领取奖励';
+	@override String get k_1jhtygp => '连续签到7次可获得最高';
+	@override String get k_1749j78 => '恭喜获得';
+	@override String get k_19lgo1w => '我知道了';
+	@override String get k_13adcc9 => '选择年月';
+	@override String get k_0dy2l4e => '选择筛选项';
+	@override String get k_15iku3w => '收支类型';
+	@override String get k_167e3w1 => '暂无好友';
+	@override String get k_1mh977d => '获取好友列表失败';
+	@override String get k_1irava9 => '请先选择赠送人';
+	@override String get k_0cvw4bs => '加载商品详情失败';
+	@override String get k_07ho9zq => '暂无搜索结果';
+	@override String get k_1n4cahe => '试试其他关键词吧';
+	@override String get k_08i5je3 => '加载商品失败';
+	@override String get k_19gdm83 => '没有送出礼物';
+	@override String get k_19wgq0u => '没有收到礼物';
+	@override String get k_1g70l3l => '正在获取地址...';
+	@override String get k_0aqxe57 => '实付价(含运费¥';
+	@override String get k_1sp1dmq => '选择普通物流进行配送';
+	@override String get k_01mnyj3 => '选择Lalamove进行配送';
+	@override String get k_17up9dp => '点击获取运费报价';
+	@override String get k_03v0q3x => '暂无送出的礼物';
+	@override String get k_0tkv7rh => '快去商城为朋友挑选礼物吧';
+	@override String get k_02zu8wg => '暂无收到的礼物';
+	@override String get k_0jww1j8 => '还没有收到朋友的礼物哦';
+	@override String get k_08p9shr => '暂无购买记录';
+	@override String get k_1roprys => '快去商城选购心仪的商品吧';
+	@override String get k_13qhqgp => '暂无数据';
+	@override String get k_0wd6v0g => '下拉刷新试试';
+	@override String get k_09iahme => '去商城看看';
+	@override String get k_1ux4r7e => '购物车空空如也';
+	@override String get k_104hko8 => '快去商城挑选心仪的商品吧';
+	@override String get k_1bqta80 => '收藏的小店';
+	@override String get k_002tme4 => '收藏';
+	@override String get k_00dui6v => '暂无收藏的店铺';
+	@override String get k_0mewmfw => '快去收藏喜欢的店铺吧';
+	@override String get k_1hd4wxx => '没有更多了';
+	@override String get k_003s3sl => '商家';
+	@override String get k_002r59q => '包邮';
+	@override String get k_002vm4s => '运费';
+	@override String get k_18nhqgu => '运费报价';
+	@override String get k_16qe9qu => '预计3-7天发货';
+	@override String get k_141wow1 => '默认规格';
+	@override String get k_15ish3m => '等待运费报价';
+	@override String get k_1ee9cb5 => '请先获取Lalamove运费报价';
+	@override String get k_02l57fy => '已收藏';
+	@override String get k_003qx6l => '小店';
+	@override String get k_003nbbe => '客服';
+	@override String get k_1htb721 => '客服信息不存在';
+	@override String get k_13aq24a => '商家客服';
+	@override String get k_0cvi7lg => '获取商品详情失败';
+	@override String get k_0h5t4gd => '商家信息错误';
+	@override String get k_0sc2yur => '请选择收货地址';
+	@override String get k_1oca0hw => '更换支付方式功能待开发';
+	@override String get k_0f7dlgs => '购买失败';
+	@override String get k_0gz4ni4 => '未知错误';
+	@override String get k_1k1734u => '已添加到购物车';
+	@override String get k_0f7ezje => '添加失败';
+	@override String get k_0quu7oi => '添加失败，请检查网络连接';
+	@override String get k_0h6qd3k => '店铺信息错误';
+	@override String get k_12g4ma9 => '确认收货成功';
+	@override String get k_1ch687j => '请先选择礼物';
+	@override String get k_0ir0y9u => '请选择收礼人';
+	@override String get k_10lkfsf => '礼物发送成功';
+	@override String get k_0f7n898 => '送礼失败';
+	@override String get k_0vgz4qh => '订单信息异常，无法接收礼物';
+	@override String get k_1u2h02u => '正在接收礼物...';
+	@override String get k_1b4lsh9 => '礼物接收成功！';
+	@override String get k_0svg4jd => '获取报价成功';
+	@override String get k_1htllb5 => '订单信息不存在';
+	@override String get k_0fboon2 => '确认收货';
+	@override String get k_1stjzun => '确认已收到商品吗?确认后订单将完成。';
+	@override String get k_12rwkb5 => '订单详情';
+	@override String get k_13m447n => '小店信息';
+	@override String get k_0bv1rmt => '商品质量';
+	@override String get k_0edm5p2 => '服务体验';
+	@override String get k_03fhjb9 => '订单号';
+	@override String get k_002rhsq => '数量';
+	@override String get k_002vfkb => '小计';
+	@override String get k_0dqsfdj => '接收礼物失败';
+	@override String get k_1wxokn3 => '前往查看订单信息';
+	@override String get k_0jbrjmb => '礼物接收地址';
+	@override String get k_06eeoma => '朋友不会看到该信息';
+	@override String get k_1jpxtpk => '礼物待收下';
+	@override String get k_1rskmr5 => '礼物状态已更新';
+	@override String get k_0jr5vk7 => '24小时内礼物未收下将自动退款';
+	@override String get k_0g1hquz => '支付运费';
+	@override String get k_117w359 => '收下礼物';
+	@override String get k_1yq0xgx => '大家都在送的礼物';
+	@override String get k_1lrbggv => '获取地址列表失败';
+	@override String get k_0f8dn5h => '删除失败';
+	@override String get k_0f7m97l => '设置失败';
+	@override String get k_15wrir2 => '删除成功';
+	@override String get k_12d87au => '设置默认地址成功';
+	@override String get k_0cjfhqj => '确认删除';
+	@override String get k_1syxli7 => '确定要删除这个地址吗？';
+	@override String get k_182xfch => '请输入收货人姓名';
+	@override String get k_1cgfuwz => '请输入手机号码';
+	@override String get k_15wbpgu => '更新成功';
+	@override String get k_0f7gvw5 => '更新失败';
+	@override String get k_15wedv5 => '添加成功';
+	@override String get k_1jx2arn => '保存中...';
+	@override String get k_003pvnf => '姓名';
+	@override String get k_1j4m3cd => '手机号码(+63)';
+	@override String get k_12jd6qq => '手机号码';
+	@override String get k_1gv6a9e => '省市区街道门牌信息';
+	@override String get k_15lho7d => '默认地址';
+	@override String get k_176oa6w => '请选择地区';
+	@override String get k_10yvaf6 => '加入购物车';
+	@override String get k_0ecpg3g => '不再收藏';
+	@override String get k_02i7ln1 => '该店铺';
+	@override String get k_0ecjpnr => '仍然收藏';
+	@override String get k_15wt6wj => '收藏成功';
+	@override String get k_1b7c9gw => '已取消收藏';
+	@override String get k_0f7dbkw => '操作失败';
+	@override String get k_15ken91 => '选择地址';
+	@override String get k_002qfmw => '店铺';
+	@override String get k_16blm3o => '收藏小店';
+	@override String get k_003lpjs => '分类';
+	@override String get k_11yhed6 => '暂无分类';
+	@override String get k_18ffuol => '该功能为旗舰版功能';
+	@override String get k_1hcklj3 => '登录成功但缺少必要参数';
+	@override String get k_0f7fyin => '登录失败';
+	@override String get k_0o9hu0b => '验证码已发送';
+	@override String get k_1p3vvkd => '验证码发送失败';
+	@override String get k_0fm408e => '无法打开下载链接';
+	@override String get k_0uzat73 => '打开下载链接失败';
+	@override String get k_02n4nt9 => 'App整体优化';
+	@override String get k_0mrvupc => '需要存储权限才能下载文件';
+	@override String get k_0rwj9pv => '下载地址不能为空';
+	@override String get k_0uidjh6 => '无法获取存储目录';
+	@override String get k_1m30wzy => '下载完成!';
+	@override String get k_0f8b4mf => '下载失败';
+	@override String get k_0l2lo4f => '下载已取消';
+	@override String get k_03fujs0 => '网络连接超时';
+	@override String get k_1tlrfjr => '请检查网络连接后重试';
+	@override String get k_0319ikb => '接收数据超时';
+	@override String get k_1du932w => '文件不存在(404)';
+	@override String get k_0hiey4e => '请检查下载链接是否正确';
+	@override String get k_00ydvfq => '访问被拒绝(403)';
+	@override String get k_16yl6qz => '服务器拒绝访问该文件';
+	@override String get k_063q4df => '服务器错误(500)';
+	@override String get k_1soxle1 => '请稍后重试';
+	@override String get k_0ayyfc7 => '网络连接失败';
+	@override String get k_0lf27kx => '请检查网络连接';
+	@override String get k_09coebk => '需要允许安装未知来源应用的权限';
+	@override String get k_0ugifnf => '没有可安装的文件';
+	@override String get k_0ovxa2y => '无法打开安装包';
+	@override String get k_0f8d0yl => '安装失败';
+	@override String get k_0co0dow => '发现新版本';
+	@override String get k_123lye5 => '立即升级';
+	@override String get k_0gqm9km => '下次再说';
+	@override String get k_003q7wl => '刚刚';
+	@override String get k_03evj9t => '分钟前';
+	@override String get k_03ezglt => '小时前';
+	@override String get k_003qhfl => '天前';
+	@override String get k_003qetc => '周前';
+	@override String get k_1ppco93 => 'Phichat官方公众号';
+	@override String get k_1go2inw => '加载钱包余额失败';
+	@override String get k_13m6yu4 => '支付信息';
+	@override String get k_16pdm90 => '支付方式';
+	@override String get k_0dhwwj9 => '钱包余额';
+	@override String get k_18oyvvu => '立即支付';
+	@override String get k_1irh990 => '正在连接客服...';
+	@override String get k_09alugs => '添加好友失败';
+	@override String get k_1d5l750 => '但仍然跳转聊天';
+	@override String get k_0b5w339 => '连接客服失败';
+	@override String get k_0b609td => '联系客服失败';
+	@override String get k_13f5rvy => '支付完成';
+	@override String get k_0d66dtw => '获取订单详情失败';
+	@override String get k_0gz64im => '网络错误';
+	@override String get k_18wha3k => '商品单价';
+	@override String get k_0ck7gxp => '商品数量';
+	@override String get k_0d3u5g1 => '优惠金额';
+	@override String get k_03eb865 => '实付款';
+	@override String get k_161ql77 => '订单编号';
+	@override String get k_13w6vnp => '订单状态';
+	@override String get k_0by84mx => '下单时间';
+	@override String get k_0by754g => '支付时间';
+	@override String get k_14bvzst => '订单备注';
+	@override String get k_13ai6it => '联系客服';
+	@override String get k_10zzdu2 => '确认收货失败';
+	@override String get k_1a6yd0f => '确认已收到商品吗？确认后订单将完成。';
+	@override String get k_1d39k4z => '正在打开支付页面...';
+	@override String get k_14qp8qa => '充值成功！';
+	@override String get k_0l3ksla => '支付已取消';
+	@override String get k_0ogawly => '正在生成二维码...';
+	@override String get k_0qyge5k => '充值失败，请稍后重试';
+	@override String get k_0gwzn3r => '支付认证';
+	@override String get k_002rk6d => '公里';
+	@override String get k_0003x06 => '米';
+	@override String get k_15hr6ps => '暂无商品';
+	@override String get k_1t8lgog => '提交成功，请等待审核';
+	@override String get k_16jmk1j => '当前城市';
+	@override String get k_0pnylvd => '暂无地址信息';
+	@override String get k_176uemr => '账单记录';
+	@override String get k_03iikc9 => '开发中';
 }
 
 // Path: <root>
@@ -3673,6 +4179,259 @@ class _StringsKo implements _StringsEn {
 	@override String get k_03cho97 => '已完成';
 	@override String get k_02iq161 => '已关闭';
 	@override String get k_13we9fh => '未知状态';
+	@override String get k_0f7d7a3 => '上传失败';
+	@override String get k_0dy9l60 => '选择图片失败';
+	@override String get k_0xnstjy => '请上传店铺logo';
+	@override String get k_0v6jr10 => '请输入法人真实姓名';
+	@override String get k_1b4gqn8 => '请输入身份证号';
+	@override String get k_11kqo3y => '请上传身份证正面';
+	@override String get k_116p7vl => '请上传身份证背面';
+	@override String get k_1qpq2nd => '请输入商家名称';
+	@override String get k_04hd8xd => '请输入联系人';
+	@override String get k_0lu0s3h => '请输入联系方式';
+	@override String get k_0w2meb4 => '请选择所在地区';
+	@override String get k_1f35ums => '请输入详细地址';
+	@override String get k_1oshklj => '请上传营业执照';
+	@override String get k_1w3ksxr => '店铺logo上传异常，请重新上传';
+	@override String get k_0elk1yd => '商家入驻信息';
+	@override String get k_0s9wjwj => '商城商家入驻';
+	@override String get k_1sx3wgv => '提交成功!';
+	@override String get k_0yl8xqg => '平台审核中，请耐心等待~';
+	@override String get k_003qnm7 => '返回';
+	@override String get k_160mxpt => '审核驳回';
+	@override String get k_18w9iq4 => '重新提交';
+	@override String get k_0i2fxe6 => '卖家认证信息';
+	@override String get k_1kvdx79 => '法人真实姓名';
+	@override String get k_15dr9ut => '身份证号';
+	@override String get k_0pf8dkb => '法人身份证件';
+	@override String get k_13macnl => '基础信息';
+	@override String get k_11kde88 => '商家名称';
+	@override String get k_0s57rdv => '店铺logo';
+	@override String get k_16p9hcs => '联系方式';
+	@override String get k_1674o87 => '所在地区';
+	@override String get k_15kb28l => '详细地址';
+	@override String get k_10oclwa => '营业执照';
+	@override String get k_0zgj809 => '上传店铺logo';
+	@override String get k_03i81dp => '已上传';
+	@override String get k_0f13r80 => '请添加图片';
+	@override String get k_0kx0oe7 => '请拍证件片并确保清晰';
+	@override String get k_01x3ok9 => '上传证件正面';
+	@override String get k_0mshvzq => '上传证件背面';
+	@override String get k_11lb2s5 => '店铺名称';
+	@override String get k_03fkcas => '请输入';
+	@override String get k_1jx5cfg => '上传中...';
+	@override String get k_003tywh => '提交';
+	@override String get k_03c67bm => '请选择';
+	@override String get k_15gthvr => '我的订单';
+	@override String get k_0ei7wln => '商家入驻';
+	@override String get k_0rkidry => '网络错误，请稍后重试';
+	@override String get k_0f7e3j5 => '领取失败';
+	@override String get k_1234rpc => '获取签到数据失败';
+	@override String get k_1bhscvi => '获取邀请好友列表失败';
+	@override String get k_16f36li => '暂无邀请好友';
+	@override String get k_0y2wftq => '邀请验证码';
+	@override String get k_17z9k8j => '输入好友邀请码';
+	@override String get k_1lan6wi => '请输入邀请码';
+	@override String get k_17uw4tn => '不能使用自己的邀请码';
+	@override String get k_0xfj8a9 => '邀请码验证成功';
+	@override String get k_0ye6gwa => '邀请码验证失败';
+	@override String get k_15rzweq => '领取奖励';
+	@override String get k_1jhtygp => '连续签到7次可获得最高';
+	@override String get k_1749j78 => '恭喜获得';
+	@override String get k_19lgo1w => '我知道了';
+	@override String get k_13adcc9 => '选择年月';
+	@override String get k_0dy2l4e => '选择筛选项';
+	@override String get k_15iku3w => '收支类型';
+	@override String get k_167e3w1 => '暂无好友';
+	@override String get k_1mh977d => '获取好友列表失败';
+	@override String get k_1irava9 => '请先选择赠送人';
+	@override String get k_0cvw4bs => '加载商品详情失败';
+	@override String get k_07ho9zq => '暂无搜索结果';
+	@override String get k_1n4cahe => '试试其他关键词吧';
+	@override String get k_08i5je3 => '加载商品失败';
+	@override String get k_19gdm83 => '没有送出礼物';
+	@override String get k_19wgq0u => '没有收到礼物';
+	@override String get k_1g70l3l => '正在获取地址...';
+	@override String get k_0aqxe57 => '实付价(含运费¥';
+	@override String get k_1sp1dmq => '选择普通物流进行配送';
+	@override String get k_01mnyj3 => '选择Lalamove进行配送';
+	@override String get k_17up9dp => '点击获取运费报价';
+	@override String get k_03v0q3x => '暂无送出的礼物';
+	@override String get k_0tkv7rh => '快去商城为朋友挑选礼物吧';
+	@override String get k_02zu8wg => '暂无收到的礼物';
+	@override String get k_0jww1j8 => '还没有收到朋友的礼物哦';
+	@override String get k_08p9shr => '暂无购买记录';
+	@override String get k_1roprys => '快去商城选购心仪的商品吧';
+	@override String get k_13qhqgp => '暂无数据';
+	@override String get k_0wd6v0g => '下拉刷新试试';
+	@override String get k_09iahme => '去商城看看';
+	@override String get k_1ux4r7e => '购物车空空如也';
+	@override String get k_104hko8 => '快去商城挑选心仪的商品吧';
+	@override String get k_1bqta80 => '收藏的小店';
+	@override String get k_002tme4 => '收藏';
+	@override String get k_00dui6v => '暂无收藏的店铺';
+	@override String get k_0mewmfw => '快去收藏喜欢的店铺吧';
+	@override String get k_1hd4wxx => '没有更多了';
+	@override String get k_003s3sl => '商家';
+	@override String get k_002r59q => '包邮';
+	@override String get k_002vm4s => '运费';
+	@override String get k_18nhqgu => '运费报价';
+	@override String get k_16qe9qu => '预计3-7天发货';
+	@override String get k_141wow1 => '默认规格';
+	@override String get k_15ish3m => '等待运费报价';
+	@override String get k_1ee9cb5 => '请先获取Lalamove运费报价';
+	@override String get k_02l57fy => '已收藏';
+	@override String get k_003qx6l => '小店';
+	@override String get k_003nbbe => '客服';
+	@override String get k_1htb721 => '客服信息不存在';
+	@override String get k_13aq24a => '商家客服';
+	@override String get k_0cvi7lg => '获取商品详情失败';
+	@override String get k_0h5t4gd => '商家信息错误';
+	@override String get k_0sc2yur => '请选择收货地址';
+	@override String get k_1oca0hw => '更换支付方式功能待开发';
+	@override String get k_0f7dlgs => '购买失败';
+	@override String get k_0gz4ni4 => '未知错误';
+	@override String get k_1k1734u => '已添加到购物车';
+	@override String get k_0f7ezje => '添加失败';
+	@override String get k_0quu7oi => '添加失败，请检查网络连接';
+	@override String get k_0h6qd3k => '店铺信息错误';
+	@override String get k_12g4ma9 => '确认收货成功';
+	@override String get k_1ch687j => '请先选择礼物';
+	@override String get k_0ir0y9u => '请选择收礼人';
+	@override String get k_10lkfsf => '礼物发送成功';
+	@override String get k_0f7n898 => '送礼失败';
+	@override String get k_0vgz4qh => '订单信息异常，无法接收礼物';
+	@override String get k_1u2h02u => '正在接收礼物...';
+	@override String get k_1b4lsh9 => '礼物接收成功！';
+	@override String get k_0svg4jd => '获取报价成功';
+	@override String get k_1htllb5 => '订单信息不存在';
+	@override String get k_0fboon2 => '确认收货';
+	@override String get k_1stjzun => '确认已收到商品吗?确认后订单将完成。';
+	@override String get k_12rwkb5 => '订单详情';
+	@override String get k_13m447n => '小店信息';
+	@override String get k_0bv1rmt => '商品质量';
+	@override String get k_0edm5p2 => '服务体验';
+	@override String get k_03fhjb9 => '订单号';
+	@override String get k_002rhsq => '数量';
+	@override String get k_002vfkb => '小计';
+	@override String get k_0dqsfdj => '接收礼物失败';
+	@override String get k_1wxokn3 => '前往查看订单信息';
+	@override String get k_0jbrjmb => '礼物接收地址';
+	@override String get k_06eeoma => '朋友不会看到该信息';
+	@override String get k_1jpxtpk => '礼物待收下';
+	@override String get k_1rskmr5 => '礼物状态已更新';
+	@override String get k_0jr5vk7 => '24小时内礼物未收下将自动退款';
+	@override String get k_0g1hquz => '支付运费';
+	@override String get k_117w359 => '收下礼物';
+	@override String get k_1yq0xgx => '大家都在送的礼物';
+	@override String get k_1lrbggv => '获取地址列表失败';
+	@override String get k_0f8dn5h => '删除失败';
+	@override String get k_0f7m97l => '设置失败';
+	@override String get k_15wrir2 => '删除成功';
+	@override String get k_12d87au => '设置默认地址成功';
+	@override String get k_0cjfhqj => '确认删除';
+	@override String get k_1syxli7 => '确定要删除这个地址吗？';
+	@override String get k_182xfch => '请输入收货人姓名';
+	@override String get k_1cgfuwz => '请输入手机号码';
+	@override String get k_15wbpgu => '更新成功';
+	@override String get k_0f7gvw5 => '更新失败';
+	@override String get k_15wedv5 => '添加成功';
+	@override String get k_1jx2arn => '保存中...';
+	@override String get k_003pvnf => '姓名';
+	@override String get k_1j4m3cd => '手机号码(+63)';
+	@override String get k_12jd6qq => '手机号码';
+	@override String get k_1gv6a9e => '省市区街道门牌信息';
+	@override String get k_15lho7d => '默认地址';
+	@override String get k_176oa6w => '请选择地区';
+	@override String get k_10yvaf6 => '加入购物车';
+	@override String get k_0ecpg3g => '不再收藏';
+	@override String get k_02i7ln1 => '该店铺';
+	@override String get k_0ecjpnr => '仍然收藏';
+	@override String get k_15wt6wj => '收藏成功';
+	@override String get k_1b7c9gw => '已取消收藏';
+	@override String get k_0f7dbkw => '操作失败';
+	@override String get k_15ken91 => '选择地址';
+	@override String get k_002qfmw => '店铺';
+	@override String get k_16blm3o => '收藏小店';
+	@override String get k_003lpjs => '分类';
+	@override String get k_11yhed6 => '暂无分类';
+	@override String get k_18ffuol => '该功能为旗舰版功能';
+	@override String get k_1hcklj3 => '登录成功但缺少必要参数';
+	@override String get k_0f7fyin => '登录失败';
+	@override String get k_0o9hu0b => '验证码已发送';
+	@override String get k_1p3vvkd => '验证码发送失败';
+	@override String get k_0fm408e => '无法打开下载链接';
+	@override String get k_0uzat73 => '打开下载链接失败';
+	@override String get k_02n4nt9 => 'App整体优化';
+	@override String get k_0mrvupc => '需要存储权限才能下载文件';
+	@override String get k_0rwj9pv => '下载地址不能为空';
+	@override String get k_0uidjh6 => '无法获取存储目录';
+	@override String get k_1m30wzy => '下载完成!';
+	@override String get k_0f8b4mf => '下载失败';
+	@override String get k_0l2lo4f => '下载已取消';
+	@override String get k_03fujs0 => '网络连接超时';
+	@override String get k_1tlrfjr => '请检查网络连接后重试';
+	@override String get k_0319ikb => '接收数据超时';
+	@override String get k_1du932w => '文件不存在(404)';
+	@override String get k_0hiey4e => '请检查下载链接是否正确';
+	@override String get k_00ydvfq => '访问被拒绝(403)';
+	@override String get k_16yl6qz => '服务器拒绝访问该文件';
+	@override String get k_063q4df => '服务器错误(500)';
+	@override String get k_1soxle1 => '请稍后重试';
+	@override String get k_0ayyfc7 => '网络连接失败';
+	@override String get k_0lf27kx => '请检查网络连接';
+	@override String get k_09coebk => '需要允许安装未知来源应用的权限';
+	@override String get k_0ugifnf => '没有可安装的文件';
+	@override String get k_0ovxa2y => '无法打开安装包';
+	@override String get k_0f8d0yl => '安装失败';
+	@override String get k_0co0dow => '发现新版本';
+	@override String get k_123lye5 => '立即升级';
+	@override String get k_0gqm9km => '下次再说';
+	@override String get k_003q7wl => '刚刚';
+	@override String get k_03evj9t => '分钟前';
+	@override String get k_03ezglt => '小时前';
+	@override String get k_003qhfl => '天前';
+	@override String get k_003qetc => '周前';
+	@override String get k_1ppco93 => 'Phichat官方公众号';
+	@override String get k_1go2inw => '加载钱包余额失败';
+	@override String get k_13m6yu4 => '支付信息';
+	@override String get k_16pdm90 => '支付方式';
+	@override String get k_0dhwwj9 => '钱包余额';
+	@override String get k_18oyvvu => '立即支付';
+	@override String get k_1irh990 => '正在连接客服...';
+	@override String get k_09alugs => '添加好友失败';
+	@override String get k_1d5l750 => '但仍然跳转聊天';
+	@override String get k_0b5w339 => '连接客服失败';
+	@override String get k_0b609td => '联系客服失败';
+	@override String get k_13f5rvy => '支付完成';
+	@override String get k_0d66dtw => '获取订单详情失败';
+	@override String get k_0gz64im => '网络错误';
+	@override String get k_18wha3k => '商品单价';
+	@override String get k_0ck7gxp => '商品数量';
+	@override String get k_0d3u5g1 => '优惠金额';
+	@override String get k_03eb865 => '实付款';
+	@override String get k_161ql77 => '订单编号';
+	@override String get k_13w6vnp => '订单状态';
+	@override String get k_0by84mx => '下单时间';
+	@override String get k_0by754g => '支付时间';
+	@override String get k_14bvzst => '订单备注';
+	@override String get k_13ai6it => '联系客服';
+	@override String get k_10zzdu2 => '确认收货失败';
+	@override String get k_1a6yd0f => '确认已收到商品吗？确认后订单将完成。';
+	@override String get k_1d39k4z => '正在打开支付页面...';
+	@override String get k_14qp8qa => '充值成功！';
+	@override String get k_0l3ksla => '支付已取消';
+	@override String get k_0ogawly => '正在生成二维码...';
+	@override String get k_0qyge5k => '充值失败，请稍后重试';
+	@override String get k_0gwzn3r => '支付认证';
+	@override String get k_002rk6d => '公里';
+	@override String get k_0003x06 => '米';
+	@override String get k_15hr6ps => '暂无商品';
+	@override String get k_1t8lgog => '提交成功，请等待审核';
+	@override String get k_16jmk1j => '当前城市';
+	@override String get k_0pnylvd => '暂无地址信息';
+	@override String get k_176uemr => '账单记录';
+	@override String get k_03iikc9 => '开发中';
 }
 
 // Path: <root>
@@ -4793,6 +5552,259 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_03cho97 => '已完成';
 	@override String get k_02iq161 => '已关闭';
 	@override String get k_13we9fh => '未知状态';
+	@override String get k_0f7d7a3 => '上传失败';
+	@override String get k_0dy9l60 => '选择图片失败';
+	@override String get k_0xnstjy => '请上传店铺logo';
+	@override String get k_0v6jr10 => '请输入法人真实姓名';
+	@override String get k_1b4gqn8 => '请输入身份证号';
+	@override String get k_11kqo3y => '请上传身份证正面';
+	@override String get k_116p7vl => '请上传身份证背面';
+	@override String get k_1qpq2nd => '请输入商家名称';
+	@override String get k_04hd8xd => '请输入联系人';
+	@override String get k_0lu0s3h => '请输入联系方式';
+	@override String get k_0w2meb4 => '请选择所在地区';
+	@override String get k_1f35ums => '请输入详细地址';
+	@override String get k_1oshklj => '请上传营业执照';
+	@override String get k_1w3ksxr => '店铺logo上传异常，请重新上传';
+	@override String get k_0elk1yd => '商家入驻信息';
+	@override String get k_0s9wjwj => '商城商家入驻';
+	@override String get k_1sx3wgv => '提交成功!';
+	@override String get k_0yl8xqg => '平台审核中，请耐心等待~';
+	@override String get k_003qnm7 => '返回';
+	@override String get k_160mxpt => '审核驳回';
+	@override String get k_18w9iq4 => '重新提交';
+	@override String get k_0i2fxe6 => '卖家认证信息';
+	@override String get k_1kvdx79 => '法人真实姓名';
+	@override String get k_15dr9ut => '身份证号';
+	@override String get k_0pf8dkb => '法人身份证件';
+	@override String get k_13macnl => '基础信息';
+	@override String get k_11kde88 => '商家名称';
+	@override String get k_0s57rdv => '店铺logo';
+	@override String get k_16p9hcs => '联系方式';
+	@override String get k_1674o87 => '所在地区';
+	@override String get k_15kb28l => '详细地址';
+	@override String get k_10oclwa => '营业执照';
+	@override String get k_0zgj809 => '上传店铺logo';
+	@override String get k_03i81dp => '已上传';
+	@override String get k_0f13r80 => '请添加图片';
+	@override String get k_0kx0oe7 => '请拍证件片并确保清晰';
+	@override String get k_01x3ok9 => '上传证件正面';
+	@override String get k_0mshvzq => '上传证件背面';
+	@override String get k_11lb2s5 => '店铺名称';
+	@override String get k_03fkcas => '请输入';
+	@override String get k_1jx5cfg => '上传中...';
+	@override String get k_003tywh => '提交';
+	@override String get k_03c67bm => '请选择';
+	@override String get k_15gthvr => '我的订单';
+	@override String get k_0ei7wln => '商家入驻';
+	@override String get k_0rkidry => '网络错误，请稍后重试';
+	@override String get k_0f7e3j5 => '领取失败';
+	@override String get k_1234rpc => '获取签到数据失败';
+	@override String get k_1bhscvi => '获取邀请好友列表失败';
+	@override String get k_16f36li => '暂无邀请好友';
+	@override String get k_0y2wftq => '邀请验证码';
+	@override String get k_17z9k8j => '输入好友邀请码';
+	@override String get k_1lan6wi => '请输入邀请码';
+	@override String get k_17uw4tn => '不能使用自己的邀请码';
+	@override String get k_0xfj8a9 => '邀请码验证成功';
+	@override String get k_0ye6gwa => '邀请码验证失败';
+	@override String get k_15rzweq => '领取奖励';
+	@override String get k_1jhtygp => '连续签到7次可获得最高';
+	@override String get k_1749j78 => '恭喜获得';
+	@override String get k_19lgo1w => '我知道了';
+	@override String get k_13adcc9 => '选择年月';
+	@override String get k_0dy2l4e => '选择筛选项';
+	@override String get k_15iku3w => '收支类型';
+	@override String get k_167e3w1 => '暂无好友';
+	@override String get k_1mh977d => '获取好友列表失败';
+	@override String get k_1irava9 => '请先选择赠送人';
+	@override String get k_0cvw4bs => '加载商品详情失败';
+	@override String get k_07ho9zq => '暂无搜索结果';
+	@override String get k_1n4cahe => '试试其他关键词吧';
+	@override String get k_08i5je3 => '加载商品失败';
+	@override String get k_19gdm83 => '没有送出礼物';
+	@override String get k_19wgq0u => '没有收到礼物';
+	@override String get k_1g70l3l => '正在获取地址...';
+	@override String get k_0aqxe57 => '实付价(含运费¥';
+	@override String get k_1sp1dmq => '选择普通物流进行配送';
+	@override String get k_01mnyj3 => '选择Lalamove进行配送';
+	@override String get k_17up9dp => '点击获取运费报价';
+	@override String get k_03v0q3x => '暂无送出的礼物';
+	@override String get k_0tkv7rh => '快去商城为朋友挑选礼物吧';
+	@override String get k_02zu8wg => '暂无收到的礼物';
+	@override String get k_0jww1j8 => '还没有收到朋友的礼物哦';
+	@override String get k_08p9shr => '暂无购买记录';
+	@override String get k_1roprys => '快去商城选购心仪的商品吧';
+	@override String get k_13qhqgp => '暂无数据';
+	@override String get k_0wd6v0g => '下拉刷新试试';
+	@override String get k_09iahme => '去商城看看';
+	@override String get k_1ux4r7e => '购物车空空如也';
+	@override String get k_104hko8 => '快去商城挑选心仪的商品吧';
+	@override String get k_1bqta80 => '收藏的小店';
+	@override String get k_002tme4 => '收藏';
+	@override String get k_00dui6v => '暂无收藏的店铺';
+	@override String get k_0mewmfw => '快去收藏喜欢的店铺吧';
+	@override String get k_1hd4wxx => '没有更多了';
+	@override String get k_003s3sl => '商家';
+	@override String get k_002r59q => '包邮';
+	@override String get k_002vm4s => '运费';
+	@override String get k_18nhqgu => '运费报价';
+	@override String get k_16qe9qu => '预计3-7天发货';
+	@override String get k_141wow1 => '默认规格';
+	@override String get k_15ish3m => '等待运费报价';
+	@override String get k_1ee9cb5 => '请先获取Lalamove运费报价';
+	@override String get k_02l57fy => '已收藏';
+	@override String get k_003qx6l => '小店';
+	@override String get k_003nbbe => '客服';
+	@override String get k_1htb721 => '客服信息不存在';
+	@override String get k_13aq24a => '商家客服';
+	@override String get k_0cvi7lg => '获取商品详情失败';
+	@override String get k_0h5t4gd => '商家信息错误';
+	@override String get k_0sc2yur => '请选择收货地址';
+	@override String get k_1oca0hw => '更换支付方式功能待开发';
+	@override String get k_0f7dlgs => '购买失败';
+	@override String get k_0gz4ni4 => '未知错误';
+	@override String get k_1k1734u => '已添加到购物车';
+	@override String get k_0f7ezje => '添加失败';
+	@override String get k_0quu7oi => '添加失败，请检查网络连接';
+	@override String get k_0h6qd3k => '店铺信息错误';
+	@override String get k_12g4ma9 => '确认收货成功';
+	@override String get k_1ch687j => '请先选择礼物';
+	@override String get k_0ir0y9u => '请选择收礼人';
+	@override String get k_10lkfsf => '礼物发送成功';
+	@override String get k_0f7n898 => '送礼失败';
+	@override String get k_0vgz4qh => '订单信息异常，无法接收礼物';
+	@override String get k_1u2h02u => '正在接收礼物...';
+	@override String get k_1b4lsh9 => '礼物接收成功！';
+	@override String get k_0svg4jd => '获取报价成功';
+	@override String get k_1htllb5 => '订单信息不存在';
+	@override String get k_0fboon2 => '确认收货';
+	@override String get k_1stjzun => '确认已收到商品吗?确认后订单将完成。';
+	@override String get k_12rwkb5 => '订单详情';
+	@override String get k_13m447n => '小店信息';
+	@override String get k_0bv1rmt => '商品质量';
+	@override String get k_0edm5p2 => '服务体验';
+	@override String get k_03fhjb9 => '订单号';
+	@override String get k_002rhsq => '数量';
+	@override String get k_002vfkb => '小计';
+	@override String get k_0dqsfdj => '接收礼物失败';
+	@override String get k_1wxokn3 => '前往查看订单信息';
+	@override String get k_0jbrjmb => '礼物接收地址';
+	@override String get k_06eeoma => '朋友不会看到该信息';
+	@override String get k_1jpxtpk => '礼物待收下';
+	@override String get k_1rskmr5 => '礼物状态已更新';
+	@override String get k_0jr5vk7 => '24小时内礼物未收下将自动退款';
+	@override String get k_0g1hquz => '支付运费';
+	@override String get k_117w359 => '收下礼物';
+	@override String get k_1yq0xgx => '大家都在送的礼物';
+	@override String get k_1lrbggv => '获取地址列表失败';
+	@override String get k_0f8dn5h => '删除失败';
+	@override String get k_0f7m97l => '设置失败';
+	@override String get k_15wrir2 => '删除成功';
+	@override String get k_12d87au => '设置默认地址成功';
+	@override String get k_0cjfhqj => '确认删除';
+	@override String get k_1syxli7 => '确定要删除这个地址吗？';
+	@override String get k_182xfch => '请输入收货人姓名';
+	@override String get k_1cgfuwz => '请输入手机号码';
+	@override String get k_15wbpgu => '更新成功';
+	@override String get k_0f7gvw5 => '更新失败';
+	@override String get k_15wedv5 => '添加成功';
+	@override String get k_1jx2arn => '保存中...';
+	@override String get k_003pvnf => '姓名';
+	@override String get k_1j4m3cd => '手机号码(+63)';
+	@override String get k_12jd6qq => '手机号码';
+	@override String get k_1gv6a9e => '省市区街道门牌信息';
+	@override String get k_15lho7d => '默认地址';
+	@override String get k_176oa6w => '请选择地区';
+	@override String get k_10yvaf6 => '加入购物车';
+	@override String get k_0ecpg3g => '不再收藏';
+	@override String get k_02i7ln1 => '该店铺';
+	@override String get k_0ecjpnr => '仍然收藏';
+	@override String get k_15wt6wj => '收藏成功';
+	@override String get k_1b7c9gw => '已取消收藏';
+	@override String get k_0f7dbkw => '操作失败';
+	@override String get k_15ken91 => '选择地址';
+	@override String get k_002qfmw => '店铺';
+	@override String get k_16blm3o => '收藏小店';
+	@override String get k_003lpjs => '分类';
+	@override String get k_11yhed6 => '暂无分类';
+	@override String get k_18ffuol => '该功能为旗舰版功能';
+	@override String get k_1hcklj3 => '登录成功但缺少必要参数';
+	@override String get k_0f7fyin => '登录失败';
+	@override String get k_0o9hu0b => '验证码已发送';
+	@override String get k_1p3vvkd => '验证码发送失败';
+	@override String get k_0fm408e => '无法打开下载链接';
+	@override String get k_0uzat73 => '打开下载链接失败';
+	@override String get k_02n4nt9 => 'App整体优化';
+	@override String get k_0mrvupc => '需要存储权限才能下载文件';
+	@override String get k_0rwj9pv => '下载地址不能为空';
+	@override String get k_0uidjh6 => '无法获取存储目录';
+	@override String get k_1m30wzy => '下载完成!';
+	@override String get k_0f8b4mf => '下载失败';
+	@override String get k_0l2lo4f => '下载已取消';
+	@override String get k_03fujs0 => '网络连接超时';
+	@override String get k_1tlrfjr => '请检查网络连接后重试';
+	@override String get k_0319ikb => '接收数据超时';
+	@override String get k_1du932w => '文件不存在(404)';
+	@override String get k_0hiey4e => '请检查下载链接是否正确';
+	@override String get k_00ydvfq => '访问被拒绝(403)';
+	@override String get k_16yl6qz => '服务器拒绝访问该文件';
+	@override String get k_063q4df => '服务器错误(500)';
+	@override String get k_1soxle1 => '请稍后重试';
+	@override String get k_0ayyfc7 => '网络连接失败';
+	@override String get k_0lf27kx => '请检查网络连接';
+	@override String get k_09coebk => '需要允许安装未知来源应用的权限';
+	@override String get k_0ugifnf => '没有可安装的文件';
+	@override String get k_0ovxa2y => '无法打开安装包';
+	@override String get k_0f8d0yl => '安装失败';
+	@override String get k_0co0dow => '发现新版本';
+	@override String get k_123lye5 => '立即升级';
+	@override String get k_0gqm9km => '下次再说';
+	@override String get k_003q7wl => '刚刚';
+	@override String get k_03evj9t => '分钟前';
+	@override String get k_03ezglt => '小时前';
+	@override String get k_003qhfl => '天前';
+	@override String get k_003qetc => '周前';
+	@override String get k_1ppco93 => 'Phichat官方公众号';
+	@override String get k_1go2inw => '加载钱包余额失败';
+	@override String get k_13m6yu4 => '支付信息';
+	@override String get k_16pdm90 => '支付方式';
+	@override String get k_0dhwwj9 => '钱包余额';
+	@override String get k_18oyvvu => '立即支付';
+	@override String get k_1irh990 => '正在连接客服...';
+	@override String get k_09alugs => '添加好友失败';
+	@override String get k_1d5l750 => '但仍然跳转聊天';
+	@override String get k_0b5w339 => '连接客服失败';
+	@override String get k_0b609td => '联系客服失败';
+	@override String get k_13f5rvy => '支付完成';
+	@override String get k_0d66dtw => '获取订单详情失败';
+	@override String get k_0gz64im => '网络错误';
+	@override String get k_18wha3k => '商品单价';
+	@override String get k_0ck7gxp => '商品数量';
+	@override String get k_0d3u5g1 => '优惠金额';
+	@override String get k_03eb865 => '实付款';
+	@override String get k_161ql77 => '订单编号';
+	@override String get k_13w6vnp => '订单状态';
+	@override String get k_0by84mx => '下单时间';
+	@override String get k_0by754g => '支付时间';
+	@override String get k_14bvzst => '订单备注';
+	@override String get k_13ai6it => '联系客服';
+	@override String get k_10zzdu2 => '确认收货失败';
+	@override String get k_1a6yd0f => '确认已收到商品吗？确认后订单将完成。';
+	@override String get k_1d39k4z => '正在打开支付页面...';
+	@override String get k_14qp8qa => '充值成功！';
+	@override String get k_0l3ksla => '支付已取消';
+	@override String get k_0ogawly => '正在生成二维码...';
+	@override String get k_0qyge5k => '充值失败，请稍后重试';
+	@override String get k_0gwzn3r => '支付认证';
+	@override String get k_002rk6d => '公里';
+	@override String get k_0003x06 => '米';
+	@override String get k_15hr6ps => '暂无商品';
+	@override String get k_1t8lgog => '提交成功，请等待审核';
+	@override String get k_16jmk1j => '当前城市';
+	@override String get k_0pnylvd => '暂无地址信息';
+	@override String get k_176uemr => '账单记录';
+	@override String get k_03iikc9 => '开发中';
 }
 
 // Path: <root>
@@ -5914,6 +6926,259 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_03cho97 => '已完成';
 	@override String get k_02iq161 => '已关闭';
 	@override String get k_13we9fh => '未知状态';
+	@override String get k_0f7d7a3 => '上传失败';
+	@override String get k_0dy9l60 => '选择图片失败';
+	@override String get k_0xnstjy => '请上传店铺logo';
+	@override String get k_0v6jr10 => '请输入法人真实姓名';
+	@override String get k_1b4gqn8 => '请输入身份证号';
+	@override String get k_11kqo3y => '请上传身份证正面';
+	@override String get k_116p7vl => '请上传身份证背面';
+	@override String get k_1qpq2nd => '请输入商家名称';
+	@override String get k_04hd8xd => '请输入联系人';
+	@override String get k_0lu0s3h => '请输入联系方式';
+	@override String get k_0w2meb4 => '请选择所在地区';
+	@override String get k_1f35ums => '请输入详细地址';
+	@override String get k_1oshklj => '请上传营业执照';
+	@override String get k_1w3ksxr => '店铺logo上传异常，请重新上传';
+	@override String get k_0elk1yd => '商家入驻信息';
+	@override String get k_0s9wjwj => '商城商家入驻';
+	@override String get k_1sx3wgv => '提交成功!';
+	@override String get k_0yl8xqg => '平台审核中，请耐心等待~';
+	@override String get k_003qnm7 => '返回';
+	@override String get k_160mxpt => '审核驳回';
+	@override String get k_18w9iq4 => '重新提交';
+	@override String get k_0i2fxe6 => '卖家认证信息';
+	@override String get k_1kvdx79 => '法人真实姓名';
+	@override String get k_15dr9ut => '身份证号';
+	@override String get k_0pf8dkb => '法人身份证件';
+	@override String get k_13macnl => '基础信息';
+	@override String get k_11kde88 => '商家名称';
+	@override String get k_0s57rdv => '店铺logo';
+	@override String get k_16p9hcs => '联系方式';
+	@override String get k_1674o87 => '所在地区';
+	@override String get k_15kb28l => '详细地址';
+	@override String get k_10oclwa => '营业执照';
+	@override String get k_0zgj809 => '上传店铺logo';
+	@override String get k_03i81dp => '已上传';
+	@override String get k_0f13r80 => '请添加图片';
+	@override String get k_0kx0oe7 => '请拍证件片并确保清晰';
+	@override String get k_01x3ok9 => '上传证件正面';
+	@override String get k_0mshvzq => '上传证件背面';
+	@override String get k_11lb2s5 => '店铺名称';
+	@override String get k_03fkcas => '请输入';
+	@override String get k_1jx5cfg => '上传中...';
+	@override String get k_003tywh => '提交';
+	@override String get k_03c67bm => '请选择';
+	@override String get k_15gthvr => '我的订单';
+	@override String get k_0ei7wln => '商家入驻';
+	@override String get k_0rkidry => '网络错误，请稍后重试';
+	@override String get k_0f7e3j5 => '领取失败';
+	@override String get k_1234rpc => '获取签到数据失败';
+	@override String get k_1bhscvi => '获取邀请好友列表失败';
+	@override String get k_16f36li => '暂无邀请好友';
+	@override String get k_0y2wftq => '邀请验证码';
+	@override String get k_17z9k8j => '输入好友邀请码';
+	@override String get k_1lan6wi => '请输入邀请码';
+	@override String get k_17uw4tn => '不能使用自己的邀请码';
+	@override String get k_0xfj8a9 => '邀请码验证成功';
+	@override String get k_0ye6gwa => '邀请码验证失败';
+	@override String get k_15rzweq => '领取奖励';
+	@override String get k_1jhtygp => '连续签到7次可获得最高';
+	@override String get k_1749j78 => '恭喜获得';
+	@override String get k_19lgo1w => '我知道了';
+	@override String get k_13adcc9 => '选择年月';
+	@override String get k_0dy2l4e => '选择筛选项';
+	@override String get k_15iku3w => '收支类型';
+	@override String get k_167e3w1 => '暂无好友';
+	@override String get k_1mh977d => '获取好友列表失败';
+	@override String get k_1irava9 => '请先选择赠送人';
+	@override String get k_0cvw4bs => '加载商品详情失败';
+	@override String get k_07ho9zq => '暂无搜索结果';
+	@override String get k_1n4cahe => '试试其他关键词吧';
+	@override String get k_08i5je3 => '加载商品失败';
+	@override String get k_19gdm83 => '没有送出礼物';
+	@override String get k_19wgq0u => '没有收到礼物';
+	@override String get k_1g70l3l => '正在获取地址...';
+	@override String get k_0aqxe57 => '实付价(含运费¥';
+	@override String get k_1sp1dmq => '选择普通物流进行配送';
+	@override String get k_01mnyj3 => '选择Lalamove进行配送';
+	@override String get k_17up9dp => '点击获取运费报价';
+	@override String get k_03v0q3x => '暂无送出的礼物';
+	@override String get k_0tkv7rh => '快去商城为朋友挑选礼物吧';
+	@override String get k_02zu8wg => '暂无收到的礼物';
+	@override String get k_0jww1j8 => '还没有收到朋友的礼物哦';
+	@override String get k_08p9shr => '暂无购买记录';
+	@override String get k_1roprys => '快去商城选购心仪的商品吧';
+	@override String get k_13qhqgp => '暂无数据';
+	@override String get k_0wd6v0g => '下拉刷新试试';
+	@override String get k_09iahme => '去商城看看';
+	@override String get k_1ux4r7e => '购物车空空如也';
+	@override String get k_104hko8 => '快去商城挑选心仪的商品吧';
+	@override String get k_1bqta80 => '收藏的小店';
+	@override String get k_002tme4 => '收藏';
+	@override String get k_00dui6v => '暂无收藏的店铺';
+	@override String get k_0mewmfw => '快去收藏喜欢的店铺吧';
+	@override String get k_1hd4wxx => '没有更多了';
+	@override String get k_003s3sl => '商家';
+	@override String get k_002r59q => '包邮';
+	@override String get k_002vm4s => '运费';
+	@override String get k_18nhqgu => '运费报价';
+	@override String get k_16qe9qu => '预计3-7天发货';
+	@override String get k_141wow1 => '默认规格';
+	@override String get k_15ish3m => '等待运费报价';
+	@override String get k_1ee9cb5 => '请先获取Lalamove运费报价';
+	@override String get k_02l57fy => '已收藏';
+	@override String get k_003qx6l => '小店';
+	@override String get k_003nbbe => '客服';
+	@override String get k_1htb721 => '客服信息不存在';
+	@override String get k_13aq24a => '商家客服';
+	@override String get k_0cvi7lg => '获取商品详情失败';
+	@override String get k_0h5t4gd => '商家信息错误';
+	@override String get k_0sc2yur => '请选择收货地址';
+	@override String get k_1oca0hw => '更换支付方式功能待开发';
+	@override String get k_0f7dlgs => '购买失败';
+	@override String get k_0gz4ni4 => '未知错误';
+	@override String get k_1k1734u => '已添加到购物车';
+	@override String get k_0f7ezje => '添加失败';
+	@override String get k_0quu7oi => '添加失败，请检查网络连接';
+	@override String get k_0h6qd3k => '店铺信息错误';
+	@override String get k_12g4ma9 => '确认收货成功';
+	@override String get k_1ch687j => '请先选择礼物';
+	@override String get k_0ir0y9u => '请选择收礼人';
+	@override String get k_10lkfsf => '礼物发送成功';
+	@override String get k_0f7n898 => '送礼失败';
+	@override String get k_0vgz4qh => '订单信息异常，无法接收礼物';
+	@override String get k_1u2h02u => '正在接收礼物...';
+	@override String get k_1b4lsh9 => '礼物接收成功！';
+	@override String get k_0svg4jd => '获取报价成功';
+	@override String get k_1htllb5 => '订单信息不存在';
+	@override String get k_0fboon2 => '确认收货';
+	@override String get k_1stjzun => '确认已收到商品吗?确认后订单将完成。';
+	@override String get k_12rwkb5 => '订单详情';
+	@override String get k_13m447n => '小店信息';
+	@override String get k_0bv1rmt => '商品质量';
+	@override String get k_0edm5p2 => '服务体验';
+	@override String get k_03fhjb9 => '订单号';
+	@override String get k_002rhsq => '数量';
+	@override String get k_002vfkb => '小计';
+	@override String get k_0dqsfdj => '接收礼物失败';
+	@override String get k_1wxokn3 => '前往查看订单信息';
+	@override String get k_0jbrjmb => '礼物接收地址';
+	@override String get k_06eeoma => '朋友不会看到该信息';
+	@override String get k_1jpxtpk => '礼物待收下';
+	@override String get k_1rskmr5 => '礼物状态已更新';
+	@override String get k_0jr5vk7 => '24小时内礼物未收下将自动退款';
+	@override String get k_0g1hquz => '支付运费';
+	@override String get k_117w359 => '收下礼物';
+	@override String get k_1yq0xgx => '大家都在送的礼物';
+	@override String get k_1lrbggv => '获取地址列表失败';
+	@override String get k_0f8dn5h => '删除失败';
+	@override String get k_0f7m97l => '设置失败';
+	@override String get k_15wrir2 => '删除成功';
+	@override String get k_12d87au => '设置默认地址成功';
+	@override String get k_0cjfhqj => '确认删除';
+	@override String get k_1syxli7 => '确定要删除这个地址吗？';
+	@override String get k_182xfch => '请输入收货人姓名';
+	@override String get k_1cgfuwz => '请输入手机号码';
+	@override String get k_15wbpgu => '更新成功';
+	@override String get k_0f7gvw5 => '更新失败';
+	@override String get k_15wedv5 => '添加成功';
+	@override String get k_1jx2arn => '保存中...';
+	@override String get k_003pvnf => '姓名';
+	@override String get k_1j4m3cd => '手机号码(+63)';
+	@override String get k_12jd6qq => '手机号码';
+	@override String get k_1gv6a9e => '省市区街道门牌信息';
+	@override String get k_15lho7d => '默认地址';
+	@override String get k_176oa6w => '请选择地区';
+	@override String get k_10yvaf6 => '加入购物车';
+	@override String get k_0ecpg3g => '不再收藏';
+	@override String get k_02i7ln1 => '该店铺';
+	@override String get k_0ecjpnr => '仍然收藏';
+	@override String get k_15wt6wj => '收藏成功';
+	@override String get k_1b7c9gw => '已取消收藏';
+	@override String get k_0f7dbkw => '操作失败';
+	@override String get k_15ken91 => '选择地址';
+	@override String get k_002qfmw => '店铺';
+	@override String get k_16blm3o => '收藏小店';
+	@override String get k_003lpjs => '分类';
+	@override String get k_11yhed6 => '暂无分类';
+	@override String get k_18ffuol => '该功能为旗舰版功能';
+	@override String get k_1hcklj3 => '登录成功但缺少必要参数';
+	@override String get k_0f7fyin => '登录失败';
+	@override String get k_0o9hu0b => '验证码已发送';
+	@override String get k_1p3vvkd => '验证码发送失败';
+	@override String get k_0fm408e => '无法打开下载链接';
+	@override String get k_0uzat73 => '打开下载链接失败';
+	@override String get k_02n4nt9 => 'App整体优化';
+	@override String get k_0mrvupc => '需要存储权限才能下载文件';
+	@override String get k_0rwj9pv => '下载地址不能为空';
+	@override String get k_0uidjh6 => '无法获取存储目录';
+	@override String get k_1m30wzy => '下载完成!';
+	@override String get k_0f8b4mf => '下载失败';
+	@override String get k_0l2lo4f => '下载已取消';
+	@override String get k_03fujs0 => '网络连接超时';
+	@override String get k_1tlrfjr => '请检查网络连接后重试';
+	@override String get k_0319ikb => '接收数据超时';
+	@override String get k_1du932w => '文件不存在(404)';
+	@override String get k_0hiey4e => '请检查下载链接是否正确';
+	@override String get k_00ydvfq => '访问被拒绝(403)';
+	@override String get k_16yl6qz => '服务器拒绝访问该文件';
+	@override String get k_063q4df => '服务器错误(500)';
+	@override String get k_1soxle1 => '请稍后重试';
+	@override String get k_0ayyfc7 => '网络连接失败';
+	@override String get k_0lf27kx => '请检查网络连接';
+	@override String get k_09coebk => '需要允许安装未知来源应用的权限';
+	@override String get k_0ugifnf => '没有可安装的文件';
+	@override String get k_0ovxa2y => '无法打开安装包';
+	@override String get k_0f8d0yl => '安装失败';
+	@override String get k_0co0dow => '发现新版本';
+	@override String get k_123lye5 => '立即升级';
+	@override String get k_0gqm9km => '下次再说';
+	@override String get k_003q7wl => '刚刚';
+	@override String get k_03evj9t => '分钟前';
+	@override String get k_03ezglt => '小时前';
+	@override String get k_003qhfl => '天前';
+	@override String get k_003qetc => '周前';
+	@override String get k_1ppco93 => 'Phichat官方公众号';
+	@override String get k_1go2inw => '加载钱包余额失败';
+	@override String get k_13m6yu4 => '支付信息';
+	@override String get k_16pdm90 => '支付方式';
+	@override String get k_0dhwwj9 => '钱包余额';
+	@override String get k_18oyvvu => '立即支付';
+	@override String get k_1irh990 => '正在连接客服...';
+	@override String get k_09alugs => '添加好友失败';
+	@override String get k_1d5l750 => '但仍然跳转聊天';
+	@override String get k_0b5w339 => '连接客服失败';
+	@override String get k_0b609td => '联系客服失败';
+	@override String get k_13f5rvy => '支付完成';
+	@override String get k_0d66dtw => '获取订单详情失败';
+	@override String get k_0gz64im => '网络错误';
+	@override String get k_18wha3k => '商品单价';
+	@override String get k_0ck7gxp => '商品数量';
+	@override String get k_0d3u5g1 => '优惠金额';
+	@override String get k_03eb865 => '实付款';
+	@override String get k_161ql77 => '订单编号';
+	@override String get k_13w6vnp => '订单状态';
+	@override String get k_0by84mx => '下单时间';
+	@override String get k_0by754g => '支付时间';
+	@override String get k_14bvzst => '订单备注';
+	@override String get k_13ai6it => '联系客服';
+	@override String get k_10zzdu2 => '确认收货失败';
+	@override String get k_1a6yd0f => '确认已收到商品吗？确认后订单将完成。';
+	@override String get k_1d39k4z => '正在打开支付页面...';
+	@override String get k_14qp8qa => '充值成功！';
+	@override String get k_0l3ksla => '支付已取消';
+	@override String get k_0ogawly => '正在生成二维码...';
+	@override String get k_0qyge5k => '充值失败，请稍后重试';
+	@override String get k_0gwzn3r => '支付认证';
+	@override String get k_002rk6d => '公里';
+	@override String get k_0003x06 => '米';
+	@override String get k_15hr6ps => '暂无商品';
+	@override String get k_1t8lgog => '提交成功，请等待审核';
+	@override String get k_16jmk1j => '当前城市';
+	@override String get k_0pnylvd => '暂无地址信息';
+	@override String get k_176uemr => '账单记录';
+	@override String get k_03iikc9 => '开发中';
 }
 
 /// Flat map(s) containing all translations.
@@ -7024,6 +8289,259 @@ extension on _StringsEn {
 			'k_03cho97': 'Completed',
 			'k_02iq161': 'Closed',
 			'k_13we9fh': 'Unknown status',
+			'k_0f7d7a3': 'Upload failed',
+			'k_0dy9l60': 'Image selection failed',
+			'k_0xnstjy': 'Please upload store logo',
+			'k_0v6jr10': 'Please enter the legal representative\'s real name',
+			'k_1b4gqn8': 'Please enter the ID number',
+			'k_11kqo3y': 'Please upload the front of the ID card',
+			'k_116p7vl': 'Please upload the back of the ID card',
+			'k_1qpq2nd': 'Please enter the business name',
+			'k_04hd8xd': 'Please enter the contact person',
+			'k_0lu0s3h': 'Please enter the contact information',
+			'k_0w2meb4': 'Please select the region',
+			'k_1f35ums': 'Please enter the detailed address',
+			'k_1oshklj': 'Please upload the business license',
+			'k_1w3ksxr': 'Store logo upload error, please re-upload',
+			'k_0elk1yd': 'Merchant registration information',
+			'k_0s9wjwj': 'Mall merchant registration',
+			'k_1sx3wgv': 'Submission successful!',
+			'k_0yl8xqg': 'Platform is under review, please be patient~',
+			'k_003qnm7': 'Back',
+			'k_160mxpt': 'Audit rejected',
+			'k_18w9iq4': 'Resubmit',
+			'k_0i2fxe6': 'Seller verification information',
+			'k_1kvdx79': 'Legal representative\'s real name',
+			'k_15dr9ut': 'ID number',
+			'k_0pf8dkb': 'Legal representative\'s ID card',
+			'k_13macnl': 'Basic information',
+			'k_11kde88': 'Business name',
+			'k_0s57rdv': 'Store logo',
+			'k_16p9hcs': 'Contact information',
+			'k_1674o87': 'Region',
+			'k_15kb28l': 'Detailed address',
+			'k_10oclwa': 'Business license',
+			'k_0zgj809': 'Upload store logo',
+			'k_03i81dp': 'Uploaded',
+			'k_0f13r80': 'Please add an image',
+			'k_0kx0oe7': 'Please take a clear photo of the ID',
+			'k_01x3ok9': 'Upload front of the ID',
+			'k_0mshvzq': 'Upload back of the ID',
+			'k_11lb2s5': 'Store name',
+			'k_03fkcas': 'Please enter',
+			'k_1jx5cfg': 'Uploading...',
+			'k_003tywh': 'Submit',
+			'k_03c67bm': 'Please select',
+			'k_15gthvr': 'My Orders',
+			'k_0ei7wln': 'Merchant Registration',
+			'k_0rkidry': 'Network error, please try again later',
+			'k_0f7e3j5': 'Claim failed',
+			'k_1234rpc': 'Failed to retrieve sign-in data',
+			'k_1bhscvi': 'Failed to get the invite friends list',
+			'k_16f36li': 'No invited friends yet',
+			'k_0y2wftq': 'Invite verification code',
+			'k_17z9k8j': 'Enter friend\'s invite code',
+			'k_1lan6wi': 'Please enter the invite code',
+			'k_17uw4tn': 'You cannot use your own invite code',
+			'k_0xfj8a9': 'Invite code verification successful',
+			'k_0ye6gwa': 'Invite code verification failed',
+			'k_15rzweq': 'Claim reward',
+			'k_1jhtygp': 'Sign in consecutively 7 times to get the highest reward',
+			'k_1749j78': 'Congratulations, you won',
+			'k_19lgo1w': 'Got it',
+			'k_13adcc9': 'Select year and month',
+			'k_0dy2l4e': 'Select filter options',
+			'k_15iku3w': 'Income and expense type',
+			'k_167e3w1': 'No friends yet',
+			'k_1mh977d': 'Failed to retrieve friends list',
+			'k_1irava9': 'Please select the giver first',
+			'k_0cvw4bs': 'Failed to load product details',
+			'k_07ho9zq': 'No search results',
+			'k_1n4cahe': 'Try other keywords',
+			'k_08i5je3': 'Failed to load product',
+			'k_19gdm83': 'No gifts sent',
+			'k_19wgq0u': 'No gifts received',
+			'k_1g70l3l': 'Getting address...',
+			'k_0aqxe57': 'Actual (inc.¥ ',
+			'k_1sp1dmq': 'Choose regular logistics for delivery',
+			'k_01mnyj3': 'Choose Lalamove for delivery',
+			'k_17up9dp': 'Click to get shipping quote',
+			'k_03v0q3x': 'No gifts sent yet',
+			'k_0tkv7rh': 'Go to the mall and pick a gift for your friend',
+			'k_02zu8wg': 'No gifts received yet',
+			'k_0jww1j8': 'You haven\'t received any gifts from friends yet',
+			'k_08p9shr': 'No purchase records',
+			'k_1roprys': 'Go to the mall and buy your favorite items',
+			'k_13qhqgp': 'No data',
+			'k_0wd6v0g': 'Try pulling to refresh',
+			'k_09iahme': 'Go to the mall and check it out',
+			'k_1ux4r7e': 'The shopping cart is empty',
+			'k_104hko8': 'Go to the mall and pick your favorite items',
+			'k_1bqta80': 'Favorited stores',
+			'k_002tme4': 'Favorite',
+			'k_00dui6v': 'No stores favorited yet',
+			'k_0mewmfw': 'Go and favorite your favorite stores',
+			'k_1hd4wxx': 'No more items',
+			'k_003s3sl': 'Merchant',
+			'k_002r59q': 'Free shipping',
+			'k_002vm4s': 'Shipping fee',
+			'k_18nhqgu': 'Shipping quote',
+			'k_16qe9qu': 'Expected shipping in 3-7 days',
+			'k_141wow1': 'Default specifications',
+			'k_15ish3m': 'Waiting for shipping quote',
+			'k_1ee9cb5': 'Please get the Lalamove shipping quote first',
+			'k_02l57fy': 'Favorited',
+			'k_003qx6l': 'Store',
+			'k_003nbbe': 'service',
+			'k_1htb721': 'Customer service information does not exist',
+			'k_13aq24a': 'Merchant customer service',
+			'k_0cvi7lg': 'Failed to get product details',
+			'k_0h5t4gd': 'Merchant information error',
+			'k_0sc2yur': 'Please select a shipping address',
+			'k_1oca0hw': 'Change payment method feature is under development',
+			'k_0f7dlgs': 'Purchase failed',
+			'k_0gz4ni4': 'Unknown error',
+			'k_1k1734u': 'Added to cart',
+			'k_0f7ezje': 'Add failed',
+			'k_0quu7oi': 'Add failed, please check network connection',
+			'k_0h6qd3k': 'Store information error',
+			'k_12g4ma9': 'Confirm receipt successful',
+			'k_1ch687j': 'Please select a gift first',
+			'k_0ir0y9u': 'Please select a recipient',
+			'k_10lkfsf': 'Gift sent successfully',
+			'k_0f7n898': 'Gift sending failed',
+			'k_0vgz4qh': 'Order information is abnormal, unable to receive gift',
+			'k_1u2h02u': 'Receiving gift...',
+			'k_1b4lsh9': 'Gift received successfully!',
+			'k_0svg4jd': 'Get quote successful',
+			'k_1htllb5': 'Order information does not exist',
+			'k_0fboon2': 'Confirm',
+			'k_1stjzun': 'Have you received the product? Confirming will complete the order.',
+			'k_12rwkb5': 'Order details',
+			'k_13m447n': 'Store information',
+			'k_0bv1rmt': 'Product quality',
+			'k_0edm5p2': 'Service experience',
+			'k_03fhjb9': 'Order number',
+			'k_002rhsq': 'Quantity',
+			'k_002vfkb': 'Subtotal',
+			'k_0dqsfdj': 'Failed to receive gift',
+			'k_1wxokn3': 'Go to view order information',
+			'k_0jbrjmb': 'Gift receiving address',
+			'k_06eeoma': 'Your friend will not see this information',
+			'k_1jpxtpk': 'Gift pending reception',
+			'k_1rskmr5': 'Gift status has been updated',
+			'k_0jr5vk7': 'If the gift is not received within 24 hours, it will be automatically refunded',
+			'k_0g1hquz': 'Pay for shipping',
+			'k_117w359': 'Accept gift',
+			'k_1yq0xgx': 'Gifts everyone is giving',
+			'k_1lrbggv': 'Failed to get address list',
+			'k_0f8dn5h': 'Delete failed',
+			'k_0f7m97l': 'Setting failed',
+			'k_15wrir2': 'Deleted successfully',
+			'k_12d87au': 'Set default address successfully',
+			'k_0cjfhqj': 'Confirm deletion',
+			'k_1syxli7': 'Are you sure you want to delete this address?',
+			'k_182xfch': 'Please enter the recipient\'s name',
+			'k_1cgfuwz': 'Please enter a phone number',
+			'k_15wbpgu': 'Update successful',
+			'k_0f7gvw5': 'Update failed',
+			'k_15wedv5': 'Added successfully',
+			'k_1jx2arn': 'Saving...',
+			'k_003pvnf': 'Name',
+			'k_1j4m3cd': 'Phone number (+63)',
+			'k_12jd6qq': 'Phone number',
+			'k_1gv6a9e': 'Province, city, district, street, doorplate information',
+			'k_15lho7d': 'Default address',
+			'k_176oa6w': 'Please select a region',
+			'k_10yvaf6': 'Add to cart',
+			'k_0ecpg3g': 'Remove from favorites',
+			'k_02i7ln1': 'This store',
+			'k_0ecjpnr': 'Still in favorites',
+			'k_15wt6wj': 'Successfully favorited',
+			'k_1b7c9gw': 'Favorite removed',
+			'k_0f7dbkw': 'Operation failed',
+			'k_15ken91': 'Select address',
+			'k_002qfmw': 'Store',
+			'k_16blm3o': 'Favorite store',
+			'k_003lpjs': 'Category',
+			'k_11yhed6': 'No categories yet',
+			'k_18ffuol': 'This feature is for the premium version',
+			'k_1hcklj3': 'Login successful but missing necessary parameters',
+			'k_0f7fyin': 'Login failed',
+			'k_0o9hu0b': 'Verification code sent',
+			'k_1p3vvkd': 'Failed to send verification code',
+			'k_0fm408e': 'Cannot open download link',
+			'k_0uzat73': 'Failed to open download link',
+			'k_02n4nt9': 'App overall optimization',
+			'k_0mrvupc': 'Storage permission required to download files',
+			'k_0rwj9pv': 'Download link cannot be empty',
+			'k_0uidjh6': 'Unable to get storage directory',
+			'k_1m30wzy': 'Download complete!',
+			'k_0f8b4mf': 'Download failed',
+			'k_0l2lo4f': 'Download canceled',
+			'k_03fujs0': 'Network connection timeout',
+			'k_1tlrfjr': 'Please check your network connection and try again',
+			'k_0319ikb': 'Data reception timeout',
+			'k_1du932w': 'File not found (404)',
+			'k_0hiey4e': 'Please check if the download link is correct',
+			'k_00ydvfq': 'Access denied (403)',
+			'k_16yl6qz': 'Server denied access to the file',
+			'k_063q4df': 'Server error (500)',
+			'k_1soxle1': 'Please try again later',
+			'k_0ayyfc7': 'Network connection failed',
+			'k_0lf27kx': 'Please check the network connection',
+			'k_09coebk': 'Permission to install apps from unknown sources required',
+			'k_0ugifnf': 'No installable file found',
+			'k_0ovxa2y': 'Cannot open the installation package',
+			'k_0f8d0yl': 'Installation failed',
+			'k_0co0dow': 'New version found',
+			'k_123lye5': 'Upgrade now',
+			'k_0gqm9km': 'Maybe later',
+			'k_003q7wl': 'Just now',
+			'k_03evj9t': 'Minutes ago',
+			'k_03ezglt': 'Hours ago',
+			'k_003qhfl': 'Days ago',
+			'k_003qetc': 'Weeks ago',
+			'k_1ppco93': 'Phichat WeChat Public Account',
+			'k_1go2inw': 'Failed to load wallet balance',
+			'k_13m6yu4': 'Payment information',
+			'k_16pdm90': 'Payment method',
+			'k_0dhwwj9': 'Wallet balance',
+			'k_18oyvvu': 'Pay now',
+			'k_1irh990': 'Connecting to customer service...',
+			'k_09alugs': 'Failed to add friend',
+			'k_1d5l750': 'But still redirecting to chat',
+			'k_0b5w339': 'Failed to connect to customer service',
+			'k_0b609td': 'Failed to contact customer service',
+			'k_13f5rvy': 'Payment completed',
+			'k_0d66dtw': 'Failed to retrieve order details',
+			'k_0gz64im': 'Network error',
+			'k_18wha3k': 'Product unit price',
+			'k_0ck7gxp': 'Product quantity',
+			'k_0d3u5g1': 'Discount amount',
+			'k_03eb865': 'Amount paid',
+			'k_161ql77': 'Order number',
+			'k_13w6vnp': 'Order status',
+			'k_0by84mx': 'Order time',
+			'k_0by754g': 'Payment time',
+			'k_14bvzst': 'Order remarks',
+			'k_13ai6it': 'service',
+			'k_10zzdu2': 'Failed to confirm receipt',
+			'k_1a6yd0f': 'Have you received the product? Confirming will complete the order.',
+			'k_1d39k4z': 'Opening payment page...',
+			'k_14qp8qa': 'Recharge successful!',
+			'k_0l3ksla': 'Payment cancelled',
+			'k_0ogawly': 'Generating QR code...',
+			'k_0qyge5k': 'Recharge failed, please try again later',
+			'k_0gwzn3r': 'Payment authentication',
+			'k_002rk6d': 'Kilometer',
+			'k_0003x06': 'Meter',
+			'k_15hr6ps': 'No products available',
+			'k_1t8lgog': 'Submission successful, please wait for review',
+			'k_16jmk1j': 'Current city',
+			'k_0pnylvd': 'No address information available',
+			'k_176uemr': 'Billing records',
+			'k_03iikc9': 'Under development',
 		};
 	}
 }
@@ -8134,6 +9652,259 @@ extension on _StringsJa {
 			'k_03cho97': '已完成',
 			'k_02iq161': '已关闭',
 			'k_13we9fh': '未知状态',
+			'k_0f7d7a3': '上传失败',
+			'k_0dy9l60': '选择图片失败',
+			'k_0xnstjy': '请上传店铺logo',
+			'k_0v6jr10': '请输入法人真实姓名',
+			'k_1b4gqn8': '请输入身份证号',
+			'k_11kqo3y': '请上传身份证正面',
+			'k_116p7vl': '请上传身份证背面',
+			'k_1qpq2nd': '请输入商家名称',
+			'k_04hd8xd': '请输入联系人',
+			'k_0lu0s3h': '请输入联系方式',
+			'k_0w2meb4': '请选择所在地区',
+			'k_1f35ums': '请输入详细地址',
+			'k_1oshklj': '请上传营业执照',
+			'k_1w3ksxr': '店铺logo上传异常，请重新上传',
+			'k_0elk1yd': '商家入驻信息',
+			'k_0s9wjwj': '商城商家入驻',
+			'k_1sx3wgv': '提交成功!',
+			'k_0yl8xqg': '平台审核中，请耐心等待~',
+			'k_003qnm7': '返回',
+			'k_160mxpt': '审核驳回',
+			'k_18w9iq4': '重新提交',
+			'k_0i2fxe6': '卖家认证信息',
+			'k_1kvdx79': '法人真实姓名',
+			'k_15dr9ut': '身份证号',
+			'k_0pf8dkb': '法人身份证件',
+			'k_13macnl': '基础信息',
+			'k_11kde88': '商家名称',
+			'k_0s57rdv': '店铺logo',
+			'k_16p9hcs': '联系方式',
+			'k_1674o87': '所在地区',
+			'k_15kb28l': '详细地址',
+			'k_10oclwa': '营业执照',
+			'k_0zgj809': '上传店铺logo',
+			'k_03i81dp': '已上传',
+			'k_0f13r80': '请添加图片',
+			'k_0kx0oe7': '请拍证件片并确保清晰',
+			'k_01x3ok9': '上传证件正面',
+			'k_0mshvzq': '上传证件背面',
+			'k_11lb2s5': '店铺名称',
+			'k_03fkcas': '请输入',
+			'k_1jx5cfg': '上传中...',
+			'k_003tywh': '提交',
+			'k_03c67bm': '请选择',
+			'k_15gthvr': '我的订单',
+			'k_0ei7wln': '商家入驻',
+			'k_0rkidry': '网络错误，请稍后重试',
+			'k_0f7e3j5': '领取失败',
+			'k_1234rpc': '获取签到数据失败',
+			'k_1bhscvi': '获取邀请好友列表失败',
+			'k_16f36li': '暂无邀请好友',
+			'k_0y2wftq': '邀请验证码',
+			'k_17z9k8j': '输入好友邀请码',
+			'k_1lan6wi': '请输入邀请码',
+			'k_17uw4tn': '不能使用自己的邀请码',
+			'k_0xfj8a9': '邀请码验证成功',
+			'k_0ye6gwa': '邀请码验证失败',
+			'k_15rzweq': '领取奖励',
+			'k_1jhtygp': '连续签到7次可获得最高',
+			'k_1749j78': '恭喜获得',
+			'k_19lgo1w': '我知道了',
+			'k_13adcc9': '选择年月',
+			'k_0dy2l4e': '选择筛选项',
+			'k_15iku3w': '收支类型',
+			'k_167e3w1': '暂无好友',
+			'k_1mh977d': '获取好友列表失败',
+			'k_1irava9': '请先选择赠送人',
+			'k_0cvw4bs': '加载商品详情失败',
+			'k_07ho9zq': '暂无搜索结果',
+			'k_1n4cahe': '试试其他关键词吧',
+			'k_08i5je3': '加载商品失败',
+			'k_19gdm83': '没有送出礼物',
+			'k_19wgq0u': '没有收到礼物',
+			'k_1g70l3l': '正在获取地址...',
+			'k_0aqxe57': '实付价(含运费¥',
+			'k_1sp1dmq': '选择普通物流进行配送',
+			'k_01mnyj3': '选择Lalamove进行配送',
+			'k_17up9dp': '点击获取运费报价',
+			'k_03v0q3x': '暂无送出的礼物',
+			'k_0tkv7rh': '快去商城为朋友挑选礼物吧',
+			'k_02zu8wg': '暂无收到的礼物',
+			'k_0jww1j8': '还没有收到朋友的礼物哦',
+			'k_08p9shr': '暂无购买记录',
+			'k_1roprys': '快去商城选购心仪的商品吧',
+			'k_13qhqgp': '暂无数据',
+			'k_0wd6v0g': '下拉刷新试试',
+			'k_09iahme': '去商城看看',
+			'k_1ux4r7e': '购物车空空如也',
+			'k_104hko8': '快去商城挑选心仪的商品吧',
+			'k_1bqta80': '收藏的小店',
+			'k_002tme4': '收藏',
+			'k_00dui6v': '暂无收藏的店铺',
+			'k_0mewmfw': '快去收藏喜欢的店铺吧',
+			'k_1hd4wxx': '没有更多了',
+			'k_003s3sl': '商家',
+			'k_002r59q': '包邮',
+			'k_002vm4s': '运费',
+			'k_18nhqgu': '运费报价',
+			'k_16qe9qu': '预计3-7天发货',
+			'k_141wow1': '默认规格',
+			'k_15ish3m': '等待运费报价',
+			'k_1ee9cb5': '请先获取Lalamove运费报价',
+			'k_02l57fy': '已收藏',
+			'k_003qx6l': '小店',
+			'k_003nbbe': '客服',
+			'k_1htb721': '客服信息不存在',
+			'k_13aq24a': '商家客服',
+			'k_0cvi7lg': '获取商品详情失败',
+			'k_0h5t4gd': '商家信息错误',
+			'k_0sc2yur': '请选择收货地址',
+			'k_1oca0hw': '更换支付方式功能待开发',
+			'k_0f7dlgs': '购买失败',
+			'k_0gz4ni4': '未知错误',
+			'k_1k1734u': '已添加到购物车',
+			'k_0f7ezje': '添加失败',
+			'k_0quu7oi': '添加失败，请检查网络连接',
+			'k_0h6qd3k': '店铺信息错误',
+			'k_12g4ma9': '确认收货成功',
+			'k_1ch687j': '请先选择礼物',
+			'k_0ir0y9u': '请选择收礼人',
+			'k_10lkfsf': '礼物发送成功',
+			'k_0f7n898': '送礼失败',
+			'k_0vgz4qh': '订单信息异常，无法接收礼物',
+			'k_1u2h02u': '正在接收礼物...',
+			'k_1b4lsh9': '礼物接收成功！',
+			'k_0svg4jd': '获取报价成功',
+			'k_1htllb5': '订单信息不存在',
+			'k_0fboon2': '确认收货',
+			'k_1stjzun': '确认已收到商品吗?确认后订单将完成。',
+			'k_12rwkb5': '订单详情',
+			'k_13m447n': '小店信息',
+			'k_0bv1rmt': '商品质量',
+			'k_0edm5p2': '服务体验',
+			'k_03fhjb9': '订单号',
+			'k_002rhsq': '数量',
+			'k_002vfkb': '小计',
+			'k_0dqsfdj': '接收礼物失败',
+			'k_1wxokn3': '前往查看订单信息',
+			'k_0jbrjmb': '礼物接收地址',
+			'k_06eeoma': '朋友不会看到该信息',
+			'k_1jpxtpk': '礼物待收下',
+			'k_1rskmr5': '礼物状态已更新',
+			'k_0jr5vk7': '24小时内礼物未收下将自动退款',
+			'k_0g1hquz': '支付运费',
+			'k_117w359': '收下礼物',
+			'k_1yq0xgx': '大家都在送的礼物',
+			'k_1lrbggv': '获取地址列表失败',
+			'k_0f8dn5h': '删除失败',
+			'k_0f7m97l': '设置失败',
+			'k_15wrir2': '删除成功',
+			'k_12d87au': '设置默认地址成功',
+			'k_0cjfhqj': '确认删除',
+			'k_1syxli7': '确定要删除这个地址吗？',
+			'k_182xfch': '请输入收货人姓名',
+			'k_1cgfuwz': '请输入手机号码',
+			'k_15wbpgu': '更新成功',
+			'k_0f7gvw5': '更新失败',
+			'k_15wedv5': '添加成功',
+			'k_1jx2arn': '保存中...',
+			'k_003pvnf': '姓名',
+			'k_1j4m3cd': '手机号码(+63)',
+			'k_12jd6qq': '手机号码',
+			'k_1gv6a9e': '省市区街道门牌信息',
+			'k_15lho7d': '默认地址',
+			'k_176oa6w': '请选择地区',
+			'k_10yvaf6': '加入购物车',
+			'k_0ecpg3g': '不再收藏',
+			'k_02i7ln1': '该店铺',
+			'k_0ecjpnr': '仍然收藏',
+			'k_15wt6wj': '收藏成功',
+			'k_1b7c9gw': '已取消收藏',
+			'k_0f7dbkw': '操作失败',
+			'k_15ken91': '选择地址',
+			'k_002qfmw': '店铺',
+			'k_16blm3o': '收藏小店',
+			'k_003lpjs': '分类',
+			'k_11yhed6': '暂无分类',
+			'k_18ffuol': '该功能为旗舰版功能',
+			'k_1hcklj3': '登录成功但缺少必要参数',
+			'k_0f7fyin': '登录失败',
+			'k_0o9hu0b': '验证码已发送',
+			'k_1p3vvkd': '验证码发送失败',
+			'k_0fm408e': '无法打开下载链接',
+			'k_0uzat73': '打开下载链接失败',
+			'k_02n4nt9': 'App整体优化',
+			'k_0mrvupc': '需要存储权限才能下载文件',
+			'k_0rwj9pv': '下载地址不能为空',
+			'k_0uidjh6': '无法获取存储目录',
+			'k_1m30wzy': '下载完成!',
+			'k_0f8b4mf': '下载失败',
+			'k_0l2lo4f': '下载已取消',
+			'k_03fujs0': '网络连接超时',
+			'k_1tlrfjr': '请检查网络连接后重试',
+			'k_0319ikb': '接收数据超时',
+			'k_1du932w': '文件不存在(404)',
+			'k_0hiey4e': '请检查下载链接是否正确',
+			'k_00ydvfq': '访问被拒绝(403)',
+			'k_16yl6qz': '服务器拒绝访问该文件',
+			'k_063q4df': '服务器错误(500)',
+			'k_1soxle1': '请稍后重试',
+			'k_0ayyfc7': '网络连接失败',
+			'k_0lf27kx': '请检查网络连接',
+			'k_09coebk': '需要允许安装未知来源应用的权限',
+			'k_0ugifnf': '没有可安装的文件',
+			'k_0ovxa2y': '无法打开安装包',
+			'k_0f8d0yl': '安装失败',
+			'k_0co0dow': '发现新版本',
+			'k_123lye5': '立即升级',
+			'k_0gqm9km': '下次再说',
+			'k_003q7wl': '刚刚',
+			'k_03evj9t': '分钟前',
+			'k_03ezglt': '小时前',
+			'k_003qhfl': '天前',
+			'k_003qetc': '周前',
+			'k_1ppco93': 'Phichat官方公众号',
+			'k_1go2inw': '加载钱包余额失败',
+			'k_13m6yu4': '支付信息',
+			'k_16pdm90': '支付方式',
+			'k_0dhwwj9': '钱包余额',
+			'k_18oyvvu': '立即支付',
+			'k_1irh990': '正在连接客服...',
+			'k_09alugs': '添加好友失败',
+			'k_1d5l750': '但仍然跳转聊天',
+			'k_0b5w339': '连接客服失败',
+			'k_0b609td': '联系客服失败',
+			'k_13f5rvy': '支付完成',
+			'k_0d66dtw': '获取订单详情失败',
+			'k_0gz64im': '网络错误',
+			'k_18wha3k': '商品单价',
+			'k_0ck7gxp': '商品数量',
+			'k_0d3u5g1': '优惠金额',
+			'k_03eb865': '实付款',
+			'k_161ql77': '订单编号',
+			'k_13w6vnp': '订单状态',
+			'k_0by84mx': '下单时间',
+			'k_0by754g': '支付时间',
+			'k_14bvzst': '订单备注',
+			'k_13ai6it': '联系客服',
+			'k_10zzdu2': '确认收货失败',
+			'k_1a6yd0f': '确认已收到商品吗？确认后订单将完成。',
+			'k_1d39k4z': '正在打开支付页面...',
+			'k_14qp8qa': '充值成功！',
+			'k_0l3ksla': '支付已取消',
+			'k_0ogawly': '正在生成二维码...',
+			'k_0qyge5k': '充值失败，请稍后重试',
+			'k_0gwzn3r': '支付认证',
+			'k_002rk6d': '公里',
+			'k_0003x06': '米',
+			'k_15hr6ps': '暂无商品',
+			'k_1t8lgog': '提交成功，请等待审核',
+			'k_16jmk1j': '当前城市',
+			'k_0pnylvd': '暂无地址信息',
+			'k_176uemr': '账单记录',
+			'k_03iikc9': '开发中',
 		};
 	}
 }
@@ -9244,6 +11015,259 @@ extension on _StringsKo {
 			'k_03cho97': '已完成',
 			'k_02iq161': '已关闭',
 			'k_13we9fh': '未知状态',
+			'k_0f7d7a3': '上传失败',
+			'k_0dy9l60': '选择图片失败',
+			'k_0xnstjy': '请上传店铺logo',
+			'k_0v6jr10': '请输入法人真实姓名',
+			'k_1b4gqn8': '请输入身份证号',
+			'k_11kqo3y': '请上传身份证正面',
+			'k_116p7vl': '请上传身份证背面',
+			'k_1qpq2nd': '请输入商家名称',
+			'k_04hd8xd': '请输入联系人',
+			'k_0lu0s3h': '请输入联系方式',
+			'k_0w2meb4': '请选择所在地区',
+			'k_1f35ums': '请输入详细地址',
+			'k_1oshklj': '请上传营业执照',
+			'k_1w3ksxr': '店铺logo上传异常，请重新上传',
+			'k_0elk1yd': '商家入驻信息',
+			'k_0s9wjwj': '商城商家入驻',
+			'k_1sx3wgv': '提交成功!',
+			'k_0yl8xqg': '平台审核中，请耐心等待~',
+			'k_003qnm7': '返回',
+			'k_160mxpt': '审核驳回',
+			'k_18w9iq4': '重新提交',
+			'k_0i2fxe6': '卖家认证信息',
+			'k_1kvdx79': '法人真实姓名',
+			'k_15dr9ut': '身份证号',
+			'k_0pf8dkb': '法人身份证件',
+			'k_13macnl': '基础信息',
+			'k_11kde88': '商家名称',
+			'k_0s57rdv': '店铺logo',
+			'k_16p9hcs': '联系方式',
+			'k_1674o87': '所在地区',
+			'k_15kb28l': '详细地址',
+			'k_10oclwa': '营业执照',
+			'k_0zgj809': '上传店铺logo',
+			'k_03i81dp': '已上传',
+			'k_0f13r80': '请添加图片',
+			'k_0kx0oe7': '请拍证件片并确保清晰',
+			'k_01x3ok9': '上传证件正面',
+			'k_0mshvzq': '上传证件背面',
+			'k_11lb2s5': '店铺名称',
+			'k_03fkcas': '请输入',
+			'k_1jx5cfg': '上传中...',
+			'k_003tywh': '提交',
+			'k_03c67bm': '请选择',
+			'k_15gthvr': '我的订单',
+			'k_0ei7wln': '商家入驻',
+			'k_0rkidry': '网络错误，请稍后重试',
+			'k_0f7e3j5': '领取失败',
+			'k_1234rpc': '获取签到数据失败',
+			'k_1bhscvi': '获取邀请好友列表失败',
+			'k_16f36li': '暂无邀请好友',
+			'k_0y2wftq': '邀请验证码',
+			'k_17z9k8j': '输入好友邀请码',
+			'k_1lan6wi': '请输入邀请码',
+			'k_17uw4tn': '不能使用自己的邀请码',
+			'k_0xfj8a9': '邀请码验证成功',
+			'k_0ye6gwa': '邀请码验证失败',
+			'k_15rzweq': '领取奖励',
+			'k_1jhtygp': '连续签到7次可获得最高',
+			'k_1749j78': '恭喜获得',
+			'k_19lgo1w': '我知道了',
+			'k_13adcc9': '选择年月',
+			'k_0dy2l4e': '选择筛选项',
+			'k_15iku3w': '收支类型',
+			'k_167e3w1': '暂无好友',
+			'k_1mh977d': '获取好友列表失败',
+			'k_1irava9': '请先选择赠送人',
+			'k_0cvw4bs': '加载商品详情失败',
+			'k_07ho9zq': '暂无搜索结果',
+			'k_1n4cahe': '试试其他关键词吧',
+			'k_08i5je3': '加载商品失败',
+			'k_19gdm83': '没有送出礼物',
+			'k_19wgq0u': '没有收到礼物',
+			'k_1g70l3l': '正在获取地址...',
+			'k_0aqxe57': '实付价(含运费¥',
+			'k_1sp1dmq': '选择普通物流进行配送',
+			'k_01mnyj3': '选择Lalamove进行配送',
+			'k_17up9dp': '点击获取运费报价',
+			'k_03v0q3x': '暂无送出的礼物',
+			'k_0tkv7rh': '快去商城为朋友挑选礼物吧',
+			'k_02zu8wg': '暂无收到的礼物',
+			'k_0jww1j8': '还没有收到朋友的礼物哦',
+			'k_08p9shr': '暂无购买记录',
+			'k_1roprys': '快去商城选购心仪的商品吧',
+			'k_13qhqgp': '暂无数据',
+			'k_0wd6v0g': '下拉刷新试试',
+			'k_09iahme': '去商城看看',
+			'k_1ux4r7e': '购物车空空如也',
+			'k_104hko8': '快去商城挑选心仪的商品吧',
+			'k_1bqta80': '收藏的小店',
+			'k_002tme4': '收藏',
+			'k_00dui6v': '暂无收藏的店铺',
+			'k_0mewmfw': '快去收藏喜欢的店铺吧',
+			'k_1hd4wxx': '没有更多了',
+			'k_003s3sl': '商家',
+			'k_002r59q': '包邮',
+			'k_002vm4s': '运费',
+			'k_18nhqgu': '运费报价',
+			'k_16qe9qu': '预计3-7天发货',
+			'k_141wow1': '默认规格',
+			'k_15ish3m': '等待运费报价',
+			'k_1ee9cb5': '请先获取Lalamove运费报价',
+			'k_02l57fy': '已收藏',
+			'k_003qx6l': '小店',
+			'k_003nbbe': '客服',
+			'k_1htb721': '客服信息不存在',
+			'k_13aq24a': '商家客服',
+			'k_0cvi7lg': '获取商品详情失败',
+			'k_0h5t4gd': '商家信息错误',
+			'k_0sc2yur': '请选择收货地址',
+			'k_1oca0hw': '更换支付方式功能待开发',
+			'k_0f7dlgs': '购买失败',
+			'k_0gz4ni4': '未知错误',
+			'k_1k1734u': '已添加到购物车',
+			'k_0f7ezje': '添加失败',
+			'k_0quu7oi': '添加失败，请检查网络连接',
+			'k_0h6qd3k': '店铺信息错误',
+			'k_12g4ma9': '确认收货成功',
+			'k_1ch687j': '请先选择礼物',
+			'k_0ir0y9u': '请选择收礼人',
+			'k_10lkfsf': '礼物发送成功',
+			'k_0f7n898': '送礼失败',
+			'k_0vgz4qh': '订单信息异常，无法接收礼物',
+			'k_1u2h02u': '正在接收礼物...',
+			'k_1b4lsh9': '礼物接收成功！',
+			'k_0svg4jd': '获取报价成功',
+			'k_1htllb5': '订单信息不存在',
+			'k_0fboon2': '确认收货',
+			'k_1stjzun': '确认已收到商品吗?确认后订单将完成。',
+			'k_12rwkb5': '订单详情',
+			'k_13m447n': '小店信息',
+			'k_0bv1rmt': '商品质量',
+			'k_0edm5p2': '服务体验',
+			'k_03fhjb9': '订单号',
+			'k_002rhsq': '数量',
+			'k_002vfkb': '小计',
+			'k_0dqsfdj': '接收礼物失败',
+			'k_1wxokn3': '前往查看订单信息',
+			'k_0jbrjmb': '礼物接收地址',
+			'k_06eeoma': '朋友不会看到该信息',
+			'k_1jpxtpk': '礼物待收下',
+			'k_1rskmr5': '礼物状态已更新',
+			'k_0jr5vk7': '24小时内礼物未收下将自动退款',
+			'k_0g1hquz': '支付运费',
+			'k_117w359': '收下礼物',
+			'k_1yq0xgx': '大家都在送的礼物',
+			'k_1lrbggv': '获取地址列表失败',
+			'k_0f8dn5h': '删除失败',
+			'k_0f7m97l': '设置失败',
+			'k_15wrir2': '删除成功',
+			'k_12d87au': '设置默认地址成功',
+			'k_0cjfhqj': '确认删除',
+			'k_1syxli7': '确定要删除这个地址吗？',
+			'k_182xfch': '请输入收货人姓名',
+			'k_1cgfuwz': '请输入手机号码',
+			'k_15wbpgu': '更新成功',
+			'k_0f7gvw5': '更新失败',
+			'k_15wedv5': '添加成功',
+			'k_1jx2arn': '保存中...',
+			'k_003pvnf': '姓名',
+			'k_1j4m3cd': '手机号码(+63)',
+			'k_12jd6qq': '手机号码',
+			'k_1gv6a9e': '省市区街道门牌信息',
+			'k_15lho7d': '默认地址',
+			'k_176oa6w': '请选择地区',
+			'k_10yvaf6': '加入购物车',
+			'k_0ecpg3g': '不再收藏',
+			'k_02i7ln1': '该店铺',
+			'k_0ecjpnr': '仍然收藏',
+			'k_15wt6wj': '收藏成功',
+			'k_1b7c9gw': '已取消收藏',
+			'k_0f7dbkw': '操作失败',
+			'k_15ken91': '选择地址',
+			'k_002qfmw': '店铺',
+			'k_16blm3o': '收藏小店',
+			'k_003lpjs': '分类',
+			'k_11yhed6': '暂无分类',
+			'k_18ffuol': '该功能为旗舰版功能',
+			'k_1hcklj3': '登录成功但缺少必要参数',
+			'k_0f7fyin': '登录失败',
+			'k_0o9hu0b': '验证码已发送',
+			'k_1p3vvkd': '验证码发送失败',
+			'k_0fm408e': '无法打开下载链接',
+			'k_0uzat73': '打开下载链接失败',
+			'k_02n4nt9': 'App整体优化',
+			'k_0mrvupc': '需要存储权限才能下载文件',
+			'k_0rwj9pv': '下载地址不能为空',
+			'k_0uidjh6': '无法获取存储目录',
+			'k_1m30wzy': '下载完成!',
+			'k_0f8b4mf': '下载失败',
+			'k_0l2lo4f': '下载已取消',
+			'k_03fujs0': '网络连接超时',
+			'k_1tlrfjr': '请检查网络连接后重试',
+			'k_0319ikb': '接收数据超时',
+			'k_1du932w': '文件不存在(404)',
+			'k_0hiey4e': '请检查下载链接是否正确',
+			'k_00ydvfq': '访问被拒绝(403)',
+			'k_16yl6qz': '服务器拒绝访问该文件',
+			'k_063q4df': '服务器错误(500)',
+			'k_1soxle1': '请稍后重试',
+			'k_0ayyfc7': '网络连接失败',
+			'k_0lf27kx': '请检查网络连接',
+			'k_09coebk': '需要允许安装未知来源应用的权限',
+			'k_0ugifnf': '没有可安装的文件',
+			'k_0ovxa2y': '无法打开安装包',
+			'k_0f8d0yl': '安装失败',
+			'k_0co0dow': '发现新版本',
+			'k_123lye5': '立即升级',
+			'k_0gqm9km': '下次再说',
+			'k_003q7wl': '刚刚',
+			'k_03evj9t': '分钟前',
+			'k_03ezglt': '小时前',
+			'k_003qhfl': '天前',
+			'k_003qetc': '周前',
+			'k_1ppco93': 'Phichat官方公众号',
+			'k_1go2inw': '加载钱包余额失败',
+			'k_13m6yu4': '支付信息',
+			'k_16pdm90': '支付方式',
+			'k_0dhwwj9': '钱包余额',
+			'k_18oyvvu': '立即支付',
+			'k_1irh990': '正在连接客服...',
+			'k_09alugs': '添加好友失败',
+			'k_1d5l750': '但仍然跳转聊天',
+			'k_0b5w339': '连接客服失败',
+			'k_0b609td': '联系客服失败',
+			'k_13f5rvy': '支付完成',
+			'k_0d66dtw': '获取订单详情失败',
+			'k_0gz64im': '网络错误',
+			'k_18wha3k': '商品单价',
+			'k_0ck7gxp': '商品数量',
+			'k_0d3u5g1': '优惠金额',
+			'k_03eb865': '实付款',
+			'k_161ql77': '订单编号',
+			'k_13w6vnp': '订单状态',
+			'k_0by84mx': '下单时间',
+			'k_0by754g': '支付时间',
+			'k_14bvzst': '订单备注',
+			'k_13ai6it': '联系客服',
+			'k_10zzdu2': '确认收货失败',
+			'k_1a6yd0f': '确认已收到商品吗？确认后订单将完成。',
+			'k_1d39k4z': '正在打开支付页面...',
+			'k_14qp8qa': '充值成功！',
+			'k_0l3ksla': '支付已取消',
+			'k_0ogawly': '正在生成二维码...',
+			'k_0qyge5k': '充值失败，请稍后重试',
+			'k_0gwzn3r': '支付认证',
+			'k_002rk6d': '公里',
+			'k_0003x06': '米',
+			'k_15hr6ps': '暂无商品',
+			'k_1t8lgog': '提交成功，请等待审核',
+			'k_16jmk1j': '当前城市',
+			'k_0pnylvd': '暂无地址信息',
+			'k_176uemr': '账单记录',
+			'k_03iikc9': '开发中',
 		};
 	}
 }
@@ -10353,6 +12377,259 @@ extension on _StringsZhHans {
 			'k_03cho97': '已完成',
 			'k_02iq161': '已关闭',
 			'k_13we9fh': '未知状态',
+			'k_0f7d7a3': '上传失败',
+			'k_0dy9l60': '选择图片失败',
+			'k_0xnstjy': '请上传店铺logo',
+			'k_0v6jr10': '请输入法人真实姓名',
+			'k_1b4gqn8': '请输入身份证号',
+			'k_11kqo3y': '请上传身份证正面',
+			'k_116p7vl': '请上传身份证背面',
+			'k_1qpq2nd': '请输入商家名称',
+			'k_04hd8xd': '请输入联系人',
+			'k_0lu0s3h': '请输入联系方式',
+			'k_0w2meb4': '请选择所在地区',
+			'k_1f35ums': '请输入详细地址',
+			'k_1oshklj': '请上传营业执照',
+			'k_1w3ksxr': '店铺logo上传异常，请重新上传',
+			'k_0elk1yd': '商家入驻信息',
+			'k_0s9wjwj': '商城商家入驻',
+			'k_1sx3wgv': '提交成功!',
+			'k_0yl8xqg': '平台审核中，请耐心等待~',
+			'k_003qnm7': '返回',
+			'k_160mxpt': '审核驳回',
+			'k_18w9iq4': '重新提交',
+			'k_0i2fxe6': '卖家认证信息',
+			'k_1kvdx79': '法人真实姓名',
+			'k_15dr9ut': '身份证号',
+			'k_0pf8dkb': '法人身份证件',
+			'k_13macnl': '基础信息',
+			'k_11kde88': '商家名称',
+			'k_0s57rdv': '店铺logo',
+			'k_16p9hcs': '联系方式',
+			'k_1674o87': '所在地区',
+			'k_15kb28l': '详细地址',
+			'k_10oclwa': '营业执照',
+			'k_0zgj809': '上传店铺logo',
+			'k_03i81dp': '已上传',
+			'k_0f13r80': '请添加图片',
+			'k_0kx0oe7': '请拍证件片并确保清晰',
+			'k_01x3ok9': '上传证件正面',
+			'k_0mshvzq': '上传证件背面',
+			'k_11lb2s5': '店铺名称',
+			'k_03fkcas': '请输入',
+			'k_1jx5cfg': '上传中...',
+			'k_003tywh': '提交',
+			'k_03c67bm': '请选择',
+			'k_15gthvr': '我的订单',
+			'k_0ei7wln': '商家入驻',
+			'k_0rkidry': '网络错误，请稍后重试',
+			'k_0f7e3j5': '领取失败',
+			'k_1234rpc': '获取签到数据失败',
+			'k_1bhscvi': '获取邀请好友列表失败',
+			'k_16f36li': '暂无邀请好友',
+			'k_0y2wftq': '邀请验证码',
+			'k_17z9k8j': '输入好友邀请码',
+			'k_1lan6wi': '请输入邀请码',
+			'k_17uw4tn': '不能使用自己的邀请码',
+			'k_0xfj8a9': '邀请码验证成功',
+			'k_0ye6gwa': '邀请码验证失败',
+			'k_15rzweq': '领取奖励',
+			'k_1jhtygp': '连续签到7次可获得最高',
+			'k_1749j78': '恭喜获得',
+			'k_19lgo1w': '我知道了',
+			'k_13adcc9': '选择年月',
+			'k_0dy2l4e': '选择筛选项',
+			'k_15iku3w': '收支类型',
+			'k_167e3w1': '暂无好友',
+			'k_1mh977d': '获取好友列表失败',
+			'k_1irava9': '请先选择赠送人',
+			'k_0cvw4bs': '加载商品详情失败',
+			'k_07ho9zq': '暂无搜索结果',
+			'k_1n4cahe': '试试其他关键词吧',
+			'k_08i5je3': '加载商品失败',
+			'k_19gdm83': '没有送出礼物',
+			'k_19wgq0u': '没有收到礼物',
+			'k_1g70l3l': '正在获取地址...',
+			'k_0aqxe57': '实付价(含运费¥',
+			'k_1sp1dmq': '选择普通物流进行配送',
+			'k_01mnyj3': '选择Lalamove进行配送',
+			'k_17up9dp': '点击获取运费报价',
+			'k_03v0q3x': '暂无送出的礼物',
+			'k_0tkv7rh': '快去商城为朋友挑选礼物吧',
+			'k_02zu8wg': '暂无收到的礼物',
+			'k_0jww1j8': '还没有收到朋友的礼物哦',
+			'k_08p9shr': '暂无购买记录',
+			'k_1roprys': '快去商城选购心仪的商品吧',
+			'k_13qhqgp': '暂无数据',
+			'k_0wd6v0g': '下拉刷新试试',
+			'k_09iahme': '去商城看看',
+			'k_1ux4r7e': '购物车空空如也',
+			'k_104hko8': '快去商城挑选心仪的商品吧',
+			'k_1bqta80': '收藏的小店',
+			'k_002tme4': '收藏',
+			'k_00dui6v': '暂无收藏的店铺',
+			'k_0mewmfw': '快去收藏喜欢的店铺吧',
+			'k_1hd4wxx': '没有更多了',
+			'k_003s3sl': '商家',
+			'k_002r59q': '包邮',
+			'k_002vm4s': '运费',
+			'k_18nhqgu': '运费报价',
+			'k_16qe9qu': '预计3-7天发货',
+			'k_141wow1': '默认规格',
+			'k_15ish3m': '等待运费报价',
+			'k_1ee9cb5': '请先获取Lalamove运费报价',
+			'k_02l57fy': '已收藏',
+			'k_003qx6l': '小店',
+			'k_003nbbe': '客服',
+			'k_1htb721': '客服信息不存在',
+			'k_13aq24a': '商家客服',
+			'k_0cvi7lg': '获取商品详情失败',
+			'k_0h5t4gd': '商家信息错误',
+			'k_0sc2yur': '请选择收货地址',
+			'k_1oca0hw': '更换支付方式功能待开发',
+			'k_0f7dlgs': '购买失败',
+			'k_0gz4ni4': '未知错误',
+			'k_1k1734u': '已添加到购物车',
+			'k_0f7ezje': '添加失败',
+			'k_0quu7oi': '添加失败，请检查网络连接',
+			'k_0h6qd3k': '店铺信息错误',
+			'k_12g4ma9': '确认收货成功',
+			'k_1ch687j': '请先选择礼物',
+			'k_0ir0y9u': '请选择收礼人',
+			'k_10lkfsf': '礼物发送成功',
+			'k_0f7n898': '送礼失败',
+			'k_0vgz4qh': '订单信息异常，无法接收礼物',
+			'k_1u2h02u': '正在接收礼物...',
+			'k_1b4lsh9': '礼物接收成功！',
+			'k_0svg4jd': '获取报价成功',
+			'k_1htllb5': '订单信息不存在',
+			'k_0fboon2': '确认收货',
+			'k_1stjzun': '确认已收到商品吗?确认后订单将完成。',
+			'k_12rwkb5': '订单详情',
+			'k_13m447n': '小店信息',
+			'k_0bv1rmt': '商品质量',
+			'k_0edm5p2': '服务体验',
+			'k_03fhjb9': '订单号',
+			'k_002rhsq': '数量',
+			'k_002vfkb': '小计',
+			'k_0dqsfdj': '接收礼物失败',
+			'k_1wxokn3': '前往查看订单信息',
+			'k_0jbrjmb': '礼物接收地址',
+			'k_06eeoma': '朋友不会看到该信息',
+			'k_1jpxtpk': '礼物待收下',
+			'k_1rskmr5': '礼物状态已更新',
+			'k_0jr5vk7': '24小时内礼物未收下将自动退款',
+			'k_0g1hquz': '支付运费',
+			'k_117w359': '收下礼物',
+			'k_1yq0xgx': '大家都在送的礼物',
+			'k_1lrbggv': '获取地址列表失败',
+			'k_0f8dn5h': '删除失败',
+			'k_0f7m97l': '设置失败',
+			'k_15wrir2': '删除成功',
+			'k_12d87au': '设置默认地址成功',
+			'k_0cjfhqj': '确认删除',
+			'k_1syxli7': '确定要删除这个地址吗？',
+			'k_182xfch': '请输入收货人姓名',
+			'k_1cgfuwz': '请输入手机号码',
+			'k_15wbpgu': '更新成功',
+			'k_0f7gvw5': '更新失败',
+			'k_15wedv5': '添加成功',
+			'k_1jx2arn': '保存中...',
+			'k_003pvnf': '姓名',
+			'k_1j4m3cd': '手机号码(+63)',
+			'k_12jd6qq': '手机号码',
+			'k_1gv6a9e': '省市区街道门牌信息',
+			'k_15lho7d': '默认地址',
+			'k_176oa6w': '请选择地区',
+			'k_10yvaf6': '加入购物车',
+			'k_0ecpg3g': '不再收藏',
+			'k_02i7ln1': '该店铺',
+			'k_0ecjpnr': '仍然收藏',
+			'k_15wt6wj': '收藏成功',
+			'k_1b7c9gw': '已取消收藏',
+			'k_0f7dbkw': '操作失败',
+			'k_15ken91': '选择地址',
+			'k_002qfmw': '店铺',
+			'k_16blm3o': '收藏小店',
+			'k_003lpjs': '分类',
+			'k_11yhed6': '暂无分类',
+			'k_18ffuol': '该功能为旗舰版功能',
+			'k_1hcklj3': '登录成功但缺少必要参数',
+			'k_0f7fyin': '登录失败',
+			'k_0o9hu0b': '验证码已发送',
+			'k_1p3vvkd': '验证码发送失败',
+			'k_0fm408e': '无法打开下载链接',
+			'k_0uzat73': '打开下载链接失败',
+			'k_02n4nt9': 'App整体优化',
+			'k_0mrvupc': '需要存储权限才能下载文件',
+			'k_0rwj9pv': '下载地址不能为空',
+			'k_0uidjh6': '无法获取存储目录',
+			'k_1m30wzy': '下载完成!',
+			'k_0f8b4mf': '下载失败',
+			'k_0l2lo4f': '下载已取消',
+			'k_03fujs0': '网络连接超时',
+			'k_1tlrfjr': '请检查网络连接后重试',
+			'k_0319ikb': '接收数据超时',
+			'k_1du932w': '文件不存在(404)',
+			'k_0hiey4e': '请检查下载链接是否正确',
+			'k_00ydvfq': '访问被拒绝(403)',
+			'k_16yl6qz': '服务器拒绝访问该文件',
+			'k_063q4df': '服务器错误(500)',
+			'k_1soxle1': '请稍后重试',
+			'k_0ayyfc7': '网络连接失败',
+			'k_0lf27kx': '请检查网络连接',
+			'k_09coebk': '需要允许安装未知来源应用的权限',
+			'k_0ugifnf': '没有可安装的文件',
+			'k_0ovxa2y': '无法打开安装包',
+			'k_0f8d0yl': '安装失败',
+			'k_0co0dow': '发现新版本',
+			'k_123lye5': '立即升级',
+			'k_0gqm9km': '下次再说',
+			'k_003q7wl': '刚刚',
+			'k_03evj9t': '分钟前',
+			'k_03ezglt': '小时前',
+			'k_003qhfl': '天前',
+			'k_003qetc': '周前',
+			'k_1ppco93': 'Phichat官方公众号',
+			'k_1go2inw': '加载钱包余额失败',
+			'k_13m6yu4': '支付信息',
+			'k_16pdm90': '支付方式',
+			'k_0dhwwj9': '钱包余额',
+			'k_18oyvvu': '立即支付',
+			'k_1irh990': '正在连接客服...',
+			'k_09alugs': '添加好友失败',
+			'k_1d5l750': '但仍然跳转聊天',
+			'k_0b5w339': '连接客服失败',
+			'k_0b609td': '联系客服失败',
+			'k_13f5rvy': '支付完成',
+			'k_0d66dtw': '获取订单详情失败',
+			'k_0gz64im': '网络错误',
+			'k_18wha3k': '商品单价',
+			'k_0ck7gxp': '商品数量',
+			'k_0d3u5g1': '优惠金额',
+			'k_03eb865': '实付款',
+			'k_161ql77': '订单编号',
+			'k_13w6vnp': '订单状态',
+			'k_0by84mx': '下单时间',
+			'k_0by754g': '支付时间',
+			'k_14bvzst': '订单备注',
+			'k_13ai6it': '联系客服',
+			'k_10zzdu2': '确认收货失败',
+			'k_1a6yd0f': '确认已收到商品吗？确认后订单将完成。',
+			'k_1d39k4z': '正在打开支付页面...',
+			'k_14qp8qa': '充值成功！',
+			'k_0l3ksla': '支付已取消',
+			'k_0ogawly': '正在生成二维码...',
+			'k_0qyge5k': '充值失败，请稍后重试',
+			'k_0gwzn3r': '支付认证',
+			'k_002rk6d': '公里',
+			'k_0003x06': '米',
+			'k_15hr6ps': '暂无商品',
+			'k_1t8lgog': '提交成功，请等待审核',
+			'k_16jmk1j': '当前城市',
+			'k_0pnylvd': '暂无地址信息',
+			'k_176uemr': '账单记录',
+			'k_03iikc9': '开发中',
 		};
 	}
 }
@@ -11463,6 +13740,259 @@ extension on _StringsZhHant {
 			'k_03cho97': '已完成',
 			'k_02iq161': '已关闭',
 			'k_13we9fh': '未知状态',
+			'k_0f7d7a3': '上传失败',
+			'k_0dy9l60': '选择图片失败',
+			'k_0xnstjy': '请上传店铺logo',
+			'k_0v6jr10': '请输入法人真实姓名',
+			'k_1b4gqn8': '请输入身份证号',
+			'k_11kqo3y': '请上传身份证正面',
+			'k_116p7vl': '请上传身份证背面',
+			'k_1qpq2nd': '请输入商家名称',
+			'k_04hd8xd': '请输入联系人',
+			'k_0lu0s3h': '请输入联系方式',
+			'k_0w2meb4': '请选择所在地区',
+			'k_1f35ums': '请输入详细地址',
+			'k_1oshklj': '请上传营业执照',
+			'k_1w3ksxr': '店铺logo上传异常，请重新上传',
+			'k_0elk1yd': '商家入驻信息',
+			'k_0s9wjwj': '商城商家入驻',
+			'k_1sx3wgv': '提交成功!',
+			'k_0yl8xqg': '平台审核中，请耐心等待~',
+			'k_003qnm7': '返回',
+			'k_160mxpt': '审核驳回',
+			'k_18w9iq4': '重新提交',
+			'k_0i2fxe6': '卖家认证信息',
+			'k_1kvdx79': '法人真实姓名',
+			'k_15dr9ut': '身份证号',
+			'k_0pf8dkb': '法人身份证件',
+			'k_13macnl': '基础信息',
+			'k_11kde88': '商家名称',
+			'k_0s57rdv': '店铺logo',
+			'k_16p9hcs': '联系方式',
+			'k_1674o87': '所在地区',
+			'k_15kb28l': '详细地址',
+			'k_10oclwa': '营业执照',
+			'k_0zgj809': '上传店铺logo',
+			'k_03i81dp': '已上传',
+			'k_0f13r80': '请添加图片',
+			'k_0kx0oe7': '请拍证件片并确保清晰',
+			'k_01x3ok9': '上传证件正面',
+			'k_0mshvzq': '上传证件背面',
+			'k_11lb2s5': '店铺名称',
+			'k_03fkcas': '请输入',
+			'k_1jx5cfg': '上传中...',
+			'k_003tywh': '提交',
+			'k_03c67bm': '请选择',
+			'k_15gthvr': '我的订单',
+			'k_0ei7wln': '商家入驻',
+			'k_0rkidry': '网络错误，请稍后重试',
+			'k_0f7e3j5': '领取失败',
+			'k_1234rpc': '获取签到数据失败',
+			'k_1bhscvi': '获取邀请好友列表失败',
+			'k_16f36li': '暂无邀请好友',
+			'k_0y2wftq': '邀请验证码',
+			'k_17z9k8j': '输入好友邀请码',
+			'k_1lan6wi': '请输入邀请码',
+			'k_17uw4tn': '不能使用自己的邀请码',
+			'k_0xfj8a9': '邀请码验证成功',
+			'k_0ye6gwa': '邀请码验证失败',
+			'k_15rzweq': '领取奖励',
+			'k_1jhtygp': '连续签到7次可获得最高',
+			'k_1749j78': '恭喜获得',
+			'k_19lgo1w': '我知道了',
+			'k_13adcc9': '选择年月',
+			'k_0dy2l4e': '选择筛选项',
+			'k_15iku3w': '收支类型',
+			'k_167e3w1': '暂无好友',
+			'k_1mh977d': '获取好友列表失败',
+			'k_1irava9': '请先选择赠送人',
+			'k_0cvw4bs': '加载商品详情失败',
+			'k_07ho9zq': '暂无搜索结果',
+			'k_1n4cahe': '试试其他关键词吧',
+			'k_08i5je3': '加载商品失败',
+			'k_19gdm83': '没有送出礼物',
+			'k_19wgq0u': '没有收到礼物',
+			'k_1g70l3l': '正在获取地址...',
+			'k_0aqxe57': '实付价(含运费¥',
+			'k_1sp1dmq': '选择普通物流进行配送',
+			'k_01mnyj3': '选择Lalamove进行配送',
+			'k_17up9dp': '点击获取运费报价',
+			'k_03v0q3x': '暂无送出的礼物',
+			'k_0tkv7rh': '快去商城为朋友挑选礼物吧',
+			'k_02zu8wg': '暂无收到的礼物',
+			'k_0jww1j8': '还没有收到朋友的礼物哦',
+			'k_08p9shr': '暂无购买记录',
+			'k_1roprys': '快去商城选购心仪的商品吧',
+			'k_13qhqgp': '暂无数据',
+			'k_0wd6v0g': '下拉刷新试试',
+			'k_09iahme': '去商城看看',
+			'k_1ux4r7e': '购物车空空如也',
+			'k_104hko8': '快去商城挑选心仪的商品吧',
+			'k_1bqta80': '收藏的小店',
+			'k_002tme4': '收藏',
+			'k_00dui6v': '暂无收藏的店铺',
+			'k_0mewmfw': '快去收藏喜欢的店铺吧',
+			'k_1hd4wxx': '没有更多了',
+			'k_003s3sl': '商家',
+			'k_002r59q': '包邮',
+			'k_002vm4s': '运费',
+			'k_18nhqgu': '运费报价',
+			'k_16qe9qu': '预计3-7天发货',
+			'k_141wow1': '默认规格',
+			'k_15ish3m': '等待运费报价',
+			'k_1ee9cb5': '请先获取Lalamove运费报价',
+			'k_02l57fy': '已收藏',
+			'k_003qx6l': '小店',
+			'k_003nbbe': '客服',
+			'k_1htb721': '客服信息不存在',
+			'k_13aq24a': '商家客服',
+			'k_0cvi7lg': '获取商品详情失败',
+			'k_0h5t4gd': '商家信息错误',
+			'k_0sc2yur': '请选择收货地址',
+			'k_1oca0hw': '更换支付方式功能待开发',
+			'k_0f7dlgs': '购买失败',
+			'k_0gz4ni4': '未知错误',
+			'k_1k1734u': '已添加到购物车',
+			'k_0f7ezje': '添加失败',
+			'k_0quu7oi': '添加失败，请检查网络连接',
+			'k_0h6qd3k': '店铺信息错误',
+			'k_12g4ma9': '确认收货成功',
+			'k_1ch687j': '请先选择礼物',
+			'k_0ir0y9u': '请选择收礼人',
+			'k_10lkfsf': '礼物发送成功',
+			'k_0f7n898': '送礼失败',
+			'k_0vgz4qh': '订单信息异常，无法接收礼物',
+			'k_1u2h02u': '正在接收礼物...',
+			'k_1b4lsh9': '礼物接收成功！',
+			'k_0svg4jd': '获取报价成功',
+			'k_1htllb5': '订单信息不存在',
+			'k_0fboon2': '确认收货',
+			'k_1stjzun': '确认已收到商品吗?确认后订单将完成。',
+			'k_12rwkb5': '订单详情',
+			'k_13m447n': '小店信息',
+			'k_0bv1rmt': '商品质量',
+			'k_0edm5p2': '服务体验',
+			'k_03fhjb9': '订单号',
+			'k_002rhsq': '数量',
+			'k_002vfkb': '小计',
+			'k_0dqsfdj': '接收礼物失败',
+			'k_1wxokn3': '前往查看订单信息',
+			'k_0jbrjmb': '礼物接收地址',
+			'k_06eeoma': '朋友不会看到该信息',
+			'k_1jpxtpk': '礼物待收下',
+			'k_1rskmr5': '礼物状态已更新',
+			'k_0jr5vk7': '24小时内礼物未收下将自动退款',
+			'k_0g1hquz': '支付运费',
+			'k_117w359': '收下礼物',
+			'k_1yq0xgx': '大家都在送的礼物',
+			'k_1lrbggv': '获取地址列表失败',
+			'k_0f8dn5h': '删除失败',
+			'k_0f7m97l': '设置失败',
+			'k_15wrir2': '删除成功',
+			'k_12d87au': '设置默认地址成功',
+			'k_0cjfhqj': '确认删除',
+			'k_1syxli7': '确定要删除这个地址吗？',
+			'k_182xfch': '请输入收货人姓名',
+			'k_1cgfuwz': '请输入手机号码',
+			'k_15wbpgu': '更新成功',
+			'k_0f7gvw5': '更新失败',
+			'k_15wedv5': '添加成功',
+			'k_1jx2arn': '保存中...',
+			'k_003pvnf': '姓名',
+			'k_1j4m3cd': '手机号码(+63)',
+			'k_12jd6qq': '手机号码',
+			'k_1gv6a9e': '省市区街道门牌信息',
+			'k_15lho7d': '默认地址',
+			'k_176oa6w': '请选择地区',
+			'k_10yvaf6': '加入购物车',
+			'k_0ecpg3g': '不再收藏',
+			'k_02i7ln1': '该店铺',
+			'k_0ecjpnr': '仍然收藏',
+			'k_15wt6wj': '收藏成功',
+			'k_1b7c9gw': '已取消收藏',
+			'k_0f7dbkw': '操作失败',
+			'k_15ken91': '选择地址',
+			'k_002qfmw': '店铺',
+			'k_16blm3o': '收藏小店',
+			'k_003lpjs': '分类',
+			'k_11yhed6': '暂无分类',
+			'k_18ffuol': '该功能为旗舰版功能',
+			'k_1hcklj3': '登录成功但缺少必要参数',
+			'k_0f7fyin': '登录失败',
+			'k_0o9hu0b': '验证码已发送',
+			'k_1p3vvkd': '验证码发送失败',
+			'k_0fm408e': '无法打开下载链接',
+			'k_0uzat73': '打开下载链接失败',
+			'k_02n4nt9': 'App整体优化',
+			'k_0mrvupc': '需要存储权限才能下载文件',
+			'k_0rwj9pv': '下载地址不能为空',
+			'k_0uidjh6': '无法获取存储目录',
+			'k_1m30wzy': '下载完成!',
+			'k_0f8b4mf': '下载失败',
+			'k_0l2lo4f': '下载已取消',
+			'k_03fujs0': '网络连接超时',
+			'k_1tlrfjr': '请检查网络连接后重试',
+			'k_0319ikb': '接收数据超时',
+			'k_1du932w': '文件不存在(404)',
+			'k_0hiey4e': '请检查下载链接是否正确',
+			'k_00ydvfq': '访问被拒绝(403)',
+			'k_16yl6qz': '服务器拒绝访问该文件',
+			'k_063q4df': '服务器错误(500)',
+			'k_1soxle1': '请稍后重试',
+			'k_0ayyfc7': '网络连接失败',
+			'k_0lf27kx': '请检查网络连接',
+			'k_09coebk': '需要允许安装未知来源应用的权限',
+			'k_0ugifnf': '没有可安装的文件',
+			'k_0ovxa2y': '无法打开安装包',
+			'k_0f8d0yl': '安装失败',
+			'k_0co0dow': '发现新版本',
+			'k_123lye5': '立即升级',
+			'k_0gqm9km': '下次再说',
+			'k_003q7wl': '刚刚',
+			'k_03evj9t': '分钟前',
+			'k_03ezglt': '小时前',
+			'k_003qhfl': '天前',
+			'k_003qetc': '周前',
+			'k_1ppco93': 'Phichat官方公众号',
+			'k_1go2inw': '加载钱包余额失败',
+			'k_13m6yu4': '支付信息',
+			'k_16pdm90': '支付方式',
+			'k_0dhwwj9': '钱包余额',
+			'k_18oyvvu': '立即支付',
+			'k_1irh990': '正在连接客服...',
+			'k_09alugs': '添加好友失败',
+			'k_1d5l750': '但仍然跳转聊天',
+			'k_0b5w339': '连接客服失败',
+			'k_0b609td': '联系客服失败',
+			'k_13f5rvy': '支付完成',
+			'k_0d66dtw': '获取订单详情失败',
+			'k_0gz64im': '网络错误',
+			'k_18wha3k': '商品单价',
+			'k_0ck7gxp': '商品数量',
+			'k_0d3u5g1': '优惠金额',
+			'k_03eb865': '实付款',
+			'k_161ql77': '订单编号',
+			'k_13w6vnp': '订单状态',
+			'k_0by84mx': '下单时间',
+			'k_0by754g': '支付时间',
+			'k_14bvzst': '订单备注',
+			'k_13ai6it': '联系客服',
+			'k_10zzdu2': '确认收货失败',
+			'k_1a6yd0f': '确认已收到商品吗？确认后订单将完成。',
+			'k_1d39k4z': '正在打开支付页面...',
+			'k_14qp8qa': '充值成功！',
+			'k_0l3ksla': '支付已取消',
+			'k_0ogawly': '正在生成二维码...',
+			'k_0qyge5k': '充值失败，请稍后重试',
+			'k_0gwzn3r': '支付认证',
+			'k_002rk6d': '公里',
+			'k_0003x06': '米',
+			'k_15hr6ps': '暂无商品',
+			'k_1t8lgog': '提交成功，请等待审核',
+			'k_16jmk1j': '当前城市',
+			'k_0pnylvd': '暂无地址信息',
+			'k_176uemr': '账单记录',
+			'k_03iikc9': '开发中',
 		};
 	}
 }
