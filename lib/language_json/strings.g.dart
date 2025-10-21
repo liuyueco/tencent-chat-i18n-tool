@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 6778 (1355.6 per locale)
+ * Strings: 6843 (1368.6 per locale)
  *
- * Built on 2025-10-21 at 03:16 UTC
+ * Built on 2025-10-21 at 05:38 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1684,6 +1684,19 @@ class _StringsEn {
 	String get k_0pnylvd => 'No address information available';
 	String get k_176uemr => 'Billing records';
 	String get k_03iikc9 => 'Under development';
+	String get k_1j0lysi => 'The user has disabled friend requests';
+	String get k_0zetw2h => 'Insufficient operation permissions';
+	String get k_1mowrgv => 'Failed to send a private message — you have been blocked by the recipient.';
+	String get k_0jxjwfx => 'You have reached the maximum number of friends allowed by the system.';
+	String get k_0ih6y6t => 'The recipient has reached the maximum number of friends allowed by the system.';
+	String get k_1e9s1nm => 'The user is already your friend.';
+	String get k_0b41zuz => 'The user you are trying to add is in your blocklist.';
+	String get k_0jyndx8 => 'You have been added to the recipient’s blocklist.';
+	String get k_0bb10sl => 'Friend request pending approval.';
+	String get k_0qn5h6l => 'Red packet received successfully';
+	String get k_1xbd5u7 => 'You have already claimed this red packet';
+	String get k_06u68zi => 'All red packets have been claimed';
+	String get k_0t0vrme => 'Abnormal red packet information';
 }
 
 // Path: <root>
@@ -3058,6 +3071,19 @@ class _StringsJa implements _StringsEn {
 	@override String get k_0pnylvd => '暂无地址信息';
 	@override String get k_176uemr => '账单记录';
 	@override String get k_03iikc9 => '开发中';
+	@override String get k_1j0lysi => '对方已禁止加好友';
+	@override String get k_0zetw2h => '操作权限不足';
+	@override String get k_1mowrgv => '发送单聊消息，被对方拉黑，禁止发送。';
+	@override String get k_0jxjwfx => '您的好友数已达系统上限';
+	@override String get k_0ih6y6t => '对方的好友数已达系统上限';
+	@override String get k_1e9s1nm => '对方已是您的好友';
+	@override String get k_0b41zuz => '被加好友在自己的黑名单中';
+	@override String get k_0jyndx8 => '您已被被对方设置为黑名单';
+	@override String get k_0bb10sl => '等待好友审核同意';
+	@override String get k_0qn5h6l => '红包领取成功';
+	@override String get k_1xbd5u7 => '您已领取过红包';
+	@override String get k_06u68zi => '红包已抢完';
+	@override String get k_0t0vrme => '红包信息异常';
 }
 
 // Path: <root>
@@ -4432,6 +4458,19 @@ class _StringsKo implements _StringsEn {
 	@override String get k_0pnylvd => '暂无地址信息';
 	@override String get k_176uemr => '账单记录';
 	@override String get k_03iikc9 => '开发中';
+	@override String get k_1j0lysi => '对方已禁止加好友';
+	@override String get k_0zetw2h => '操作权限不足';
+	@override String get k_1mowrgv => '发送单聊消息，被对方拉黑，禁止发送。';
+	@override String get k_0jxjwfx => '您的好友数已达系统上限';
+	@override String get k_0ih6y6t => '对方的好友数已达系统上限';
+	@override String get k_1e9s1nm => '对方已是您的好友';
+	@override String get k_0b41zuz => '被加好友在自己的黑名单中';
+	@override String get k_0jyndx8 => '您已被被对方设置为黑名单';
+	@override String get k_0bb10sl => '等待好友审核同意';
+	@override String get k_0qn5h6l => '红包领取成功';
+	@override String get k_1xbd5u7 => '您已领取过红包';
+	@override String get k_06u68zi => '红包已抢完';
+	@override String get k_0t0vrme => '红包信息异常';
 }
 
 // Path: <root>
@@ -5805,6 +5844,19 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_0pnylvd => '暂无地址信息';
 	@override String get k_176uemr => '账单记录';
 	@override String get k_03iikc9 => '开发中';
+	@override String get k_1j0lysi => '对方已禁止加好友';
+	@override String get k_0zetw2h => '操作权限不足';
+	@override String get k_1mowrgv => '发送单聊消息，被对方拉黑，禁止发送。';
+	@override String get k_0jxjwfx => '您的好友数已达系统上限';
+	@override String get k_0ih6y6t => '对方的好友数已达系统上限';
+	@override String get k_1e9s1nm => '对方已是您的好友';
+	@override String get k_0b41zuz => '被加好友在自己的黑名单中';
+	@override String get k_0jyndx8 => '您已被被对方设置为黑名单';
+	@override String get k_0bb10sl => '等待好友审核同意';
+	@override String get k_0qn5h6l => '红包领取成功';
+	@override String get k_1xbd5u7 => '您已领取过红包';
+	@override String get k_06u68zi => '红包已抢完';
+	@override String get k_0t0vrme => '红包信息异常';
 }
 
 // Path: <root>
@@ -7179,6 +7231,19 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_0pnylvd => '暂无地址信息';
 	@override String get k_176uemr => '账单记录';
 	@override String get k_03iikc9 => '开发中';
+	@override String get k_1j0lysi => '对方已禁止加好友';
+	@override String get k_0zetw2h => '操作权限不足';
+	@override String get k_1mowrgv => '发送单聊消息，被对方拉黑，禁止发送。';
+	@override String get k_0jxjwfx => '您的好友数已达系统上限';
+	@override String get k_0ih6y6t => '对方的好友数已达系统上限';
+	@override String get k_1e9s1nm => '对方已是您的好友';
+	@override String get k_0b41zuz => '被加好友在自己的黑名单中';
+	@override String get k_0jyndx8 => '您已被被对方设置为黑名单';
+	@override String get k_0bb10sl => '等待好友审核同意';
+	@override String get k_0qn5h6l => '红包领取成功';
+	@override String get k_1xbd5u7 => '您已领取过红包';
+	@override String get k_06u68zi => '红包已抢完';
+	@override String get k_0t0vrme => '红包信息异常';
 }
 
 /// Flat map(s) containing all translations.
@@ -8542,6 +8607,19 @@ extension on _StringsEn {
 			'k_0pnylvd': 'No address information available',
 			'k_176uemr': 'Billing records',
 			'k_03iikc9': 'Under development',
+			'k_1j0lysi': 'The user has disabled friend requests',
+			'k_0zetw2h': 'Insufficient operation permissions',
+			'k_1mowrgv': 'Failed to send a private message — you have been blocked by the recipient.',
+			'k_0jxjwfx': 'You have reached the maximum number of friends allowed by the system.',
+			'k_0ih6y6t': 'The recipient has reached the maximum number of friends allowed by the system.',
+			'k_1e9s1nm': 'The user is already your friend.',
+			'k_0b41zuz': 'The user you are trying to add is in your blocklist.',
+			'k_0jyndx8': 'You have been added to the recipient’s blocklist.',
+			'k_0bb10sl': 'Friend request pending approval.',
+			'k_0qn5h6l': 'Red packet received successfully',
+			'k_1xbd5u7': 'You have already claimed this red packet',
+			'k_06u68zi': 'All red packets have been claimed',
+			'k_0t0vrme': 'Abnormal red packet information',
 		};
 	}
 }
@@ -9905,6 +9983,19 @@ extension on _StringsJa {
 			'k_0pnylvd': '暂无地址信息',
 			'k_176uemr': '账单记录',
 			'k_03iikc9': '开发中',
+			'k_1j0lysi': '对方已禁止加好友',
+			'k_0zetw2h': '操作权限不足',
+			'k_1mowrgv': '发送单聊消息，被对方拉黑，禁止发送。',
+			'k_0jxjwfx': '您的好友数已达系统上限',
+			'k_0ih6y6t': '对方的好友数已达系统上限',
+			'k_1e9s1nm': '对方已是您的好友',
+			'k_0b41zuz': '被加好友在自己的黑名单中',
+			'k_0jyndx8': '您已被被对方设置为黑名单',
+			'k_0bb10sl': '等待好友审核同意',
+			'k_0qn5h6l': '红包领取成功',
+			'k_1xbd5u7': '您已领取过红包',
+			'k_06u68zi': '红包已抢完',
+			'k_0t0vrme': '红包信息异常',
 		};
 	}
 }
@@ -11268,6 +11359,19 @@ extension on _StringsKo {
 			'k_0pnylvd': '暂无地址信息',
 			'k_176uemr': '账单记录',
 			'k_03iikc9': '开发中',
+			'k_1j0lysi': '对方已禁止加好友',
+			'k_0zetw2h': '操作权限不足',
+			'k_1mowrgv': '发送单聊消息，被对方拉黑，禁止发送。',
+			'k_0jxjwfx': '您的好友数已达系统上限',
+			'k_0ih6y6t': '对方的好友数已达系统上限',
+			'k_1e9s1nm': '对方已是您的好友',
+			'k_0b41zuz': '被加好友在自己的黑名单中',
+			'k_0jyndx8': '您已被被对方设置为黑名单',
+			'k_0bb10sl': '等待好友审核同意',
+			'k_0qn5h6l': '红包领取成功',
+			'k_1xbd5u7': '您已领取过红包',
+			'k_06u68zi': '红包已抢完',
+			'k_0t0vrme': '红包信息异常',
 		};
 	}
 }
@@ -12630,6 +12734,19 @@ extension on _StringsZhHans {
 			'k_0pnylvd': '暂无地址信息',
 			'k_176uemr': '账单记录',
 			'k_03iikc9': '开发中',
+			'k_1j0lysi': '对方已禁止加好友',
+			'k_0zetw2h': '操作权限不足',
+			'k_1mowrgv': '发送单聊消息，被对方拉黑，禁止发送。',
+			'k_0jxjwfx': '您的好友数已达系统上限',
+			'k_0ih6y6t': '对方的好友数已达系统上限',
+			'k_1e9s1nm': '对方已是您的好友',
+			'k_0b41zuz': '被加好友在自己的黑名单中',
+			'k_0jyndx8': '您已被被对方设置为黑名单',
+			'k_0bb10sl': '等待好友审核同意',
+			'k_0qn5h6l': '红包领取成功',
+			'k_1xbd5u7': '您已领取过红包',
+			'k_06u68zi': '红包已抢完',
+			'k_0t0vrme': '红包信息异常',
 		};
 	}
 }
@@ -13993,6 +14110,19 @@ extension on _StringsZhHant {
 			'k_0pnylvd': '暂无地址信息',
 			'k_176uemr': '账单记录',
 			'k_03iikc9': '开发中',
+			'k_1j0lysi': '对方已禁止加好友',
+			'k_0zetw2h': '操作权限不足',
+			'k_1mowrgv': '发送单聊消息，被对方拉黑，禁止发送。',
+			'k_0jxjwfx': '您的好友数已达系统上限',
+			'k_0ih6y6t': '对方的好友数已达系统上限',
+			'k_1e9s1nm': '对方已是您的好友',
+			'k_0b41zuz': '被加好友在自己的黑名单中',
+			'k_0jyndx8': '您已被被对方设置为黑名单',
+			'k_0bb10sl': '等待好友审核同意',
+			'k_0qn5h6l': '红包领取成功',
+			'k_1xbd5u7': '您已领取过红包',
+			'k_06u68zi': '红包已抢完',
+			'k_0t0vrme': '红包信息异常',
 		};
 	}
 }

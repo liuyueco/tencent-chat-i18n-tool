@@ -1353,5 +1353,18 @@
   "k_16jmk1j": "Current city",
   "k_0pnylvd": "No address information available",
   "k_176uemr": "Billing records",
-  "k_03iikc9": "Under development"
+  "k_03iikc9": "Under development",
+  "k_1j0lysi": "The user has disabled friend requests",
+  "k_0zetw2h": "Insufficient operation permissions",
+  "k_1mowrgv": "Failed to send a private message — you have been blocked by the recipient.",
+  "k_0jxjwfx": "You have reached the maximum number of friends allowed by the system.",
+  "k_0ih6y6t": "The recipient has reached the maximum number of friends allowed by the system.",
+  "k_1e9s1nm": "The user is already your friend.",
+  "k_0b41zuz": "The user you are trying to add is in your blocklist.",
+  "k_0jyndx8": "You have been added to the recipient’s blocklist.",
+  "k_0bb10sl": "Friend request pending approval.",
+  "k_0qn5h6l": "Red packet received successfully",
+  "k_1xbd5u7": "You have already claimed this red packet",
+  "k_06u68zi": "All red packets have been claimed",
+  "k_0t0vrme": "Abnormal red packet information"
 }
