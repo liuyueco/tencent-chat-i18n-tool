@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 6998 (1399.6 per locale)
+ * Strings: 7013 (1402.6 per locale)
  *
- * Built on 2025-10-24 at 02:07 UTC
+ * Built on 2025-10-24 at 08:10 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1728,6 +1728,9 @@ class _StringsEn {
 	String get k_16f72e1 => 'Invite friends';
 	String get k_1manbgp => 'Verification code entered';
 	String get k_1m1rbus => 'Share red envelope task page to Facebook';
+	String get k_0qynjlm => 'Set payment password first';
+	String get k_093s7vv => 'Cannot open Facebook';
+	String get k_1qdhj6j => 'Invite 1 new user with an invite code';
 }
 
 // Path: <root>
@@ -3146,6 +3149,9 @@ class _StringsJa implements _StringsEn {
 	@override String get k_16f72e1 => '转发邀请好友';
 	@override String get k_1manbgp => '已填写验证码';
 	@override String get k_1m1rbus => '转发红包任务页面分享至Facebook';
+	@override String get k_0qynjlm => '请先设置支付密码';
+	@override String get k_093s7vv => '无法打开Facebook';
+	@override String get k_1qdhj6j => '用邀请码邀请1名新用户注册';
 }
 
 // Path: <root>
@@ -4564,6 +4570,9 @@ class _StringsKo implements _StringsEn {
 	@override String get k_16f72e1 => '转发邀请好友';
 	@override String get k_1manbgp => '已填写验证码';
 	@override String get k_1m1rbus => '转发红包任务页面分享至Facebook';
+	@override String get k_0qynjlm => '请先设置支付密码';
+	@override String get k_093s7vv => '无法打开Facebook';
+	@override String get k_1qdhj6j => '用邀请码邀请1名新用户注册';
 }
 
 // Path: <root>
@@ -5981,6 +5990,9 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_16f72e1 => '转发邀请好友';
 	@override String get k_1manbgp => '已填写验证码';
 	@override String get k_1m1rbus => '转发红包任务页面分享至Facebook';
+	@override String get k_0qynjlm => '请先设置支付密码';
+	@override String get k_093s7vv => '无法打开Facebook';
+	@override String get k_1qdhj6j => '用邀请码邀请1名新用户注册';
 }
 
 // Path: <root>
@@ -7399,6 +7411,9 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_16f72e1 => '转发邀请好友';
 	@override String get k_1manbgp => '已填写验证码';
 	@override String get k_1m1rbus => '转发红包任务页面分享至Facebook';
+	@override String get k_0qynjlm => '请先设置支付密码';
+	@override String get k_093s7vv => '无法打开Facebook';
+	@override String get k_1qdhj6j => '用邀请码邀请1名新用户注册';
 }
 
 /// Flat map(s) containing all translations.
@@ -8806,6 +8821,9 @@ extension on _StringsEn {
 			'k_16f72e1': 'Invite friends',
 			'k_1manbgp': 'Verification code entered',
 			'k_1m1rbus': 'Share red envelope task page to Facebook',
+			'k_0qynjlm': 'Set payment password first',
+			'k_093s7vv': 'Cannot open Facebook',
+			'k_1qdhj6j': 'Invite 1 new user with an invite code',
 		};
 	}
 }
@@ -10213,6 +10231,9 @@ extension on _StringsJa {
 			'k_16f72e1': '转发邀请好友',
 			'k_1manbgp': '已填写验证码',
 			'k_1m1rbus': '转发红包任务页面分享至Facebook',
+			'k_0qynjlm': '请先设置支付密码',
+			'k_093s7vv': '无法打开Facebook',
+			'k_1qdhj6j': '用邀请码邀请1名新用户注册',
 		};
 	}
 }
@@ -11620,6 +11641,9 @@ extension on _StringsKo {
 			'k_16f72e1': '转发邀请好友',
 			'k_1manbgp': '已填写验证码',
 			'k_1m1rbus': '转发红包任务页面分享至Facebook',
+			'k_0qynjlm': '请先设置支付密码',
+			'k_093s7vv': '无法打开Facebook',
+			'k_1qdhj6j': '用邀请码邀请1名新用户注册',
 		};
 	}
 }
@@ -13026,6 +13050,9 @@ extension on _StringsZhHans {
 			'k_16f72e1': '转发邀请好友',
 			'k_1manbgp': '已填写验证码',
 			'k_1m1rbus': '转发红包任务页面分享至Facebook',
+			'k_0qynjlm': '请先设置支付密码',
+			'k_093s7vv': '无法打开Facebook',
+			'k_1qdhj6j': '用邀请码邀请1名新用户注册',
 		};
 	}
 }
@@ -14433,6 +14460,9 @@ extension on _StringsZhHant {
 			'k_16f72e1': '转发邀请好友',
 			'k_1manbgp': '已填写验证码',
 			'k_1m1rbus': '转发红包任务页面分享至Facebook',
+			'k_0qynjlm': '请先设置支付密码',
+			'k_093s7vv': '无法打开Facebook',
+			'k_1qdhj6j': '用邀请码邀请1名新用户注册',
 		};
 	}
 }
