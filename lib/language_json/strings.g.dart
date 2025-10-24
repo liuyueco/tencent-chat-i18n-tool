@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 6843 (1368.6 per locale)
+ * Strings: 6998 (1399.6 per locale)
  *
- * Built on 2025-10-21 at 05:38 UTC
+ * Built on 2025-10-24 at 02:07 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1488,7 +1488,7 @@ class _StringsEn {
 	String get k_0xfj8a9 => 'Invite code verification successful';
 	String get k_0ye6gwa => 'Invite code verification failed';
 	String get k_15rzweq => 'Claim reward';
-	String get k_1jhtygp => 'Sign in consecutively 7 times to get the highest reward';
+	String get k_1jhtygp => 'Sign in 7x top reward';
 	String get k_1749j78 => 'Congratulations, you won';
 	String get k_19lgo1w => 'Got it';
 	String get k_13adcc9 => 'Select year and month';
@@ -1697,6 +1697,37 @@ class _StringsEn {
 	String get k_1xbd5u7 => 'You have already claimed this red packet';
 	String get k_06u68zi => 'All red packets have been claimed';
 	String get k_0t0vrme => 'Abnormal red packet information';
+	String get k_0z6qjxl => '[Transfer]';
+	String get k_12kjxn9 => 'Payment password';
+	String get k_0ohliw2 => 'Change password';
+	String get k_0quxvmc => 'Enter password';
+	String get k_15w8p2y => 'Setup successful';
+	String get k_0xtc1zf => 'Enter old password';
+	String get k_0vm9d8k => 'Enter new password';
+	String get k_15wbkm5 => 'Changed successfully';
+	String get k_0f7h3pi => 'Change failed';
+	String get k_00f59ur => 'Enter numbers';
+	String get k_15w8nt5 => 'Reset successful';
+	String get k_0f7m442 => 'Reset failed';
+	String get k_0ogrd6l => 'Forgot password';
+	String get k_0ohfu6d => 'Set password';
+	String get k_0at7u4o => 'Enter 6-digit password';
+	String get k_1tbd5ii => 'Old password';
+	String get k_1tbd1xh => 'New password';
+	String k_0q8vi4s({required Object option1}) => 'This withdrawal incurs a $option1% fee, and the amount will be credited within T+2 business days.';
+	String get k_08dh7gy => 'You have a transfer';
+	String get k_002vmvj => 'Transfer';
+	String get k_13loo0l => 'Unknown user';
+	String get k_13nm0s5 => 'Transfer note';
+	String get k_1d2nas7 => 'Visible to both parties, up to 60 characters.';
+	String get k_15wsnds => 'Transfer successful';
+	String get k_0f8cnnf => 'Transfer failed';
+	String get k_0x4xjdu => 'Please enter the transfer amount';
+	String get k_03bd75i => 'Transfer to';
+	String get k_17rvx6s => 'Amount must be > 0';
+	String get k_16f72e1 => 'Invite friends';
+	String get k_1manbgp => 'Verification code entered';
+	String get k_1m1rbus => 'Share red envelope task page to Facebook';
 }
 
 // Path: <root>
@@ -3084,6 +3115,37 @@ class _StringsJa implements _StringsEn {
 	@override String get k_1xbd5u7 => '您已领取过红包';
 	@override String get k_06u68zi => '红包已抢完';
 	@override String get k_0t0vrme => '红包信息异常';
+	@override String get k_0z6qjxl => '[转账]';
+	@override String get k_12kjxn9 => '支付密码';
+	@override String get k_0ohliw2 => '修改支付密码';
+	@override String get k_0quxvmc => '请输入支付密码';
+	@override String get k_15w8p2y => '设置成功';
+	@override String get k_0xtc1zf => '请输入原支付密码';
+	@override String get k_0vm9d8k => '请输入新支付密码';
+	@override String get k_15wbkm5 => '修改成功';
+	@override String get k_0f7h3pi => '修改失败';
+	@override String get k_00f59ur => '请输入数字';
+	@override String get k_15w8nt5 => '重置成功';
+	@override String get k_0f7m442 => '重置失败';
+	@override String get k_0ogrd6l => '忘记支付密码';
+	@override String get k_0ohfu6d => '设置支付密码';
+	@override String get k_0at7u4o => '请输入6位数字支付密码';
+	@override String get k_1tbd5ii => '原支付密码';
+	@override String get k_1tbd1xh => '新支付密码';
+	@override String k_0q8vi4s({required Object option1}) => '此次提现需收取$option1%手续费，提现金额在T+2个工作日内到账';
+	@override String get k_08dh7gy => '你有一笔转账';
+	@override String get k_002vmvj => '转账';
+	@override String get k_13loo0l => '未知用户';
+	@override String get k_13nm0s5 => '转账说明';
+	@override String get k_1d2nas7 => '付款双方可见，最多60个字。';
+	@override String get k_15wsnds => '转账成功';
+	@override String get k_0f8cnnf => '转账失败';
+	@override String get k_0x4xjdu => '请输入转账金额';
+	@override String get k_03bd75i => '转账给';
+	@override String get k_17rvx6s => '转账金额必须大于0';
+	@override String get k_16f72e1 => '转发邀请好友';
+	@override String get k_1manbgp => '已填写验证码';
+	@override String get k_1m1rbus => '转发红包任务页面分享至Facebook';
 }
 
 // Path: <root>
@@ -4471,6 +4533,37 @@ class _StringsKo implements _StringsEn {
 	@override String get k_1xbd5u7 => '您已领取过红包';
 	@override String get k_06u68zi => '红包已抢完';
 	@override String get k_0t0vrme => '红包信息异常';
+	@override String get k_0z6qjxl => '[转账]';
+	@override String get k_12kjxn9 => '支付密码';
+	@override String get k_0ohliw2 => '修改支付密码';
+	@override String get k_0quxvmc => '请输入支付密码';
+	@override String get k_15w8p2y => '设置成功';
+	@override String get k_0xtc1zf => '请输入原支付密码';
+	@override String get k_0vm9d8k => '请输入新支付密码';
+	@override String get k_15wbkm5 => '修改成功';
+	@override String get k_0f7h3pi => '修改失败';
+	@override String get k_00f59ur => '请输入数字';
+	@override String get k_15w8nt5 => '重置成功';
+	@override String get k_0f7m442 => '重置失败';
+	@override String get k_0ogrd6l => '忘记支付密码';
+	@override String get k_0ohfu6d => '设置支付密码';
+	@override String get k_0at7u4o => '请输入6位数字支付密码';
+	@override String get k_1tbd5ii => '原支付密码';
+	@override String get k_1tbd1xh => '新支付密码';
+	@override String k_0q8vi4s({required Object option1}) => '此次提现需收取$option1%手续费，提现金额在T+2个工作日内到账';
+	@override String get k_08dh7gy => '你有一笔转账';
+	@override String get k_002vmvj => '转账';
+	@override String get k_13loo0l => '未知用户';
+	@override String get k_13nm0s5 => '转账说明';
+	@override String get k_1d2nas7 => '付款双方可见，最多60个字。';
+	@override String get k_15wsnds => '转账成功';
+	@override String get k_0f8cnnf => '转账失败';
+	@override String get k_0x4xjdu => '请输入转账金额';
+	@override String get k_03bd75i => '转账给';
+	@override String get k_17rvx6s => '转账金额必须大于0';
+	@override String get k_16f72e1 => '转发邀请好友';
+	@override String get k_1manbgp => '已填写验证码';
+	@override String get k_1m1rbus => '转发红包任务页面分享至Facebook';
 }
 
 // Path: <root>
@@ -5857,6 +5950,37 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_1xbd5u7 => '您已领取过红包';
 	@override String get k_06u68zi => '红包已抢完';
 	@override String get k_0t0vrme => '红包信息异常';
+	@override String get k_0z6qjxl => '[转账]';
+	@override String get k_12kjxn9 => '支付密码';
+	@override String get k_0ohliw2 => '修改支付密码';
+	@override String get k_0quxvmc => '请输入支付密码';
+	@override String get k_15w8p2y => '设置成功';
+	@override String get k_0xtc1zf => '请输入原支付密码';
+	@override String get k_0vm9d8k => '请输入新支付密码';
+	@override String get k_15wbkm5 => '修改成功';
+	@override String get k_0f7h3pi => '修改失败';
+	@override String get k_00f59ur => '请输入数字';
+	@override String get k_15w8nt5 => '重置成功';
+	@override String get k_0f7m442 => '重置失败';
+	@override String get k_0ogrd6l => '忘记支付密码';
+	@override String get k_0ohfu6d => '设置支付密码';
+	@override String get k_0at7u4o => '请输入6位数字支付密码';
+	@override String get k_1tbd5ii => '原支付密码';
+	@override String get k_1tbd1xh => '新支付密码';
+	@override String k_0q8vi4s({required Object option1}) => '此次提现需收取$option1%手续费，提现金额在T+2个工作日内到账';
+	@override String get k_08dh7gy => '你有一笔转账';
+	@override String get k_002vmvj => '转账';
+	@override String get k_13loo0l => '未知用户';
+	@override String get k_13nm0s5 => '转账说明';
+	@override String get k_1d2nas7 => '付款双方可见，最多60个字。';
+	@override String get k_15wsnds => '转账成功';
+	@override String get k_0f8cnnf => '转账失败';
+	@override String get k_0x4xjdu => '请输入转账金额';
+	@override String get k_03bd75i => '转账给';
+	@override String get k_17rvx6s => '转账金额必须大于0';
+	@override String get k_16f72e1 => '转发邀请好友';
+	@override String get k_1manbgp => '已填写验证码';
+	@override String get k_1m1rbus => '转发红包任务页面分享至Facebook';
 }
 
 // Path: <root>
@@ -7244,6 +7368,37 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_1xbd5u7 => '您已领取过红包';
 	@override String get k_06u68zi => '红包已抢完';
 	@override String get k_0t0vrme => '红包信息异常';
+	@override String get k_0z6qjxl => '[转账]';
+	@override String get k_12kjxn9 => '支付密码';
+	@override String get k_0ohliw2 => '修改支付密码';
+	@override String get k_0quxvmc => '请输入支付密码';
+	@override String get k_15w8p2y => '设置成功';
+	@override String get k_0xtc1zf => '请输入原支付密码';
+	@override String get k_0vm9d8k => '请输入新支付密码';
+	@override String get k_15wbkm5 => '修改成功';
+	@override String get k_0f7h3pi => '修改失败';
+	@override String get k_00f59ur => '请输入数字';
+	@override String get k_15w8nt5 => '重置成功';
+	@override String get k_0f7m442 => '重置失败';
+	@override String get k_0ogrd6l => '忘记支付密码';
+	@override String get k_0ohfu6d => '设置支付密码';
+	@override String get k_0at7u4o => '请输入6位数字支付密码';
+	@override String get k_1tbd5ii => '原支付密码';
+	@override String get k_1tbd1xh => '新支付密码';
+	@override String k_0q8vi4s({required Object option1}) => '此次提现需收取$option1%手续费，提现金额在T+2个工作日内到账';
+	@override String get k_08dh7gy => '你有一笔转账';
+	@override String get k_002vmvj => '转账';
+	@override String get k_13loo0l => '未知用户';
+	@override String get k_13nm0s5 => '转账说明';
+	@override String get k_1d2nas7 => '付款双方可见，最多60个字。';
+	@override String get k_15wsnds => '转账成功';
+	@override String get k_0f8cnnf => '转账失败';
+	@override String get k_0x4xjdu => '请输入转账金额';
+	@override String get k_03bd75i => '转账给';
+	@override String get k_17rvx6s => '转账金额必须大于0';
+	@override String get k_16f72e1 => '转发邀请好友';
+	@override String get k_1manbgp => '已填写验证码';
+	@override String get k_1m1rbus => '转发红包任务页面分享至Facebook';
 }
 
 /// Flat map(s) containing all translations.
@@ -8411,7 +8566,7 @@ extension on _StringsEn {
 			'k_0xfj8a9': 'Invite code verification successful',
 			'k_0ye6gwa': 'Invite code verification failed',
 			'k_15rzweq': 'Claim reward',
-			'k_1jhtygp': 'Sign in consecutively 7 times to get the highest reward',
+			'k_1jhtygp': 'Sign in 7x top reward',
 			'k_1749j78': 'Congratulations, you won',
 			'k_19lgo1w': 'Got it',
 			'k_13adcc9': 'Select year and month',
@@ -8620,6 +8775,37 @@ extension on _StringsEn {
 			'k_1xbd5u7': 'You have already claimed this red packet',
 			'k_06u68zi': 'All red packets have been claimed',
 			'k_0t0vrme': 'Abnormal red packet information',
+			'k_0z6qjxl': '[Transfer]',
+			'k_12kjxn9': 'Payment password',
+			'k_0ohliw2': 'Change password',
+			'k_0quxvmc': 'Enter password',
+			'k_15w8p2y': 'Setup successful',
+			'k_0xtc1zf': 'Enter old password',
+			'k_0vm9d8k': 'Enter new password',
+			'k_15wbkm5': 'Changed successfully',
+			'k_0f7h3pi': 'Change failed',
+			'k_00f59ur': 'Enter numbers',
+			'k_15w8nt5': 'Reset successful',
+			'k_0f7m442': 'Reset failed',
+			'k_0ogrd6l': 'Forgot password',
+			'k_0ohfu6d': 'Set password',
+			'k_0at7u4o': 'Enter 6-digit password',
+			'k_1tbd5ii': 'Old password',
+			'k_1tbd1xh': 'New password',
+			'k_0q8vi4s': ({required Object option1}) => 'This withdrawal incurs a $option1% fee, and the amount will be credited within T+2 business days.',
+			'k_08dh7gy': 'You have a transfer',
+			'k_002vmvj': 'Transfer',
+			'k_13loo0l': 'Unknown user',
+			'k_13nm0s5': 'Transfer note',
+			'k_1d2nas7': 'Visible to both parties, up to 60 characters.',
+			'k_15wsnds': 'Transfer successful',
+			'k_0f8cnnf': 'Transfer failed',
+			'k_0x4xjdu': 'Please enter the transfer amount',
+			'k_03bd75i': 'Transfer to',
+			'k_17rvx6s': 'Amount must be > 0',
+			'k_16f72e1': 'Invite friends',
+			'k_1manbgp': 'Verification code entered',
+			'k_1m1rbus': 'Share red envelope task page to Facebook',
 		};
 	}
 }
@@ -9996,6 +10182,37 @@ extension on _StringsJa {
 			'k_1xbd5u7': '您已领取过红包',
 			'k_06u68zi': '红包已抢完',
 			'k_0t0vrme': '红包信息异常',
+			'k_0z6qjxl': '[转账]',
+			'k_12kjxn9': '支付密码',
+			'k_0ohliw2': '修改支付密码',
+			'k_0quxvmc': '请输入支付密码',
+			'k_15w8p2y': '设置成功',
+			'k_0xtc1zf': '请输入原支付密码',
+			'k_0vm9d8k': '请输入新支付密码',
+			'k_15wbkm5': '修改成功',
+			'k_0f7h3pi': '修改失败',
+			'k_00f59ur': '请输入数字',
+			'k_15w8nt5': '重置成功',
+			'k_0f7m442': '重置失败',
+			'k_0ogrd6l': '忘记支付密码',
+			'k_0ohfu6d': '设置支付密码',
+			'k_0at7u4o': '请输入6位数字支付密码',
+			'k_1tbd5ii': '原支付密码',
+			'k_1tbd1xh': '新支付密码',
+			'k_0q8vi4s': ({required Object option1}) => '此次提现需收取$option1%手续费，提现金额在T+2个工作日内到账',
+			'k_08dh7gy': '你有一笔转账',
+			'k_002vmvj': '转账',
+			'k_13loo0l': '未知用户',
+			'k_13nm0s5': '转账说明',
+			'k_1d2nas7': '付款双方可见，最多60个字。',
+			'k_15wsnds': '转账成功',
+			'k_0f8cnnf': '转账失败',
+			'k_0x4xjdu': '请输入转账金额',
+			'k_03bd75i': '转账给',
+			'k_17rvx6s': '转账金额必须大于0',
+			'k_16f72e1': '转发邀请好友',
+			'k_1manbgp': '已填写验证码',
+			'k_1m1rbus': '转发红包任务页面分享至Facebook',
 		};
 	}
 }
@@ -11372,6 +11589,37 @@ extension on _StringsKo {
 			'k_1xbd5u7': '您已领取过红包',
 			'k_06u68zi': '红包已抢完',
 			'k_0t0vrme': '红包信息异常',
+			'k_0z6qjxl': '[转账]',
+			'k_12kjxn9': '支付密码',
+			'k_0ohliw2': '修改支付密码',
+			'k_0quxvmc': '请输入支付密码',
+			'k_15w8p2y': '设置成功',
+			'k_0xtc1zf': '请输入原支付密码',
+			'k_0vm9d8k': '请输入新支付密码',
+			'k_15wbkm5': '修改成功',
+			'k_0f7h3pi': '修改失败',
+			'k_00f59ur': '请输入数字',
+			'k_15w8nt5': '重置成功',
+			'k_0f7m442': '重置失败',
+			'k_0ogrd6l': '忘记支付密码',
+			'k_0ohfu6d': '设置支付密码',
+			'k_0at7u4o': '请输入6位数字支付密码',
+			'k_1tbd5ii': '原支付密码',
+			'k_1tbd1xh': '新支付密码',
+			'k_0q8vi4s': ({required Object option1}) => '此次提现需收取$option1%手续费，提现金额在T+2个工作日内到账',
+			'k_08dh7gy': '你有一笔转账',
+			'k_002vmvj': '转账',
+			'k_13loo0l': '未知用户',
+			'k_13nm0s5': '转账说明',
+			'k_1d2nas7': '付款双方可见，最多60个字。',
+			'k_15wsnds': '转账成功',
+			'k_0f8cnnf': '转账失败',
+			'k_0x4xjdu': '请输入转账金额',
+			'k_03bd75i': '转账给',
+			'k_17rvx6s': '转账金额必须大于0',
+			'k_16f72e1': '转发邀请好友',
+			'k_1manbgp': '已填写验证码',
+			'k_1m1rbus': '转发红包任务页面分享至Facebook',
 		};
 	}
 }
@@ -12747,6 +12995,37 @@ extension on _StringsZhHans {
 			'k_1xbd5u7': '您已领取过红包',
 			'k_06u68zi': '红包已抢完',
 			'k_0t0vrme': '红包信息异常',
+			'k_0z6qjxl': '[转账]',
+			'k_12kjxn9': '支付密码',
+			'k_0ohliw2': '修改支付密码',
+			'k_0quxvmc': '请输入支付密码',
+			'k_15w8p2y': '设置成功',
+			'k_0xtc1zf': '请输入原支付密码',
+			'k_0vm9d8k': '请输入新支付密码',
+			'k_15wbkm5': '修改成功',
+			'k_0f7h3pi': '修改失败',
+			'k_00f59ur': '请输入数字',
+			'k_15w8nt5': '重置成功',
+			'k_0f7m442': '重置失败',
+			'k_0ogrd6l': '忘记支付密码',
+			'k_0ohfu6d': '设置支付密码',
+			'k_0at7u4o': '请输入6位数字支付密码',
+			'k_1tbd5ii': '原支付密码',
+			'k_1tbd1xh': '新支付密码',
+			'k_0q8vi4s': ({required Object option1}) => '此次提现需收取$option1%手续费，提现金额在T+2个工作日内到账',
+			'k_08dh7gy': '你有一笔转账',
+			'k_002vmvj': '转账',
+			'k_13loo0l': '未知用户',
+			'k_13nm0s5': '转账说明',
+			'k_1d2nas7': '付款双方可见，最多60个字。',
+			'k_15wsnds': '转账成功',
+			'k_0f8cnnf': '转账失败',
+			'k_0x4xjdu': '请输入转账金额',
+			'k_03bd75i': '转账给',
+			'k_17rvx6s': '转账金额必须大于0',
+			'k_16f72e1': '转发邀请好友',
+			'k_1manbgp': '已填写验证码',
+			'k_1m1rbus': '转发红包任务页面分享至Facebook',
 		};
 	}
 }
@@ -14123,6 +14402,37 @@ extension on _StringsZhHant {
 			'k_1xbd5u7': '您已领取过红包',
 			'k_06u68zi': '红包已抢完',
 			'k_0t0vrme': '红包信息异常',
+			'k_0z6qjxl': '[转账]',
+			'k_12kjxn9': '支付密码',
+			'k_0ohliw2': '修改支付密码',
+			'k_0quxvmc': '请输入支付密码',
+			'k_15w8p2y': '设置成功',
+			'k_0xtc1zf': '请输入原支付密码',
+			'k_0vm9d8k': '请输入新支付密码',
+			'k_15wbkm5': '修改成功',
+			'k_0f7h3pi': '修改失败',
+			'k_00f59ur': '请输入数字',
+			'k_15w8nt5': '重置成功',
+			'k_0f7m442': '重置失败',
+			'k_0ogrd6l': '忘记支付密码',
+			'k_0ohfu6d': '设置支付密码',
+			'k_0at7u4o': '请输入6位数字支付密码',
+			'k_1tbd5ii': '原支付密码',
+			'k_1tbd1xh': '新支付密码',
+			'k_0q8vi4s': ({required Object option1}) => '此次提现需收取$option1%手续费，提现金额在T+2个工作日内到账',
+			'k_08dh7gy': '你有一笔转账',
+			'k_002vmvj': '转账',
+			'k_13loo0l': '未知用户',
+			'k_13nm0s5': '转账说明',
+			'k_1d2nas7': '付款双方可见，最多60个字。',
+			'k_15wsnds': '转账成功',
+			'k_0f8cnnf': '转账失败',
+			'k_0x4xjdu': '请输入转账金额',
+			'k_03bd75i': '转账给',
+			'k_17rvx6s': '转账金额必须大于0',
+			'k_16f72e1': '转发邀请好友',
+			'k_1manbgp': '已填写验证码',
+			'k_1m1rbus': '转发红包任务页面分享至Facebook',
 		};
 	}
 }
