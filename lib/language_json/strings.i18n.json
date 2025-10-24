@@ -1400,5 +1400,10 @@
   "k_1m1rbus": "Share red envelope task page to Facebook",
   "k_0qynjlm": "Set payment password first",
   "k_093s7vv": "Cannot open Facebook",
-  "k_1qdhj6j": "Invite 1 new user with an invite code"
+  "k_1qdhj6j": "Invite 1 new user with an invite code",
+  "k_11yq2y5": "连接超时",
+  "k_11ymdhf": "请求超时",
+  "k_11yq0kv": "响应超时",
+  "k_1a1z4cb": "服务器异常",
+  "k_13e0wq6": "请求取消"
 }
