@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 7013 (1402.6 per locale)
+ * Strings: 7083 (1416.6 per locale)
  *
- * Built on 2025-10-24 at 08:10 UTC
+ * Built on 2025-10-28 at 08:30 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1387,7 +1387,7 @@ class _StringsEn {
 	String get k_002r7g7 => 'Filter';
 	String get k_0jnnigy => 'Delete Item';
 	String get k_17bsyzp => 'View More';
-	String get k_03feguc => 'To Friend';
+	String get k_03feguc => 'Friend';
 	String get k_1372vgg => 'Recent Searches';
 	String get k_0nt2du5 => 'No Suggestions';
 	String get k_002rmhk => 'All';
@@ -1731,6 +1731,20 @@ class _StringsEn {
 	String get k_0qynjlm => 'Set payment password first';
 	String get k_093s7vv => 'Cannot open Facebook';
 	String get k_1qdhj6j => 'Invite 1 new user with an invite code';
+	String get k_11yq2y5 => 'Connection timeout';
+	String get k_11ymdhf => 'Request timeout';
+	String get k_11yq0kv => 'Response timeout';
+	String get k_1a1z4cb => 'Server error';
+	String get k_13e0wq6 => 'Request cancelled';
+	String get k_12kwi6i => 'Forgot password';
+	String get k_16ksq9t => 'Return to login';
+	String get k_0sqq0kz => 'Enter new password';
+	String get k_0h8dz4v => 'Do you want to join the invite task?';
+	String get k_15zvbf6 => 'Claim red packet';
+	String get k_1xlfzux => 'Up to 3 images allowed';
+	String get k_002r2rn => 'Optional';
+	String get k_14lrq9i => 'Please upload BIR Form 2303 (at least one)';
+	String get k_02coms2 => 'Brand Certification Repository';
 }
 
 // Path: <root>
@@ -3152,6 +3166,20 @@ class _StringsJa implements _StringsEn {
 	@override String get k_0qynjlm => '请先设置支付密码';
 	@override String get k_093s7vv => '无法打开Facebook';
 	@override String get k_1qdhj6j => '用邀请码邀请1名新用户注册';
+	@override String get k_11yq2y5 => '连接超时';
+	@override String get k_11ymdhf => '请求超时';
+	@override String get k_11yq0kv => '响应超时';
+	@override String get k_1a1z4cb => '服务器异常';
+	@override String get k_13e0wq6 => '请求取消';
+	@override String get k_12kwi6i => '忘记密码';
+	@override String get k_16ksq9t => '返回登录';
+	@override String get k_0sqq0kz => '请输入新密码';
+	@override String get k_0h8dz4v => '需要进入邀请任务吗?';
+	@override String get k_15zvbf6 => '领取红包';
+	@override String get k_1xlfzux => '最多可上传3张';
+	@override String get k_002r2rn => '可选';
+	@override String get k_14lrq9i => '请上传BIR Form 2303（至少一张）';
+	@override String get k_02coms2 => '品牌认证资质库';
 }
 
 // Path: <root>
@@ -4573,6 +4601,20 @@ class _StringsKo implements _StringsEn {
 	@override String get k_0qynjlm => '请先设置支付密码';
 	@override String get k_093s7vv => '无法打开Facebook';
 	@override String get k_1qdhj6j => '用邀请码邀请1名新用户注册';
+	@override String get k_11yq2y5 => '连接超时';
+	@override String get k_11ymdhf => '请求超时';
+	@override String get k_11yq0kv => '响应超时';
+	@override String get k_1a1z4cb => '服务器异常';
+	@override String get k_13e0wq6 => '请求取消';
+	@override String get k_12kwi6i => '忘记密码';
+	@override String get k_16ksq9t => '返回登录';
+	@override String get k_0sqq0kz => '请输入新密码';
+	@override String get k_0h8dz4v => '需要进入邀请任务吗?';
+	@override String get k_15zvbf6 => '领取红包';
+	@override String get k_1xlfzux => '最多可上传3张';
+	@override String get k_002r2rn => '可选';
+	@override String get k_14lrq9i => '请上传BIR Form 2303（至少一张）';
+	@override String get k_02coms2 => '品牌认证资质库';
 }
 
 // Path: <root>
@@ -5993,6 +6035,20 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_0qynjlm => '请先设置支付密码';
 	@override String get k_093s7vv => '无法打开Facebook';
 	@override String get k_1qdhj6j => '用邀请码邀请1名新用户注册';
+	@override String get k_11yq2y5 => '连接超时';
+	@override String get k_11ymdhf => '请求超时';
+	@override String get k_11yq0kv => '响应超时';
+	@override String get k_1a1z4cb => '服务器异常';
+	@override String get k_13e0wq6 => '请求取消';
+	@override String get k_12kwi6i => '忘记密码';
+	@override String get k_16ksq9t => '返回登录';
+	@override String get k_0sqq0kz => '请输入新密码';
+	@override String get k_0h8dz4v => '需要进入邀请任务吗?';
+	@override String get k_15zvbf6 => '领取红包';
+	@override String get k_1xlfzux => '最多可上传3张';
+	@override String get k_002r2rn => '可选';
+	@override String get k_14lrq9i => '请上传BIR Form 2303（至少一张）';
+	@override String get k_02coms2 => '品牌认证资质库';
 }
 
 // Path: <root>
@@ -7414,6 +7470,20 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_0qynjlm => '请先设置支付密码';
 	@override String get k_093s7vv => '无法打开Facebook';
 	@override String get k_1qdhj6j => '用邀请码邀请1名新用户注册';
+	@override String get k_11yq2y5 => '连接超时';
+	@override String get k_11ymdhf => '请求超时';
+	@override String get k_11yq0kv => '响应超时';
+	@override String get k_1a1z4cb => '服务器异常';
+	@override String get k_13e0wq6 => '请求取消';
+	@override String get k_12kwi6i => '忘记密码';
+	@override String get k_16ksq9t => '返回登录';
+	@override String get k_0sqq0kz => '请输入新密码';
+	@override String get k_0h8dz4v => '需要进入邀请任务吗?';
+	@override String get k_15zvbf6 => '领取红包';
+	@override String get k_1xlfzux => '最多可上传3张';
+	@override String get k_002r2rn => '可选';
+	@override String get k_14lrq9i => '请上传BIR Form 2303（至少一张）';
+	@override String get k_02coms2 => '品牌认证资质库';
 }
 
 /// Flat map(s) containing all translations.
@@ -8480,7 +8550,7 @@ extension on _StringsEn {
 			'k_002r7g7': 'Filter',
 			'k_0jnnigy': 'Delete Item',
 			'k_17bsyzp': 'View More',
-			'k_03feguc': 'To Friend',
+			'k_03feguc': 'Friend',
 			'k_1372vgg': 'Recent Searches',
 			'k_0nt2du5': 'No Suggestions',
 			'k_002rmhk': 'All',
@@ -8824,6 +8894,20 @@ extension on _StringsEn {
 			'k_0qynjlm': 'Set payment password first',
 			'k_093s7vv': 'Cannot open Facebook',
 			'k_1qdhj6j': 'Invite 1 new user with an invite code',
+			'k_11yq2y5': 'Connection timeout',
+			'k_11ymdhf': 'Request timeout',
+			'k_11yq0kv': 'Response timeout',
+			'k_1a1z4cb': 'Server error',
+			'k_13e0wq6': 'Request cancelled',
+			'k_12kwi6i': 'Forgot password',
+			'k_16ksq9t': 'Return to login',
+			'k_0sqq0kz': 'Enter new password',
+			'k_0h8dz4v': 'Do you want to join the invite task?',
+			'k_15zvbf6': 'Claim red packet',
+			'k_1xlfzux': 'Up to 3 images allowed',
+			'k_002r2rn': 'Optional',
+			'k_14lrq9i': 'Please upload BIR Form 2303 (at least one)',
+			'k_02coms2': 'Brand Certification Repository',
 		};
 	}
 }
@@ -10234,6 +10318,20 @@ extension on _StringsJa {
 			'k_0qynjlm': '请先设置支付密码',
 			'k_093s7vv': '无法打开Facebook',
 			'k_1qdhj6j': '用邀请码邀请1名新用户注册',
+			'k_11yq2y5': '连接超时',
+			'k_11ymdhf': '请求超时',
+			'k_11yq0kv': '响应超时',
+			'k_1a1z4cb': '服务器异常',
+			'k_13e0wq6': '请求取消',
+			'k_12kwi6i': '忘记密码',
+			'k_16ksq9t': '返回登录',
+			'k_0sqq0kz': '请输入新密码',
+			'k_0h8dz4v': '需要进入邀请任务吗?',
+			'k_15zvbf6': '领取红包',
+			'k_1xlfzux': '最多可上传3张',
+			'k_002r2rn': '可选',
+			'k_14lrq9i': '请上传BIR Form 2303（至少一张）',
+			'k_02coms2': '品牌认证资质库',
 		};
 	}
 }
@@ -11644,6 +11742,20 @@ extension on _StringsKo {
 			'k_0qynjlm': '请先设置支付密码',
 			'k_093s7vv': '无法打开Facebook',
 			'k_1qdhj6j': '用邀请码邀请1名新用户注册',
+			'k_11yq2y5': '连接超时',
+			'k_11ymdhf': '请求超时',
+			'k_11yq0kv': '响应超时',
+			'k_1a1z4cb': '服务器异常',
+			'k_13e0wq6': '请求取消',
+			'k_12kwi6i': '忘记密码',
+			'k_16ksq9t': '返回登录',
+			'k_0sqq0kz': '请输入新密码',
+			'k_0h8dz4v': '需要进入邀请任务吗?',
+			'k_15zvbf6': '领取红包',
+			'k_1xlfzux': '最多可上传3张',
+			'k_002r2rn': '可选',
+			'k_14lrq9i': '请上传BIR Form 2303（至少一张）',
+			'k_02coms2': '品牌认证资质库',
 		};
 	}
 }
@@ -13053,6 +13165,20 @@ extension on _StringsZhHans {
 			'k_0qynjlm': '请先设置支付密码',
 			'k_093s7vv': '无法打开Facebook',
 			'k_1qdhj6j': '用邀请码邀请1名新用户注册',
+			'k_11yq2y5': '连接超时',
+			'k_11ymdhf': '请求超时',
+			'k_11yq0kv': '响应超时',
+			'k_1a1z4cb': '服务器异常',
+			'k_13e0wq6': '请求取消',
+			'k_12kwi6i': '忘记密码',
+			'k_16ksq9t': '返回登录',
+			'k_0sqq0kz': '请输入新密码',
+			'k_0h8dz4v': '需要进入邀请任务吗?',
+			'k_15zvbf6': '领取红包',
+			'k_1xlfzux': '最多可上传3张',
+			'k_002r2rn': '可选',
+			'k_14lrq9i': '请上传BIR Form 2303（至少一张）',
+			'k_02coms2': '品牌认证资质库',
 		};
 	}
 }
@@ -14463,6 +14589,20 @@ extension on _StringsZhHant {
 			'k_0qynjlm': '请先设置支付密码',
 			'k_093s7vv': '无法打开Facebook',
 			'k_1qdhj6j': '用邀请码邀请1名新用户注册',
+			'k_11yq2y5': '连接超时',
+			'k_11ymdhf': '请求超时',
+			'k_11yq0kv': '响应超时',
+			'k_1a1z4cb': '服务器异常',
+			'k_13e0wq6': '请求取消',
+			'k_12kwi6i': '忘记密码',
+			'k_16ksq9t': '返回登录',
+			'k_0sqq0kz': '请输入新密码',
+			'k_0h8dz4v': '需要进入邀请任务吗?',
+			'k_15zvbf6': '领取红包',
+			'k_1xlfzux': '最多可上传3张',
+			'k_002r2rn': '可选',
+			'k_14lrq9i': '请上传BIR Form 2303（至少一张）',
+			'k_02coms2': '品牌认证资质库',
 		};
 	}
 }
