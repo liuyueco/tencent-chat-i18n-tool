@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 7083 (1416.6 per locale)
+ * Strings: 7203 (1440.6 per locale)
  *
- * Built on 2025-10-28 at 08:30 UTC
+ * Built on 2025-10-30 at 08:34 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1745,6 +1745,30 @@ class _StringsEn {
 	String get k_002r2rn => 'Optional';
 	String get k_14lrq9i => 'Please upload BIR Form 2303 (at least one)';
 	String get k_02coms2 => 'Brand Certification Repository';
+	String get k_148lpza => 'Popularity';
+	String get k_03gufal => 'Returning';
+	String get k_0flge4v => '6 Months';
+	String get k_002wem4 => 'Reviews';
+	String get k_03f0eld => 'Orders';
+	String get k_0hp4az5 => 'Score';
+	String get k_002vi11 => 'Peers';
+	String get k_132z57n => 'Auth';
+	String get k_11cj7sf => 'Licenses';
+	String get k_1sg9398 => 'Rate';
+	String get k_002ulnr => 'Over';
+	String get k_157y7x3 => 'Reason';
+	String get k_0rhpbck => 'Late Shipping';
+	String get k_003lyv0 => 'Hours';
+	String get k_15wac6a => 'Payment Success';
+	String get k_0f7j7jt => 'Payment Failed';
+	String get k_1059yoi => 'Data Load Failed';
+	String get k_14vz3u0 => 'Awaiting Payment';
+	String get k_0bz6wp9 => 'Transfer Time';
+	String get k_003p7f1 => 'Receive';
+	String get k_1yttclx => 'Payment Received';
+	String get k_1n97ybl => 'Waiting for Payment';
+	String get k_03e3h5r => 'Paid';
+	String get k_0mvely0 => 'My moment';
 }
 
 // Path: <root>
@@ -3180,6 +3204,30 @@ class _StringsJa implements _StringsEn {
 	@override String get k_002r2rn => '可选';
 	@override String get k_14lrq9i => '请上传BIR Form 2303（至少一张）';
 	@override String get k_02coms2 => '品牌认证资质库';
+	@override String get k_148lpza => '店铺人气';
+	@override String get k_03gufal => '回头客';
+	@override String get k_0flge4v => '近半年超';
+	@override String get k_002wem4 => '好评';
+	@override String get k_03f0eld => '人下单';
+	@override String get k_0hp4az5 => '店铺体验分';
+	@override String get k_002vi11 => '同行';
+	@override String get k_132z57n => '品牌授权';
+	@override String get k_11cj7sf => '资质证照';
+	@override String get k_1sg9398 => '商品好评率';
+	@override String get k_002ulnr => '超过';
+	@override String get k_157y7x3 => '驳回原因';
+	@override String get k_0rhpbck => '发货时间超';
+	@override String get k_003lyv0 => '小时';
+	@override String get k_15wac6a => '收款成功';
+	@override String get k_0f7j7jt => '收款失败';
+	@override String get k_1059yoi => '数据加载失败';
+	@override String get k_14vz3u0 => '待你收款';
+	@override String get k_0bz6wp9 => '转账时间';
+	@override String get k_003p7f1 => '收款';
+	@override String get k_1yttclx => '转账已收款';
+	@override String get k_1n97ybl => '等待对方收款';
+	@override String get k_03e3h5r => '已收款';
+	@override String get k_0mvely0 => '我的朋友圈';
 }
 
 // Path: <root>
@@ -4615,6 +4663,30 @@ class _StringsKo implements _StringsEn {
 	@override String get k_002r2rn => '可选';
 	@override String get k_14lrq9i => '请上传BIR Form 2303（至少一张）';
 	@override String get k_02coms2 => '品牌认证资质库';
+	@override String get k_148lpza => '店铺人气';
+	@override String get k_03gufal => '回头客';
+	@override String get k_0flge4v => '近半年超';
+	@override String get k_002wem4 => '好评';
+	@override String get k_03f0eld => '人下单';
+	@override String get k_0hp4az5 => '店铺体验分';
+	@override String get k_002vi11 => '同行';
+	@override String get k_132z57n => '品牌授权';
+	@override String get k_11cj7sf => '资质证照';
+	@override String get k_1sg9398 => '商品好评率';
+	@override String get k_002ulnr => '超过';
+	@override String get k_157y7x3 => '驳回原因';
+	@override String get k_0rhpbck => '发货时间超';
+	@override String get k_003lyv0 => '小时';
+	@override String get k_15wac6a => '收款成功';
+	@override String get k_0f7j7jt => '收款失败';
+	@override String get k_1059yoi => '数据加载失败';
+	@override String get k_14vz3u0 => '待你收款';
+	@override String get k_0bz6wp9 => '转账时间';
+	@override String get k_003p7f1 => '收款';
+	@override String get k_1yttclx => '转账已收款';
+	@override String get k_1n97ybl => '等待对方收款';
+	@override String get k_03e3h5r => '已收款';
+	@override String get k_0mvely0 => '我的朋友圈';
 }
 
 // Path: <root>
@@ -6049,6 +6121,30 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_002r2rn => '可选';
 	@override String get k_14lrq9i => '请上传BIR Form 2303（至少一张）';
 	@override String get k_02coms2 => '品牌认证资质库';
+	@override String get k_148lpza => '店铺人气';
+	@override String get k_03gufal => '回头客';
+	@override String get k_0flge4v => '近半年超';
+	@override String get k_002wem4 => '好评';
+	@override String get k_03f0eld => '人下单';
+	@override String get k_0hp4az5 => '店铺体验分';
+	@override String get k_002vi11 => '同行';
+	@override String get k_132z57n => '品牌授权';
+	@override String get k_11cj7sf => '资质证照';
+	@override String get k_1sg9398 => '商品好评率';
+	@override String get k_002ulnr => '超过';
+	@override String get k_157y7x3 => '驳回原因';
+	@override String get k_0rhpbck => '发货时间超';
+	@override String get k_003lyv0 => '小时';
+	@override String get k_15wac6a => '收款成功';
+	@override String get k_0f7j7jt => '收款失败';
+	@override String get k_1059yoi => '数据加载失败';
+	@override String get k_14vz3u0 => '待你收款';
+	@override String get k_0bz6wp9 => '转账时间';
+	@override String get k_003p7f1 => '收款';
+	@override String get k_1yttclx => '转账已收款';
+	@override String get k_1n97ybl => '等待对方收款';
+	@override String get k_03e3h5r => '已收款';
+	@override String get k_0mvely0 => '我的朋友圈';
 }
 
 // Path: <root>
@@ -7484,6 +7580,30 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_002r2rn => '可选';
 	@override String get k_14lrq9i => '请上传BIR Form 2303（至少一张）';
 	@override String get k_02coms2 => '品牌认证资质库';
+	@override String get k_148lpza => '店铺人气';
+	@override String get k_03gufal => '回头客';
+	@override String get k_0flge4v => '近半年超';
+	@override String get k_002wem4 => '好评';
+	@override String get k_03f0eld => '人下单';
+	@override String get k_0hp4az5 => '店铺体验分';
+	@override String get k_002vi11 => '同行';
+	@override String get k_132z57n => '品牌授权';
+	@override String get k_11cj7sf => '资质证照';
+	@override String get k_1sg9398 => '商品好评率';
+	@override String get k_002ulnr => '超过';
+	@override String get k_157y7x3 => '驳回原因';
+	@override String get k_0rhpbck => '发货时间超';
+	@override String get k_003lyv0 => '小时';
+	@override String get k_15wac6a => '收款成功';
+	@override String get k_0f7j7jt => '收款失败';
+	@override String get k_1059yoi => '数据加载失败';
+	@override String get k_14vz3u0 => '待你收款';
+	@override String get k_0bz6wp9 => '转账时间';
+	@override String get k_003p7f1 => '收款';
+	@override String get k_1yttclx => '转账已收款';
+	@override String get k_1n97ybl => '等待对方收款';
+	@override String get k_03e3h5r => '已收款';
+	@override String get k_0mvely0 => '我的朋友圈';
 }
 
 /// Flat map(s) containing all translations.
@@ -8908,6 +9028,30 @@ extension on _StringsEn {
 			'k_002r2rn': 'Optional',
 			'k_14lrq9i': 'Please upload BIR Form 2303 (at least one)',
 			'k_02coms2': 'Brand Certification Repository',
+			'k_148lpza': 'Popularity',
+			'k_03gufal': 'Returning',
+			'k_0flge4v': '6 Months',
+			'k_002wem4': 'Reviews',
+			'k_03f0eld': 'Orders',
+			'k_0hp4az5': 'Score',
+			'k_002vi11': 'Peers',
+			'k_132z57n': 'Auth',
+			'k_11cj7sf': 'Licenses',
+			'k_1sg9398': 'Rate',
+			'k_002ulnr': 'Over',
+			'k_157y7x3': 'Reason',
+			'k_0rhpbck': 'Late Shipping',
+			'k_003lyv0': 'Hours',
+			'k_15wac6a': 'Payment Success',
+			'k_0f7j7jt': 'Payment Failed',
+			'k_1059yoi': 'Data Load Failed',
+			'k_14vz3u0': 'Awaiting Payment',
+			'k_0bz6wp9': 'Transfer Time',
+			'k_003p7f1': 'Receive',
+			'k_1yttclx': 'Payment Received',
+			'k_1n97ybl': 'Waiting for Payment',
+			'k_03e3h5r': 'Paid',
+			'k_0mvely0': 'My moment',
 		};
 	}
 }
@@ -10332,6 +10476,30 @@ extension on _StringsJa {
 			'k_002r2rn': '可选',
 			'k_14lrq9i': '请上传BIR Form 2303（至少一张）',
 			'k_02coms2': '品牌认证资质库',
+			'k_148lpza': '店铺人气',
+			'k_03gufal': '回头客',
+			'k_0flge4v': '近半年超',
+			'k_002wem4': '好评',
+			'k_03f0eld': '人下单',
+			'k_0hp4az5': '店铺体验分',
+			'k_002vi11': '同行',
+			'k_132z57n': '品牌授权',
+			'k_11cj7sf': '资质证照',
+			'k_1sg9398': '商品好评率',
+			'k_002ulnr': '超过',
+			'k_157y7x3': '驳回原因',
+			'k_0rhpbck': '发货时间超',
+			'k_003lyv0': '小时',
+			'k_15wac6a': '收款成功',
+			'k_0f7j7jt': '收款失败',
+			'k_1059yoi': '数据加载失败',
+			'k_14vz3u0': '待你收款',
+			'k_0bz6wp9': '转账时间',
+			'k_003p7f1': '收款',
+			'k_1yttclx': '转账已收款',
+			'k_1n97ybl': '等待对方收款',
+			'k_03e3h5r': '已收款',
+			'k_0mvely0': '我的朋友圈',
 		};
 	}
 }
@@ -11756,6 +11924,30 @@ extension on _StringsKo {
 			'k_002r2rn': '可选',
 			'k_14lrq9i': '请上传BIR Form 2303（至少一张）',
 			'k_02coms2': '品牌认证资质库',
+			'k_148lpza': '店铺人气',
+			'k_03gufal': '回头客',
+			'k_0flge4v': '近半年超',
+			'k_002wem4': '好评',
+			'k_03f0eld': '人下单',
+			'k_0hp4az5': '店铺体验分',
+			'k_002vi11': '同行',
+			'k_132z57n': '品牌授权',
+			'k_11cj7sf': '资质证照',
+			'k_1sg9398': '商品好评率',
+			'k_002ulnr': '超过',
+			'k_157y7x3': '驳回原因',
+			'k_0rhpbck': '发货时间超',
+			'k_003lyv0': '小时',
+			'k_15wac6a': '收款成功',
+			'k_0f7j7jt': '收款失败',
+			'k_1059yoi': '数据加载失败',
+			'k_14vz3u0': '待你收款',
+			'k_0bz6wp9': '转账时间',
+			'k_003p7f1': '收款',
+			'k_1yttclx': '转账已收款',
+			'k_1n97ybl': '等待对方收款',
+			'k_03e3h5r': '已收款',
+			'k_0mvely0': '我的朋友圈',
 		};
 	}
 }
@@ -13179,6 +13371,30 @@ extension on _StringsZhHans {
 			'k_002r2rn': '可选',
 			'k_14lrq9i': '请上传BIR Form 2303（至少一张）',
 			'k_02coms2': '品牌认证资质库',
+			'k_148lpza': '店铺人气',
+			'k_03gufal': '回头客',
+			'k_0flge4v': '近半年超',
+			'k_002wem4': '好评',
+			'k_03f0eld': '人下单',
+			'k_0hp4az5': '店铺体验分',
+			'k_002vi11': '同行',
+			'k_132z57n': '品牌授权',
+			'k_11cj7sf': '资质证照',
+			'k_1sg9398': '商品好评率',
+			'k_002ulnr': '超过',
+			'k_157y7x3': '驳回原因',
+			'k_0rhpbck': '发货时间超',
+			'k_003lyv0': '小时',
+			'k_15wac6a': '收款成功',
+			'k_0f7j7jt': '收款失败',
+			'k_1059yoi': '数据加载失败',
+			'k_14vz3u0': '待你收款',
+			'k_0bz6wp9': '转账时间',
+			'k_003p7f1': '收款',
+			'k_1yttclx': '转账已收款',
+			'k_1n97ybl': '等待对方收款',
+			'k_03e3h5r': '已收款',
+			'k_0mvely0': '我的朋友圈',
 		};
 	}
 }
@@ -14603,6 +14819,30 @@ extension on _StringsZhHant {
 			'k_002r2rn': '可选',
 			'k_14lrq9i': '请上传BIR Form 2303（至少一张）',
 			'k_02coms2': '品牌认证资质库',
+			'k_148lpza': '店铺人气',
+			'k_03gufal': '回头客',
+			'k_0flge4v': '近半年超',
+			'k_002wem4': '好评',
+			'k_03f0eld': '人下单',
+			'k_0hp4az5': '店铺体验分',
+			'k_002vi11': '同行',
+			'k_132z57n': '品牌授权',
+			'k_11cj7sf': '资质证照',
+			'k_1sg9398': '商品好评率',
+			'k_002ulnr': '超过',
+			'k_157y7x3': '驳回原因',
+			'k_0rhpbck': '发货时间超',
+			'k_003lyv0': '小时',
+			'k_15wac6a': '收款成功',
+			'k_0f7j7jt': '收款失败',
+			'k_1059yoi': '数据加载失败',
+			'k_14vz3u0': '待你收款',
+			'k_0bz6wp9': '转账时间',
+			'k_003p7f1': '收款',
+			'k_1yttclx': '转账已收款',
+			'k_1n97ybl': '等待对方收款',
+			'k_03e3h5r': '已收款',
+			'k_0mvely0': '我的朋友圈',
 		};
 	}
 }
