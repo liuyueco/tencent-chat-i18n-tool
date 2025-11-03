@@ -1438,5 +1438,22 @@
   "k_1yttclx": "Payment Received",
   "k_1n97ybl": "Waiting for Payment",
   "k_03e3h5r": "Paid",
-  "k_0mvely0": "My moment"
+  "k_0mvely0": "My moment",
+  "k_1mxnqsa": "Daily Ampao",
+  "k_0r8k8fu": "No related transactions",
+  "k_0xp5vxi": "No ongoing orders, no orders in the past 30 days",
+  "k_10ypqid": "Account settled",
+  "k_1i7eooc": "No assets, debts, pending funds or virtual rights, no unresolved or disputed services",
+  "k_03necdr": "No disputes, including complaints or reports",
+  "k_1kqjr5l": "No unresolved after-sales disputes or complaints",
+  "k_1x2qi7w": "No more than 1 cancellation per phone number in 180 days",
+  "k_0wm1byn": "No account bans",
+  "k_1ybs2et": "No function bans related to withdrawals, consignment storage, etc.",
+  "k_10vahex": "Account not used as customer service",
+  "k_0lmasry": "Please read and agree to the cancellation conditions first",
+  "k_1l6tmdl": "Confirm account cancellation?",
+  "k_0bhv9ib": "Account data will be permanently deleted after cancellation and cannot be recovered. Proceed with caution!",
+  "k_15avrke": "Account canceled",
+  "k_04iku09": "To ensure the security of your account, the following conditions must be met before your cancellation request is processed:",
+  "k_076uk70": "I have read and agree"
 }

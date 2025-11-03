@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 7203 (1440.6 per locale)
+ * Strings: 7288 (1457.6 per locale)
  *
- * Built on 2025-10-30 at 08:34 UTC
+ * Built on 2025-11-03 at 07:32 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1769,6 +1769,23 @@ class _StringsEn {
 	String get k_1n97ybl => 'Waiting for Payment';
 	String get k_03e3h5r => 'Paid';
 	String get k_0mvely0 => 'My moment';
+	String get k_1mxnqsa => 'Daily Ampao';
+	String get k_0r8k8fu => 'No related transactions';
+	String get k_0xp5vxi => 'No ongoing orders, no orders in the past 30 days';
+	String get k_10ypqid => 'Account settled';
+	String get k_1i7eooc => 'No assets, debts, pending funds or virtual rights, no unresolved or disputed services';
+	String get k_03necdr => 'No disputes, including complaints or reports';
+	String get k_1kqjr5l => 'No unresolved after-sales disputes or complaints';
+	String get k_1x2qi7w => 'No more than 1 cancellation per phone number in 180 days';
+	String get k_0wm1byn => 'No account bans';
+	String get k_1ybs2et => 'No function bans related to withdrawals, consignment storage, etc.';
+	String get k_10vahex => 'Account not used as customer service';
+	String get k_0lmasry => 'Please read and agree to the cancellation conditions first';
+	String get k_1l6tmdl => 'Confirm account cancellation?';
+	String get k_0bhv9ib => 'Account data will be permanently deleted after cancellation and cannot be recovered. Proceed with caution!';
+	String get k_15avrke => 'Account canceled';
+	String get k_04iku09 => 'To ensure the security of your account, the following conditions must be met before your cancellation request is processed:';
+	String get k_076uk70 => 'I have read and agree';
 }
 
 // Path: <root>
@@ -3228,6 +3245,23 @@ class _StringsJa implements _StringsEn {
 	@override String get k_1n97ybl => '等待对方收款';
 	@override String get k_03e3h5r => '已收款';
 	@override String get k_0mvely0 => '我的朋友圈';
+	@override String get k_1mxnqsa => '天天有惊喜';
+	@override String get k_0r8k8fu => '账号当前没有相关的交易';
+	@override String get k_0xp5vxi => '没有进行中的订单，近 30 天内没有相关的订单';
+	@override String get k_10ypqid => '账号财产已结清';
+	@override String get k_1i7eooc => '没有资产、欠款、未结清的资金或虚拟权益、本账号没有未完成或存在争议的服务';
+	@override String get k_03necdr => '账号无任何纠纷，包括投诉举报';
+	@override String get k_1kqjr5l => '没有未完成的售后纠纷或投诉举报';
+	@override String get k_1x2qi7w => '180天内同一手机号注销次数不超过 1 次';
+	@override String get k_0wm1byn => '账号无相关封禁情况';
+	@override String get k_1ybs2et => '没有交易提现、寄售入库等相关功能封禁的问题';
+	@override String get k_10vahex => '当前账号未作为客服号使用';
+	@override String get k_0lmasry => '请先阅读并同意注销条件';
+	@override String get k_1l6tmdl => '确认注销账号?';
+	@override String get k_0bhv9ib => '注销后账号数据将被永久删除，无法恢复，请谨慎操作！';
+	@override String get k_15avrke => '账号已注销';
+	@override String get k_04iku09 => '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：';
+	@override String get k_076uk70 => '已阅读并同意';
 }
 
 // Path: <root>
@@ -4687,6 +4721,23 @@ class _StringsKo implements _StringsEn {
 	@override String get k_1n97ybl => '等待对方收款';
 	@override String get k_03e3h5r => '已收款';
 	@override String get k_0mvely0 => '我的朋友圈';
+	@override String get k_1mxnqsa => '天天有惊喜';
+	@override String get k_0r8k8fu => '账号当前没有相关的交易';
+	@override String get k_0xp5vxi => '没有进行中的订单，近 30 天内没有相关的订单';
+	@override String get k_10ypqid => '账号财产已结清';
+	@override String get k_1i7eooc => '没有资产、欠款、未结清的资金或虚拟权益、本账号没有未完成或存在争议的服务';
+	@override String get k_03necdr => '账号无任何纠纷，包括投诉举报';
+	@override String get k_1kqjr5l => '没有未完成的售后纠纷或投诉举报';
+	@override String get k_1x2qi7w => '180天内同一手机号注销次数不超过 1 次';
+	@override String get k_0wm1byn => '账号无相关封禁情况';
+	@override String get k_1ybs2et => '没有交易提现、寄售入库等相关功能封禁的问题';
+	@override String get k_10vahex => '当前账号未作为客服号使用';
+	@override String get k_0lmasry => '请先阅读并同意注销条件';
+	@override String get k_1l6tmdl => '确认注销账号?';
+	@override String get k_0bhv9ib => '注销后账号数据将被永久删除，无法恢复，请谨慎操作！';
+	@override String get k_15avrke => '账号已注销';
+	@override String get k_04iku09 => '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：';
+	@override String get k_076uk70 => '已阅读并同意';
 }
 
 // Path: <root>
@@ -6145,6 +6196,23 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_1n97ybl => '等待对方收款';
 	@override String get k_03e3h5r => '已收款';
 	@override String get k_0mvely0 => '我的朋友圈';
+	@override String get k_1mxnqsa => '天天有惊喜';
+	@override String get k_0r8k8fu => '账号当前没有相关的交易';
+	@override String get k_0xp5vxi => '没有进行中的订单，近 30 天内没有相关的订单';
+	@override String get k_10ypqid => '账号财产已结清';
+	@override String get k_1i7eooc => '没有资产、欠款、未结清的资金或虚拟权益、本账号没有未完成或存在争议的服务';
+	@override String get k_03necdr => '账号无任何纠纷，包括投诉举报';
+	@override String get k_1kqjr5l => '没有未完成的售后纠纷或投诉举报';
+	@override String get k_1x2qi7w => '180天内同一手机号注销次数不超过 1 次';
+	@override String get k_0wm1byn => '账号无相关封禁情况';
+	@override String get k_1ybs2et => '没有交易提现、寄售入库等相关功能封禁的问题';
+	@override String get k_10vahex => '当前账号未作为客服号使用';
+	@override String get k_0lmasry => '请先阅读并同意注销条件';
+	@override String get k_1l6tmdl => '确认注销账号?';
+	@override String get k_0bhv9ib => '注销后账号数据将被永久删除，无法恢复，请谨慎操作！';
+	@override String get k_15avrke => '账号已注销';
+	@override String get k_04iku09 => '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：';
+	@override String get k_076uk70 => '已阅读并同意';
 }
 
 // Path: <root>
@@ -7604,6 +7672,23 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_1n97ybl => '等待对方收款';
 	@override String get k_03e3h5r => '已收款';
 	@override String get k_0mvely0 => '我的朋友圈';
+	@override String get k_1mxnqsa => '天天有惊喜';
+	@override String get k_0r8k8fu => '账号当前没有相关的交易';
+	@override String get k_0xp5vxi => '没有进行中的订单，近 30 天内没有相关的订单';
+	@override String get k_10ypqid => '账号财产已结清';
+	@override String get k_1i7eooc => '没有资产、欠款、未结清的资金或虚拟权益、本账号没有未完成或存在争议的服务';
+	@override String get k_03necdr => '账号无任何纠纷，包括投诉举报';
+	@override String get k_1kqjr5l => '没有未完成的售后纠纷或投诉举报';
+	@override String get k_1x2qi7w => '180天内同一手机号注销次数不超过 1 次';
+	@override String get k_0wm1byn => '账号无相关封禁情况';
+	@override String get k_1ybs2et => '没有交易提现、寄售入库等相关功能封禁的问题';
+	@override String get k_10vahex => '当前账号未作为客服号使用';
+	@override String get k_0lmasry => '请先阅读并同意注销条件';
+	@override String get k_1l6tmdl => '确认注销账号?';
+	@override String get k_0bhv9ib => '注销后账号数据将被永久删除，无法恢复，请谨慎操作！';
+	@override String get k_15avrke => '账号已注销';
+	@override String get k_04iku09 => '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：';
+	@override String get k_076uk70 => '已阅读并同意';
 }
 
 /// Flat map(s) containing all translations.
@@ -9052,6 +9137,23 @@ extension on _StringsEn {
 			'k_1n97ybl': 'Waiting for Payment',
 			'k_03e3h5r': 'Paid',
 			'k_0mvely0': 'My moment',
+			'k_1mxnqsa': 'Daily Ampao',
+			'k_0r8k8fu': 'No related transactions',
+			'k_0xp5vxi': 'No ongoing orders, no orders in the past 30 days',
+			'k_10ypqid': 'Account settled',
+			'k_1i7eooc': 'No assets, debts, pending funds or virtual rights, no unresolved or disputed services',
+			'k_03necdr': 'No disputes, including complaints or reports',
+			'k_1kqjr5l': 'No unresolved after-sales disputes or complaints',
+			'k_1x2qi7w': 'No more than 1 cancellation per phone number in 180 days',
+			'k_0wm1byn': 'No account bans',
+			'k_1ybs2et': 'No function bans related to withdrawals, consignment storage, etc.',
+			'k_10vahex': 'Account not used as customer service',
+			'k_0lmasry': 'Please read and agree to the cancellation conditions first',
+			'k_1l6tmdl': 'Confirm account cancellation?',
+			'k_0bhv9ib': 'Account data will be permanently deleted after cancellation and cannot be recovered. Proceed with caution!',
+			'k_15avrke': 'Account canceled',
+			'k_04iku09': 'To ensure the security of your account, the following conditions must be met before your cancellation request is processed:',
+			'k_076uk70': 'I have read and agree',
 		};
 	}
 }
@@ -10500,6 +10602,23 @@ extension on _StringsJa {
 			'k_1n97ybl': '等待对方收款',
 			'k_03e3h5r': '已收款',
 			'k_0mvely0': '我的朋友圈',
+			'k_1mxnqsa': '天天有惊喜',
+			'k_0r8k8fu': '账号当前没有相关的交易',
+			'k_0xp5vxi': '没有进行中的订单，近 30 天内没有相关的订单',
+			'k_10ypqid': '账号财产已结清',
+			'k_1i7eooc': '没有资产、欠款、未结清的资金或虚拟权益、本账号没有未完成或存在争议的服务',
+			'k_03necdr': '账号无任何纠纷，包括投诉举报',
+			'k_1kqjr5l': '没有未完成的售后纠纷或投诉举报',
+			'k_1x2qi7w': '180天内同一手机号注销次数不超过 1 次',
+			'k_0wm1byn': '账号无相关封禁情况',
+			'k_1ybs2et': '没有交易提现、寄售入库等相关功能封禁的问题',
+			'k_10vahex': '当前账号未作为客服号使用',
+			'k_0lmasry': '请先阅读并同意注销条件',
+			'k_1l6tmdl': '确认注销账号?',
+			'k_0bhv9ib': '注销后账号数据将被永久删除，无法恢复，请谨慎操作！',
+			'k_15avrke': '账号已注销',
+			'k_04iku09': '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：',
+			'k_076uk70': '已阅读并同意',
 		};
 	}
 }
@@ -11948,6 +12067,23 @@ extension on _StringsKo {
 			'k_1n97ybl': '等待对方收款',
 			'k_03e3h5r': '已收款',
 			'k_0mvely0': '我的朋友圈',
+			'k_1mxnqsa': '天天有惊喜',
+			'k_0r8k8fu': '账号当前没有相关的交易',
+			'k_0xp5vxi': '没有进行中的订单，近 30 天内没有相关的订单',
+			'k_10ypqid': '账号财产已结清',
+			'k_1i7eooc': '没有资产、欠款、未结清的资金或虚拟权益、本账号没有未完成或存在争议的服务',
+			'k_03necdr': '账号无任何纠纷，包括投诉举报',
+			'k_1kqjr5l': '没有未完成的售后纠纷或投诉举报',
+			'k_1x2qi7w': '180天内同一手机号注销次数不超过 1 次',
+			'k_0wm1byn': '账号无相关封禁情况',
+			'k_1ybs2et': '没有交易提现、寄售入库等相关功能封禁的问题',
+			'k_10vahex': '当前账号未作为客服号使用',
+			'k_0lmasry': '请先阅读并同意注销条件',
+			'k_1l6tmdl': '确认注销账号?',
+			'k_0bhv9ib': '注销后账号数据将被永久删除，无法恢复，请谨慎操作！',
+			'k_15avrke': '账号已注销',
+			'k_04iku09': '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：',
+			'k_076uk70': '已阅读并同意',
 		};
 	}
 }
@@ -13395,6 +13531,23 @@ extension on _StringsZhHans {
 			'k_1n97ybl': '等待对方收款',
 			'k_03e3h5r': '已收款',
 			'k_0mvely0': '我的朋友圈',
+			'k_1mxnqsa': '天天有惊喜',
+			'k_0r8k8fu': '账号当前没有相关的交易',
+			'k_0xp5vxi': '没有进行中的订单，近 30 天内没有相关的订单',
+			'k_10ypqid': '账号财产已结清',
+			'k_1i7eooc': '没有资产、欠款、未结清的资金或虚拟权益、本账号没有未完成或存在争议的服务',
+			'k_03necdr': '账号无任何纠纷，包括投诉举报',
+			'k_1kqjr5l': '没有未完成的售后纠纷或投诉举报',
+			'k_1x2qi7w': '180天内同一手机号注销次数不超过 1 次',
+			'k_0wm1byn': '账号无相关封禁情况',
+			'k_1ybs2et': '没有交易提现、寄售入库等相关功能封禁的问题',
+			'k_10vahex': '当前账号未作为客服号使用',
+			'k_0lmasry': '请先阅读并同意注销条件',
+			'k_1l6tmdl': '确认注销账号?',
+			'k_0bhv9ib': '注销后账号数据将被永久删除，无法恢复，请谨慎操作！',
+			'k_15avrke': '账号已注销',
+			'k_04iku09': '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：',
+			'k_076uk70': '已阅读并同意',
 		};
 	}
 }
@@ -14843,6 +14996,23 @@ extension on _StringsZhHant {
 			'k_1n97ybl': '等待对方收款',
 			'k_03e3h5r': '已收款',
 			'k_0mvely0': '我的朋友圈',
+			'k_1mxnqsa': '天天有惊喜',
+			'k_0r8k8fu': '账号当前没有相关的交易',
+			'k_0xp5vxi': '没有进行中的订单，近 30 天内没有相关的订单',
+			'k_10ypqid': '账号财产已结清',
+			'k_1i7eooc': '没有资产、欠款、未结清的资金或虚拟权益、本账号没有未完成或存在争议的服务',
+			'k_03necdr': '账号无任何纠纷，包括投诉举报',
+			'k_1kqjr5l': '没有未完成的售后纠纷或投诉举报',
+			'k_1x2qi7w': '180天内同一手机号注销次数不超过 1 次',
+			'k_0wm1byn': '账号无相关封禁情况',
+			'k_1ybs2et': '没有交易提现、寄售入库等相关功能封禁的问题',
+			'k_10vahex': '当前账号未作为客服号使用',
+			'k_0lmasry': '请先阅读并同意注销条件',
+			'k_1l6tmdl': '确认注销账号?',
+			'k_0bhv9ib': '注销后账号数据将被永久删除，无法恢复，请谨慎操作！',
+			'k_15avrke': '账号已注销',
+			'k_04iku09': '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：',
+			'k_076uk70': '已阅读并同意',
 		};
 	}
 }
