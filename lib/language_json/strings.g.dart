@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 7288 (1457.6 per locale)
+ * Strings: 7692 (1538.4 per locale)
  *
- * Built on 2025-11-03 at 07:32 UTC
+ * Built on 2025-11-18 at 06:34 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -937,7 +937,7 @@ class _StringsEn {
 	String get k_1k0rrvn => 'Say something...';
 	String get k_13jzi5y => 'enter the live room';
 	String get k_14asoqo => 'Unsubscribe';
-	String get k_003ohwe => 'Subscribe';
+	String get k_003ohwe => 'Follow';
 	String k_1h33pzv({required Object option1}) => '$option1 Fans |';
 	String k_07skbgr({required Object option2}) => ' $option2  Subscribe';
 	String k_1c99nb3({required Object option1}) => '$option1 W+';
@@ -1786,6 +1786,85 @@ class _StringsEn {
 	String get k_15avrke => 'Account canceled';
 	String get k_04iku09 => 'To ensure the security of your account, the following conditions must be met before your cancellation request is processed:';
 	String get k_076uk70 => 'I have read and agree';
+	String get k_002v6t9 => 'Rec';
+	String get k_003qlnp => 'Friends';
+	String get k_1d35otu => 'Network error, try later';
+	String get k_1f9q1i6 => 'Video missing';
+	String get k_03dg5v0 => 'Followed';
+	String get k_13lipdw => 'Current User';
+	String get k_1tnffu0 => 'No videos';
+	String get k_0icht9l => 'Check back later';
+	String get k_0pm2034 => 'No friend videos';
+	String get k_0vv830f => 'Add friends';
+	String get k_0heuwej => 'No following videos';
+	String get k_0k8huhz => 'Follow creators';
+	String get k_1jx1qp3 => 'Buffering...';
+	String get k_0on84ay => 'Liked, watched';
+	String get k_002snvv => 'Home';
+	String get k_0om1lnu => 'Liked, watched';
+	String k_0gcxhci({required Object option1}) => '$option1 followers';
+	String get k_0d63a2z => 'Post video';
+	String get k_003s6xq => 'Private';
+	String get k_003lq7s => 'Info';
+	String get k_003rosf => 'Name';
+	String get k_003trce => 'Bio';
+	String get k_0f7lnzv => 'Camera failed';
+	String get k_0buhlnj => 'From album';
+	String get k_002vfzw => 'Post';
+	String get k_0d6yawi => 'Pick video';
+	String get k_111hdgc => 'Pick image';
+	String get k_1ayz6gy => 'Max 50MB';
+	String get k_13egn7q => 'Video failed';
+	String get k_06566eg => 'Max 9 images';
+	String get k_07norb6 => 'Image failed';
+	String get k_0sxdu47 => 'Video uploaded';
+	String get k_0cszer0 => 'Add desc for more reach';
+	String get k_12tmd0o => 'Upload first';
+	String get k_112jzmj => 'Enter desc';
+	String get k_15wdkwo => 'Posted';
+	String get k_13ecais => 'Video error';
+	String get k_0rf1a3o => 'Images missing';
+	String get k_0dy6r1m => 'Image error';
+	String get k_0g9hx5k => 'Watched';
+	String get k_0d6xnv4 => 'No videos';
+	String get k_176m5bz => 'Clear history';
+	String get k_1lnhxjj => 'Clear all';
+	String get k_0yaa26g => 'records?';
+	String get k_1ko9d8t => 'Cleared';
+	String get k_0f7lwy6 => 'Clear failed';
+	String get k_0qy8j1q => 'Clear failed, try again';
+	String get k_02kd6gq => 'No title';
+	String k_0603wgs({required Object option1}) => 'Following ($option1)';
+	String get k_14at52s => 'Mutual';
+	String get k_14aq9ks => 'No follows';
+	String get k_0p7cp55 => 'Add intro';
+	String get k_1ags9xs => 'No posts yet';
+	String get k_1gp5ep3 => 'Say something nice...';
+	String k_0cvifgt({required Object option1}) => 'Comments $option1';
+	String get k_14tbqso => 'No comments yet~';
+	String get k_0gxgyyn => 'Delete comment';
+	String get k_1im25zu => 'Delete this comment?';
+	String get k_12awn0w => 'Deleted';
+	String get k_12s242w => 'QQ Emojis';
+	String get k_02yj8qp => 'Emoji';
+	String get k_11yp4z1 => 'Comment sent';
+	String get k_11de69i => 'Comment failed';
+	String get k_02jvou7 => 'Record';
+	String get k_1pmwnyg => 'Pick video';
+	String get k_0u1o5eu => 'Pick image';
+	String get k_13efczz => 'Record failed';
+	String get k_054aa2z => 'Rejected';
+	String get k_03i7qq9 => 'Reviewing';
+	String get k_1akotbj => 'Reason:';
+	String get k_1qml07o => 'No reason';
+	String get k_06mnrlh => 'Tip: Fix and reupload';
+	String get k_03j88xh => 'Got it';
+	String get k_0d68p86 => 'Delete Video';
+	String get k_1xvlhbs => 'Delete this video?';
+	String get k_0dx24m1 => 'Decoding...';
+	String get k_1g33qu1 => 'Uploading, please wait';
+	String get k_0kt06mg => 'Video size cannotExceed';
+	String get k_1mz2ge7 => 'Enter 10-digit number (no 0)';
 }
 
 // Path: <root>
@@ -3262,6 +3341,88 @@ class _StringsJa implements _StringsEn {
 	@override String get k_15avrke => '账号已注销';
 	@override String get k_04iku09 => '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：';
 	@override String get k_076uk70 => '已阅读并同意';
+	@override String get k_002v6t9 => '推荐';
+	@override String get k_003qlnp => '朋友';
+	@override String get k_1d35otu => '网络异常,请稍后重试';
+	@override String get k_1f9q1i6 => '视频文件不存在';
+	@override String get k_03dg5v0 => '已关注';
+	@override String get k_13lipdw => '当前用户';
+	@override String get k_1tnffu0 => '暂无推荐视频';
+	@override String get k_0icht9l => '稍后再来看看吧';
+	@override String get k_0pm2034 => '暂无朋友视频';
+	@override String get k_0vv830f => '快去添加好友吧';
+	@override String get k_0heuwej => '暂无关注视频';
+	@override String get k_0k8huhz => '快去关注感兴趣的创作者吧';
+	@override String get k_1jx1qp3 => '缓冲中...';
+	@override String get k_0on84ay => '赞，最近看过';
+	@override String get k_002snvv => '主页';
+	@override String get k_0om1lnu => '赞,最近看过';
+	@override String k_0gcxhci({required Object option1}) => '$option1人关注';
+	@override String get k_0d63a2z => '发表视频';
+	@override String get k_003s6xq => '保密';
+	@override String get k_003lq7s => '资料';
+	@override String get k_003rosf => '名字';
+	@override String get k_003trce => '简介';
+	@override String get k_0f7lnzv => '拍照失败';
+	@override String get k_0buhlnj => '从相册选择';
+	@override String get k_002vfzw => '发表';
+	@override String get k_0d6yawi => '选择视频';
+	@override String get k_111hdgc => '选择图片';
+	@override String get k_1ayz6gy => '视频大小不能超过50MB';
+	@override String get k_13egn7q => '选择视频失败';
+	@override String get k_06566eg => '最多只能选择9张图片';
+	@override String get k_07norb6 => '图片上传失败';
+	@override String get k_0sxdu47 => '视频上传成功';
+	@override String get k_0cszer0 => '添加描述更容易被推荐';
+	@override String get k_12tmd0o => '请先上传视频或图片';
+	@override String get k_112jzmj => '请输入描述';
+	@override String get k_15wdkwo => '发布成功';
+	@override String get k_13ecais => '处理视频失败';
+	@override String get k_0rf1a3o => '所有图片文件都不存在';
+	@override String get k_0dy6r1m => '处理图片失败';
+	@override String get k_0g9hx5k => '最近看过';
+	@override String get k_0d6xnv4 => '暂无视频';
+	@override String get k_176m5bz => '清空记录';
+	@override String get k_1lnhxjj => '确定要清空';
+	@override String get k_0yaa26g => '记录吗?';
+	@override String get k_1ko9d8t => '记录已清空';
+	@override String get k_0f7lwy6 => '清空失败';
+	@override String get k_0qy8j1q => '清空失败，请稍后重试';
+	@override String get k_02kd6gq => '无标题';
+	@override String k_0603wgs({required Object option1}) => '我的关注 ($option1)';
+	@override String get k_14at52s => '互相关注';
+	@override String get k_14aq9ks => '暂无关注';
+	@override String get k_0p7cp55 => '填写介绍让更多人了解你';
+	@override String get k_1ags9xs => '还没有发布视频';
+	@override String get k_1gp5ep3 => '善意发表评论...';
+	@override String k_0cvifgt({required Object option1}) => '评论 $option1';
+	@override String get k_14tbqso => '暂无评论，快来发表第一条评论吧~';
+	@override String k_12l02wn({required Object option1}) => '$option1天前';
+	@override String k_1vvrxrb({required Object option1}) => '$option1小时前';
+	@override String k_0arq5uv({required Object option1}) => '$option1分钟前';
+	@override String get k_0gxgyyn => '删除评论';
+	@override String get k_1im25zu => '确定要删除这条评论吗？';
+	@override String get k_12awn0w => '评论删除成功';
+	@override String get k_12s242w => 'QQ表情';
+	@override String get k_02yj8qp => 'Emoji';
+	@override String get k_11yp4z1 => '评论发表成功';
+	@override String get k_11de69i => '评论发表失败';
+	@override String get k_02jvou7 => '拍视频';
+	@override String get k_1pmwnyg => '从相册选择视频';
+	@override String get k_0u1o5eu => '从相册选择图片';
+	@override String get k_13efczz => '拍摄视频失败';
+	@override String get k_054aa2z => '审核未通过';
+	@override String get k_03i7qq9 => '审核中';
+	@override String get k_1akotbj => '拒绝原因：';
+	@override String get k_1qml07o => '未提供拒绝原因';
+	@override String get k_06mnrlh => '建议：请根据拒绝原因修改后重新上传';
+	@override String get k_03j88xh => '知道了';
+	@override String get k_0d68p86 => '删除视频';
+	@override String get k_1xvlhbs => '确定要删除这个视频吗？';
+	@override String get k_0dx24m1 => '解码中,耐心等待';
+	@override String get k_1g33qu1 => '视频正在上传中，请稍候再来';
+	@override String get k_0kt06mg => '视频大小不能超过';
+	@override String get k_1mz2ge7 => '请输入10位手机号(无需加0)';
 }
 
 // Path: <root>
@@ -4738,6 +4899,88 @@ class _StringsKo implements _StringsEn {
 	@override String get k_15avrke => '账号已注销';
 	@override String get k_04iku09 => '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：';
 	@override String get k_076uk70 => '已阅读并同意';
+	@override String get k_002v6t9 => '推荐';
+	@override String get k_003qlnp => '朋友';
+	@override String get k_1d35otu => '网络异常,请稍后重试';
+	@override String get k_1f9q1i6 => '视频文件不存在';
+	@override String get k_03dg5v0 => '已关注';
+	@override String get k_13lipdw => '当前用户';
+	@override String get k_1tnffu0 => '暂无推荐视频';
+	@override String get k_0icht9l => '稍后再来看看吧';
+	@override String get k_0pm2034 => '暂无朋友视频';
+	@override String get k_0vv830f => '快去添加好友吧';
+	@override String get k_0heuwej => '暂无关注视频';
+	@override String get k_0k8huhz => '快去关注感兴趣的创作者吧';
+	@override String get k_1jx1qp3 => '缓冲中...';
+	@override String get k_0on84ay => '赞，最近看过';
+	@override String get k_002snvv => '主页';
+	@override String get k_0om1lnu => '赞,最近看过';
+	@override String k_0gcxhci({required Object option1}) => '$option1人关注';
+	@override String get k_0d63a2z => '发表视频';
+	@override String get k_003s6xq => '保密';
+	@override String get k_003lq7s => '资料';
+	@override String get k_003rosf => '名字';
+	@override String get k_003trce => '简介';
+	@override String get k_0f7lnzv => '拍照失败';
+	@override String get k_0buhlnj => '从相册选择';
+	@override String get k_002vfzw => '发表';
+	@override String get k_0d6yawi => '选择视频';
+	@override String get k_111hdgc => '选择图片';
+	@override String get k_1ayz6gy => '视频大小不能超过50MB';
+	@override String get k_13egn7q => '选择视频失败';
+	@override String get k_06566eg => '最多只能选择9张图片';
+	@override String get k_07norb6 => '图片上传失败';
+	@override String get k_0sxdu47 => '视频上传成功';
+	@override String get k_0cszer0 => '添加描述更容易被推荐';
+	@override String get k_12tmd0o => '请先上传视频或图片';
+	@override String get k_112jzmj => '请输入描述';
+	@override String get k_15wdkwo => '发布成功';
+	@override String get k_13ecais => '处理视频失败';
+	@override String get k_0rf1a3o => '所有图片文件都不存在';
+	@override String get k_0dy6r1m => '处理图片失败';
+	@override String get k_0g9hx5k => '最近看过';
+	@override String get k_0d6xnv4 => '暂无视频';
+	@override String get k_176m5bz => '清空记录';
+	@override String get k_1lnhxjj => '确定要清空';
+	@override String get k_0yaa26g => '记录吗?';
+	@override String get k_1ko9d8t => '记录已清空';
+	@override String get k_0f7lwy6 => '清空失败';
+	@override String get k_0qy8j1q => '清空失败，请稍后重试';
+	@override String get k_02kd6gq => '无标题';
+	@override String k_0603wgs({required Object option1}) => '我的关注 ($option1)';
+	@override String get k_14at52s => '互相关注';
+	@override String get k_14aq9ks => '暂无关注';
+	@override String get k_0p7cp55 => '填写介绍让更多人了解你';
+	@override String get k_1ags9xs => '还没有发布视频';
+	@override String get k_1gp5ep3 => '善意发表评论...';
+	@override String k_0cvifgt({required Object option1}) => '评论 $option1';
+	@override String get k_14tbqso => '暂无评论，快来发表第一条评论吧~';
+	@override String k_12l02wn({required Object option1}) => '$option1天前';
+	@override String k_1vvrxrb({required Object option1}) => '$option1小时前';
+	@override String k_0arq5uv({required Object option1}) => '$option1分钟前';
+	@override String get k_0gxgyyn => '删除评论';
+	@override String get k_1im25zu => '确定要删除这条评论吗？';
+	@override String get k_12awn0w => '评论删除成功';
+	@override String get k_12s242w => 'QQ表情';
+	@override String get k_02yj8qp => 'Emoji';
+	@override String get k_11yp4z1 => '评论发表成功';
+	@override String get k_11de69i => '评论发表失败';
+	@override String get k_02jvou7 => '拍视频';
+	@override String get k_1pmwnyg => '从相册选择视频';
+	@override String get k_0u1o5eu => '从相册选择图片';
+	@override String get k_13efczz => '拍摄视频失败';
+	@override String get k_054aa2z => '审核未通过';
+	@override String get k_03i7qq9 => '审核中';
+	@override String get k_1akotbj => '拒绝原因：';
+	@override String get k_1qml07o => '未提供拒绝原因';
+	@override String get k_06mnrlh => '建议：请根据拒绝原因修改后重新上传';
+	@override String get k_03j88xh => '知道了';
+	@override String get k_0d68p86 => '删除视频';
+	@override String get k_1xvlhbs => '确定要删除这个视频吗？';
+	@override String get k_0dx24m1 => '解码中,耐心等待';
+	@override String get k_1g33qu1 => '视频正在上传中，请稍候再来';
+	@override String get k_0kt06mg => '视频大小不能超过';
+	@override String get k_1mz2ge7 => '请输入10位手机号(无需加0)';
 }
 
 // Path: <root>
@@ -6213,6 +6456,88 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_15avrke => '账号已注销';
 	@override String get k_04iku09 => '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：';
 	@override String get k_076uk70 => '已阅读并同意';
+	@override String get k_002v6t9 => '推荐';
+	@override String get k_003qlnp => '朋友';
+	@override String get k_1d35otu => '网络异常,请稍后重试';
+	@override String get k_1f9q1i6 => '视频文件不存在';
+	@override String get k_03dg5v0 => '已关注';
+	@override String get k_13lipdw => '当前用户';
+	@override String get k_1tnffu0 => '暂无推荐视频';
+	@override String get k_0icht9l => '稍后再来看看吧';
+	@override String get k_0pm2034 => '暂无朋友视频';
+	@override String get k_0vv830f => '快去添加好友吧';
+	@override String get k_0heuwej => '暂无关注视频';
+	@override String get k_0k8huhz => '快去关注感兴趣的创作者吧';
+	@override String get k_1jx1qp3 => '缓冲中...';
+	@override String get k_0on84ay => '赞，最近看过';
+	@override String get k_002snvv => '主页';
+	@override String get k_0om1lnu => '赞,最近看过';
+	@override String k_0gcxhci({required Object option1}) => '$option1人关注';
+	@override String get k_0d63a2z => '发表视频';
+	@override String get k_003s6xq => '保密';
+	@override String get k_003lq7s => '资料';
+	@override String get k_003rosf => '名字';
+	@override String get k_003trce => '简介';
+	@override String get k_0f7lnzv => '拍照失败';
+	@override String get k_0buhlnj => '从相册选择';
+	@override String get k_002vfzw => '发表';
+	@override String get k_0d6yawi => '选择视频';
+	@override String get k_111hdgc => '选择图片';
+	@override String get k_1ayz6gy => '视频大小不能超过50MB';
+	@override String get k_13egn7q => '选择视频失败';
+	@override String get k_06566eg => '最多只能选择9张图片';
+	@override String get k_07norb6 => '图片上传失败';
+	@override String get k_0sxdu47 => '视频上传成功';
+	@override String get k_0cszer0 => '添加描述更容易被推荐';
+	@override String get k_12tmd0o => '请先上传视频或图片';
+	@override String get k_112jzmj => '请输入描述';
+	@override String get k_15wdkwo => '发布成功';
+	@override String get k_13ecais => '处理视频失败';
+	@override String get k_0rf1a3o => '所有图片文件都不存在';
+	@override String get k_0dy6r1m => '处理图片失败';
+	@override String get k_0g9hx5k => '最近看过';
+	@override String get k_0d6xnv4 => '暂无视频';
+	@override String get k_176m5bz => '清空记录';
+	@override String get k_1lnhxjj => '确定要清空';
+	@override String get k_0yaa26g => '记录吗?';
+	@override String get k_1ko9d8t => '记录已清空';
+	@override String get k_0f7lwy6 => '清空失败';
+	@override String get k_0qy8j1q => '清空失败，请稍后重试';
+	@override String get k_02kd6gq => '无标题';
+	@override String k_0603wgs({required Object option1}) => '我的关注 ($option1)';
+	@override String get k_14at52s => '互相关注';
+	@override String get k_14aq9ks => '暂无关注';
+	@override String get k_0p7cp55 => '填写介绍让更多人了解你';
+	@override String get k_1ags9xs => '还没有发布视频';
+	@override String get k_1gp5ep3 => '善意发表评论...';
+	@override String k_0cvifgt({required Object option1}) => '评论 $option1';
+	@override String get k_14tbqso => '暂无评论，快来发表第一条评论吧~';
+	@override String k_12l02wn({required Object option1}) => '$option1天前';
+	@override String k_1vvrxrb({required Object option1}) => '$option1小时前';
+	@override String k_0arq5uv({required Object option1}) => '$option1分钟前';
+	@override String get k_0gxgyyn => '删除评论';
+	@override String get k_1im25zu => '确定要删除这条评论吗？';
+	@override String get k_12awn0w => '评论删除成功';
+	@override String get k_12s242w => 'QQ表情';
+	@override String get k_02yj8qp => 'Emoji';
+	@override String get k_11yp4z1 => '评论发表成功';
+	@override String get k_11de69i => '评论发表失败';
+	@override String get k_02jvou7 => '拍视频';
+	@override String get k_1pmwnyg => '从相册选择视频';
+	@override String get k_0u1o5eu => '从相册选择图片';
+	@override String get k_13efczz => '拍摄视频失败';
+	@override String get k_054aa2z => '审核未通过';
+	@override String get k_03i7qq9 => '审核中';
+	@override String get k_1akotbj => '拒绝原因：';
+	@override String get k_1qml07o => '未提供拒绝原因';
+	@override String get k_06mnrlh => '建议：请根据拒绝原因修改后重新上传';
+	@override String get k_03j88xh => '知道了';
+	@override String get k_0d68p86 => '删除视频';
+	@override String get k_1xvlhbs => '确定要删除这个视频吗？';
+	@override String get k_0dx24m1 => '解码中,耐心等待';
+	@override String get k_1g33qu1 => '视频正在上传中，请稍候再来';
+	@override String get k_0kt06mg => '视频大小不能超过';
+	@override String get k_1mz2ge7 => '请输入10位手机号(无需加0)';
 }
 
 // Path: <root>
@@ -7689,6 +8014,85 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_15avrke => '账号已注销';
 	@override String get k_04iku09 => '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：';
 	@override String get k_076uk70 => '已阅读并同意';
+	@override String get k_002v6t9 => '推荐';
+	@override String get k_003qlnp => '朋友';
+	@override String get k_1d35otu => '网络异常,请稍后重试';
+	@override String get k_1f9q1i6 => '视频文件不存在';
+	@override String get k_03dg5v0 => '已关注';
+	@override String get k_13lipdw => '当前用户';
+	@override String get k_1tnffu0 => '暂无推荐视频';
+	@override String get k_0icht9l => '稍后再来看看吧';
+	@override String get k_0pm2034 => '暂无朋友视频';
+	@override String get k_0vv830f => '快去添加好友吧';
+	@override String get k_0heuwej => '暂无关注视频';
+	@override String get k_0k8huhz => '快去关注感兴趣的创作者吧';
+	@override String get k_1jx1qp3 => '缓冲中...';
+	@override String get k_0on84ay => '赞，最近看过';
+	@override String get k_002snvv => '主页';
+	@override String get k_0om1lnu => '赞,最近看过';
+	@override String k_0gcxhci({required Object option1}) => '$option1人关注';
+	@override String get k_0d63a2z => '发表视频';
+	@override String get k_003s6xq => '保密';
+	@override String get k_003lq7s => '资料';
+	@override String get k_003rosf => '名字';
+	@override String get k_003trce => '简介';
+	@override String get k_0f7lnzv => '拍照失败';
+	@override String get k_0buhlnj => '从相册选择';
+	@override String get k_002vfzw => '发表';
+	@override String get k_0d6yawi => '选择视频';
+	@override String get k_111hdgc => '选择图片';
+	@override String get k_1ayz6gy => '视频大小不能超过50MB';
+	@override String get k_13egn7q => '选择视频失败';
+	@override String get k_06566eg => '最多只能选择9张图片';
+	@override String get k_07norb6 => '图片上传失败';
+	@override String get k_0sxdu47 => '视频上传成功';
+	@override String get k_0cszer0 => '添加描述更容易被推荐';
+	@override String get k_12tmd0o => '请先上传视频或图片';
+	@override String get k_112jzmj => '请输入描述';
+	@override String get k_15wdkwo => '发布成功';
+	@override String get k_13ecais => '处理视频失败';
+	@override String get k_0rf1a3o => '所有图片文件都不存在';
+	@override String get k_0dy6r1m => '处理图片失败';
+	@override String get k_0g9hx5k => '最近看过';
+	@override String get k_0d6xnv4 => '暂无视频';
+	@override String get k_176m5bz => '清空记录';
+	@override String get k_1lnhxjj => '确定要清空';
+	@override String get k_0yaa26g => '记录吗?';
+	@override String get k_1ko9d8t => '记录已清空';
+	@override String get k_0f7lwy6 => '清空失败';
+	@override String get k_0qy8j1q => '清空失败，请稍后重试';
+	@override String get k_02kd6gq => '无标题';
+	@override String k_0603wgs({required Object option1}) => '我的关注 ($option1)';
+	@override String get k_14at52s => '互相关注';
+	@override String get k_14aq9ks => '暂无关注';
+	@override String get k_0p7cp55 => '填写介绍让更多人了解你';
+	@override String get k_1ags9xs => '还没有发布视频';
+	@override String get k_1gp5ep3 => '善意发表评论...';
+	@override String k_0cvifgt({required Object option1}) => '评论 $option1';
+	@override String get k_14tbqso => '暂无评论，快来发表第一条评论吧~';
+	@override String get k_0gxgyyn => '删除评论';
+	@override String get k_1im25zu => '确定要删除这条评论吗？';
+	@override String get k_12awn0w => '评论删除成功';
+	@override String get k_12s242w => 'QQ表情';
+	@override String get k_02yj8qp => 'Emoji';
+	@override String get k_11yp4z1 => '评论发表成功';
+	@override String get k_11de69i => '评论发表失败';
+	@override String get k_02jvou7 => '拍视频';
+	@override String get k_1pmwnyg => '从相册选择视频';
+	@override String get k_0u1o5eu => '从相册选择图片';
+	@override String get k_13efczz => '拍摄视频失败';
+	@override String get k_054aa2z => '审核未通过';
+	@override String get k_03i7qq9 => '审核中';
+	@override String get k_1akotbj => '拒绝原因：';
+	@override String get k_1qml07o => '未提供拒绝原因';
+	@override String get k_06mnrlh => '建议：请根据拒绝原因修改后重新上传';
+	@override String get k_03j88xh => '知道了';
+	@override String get k_0d68p86 => '删除视频';
+	@override String get k_1xvlhbs => '确定要删除这个视频吗？';
+	@override String get k_0dx24m1 => '解码中,耐心等待';
+	@override String get k_1g33qu1 => '视频正在上传中，请稍候再来';
+	@override String get k_0kt06mg => '视频大小不能超过';
+	@override String get k_1mz2ge7 => '请输入10位手机号(无需加0)';
 }
 
 /// Flat map(s) containing all translations.
@@ -8305,7 +8709,7 @@ extension on _StringsEn {
 			'k_1k0rrvn': 'Say something...',
 			'k_13jzi5y': 'enter the live room',
 			'k_14asoqo': 'Unsubscribe',
-			'k_003ohwe': 'Subscribe',
+			'k_003ohwe': 'Follow',
 			'k_1h33pzv': ({required Object option1}) => '$option1 Fans |',
 			'k_07skbgr': ({required Object option2}) => ' $option2  Subscribe',
 			'k_1c99nb3': ({required Object option1}) => '$option1 W+',
@@ -9154,6 +9558,85 @@ extension on _StringsEn {
 			'k_15avrke': 'Account canceled',
 			'k_04iku09': 'To ensure the security of your account, the following conditions must be met before your cancellation request is processed:',
 			'k_076uk70': 'I have read and agree',
+			'k_002v6t9': 'Rec',
+			'k_003qlnp': 'Friends',
+			'k_1d35otu': 'Network error, try later',
+			'k_1f9q1i6': 'Video missing',
+			'k_03dg5v0': 'Followed',
+			'k_13lipdw': 'Current User',
+			'k_1tnffu0': 'No videos',
+			'k_0icht9l': 'Check back later',
+			'k_0pm2034': 'No friend videos',
+			'k_0vv830f': 'Add friends',
+			'k_0heuwej': 'No following videos',
+			'k_0k8huhz': 'Follow creators',
+			'k_1jx1qp3': 'Buffering...',
+			'k_0on84ay': 'Liked, watched',
+			'k_002snvv': 'Home',
+			'k_0om1lnu': 'Liked, watched',
+			'k_0gcxhci': ({required Object option1}) => '$option1 followers',
+			'k_0d63a2z': 'Post video',
+			'k_003s6xq': 'Private',
+			'k_003lq7s': 'Info',
+			'k_003rosf': 'Name',
+			'k_003trce': 'Bio',
+			'k_0f7lnzv': 'Camera failed',
+			'k_0buhlnj': 'From album',
+			'k_002vfzw': 'Post',
+			'k_0d6yawi': 'Pick video',
+			'k_111hdgc': 'Pick image',
+			'k_1ayz6gy': 'Max 50MB',
+			'k_13egn7q': 'Video failed',
+			'k_06566eg': 'Max 9 images',
+			'k_07norb6': 'Image failed',
+			'k_0sxdu47': 'Video uploaded',
+			'k_0cszer0': 'Add desc for more reach',
+			'k_12tmd0o': 'Upload first',
+			'k_112jzmj': 'Enter desc',
+			'k_15wdkwo': 'Posted',
+			'k_13ecais': 'Video error',
+			'k_0rf1a3o': 'Images missing',
+			'k_0dy6r1m': 'Image error',
+			'k_0g9hx5k': 'Watched',
+			'k_0d6xnv4': 'No videos',
+			'k_176m5bz': 'Clear history',
+			'k_1lnhxjj': 'Clear all',
+			'k_0yaa26g': 'records?',
+			'k_1ko9d8t': 'Cleared',
+			'k_0f7lwy6': 'Clear failed',
+			'k_0qy8j1q': 'Clear failed, try again',
+			'k_02kd6gq': 'No title',
+			'k_0603wgs': ({required Object option1}) => 'Following ($option1)',
+			'k_14at52s': 'Mutual',
+			'k_14aq9ks': 'No follows',
+			'k_0p7cp55': 'Add intro',
+			'k_1ags9xs': 'No posts yet',
+			'k_1gp5ep3': 'Say something nice...',
+			'k_0cvifgt': ({required Object option1}) => 'Comments $option1',
+			'k_14tbqso': 'No comments yet~',
+			'k_0gxgyyn': 'Delete comment',
+			'k_1im25zu': 'Delete this comment?',
+			'k_12awn0w': 'Deleted',
+			'k_12s242w': 'QQ Emojis',
+			'k_02yj8qp': 'Emoji',
+			'k_11yp4z1': 'Comment sent',
+			'k_11de69i': 'Comment failed',
+			'k_02jvou7': 'Record',
+			'k_1pmwnyg': 'Pick video',
+			'k_0u1o5eu': 'Pick image',
+			'k_13efczz': 'Record failed',
+			'k_054aa2z': 'Rejected',
+			'k_03i7qq9': 'Reviewing',
+			'k_1akotbj': 'Reason:',
+			'k_1qml07o': 'No reason',
+			'k_06mnrlh': 'Tip: Fix and reupload',
+			'k_03j88xh': 'Got it',
+			'k_0d68p86': 'Delete Video',
+			'k_1xvlhbs': 'Delete this video?',
+			'k_0dx24m1': 'Decoding...',
+			'k_1g33qu1': 'Uploading, please wait',
+			'k_0kt06mg': 'Video size cannotExceed',
+			'k_1mz2ge7': 'Enter 10-digit number (no 0)',
 		};
 	}
 }
@@ -10619,6 +11102,88 @@ extension on _StringsJa {
 			'k_15avrke': '账号已注销',
 			'k_04iku09': '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：',
 			'k_076uk70': '已阅读并同意',
+			'k_002v6t9': '推荐',
+			'k_003qlnp': '朋友',
+			'k_1d35otu': '网络异常,请稍后重试',
+			'k_1f9q1i6': '视频文件不存在',
+			'k_03dg5v0': '已关注',
+			'k_13lipdw': '当前用户',
+			'k_1tnffu0': '暂无推荐视频',
+			'k_0icht9l': '稍后再来看看吧',
+			'k_0pm2034': '暂无朋友视频',
+			'k_0vv830f': '快去添加好友吧',
+			'k_0heuwej': '暂无关注视频',
+			'k_0k8huhz': '快去关注感兴趣的创作者吧',
+			'k_1jx1qp3': '缓冲中...',
+			'k_0on84ay': '赞，最近看过',
+			'k_002snvv': '主页',
+			'k_0om1lnu': '赞,最近看过',
+			'k_0gcxhci': ({required Object option1}) => '$option1人关注',
+			'k_0d63a2z': '发表视频',
+			'k_003s6xq': '保密',
+			'k_003lq7s': '资料',
+			'k_003rosf': '名字',
+			'k_003trce': '简介',
+			'k_0f7lnzv': '拍照失败',
+			'k_0buhlnj': '从相册选择',
+			'k_002vfzw': '发表',
+			'k_0d6yawi': '选择视频',
+			'k_111hdgc': '选择图片',
+			'k_1ayz6gy': '视频大小不能超过50MB',
+			'k_13egn7q': '选择视频失败',
+			'k_06566eg': '最多只能选择9张图片',
+			'k_07norb6': '图片上传失败',
+			'k_0sxdu47': '视频上传成功',
+			'k_0cszer0': '添加描述更容易被推荐',
+			'k_12tmd0o': '请先上传视频或图片',
+			'k_112jzmj': '请输入描述',
+			'k_15wdkwo': '发布成功',
+			'k_13ecais': '处理视频失败',
+			'k_0rf1a3o': '所有图片文件都不存在',
+			'k_0dy6r1m': '处理图片失败',
+			'k_0g9hx5k': '最近看过',
+			'k_0d6xnv4': '暂无视频',
+			'k_176m5bz': '清空记录',
+			'k_1lnhxjj': '确定要清空',
+			'k_0yaa26g': '记录吗?',
+			'k_1ko9d8t': '记录已清空',
+			'k_0f7lwy6': '清空失败',
+			'k_0qy8j1q': '清空失败，请稍后重试',
+			'k_02kd6gq': '无标题',
+			'k_0603wgs': ({required Object option1}) => '我的关注 ($option1)',
+			'k_14at52s': '互相关注',
+			'k_14aq9ks': '暂无关注',
+			'k_0p7cp55': '填写介绍让更多人了解你',
+			'k_1ags9xs': '还没有发布视频',
+			'k_1gp5ep3': '善意发表评论...',
+			'k_0cvifgt': ({required Object option1}) => '评论 $option1',
+			'k_14tbqso': '暂无评论，快来发表第一条评论吧~',
+			'k_12l02wn': ({required Object option1}) => '$option1天前',
+			'k_1vvrxrb': ({required Object option1}) => '$option1小时前',
+			'k_0arq5uv': ({required Object option1}) => '$option1分钟前',
+			'k_0gxgyyn': '删除评论',
+			'k_1im25zu': '确定要删除这条评论吗？',
+			'k_12awn0w': '评论删除成功',
+			'k_12s242w': 'QQ表情',
+			'k_02yj8qp': 'Emoji',
+			'k_11yp4z1': '评论发表成功',
+			'k_11de69i': '评论发表失败',
+			'k_02jvou7': '拍视频',
+			'k_1pmwnyg': '从相册选择视频',
+			'k_0u1o5eu': '从相册选择图片',
+			'k_13efczz': '拍摄视频失败',
+			'k_054aa2z': '审核未通过',
+			'k_03i7qq9': '审核中',
+			'k_1akotbj': '拒绝原因：',
+			'k_1qml07o': '未提供拒绝原因',
+			'k_06mnrlh': '建议：请根据拒绝原因修改后重新上传',
+			'k_03j88xh': '知道了',
+			'k_0d68p86': '删除视频',
+			'k_1xvlhbs': '确定要删除这个视频吗？',
+			'k_0dx24m1': '解码中,耐心等待',
+			'k_1g33qu1': '视频正在上传中，请稍候再来',
+			'k_0kt06mg': '视频大小不能超过',
+			'k_1mz2ge7': '请输入10位手机号(无需加0)',
 		};
 	}
 }
@@ -12084,6 +12649,88 @@ extension on _StringsKo {
 			'k_15avrke': '账号已注销',
 			'k_04iku09': '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：',
 			'k_076uk70': '已阅读并同意',
+			'k_002v6t9': '推荐',
+			'k_003qlnp': '朋友',
+			'k_1d35otu': '网络异常,请稍后重试',
+			'k_1f9q1i6': '视频文件不存在',
+			'k_03dg5v0': '已关注',
+			'k_13lipdw': '当前用户',
+			'k_1tnffu0': '暂无推荐视频',
+			'k_0icht9l': '稍后再来看看吧',
+			'k_0pm2034': '暂无朋友视频',
+			'k_0vv830f': '快去添加好友吧',
+			'k_0heuwej': '暂无关注视频',
+			'k_0k8huhz': '快去关注感兴趣的创作者吧',
+			'k_1jx1qp3': '缓冲中...',
+			'k_0on84ay': '赞，最近看过',
+			'k_002snvv': '主页',
+			'k_0om1lnu': '赞,最近看过',
+			'k_0gcxhci': ({required Object option1}) => '$option1人关注',
+			'k_0d63a2z': '发表视频',
+			'k_003s6xq': '保密',
+			'k_003lq7s': '资料',
+			'k_003rosf': '名字',
+			'k_003trce': '简介',
+			'k_0f7lnzv': '拍照失败',
+			'k_0buhlnj': '从相册选择',
+			'k_002vfzw': '发表',
+			'k_0d6yawi': '选择视频',
+			'k_111hdgc': '选择图片',
+			'k_1ayz6gy': '视频大小不能超过50MB',
+			'k_13egn7q': '选择视频失败',
+			'k_06566eg': '最多只能选择9张图片',
+			'k_07norb6': '图片上传失败',
+			'k_0sxdu47': '视频上传成功',
+			'k_0cszer0': '添加描述更容易被推荐',
+			'k_12tmd0o': '请先上传视频或图片',
+			'k_112jzmj': '请输入描述',
+			'k_15wdkwo': '发布成功',
+			'k_13ecais': '处理视频失败',
+			'k_0rf1a3o': '所有图片文件都不存在',
+			'k_0dy6r1m': '处理图片失败',
+			'k_0g9hx5k': '最近看过',
+			'k_0d6xnv4': '暂无视频',
+			'k_176m5bz': '清空记录',
+			'k_1lnhxjj': '确定要清空',
+			'k_0yaa26g': '记录吗?',
+			'k_1ko9d8t': '记录已清空',
+			'k_0f7lwy6': '清空失败',
+			'k_0qy8j1q': '清空失败，请稍后重试',
+			'k_02kd6gq': '无标题',
+			'k_0603wgs': ({required Object option1}) => '我的关注 ($option1)',
+			'k_14at52s': '互相关注',
+			'k_14aq9ks': '暂无关注',
+			'k_0p7cp55': '填写介绍让更多人了解你',
+			'k_1ags9xs': '还没有发布视频',
+			'k_1gp5ep3': '善意发表评论...',
+			'k_0cvifgt': ({required Object option1}) => '评论 $option1',
+			'k_14tbqso': '暂无评论，快来发表第一条评论吧~',
+			'k_12l02wn': ({required Object option1}) => '$option1天前',
+			'k_1vvrxrb': ({required Object option1}) => '$option1小时前',
+			'k_0arq5uv': ({required Object option1}) => '$option1分钟前',
+			'k_0gxgyyn': '删除评论',
+			'k_1im25zu': '确定要删除这条评论吗？',
+			'k_12awn0w': '评论删除成功',
+			'k_12s242w': 'QQ表情',
+			'k_02yj8qp': 'Emoji',
+			'k_11yp4z1': '评论发表成功',
+			'k_11de69i': '评论发表失败',
+			'k_02jvou7': '拍视频',
+			'k_1pmwnyg': '从相册选择视频',
+			'k_0u1o5eu': '从相册选择图片',
+			'k_13efczz': '拍摄视频失败',
+			'k_054aa2z': '审核未通过',
+			'k_03i7qq9': '审核中',
+			'k_1akotbj': '拒绝原因：',
+			'k_1qml07o': '未提供拒绝原因',
+			'k_06mnrlh': '建议：请根据拒绝原因修改后重新上传',
+			'k_03j88xh': '知道了',
+			'k_0d68p86': '删除视频',
+			'k_1xvlhbs': '确定要删除这个视频吗？',
+			'k_0dx24m1': '解码中,耐心等待',
+			'k_1g33qu1': '视频正在上传中，请稍候再来',
+			'k_0kt06mg': '视频大小不能超过',
+			'k_1mz2ge7': '请输入10位手机号(无需加0)',
 		};
 	}
 }
@@ -13548,6 +14195,88 @@ extension on _StringsZhHans {
 			'k_15avrke': '账号已注销',
 			'k_04iku09': '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：',
 			'k_076uk70': '已阅读并同意',
+			'k_002v6t9': '推荐',
+			'k_003qlnp': '朋友',
+			'k_1d35otu': '网络异常,请稍后重试',
+			'k_1f9q1i6': '视频文件不存在',
+			'k_03dg5v0': '已关注',
+			'k_13lipdw': '当前用户',
+			'k_1tnffu0': '暂无推荐视频',
+			'k_0icht9l': '稍后再来看看吧',
+			'k_0pm2034': '暂无朋友视频',
+			'k_0vv830f': '快去添加好友吧',
+			'k_0heuwej': '暂无关注视频',
+			'k_0k8huhz': '快去关注感兴趣的创作者吧',
+			'k_1jx1qp3': '缓冲中...',
+			'k_0on84ay': '赞，最近看过',
+			'k_002snvv': '主页',
+			'k_0om1lnu': '赞,最近看过',
+			'k_0gcxhci': ({required Object option1}) => '$option1人关注',
+			'k_0d63a2z': '发表视频',
+			'k_003s6xq': '保密',
+			'k_003lq7s': '资料',
+			'k_003rosf': '名字',
+			'k_003trce': '简介',
+			'k_0f7lnzv': '拍照失败',
+			'k_0buhlnj': '从相册选择',
+			'k_002vfzw': '发表',
+			'k_0d6yawi': '选择视频',
+			'k_111hdgc': '选择图片',
+			'k_1ayz6gy': '视频大小不能超过50MB',
+			'k_13egn7q': '选择视频失败',
+			'k_06566eg': '最多只能选择9张图片',
+			'k_07norb6': '图片上传失败',
+			'k_0sxdu47': '视频上传成功',
+			'k_0cszer0': '添加描述更容易被推荐',
+			'k_12tmd0o': '请先上传视频或图片',
+			'k_112jzmj': '请输入描述',
+			'k_15wdkwo': '发布成功',
+			'k_13ecais': '处理视频失败',
+			'k_0rf1a3o': '所有图片文件都不存在',
+			'k_0dy6r1m': '处理图片失败',
+			'k_0g9hx5k': '最近看过',
+			'k_0d6xnv4': '暂无视频',
+			'k_176m5bz': '清空记录',
+			'k_1lnhxjj': '确定要清空',
+			'k_0yaa26g': '记录吗?',
+			'k_1ko9d8t': '记录已清空',
+			'k_0f7lwy6': '清空失败',
+			'k_0qy8j1q': '清空失败，请稍后重试',
+			'k_02kd6gq': '无标题',
+			'k_0603wgs': ({required Object option1}) => '我的关注 ($option1)',
+			'k_14at52s': '互相关注',
+			'k_14aq9ks': '暂无关注',
+			'k_0p7cp55': '填写介绍让更多人了解你',
+			'k_1ags9xs': '还没有发布视频',
+			'k_1gp5ep3': '善意发表评论...',
+			'k_0cvifgt': ({required Object option1}) => '评论 $option1',
+			'k_14tbqso': '暂无评论，快来发表第一条评论吧~',
+			'k_12l02wn': ({required Object option1}) => '$option1天前',
+			'k_1vvrxrb': ({required Object option1}) => '$option1小时前',
+			'k_0arq5uv': ({required Object option1}) => '$option1分钟前',
+			'k_0gxgyyn': '删除评论',
+			'k_1im25zu': '确定要删除这条评论吗？',
+			'k_12awn0w': '评论删除成功',
+			'k_12s242w': 'QQ表情',
+			'k_02yj8qp': 'Emoji',
+			'k_11yp4z1': '评论发表成功',
+			'k_11de69i': '评论发表失败',
+			'k_02jvou7': '拍视频',
+			'k_1pmwnyg': '从相册选择视频',
+			'k_0u1o5eu': '从相册选择图片',
+			'k_13efczz': '拍摄视频失败',
+			'k_054aa2z': '审核未通过',
+			'k_03i7qq9': '审核中',
+			'k_1akotbj': '拒绝原因：',
+			'k_1qml07o': '未提供拒绝原因',
+			'k_06mnrlh': '建议：请根据拒绝原因修改后重新上传',
+			'k_03j88xh': '知道了',
+			'k_0d68p86': '删除视频',
+			'k_1xvlhbs': '确定要删除这个视频吗？',
+			'k_0dx24m1': '解码中,耐心等待',
+			'k_1g33qu1': '视频正在上传中，请稍候再来',
+			'k_0kt06mg': '视频大小不能超过',
+			'k_1mz2ge7': '请输入10位手机号(无需加0)',
 		};
 	}
 }
@@ -15013,6 +15742,85 @@ extension on _StringsZhHant {
 			'k_15avrke': '账号已注销',
 			'k_04iku09': '为保证你的账号安全，在你提交的注销申请生效前，须同时满足以下条件：',
 			'k_076uk70': '已阅读并同意',
+			'k_002v6t9': '推荐',
+			'k_003qlnp': '朋友',
+			'k_1d35otu': '网络异常,请稍后重试',
+			'k_1f9q1i6': '视频文件不存在',
+			'k_03dg5v0': '已关注',
+			'k_13lipdw': '当前用户',
+			'k_1tnffu0': '暂无推荐视频',
+			'k_0icht9l': '稍后再来看看吧',
+			'k_0pm2034': '暂无朋友视频',
+			'k_0vv830f': '快去添加好友吧',
+			'k_0heuwej': '暂无关注视频',
+			'k_0k8huhz': '快去关注感兴趣的创作者吧',
+			'k_1jx1qp3': '缓冲中...',
+			'k_0on84ay': '赞，最近看过',
+			'k_002snvv': '主页',
+			'k_0om1lnu': '赞,最近看过',
+			'k_0gcxhci': ({required Object option1}) => '$option1人关注',
+			'k_0d63a2z': '发表视频',
+			'k_003s6xq': '保密',
+			'k_003lq7s': '资料',
+			'k_003rosf': '名字',
+			'k_003trce': '简介',
+			'k_0f7lnzv': '拍照失败',
+			'k_0buhlnj': '从相册选择',
+			'k_002vfzw': '发表',
+			'k_0d6yawi': '选择视频',
+			'k_111hdgc': '选择图片',
+			'k_1ayz6gy': '视频大小不能超过50MB',
+			'k_13egn7q': '选择视频失败',
+			'k_06566eg': '最多只能选择9张图片',
+			'k_07norb6': '图片上传失败',
+			'k_0sxdu47': '视频上传成功',
+			'k_0cszer0': '添加描述更容易被推荐',
+			'k_12tmd0o': '请先上传视频或图片',
+			'k_112jzmj': '请输入描述',
+			'k_15wdkwo': '发布成功',
+			'k_13ecais': '处理视频失败',
+			'k_0rf1a3o': '所有图片文件都不存在',
+			'k_0dy6r1m': '处理图片失败',
+			'k_0g9hx5k': '最近看过',
+			'k_0d6xnv4': '暂无视频',
+			'k_176m5bz': '清空记录',
+			'k_1lnhxjj': '确定要清空',
+			'k_0yaa26g': '记录吗?',
+			'k_1ko9d8t': '记录已清空',
+			'k_0f7lwy6': '清空失败',
+			'k_0qy8j1q': '清空失败，请稍后重试',
+			'k_02kd6gq': '无标题',
+			'k_0603wgs': ({required Object option1}) => '我的关注 ($option1)',
+			'k_14at52s': '互相关注',
+			'k_14aq9ks': '暂无关注',
+			'k_0p7cp55': '填写介绍让更多人了解你',
+			'k_1ags9xs': '还没有发布视频',
+			'k_1gp5ep3': '善意发表评论...',
+			'k_0cvifgt': ({required Object option1}) => '评论 $option1',
+			'k_14tbqso': '暂无评论，快来发表第一条评论吧~',
+			'k_0gxgyyn': '删除评论',
+			'k_1im25zu': '确定要删除这条评论吗？',
+			'k_12awn0w': '评论删除成功',
+			'k_12s242w': 'QQ表情',
+			'k_02yj8qp': 'Emoji',
+			'k_11yp4z1': '评论发表成功',
+			'k_11de69i': '评论发表失败',
+			'k_02jvou7': '拍视频',
+			'k_1pmwnyg': '从相册选择视频',
+			'k_0u1o5eu': '从相册选择图片',
+			'k_13efczz': '拍摄视频失败',
+			'k_054aa2z': '审核未通过',
+			'k_03i7qq9': '审核中',
+			'k_1akotbj': '拒绝原因：',
+			'k_1qml07o': '未提供拒绝原因',
+			'k_06mnrlh': '建议：请根据拒绝原因修改后重新上传',
+			'k_03j88xh': '知道了',
+			'k_0d68p86': '删除视频',
+			'k_1xvlhbs': '确定要删除这个视频吗？',
+			'k_0dx24m1': '解码中,耐心等待',
+			'k_1g33qu1': '视频正在上传中，请稍候再来',
+			'k_0kt06mg': '视频大小不能超过',
+			'k_1mz2ge7': '请输入10位手机号(无需加0)',
 		};
 	}
 }
