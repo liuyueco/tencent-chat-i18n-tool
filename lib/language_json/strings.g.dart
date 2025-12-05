@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 7692 (1538.4 per locale)
+ * Strings: 7727 (1545.4 per locale)
  *
- * Built on 2025-11-18 at 06:34 UTC
+ * Built on 2025-12-05 at 02:31 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1865,6 +1865,13 @@ class _StringsEn {
 	String get k_1g33qu1 => 'Uploading, please wait';
 	String get k_0kt06mg => 'Video size cannotExceed';
 	String get k_1mz2ge7 => 'Enter 10-digit number (no 0)';
+	String get k_1q82kbh => 'The minimum withdrawal amount is';
+	String get k_1yp7pn8 => 'QR code collection';
+	String get k_1vrtckp => 'Save collection code';
+	String get k_104i15r => 'Collection code saved to album';
+	String get k_03bdsr8 => 'Collection party';
+	String get k_13pba6u => 'Set background';
+	String get k_03bn2bm => 'Payment code';
 }
 
 // Path: <root>
@@ -3423,6 +3430,13 @@ class _StringsJa implements _StringsEn {
 	@override String get k_1g33qu1 => '视频正在上传中，请稍候再来';
 	@override String get k_0kt06mg => '视频大小不能超过';
 	@override String get k_1mz2ge7 => '请输入10位手机号(无需加0)';
+	@override String get k_1q82kbh => '提现最低金额为';
+	@override String get k_1yp7pn8 => '二维码收款';
+	@override String get k_1vrtckp => '保存收款码';
+	@override String get k_104i15r => '收款码已保存到相册';
+	@override String get k_03bdsr8 => '收款方';
+	@override String get k_13pba6u => '设置背景';
+	@override String get k_03bn2bm => '付款码';
 }
 
 // Path: <root>
@@ -4981,6 +4995,13 @@ class _StringsKo implements _StringsEn {
 	@override String get k_1g33qu1 => '视频正在上传中，请稍候再来';
 	@override String get k_0kt06mg => '视频大小不能超过';
 	@override String get k_1mz2ge7 => '请输入10位手机号(无需加0)';
+	@override String get k_1q82kbh => '提现最低金额为';
+	@override String get k_1yp7pn8 => '二维码收款';
+	@override String get k_1vrtckp => '保存收款码';
+	@override String get k_104i15r => '收款码已保存到相册';
+	@override String get k_03bdsr8 => '收款方';
+	@override String get k_13pba6u => '设置背景';
+	@override String get k_03bn2bm => '付款码';
 }
 
 // Path: <root>
@@ -6538,6 +6559,13 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_1g33qu1 => '视频正在上传中，请稍候再来';
 	@override String get k_0kt06mg => '视频大小不能超过';
 	@override String get k_1mz2ge7 => '请输入10位手机号(无需加0)';
+	@override String get k_1q82kbh => '提现最低金额为';
+	@override String get k_1yp7pn8 => '二维码收款';
+	@override String get k_1vrtckp => '保存收款码';
+	@override String get k_104i15r => '收款码已保存到相册';
+	@override String get k_03bdsr8 => '收款方';
+	@override String get k_13pba6u => '设置背景';
+	@override String get k_03bn2bm => '付款码';
 }
 
 // Path: <root>
@@ -8093,6 +8121,13 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_1g33qu1 => '视频正在上传中，请稍候再来';
 	@override String get k_0kt06mg => '视频大小不能超过';
 	@override String get k_1mz2ge7 => '请输入10位手机号(无需加0)';
+	@override String get k_1q82kbh => '提现最低金额为';
+	@override String get k_1yp7pn8 => '二维码收款';
+	@override String get k_1vrtckp => '保存收款码';
+	@override String get k_104i15r => '收款码已保存到相册';
+	@override String get k_03bdsr8 => '收款方';
+	@override String get k_13pba6u => '设置背景';
+	@override String get k_03bn2bm => '付款码';
 }
 
 /// Flat map(s) containing all translations.
@@ -9637,6 +9672,13 @@ extension on _StringsEn {
 			'k_1g33qu1': 'Uploading, please wait',
 			'k_0kt06mg': 'Video size cannotExceed',
 			'k_1mz2ge7': 'Enter 10-digit number (no 0)',
+			'k_1q82kbh': 'The minimum withdrawal amount is',
+			'k_1yp7pn8': 'QR code collection',
+			'k_1vrtckp': 'Save collection code',
+			'k_104i15r': 'Collection code saved to album',
+			'k_03bdsr8': 'Collection party',
+			'k_13pba6u': 'Set background',
+			'k_03bn2bm': 'Payment code',
 		};
 	}
 }
@@ -11184,6 +11226,13 @@ extension on _StringsJa {
 			'k_1g33qu1': '视频正在上传中，请稍候再来',
 			'k_0kt06mg': '视频大小不能超过',
 			'k_1mz2ge7': '请输入10位手机号(无需加0)',
+			'k_1q82kbh': '提现最低金额为',
+			'k_1yp7pn8': '二维码收款',
+			'k_1vrtckp': '保存收款码',
+			'k_104i15r': '收款码已保存到相册',
+			'k_03bdsr8': '收款方',
+			'k_13pba6u': '设置背景',
+			'k_03bn2bm': '付款码',
 		};
 	}
 }
@@ -12731,6 +12780,13 @@ extension on _StringsKo {
 			'k_1g33qu1': '视频正在上传中，请稍候再来',
 			'k_0kt06mg': '视频大小不能超过',
 			'k_1mz2ge7': '请输入10位手机号(无需加0)',
+			'k_1q82kbh': '提现最低金额为',
+			'k_1yp7pn8': '二维码收款',
+			'k_1vrtckp': '保存收款码',
+			'k_104i15r': '收款码已保存到相册',
+			'k_03bdsr8': '收款方',
+			'k_13pba6u': '设置背景',
+			'k_03bn2bm': '付款码',
 		};
 	}
 }
@@ -14277,6 +14333,13 @@ extension on _StringsZhHans {
 			'k_1g33qu1': '视频正在上传中，请稍候再来',
 			'k_0kt06mg': '视频大小不能超过',
 			'k_1mz2ge7': '请输入10位手机号(无需加0)',
+			'k_1q82kbh': '提现最低金额为',
+			'k_1yp7pn8': '二维码收款',
+			'k_1vrtckp': '保存收款码',
+			'k_104i15r': '收款码已保存到相册',
+			'k_03bdsr8': '收款方',
+			'k_13pba6u': '设置背景',
+			'k_03bn2bm': '付款码',
 		};
 	}
 }
@@ -15821,6 +15884,13 @@ extension on _StringsZhHant {
 			'k_1g33qu1': '视频正在上传中，请稍候再来',
 			'k_0kt06mg': '视频大小不能超过',
 			'k_1mz2ge7': '请输入10位手机号(无需加0)',
+			'k_1q82kbh': '提现最低金额为',
+			'k_1yp7pn8': '二维码收款',
+			'k_1vrtckp': '保存收款码',
+			'k_104i15r': '收款码已保存到相册',
+			'k_03bdsr8': '收款方',
+			'k_13pba6u': '设置背景',
+			'k_03bn2bm': '付款码',
 		};
 	}
 }
