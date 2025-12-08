@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 7732 (1546.4 per locale)
+ * Strings: 7737 (1547.4 per locale)
  *
- * Built on 2025-12-08 at 02:23 UTC
+ * Built on 2025-12-08 at 03:03 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1873,6 +1873,7 @@ class _StringsEn {
 	String get k_13pba6u => 'Set background';
 	String get k_03bn2bm => 'Payment code';
 	String get k_1oxxcwx => 'Unlock at 7-day streak';
+	String get k_0b2qn74 => 'The gift shop will launch between January and February.';
 }
 
 // Path: <root>
@@ -3439,6 +3440,7 @@ class _StringsJa implements _StringsEn {
 	@override String get k_13pba6u => '设置背景';
 	@override String get k_03bn2bm => '付款码';
 	@override String get k_1oxxcwx => '连续签到7次可获得';
+	@override String get k_0b2qn74 => '礼物商城将在1月到2月上线';
 }
 
 // Path: <root>
@@ -5005,6 +5007,7 @@ class _StringsKo implements _StringsEn {
 	@override String get k_13pba6u => '设置背景';
 	@override String get k_03bn2bm => '付款码';
 	@override String get k_1oxxcwx => '连续签到7次可获得';
+	@override String get k_0b2qn74 => '礼物商城将在1月到2月上线';
 }
 
 // Path: <root>
@@ -6570,6 +6573,7 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_13pba6u => '设置背景';
 	@override String get k_03bn2bm => '付款码';
 	@override String get k_1oxxcwx => '连续签到7次可获得';
+	@override String get k_0b2qn74 => '礼物商城将在1月到2月上线';
 }
 
 // Path: <root>
@@ -8133,6 +8137,7 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_13pba6u => '设置背景';
 	@override String get k_03bn2bm => '付款码';
 	@override String get k_1oxxcwx => '连续签到7次可获得';
+	@override String get k_0b2qn74 => '礼物商城将在1月到2月上线';
 }
 
 /// Flat map(s) containing all translations.
@@ -9685,6 +9690,7 @@ extension on _StringsEn {
 			'k_13pba6u': 'Set background',
 			'k_03bn2bm': 'Payment code',
 			'k_1oxxcwx': 'Unlock at 7-day streak',
+			'k_0b2qn74': 'The gift shop will launch between January and February.',
 		};
 	}
 }
@@ -11240,6 +11246,7 @@ extension on _StringsJa {
 			'k_13pba6u': '设置背景',
 			'k_03bn2bm': '付款码',
 			'k_1oxxcwx': '连续签到7次可获得',
+			'k_0b2qn74': '礼物商城将在1月到2月上线',
 		};
 	}
 }
@@ -12795,6 +12802,7 @@ extension on _StringsKo {
 			'k_13pba6u': '设置背景',
 			'k_03bn2bm': '付款码',
 			'k_1oxxcwx': '连续签到7次可获得',
+			'k_0b2qn74': '礼物商城将在1月到2月上线',
 		};
 	}
 }
@@ -14349,6 +14357,7 @@ extension on _StringsZhHans {
 			'k_13pba6u': '设置背景',
 			'k_03bn2bm': '付款码',
 			'k_1oxxcwx': '连续签到7次可获得',
+			'k_0b2qn74': '礼物商城将在1月到2月上线',
 		};
 	}
 }
@@ -15901,6 +15910,7 @@ extension on _StringsZhHant {
 			'k_13pba6u': '设置背景',
 			'k_03bn2bm': '付款码',
 			'k_1oxxcwx': '连续签到7次可获得',
+			'k_0b2qn74': '礼物商城将在1月到2月上线',
 		};
 	}
 }
