@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 7727 (1545.4 per locale)
+ * Strings: 7732 (1546.4 per locale)
  *
- * Built on 2025-12-05 at 02:31 UTC
+ * Built on 2025-12-08 at 02:23 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1872,6 +1872,7 @@ class _StringsEn {
 	String get k_03bdsr8 => 'Collection party';
 	String get k_13pba6u => 'Set background';
 	String get k_03bn2bm => 'Payment code';
+	String get k_1oxxcwx => 'Unlock at 7-day streak';
 }
 
 // Path: <root>
@@ -3437,6 +3438,7 @@ class _StringsJa implements _StringsEn {
 	@override String get k_03bdsr8 => '收款方';
 	@override String get k_13pba6u => '设置背景';
 	@override String get k_03bn2bm => '付款码';
+	@override String get k_1oxxcwx => '连续签到7次可获得';
 }
 
 // Path: <root>
@@ -5002,6 +5004,7 @@ class _StringsKo implements _StringsEn {
 	@override String get k_03bdsr8 => '收款方';
 	@override String get k_13pba6u => '设置背景';
 	@override String get k_03bn2bm => '付款码';
+	@override String get k_1oxxcwx => '连续签到7次可获得';
 }
 
 // Path: <root>
@@ -6566,6 +6569,7 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_03bdsr8 => '收款方';
 	@override String get k_13pba6u => '设置背景';
 	@override String get k_03bn2bm => '付款码';
+	@override String get k_1oxxcwx => '连续签到7次可获得';
 }
 
 // Path: <root>
@@ -8128,6 +8132,7 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_03bdsr8 => '收款方';
 	@override String get k_13pba6u => '设置背景';
 	@override String get k_03bn2bm => '付款码';
+	@override String get k_1oxxcwx => '连续签到7次可获得';
 }
 
 /// Flat map(s) containing all translations.
@@ -9679,6 +9684,7 @@ extension on _StringsEn {
 			'k_03bdsr8': 'Collection party',
 			'k_13pba6u': 'Set background',
 			'k_03bn2bm': 'Payment code',
+			'k_1oxxcwx': 'Unlock at 7-day streak',
 		};
 	}
 }
@@ -11233,6 +11239,7 @@ extension on _StringsJa {
 			'k_03bdsr8': '收款方',
 			'k_13pba6u': '设置背景',
 			'k_03bn2bm': '付款码',
+			'k_1oxxcwx': '连续签到7次可获得',
 		};
 	}
 }
@@ -12787,6 +12794,7 @@ extension on _StringsKo {
 			'k_03bdsr8': '收款方',
 			'k_13pba6u': '设置背景',
 			'k_03bn2bm': '付款码',
+			'k_1oxxcwx': '连续签到7次可获得',
 		};
 	}
 }
@@ -14340,6 +14348,7 @@ extension on _StringsZhHans {
 			'k_03bdsr8': '收款方',
 			'k_13pba6u': '设置背景',
 			'k_03bn2bm': '付款码',
+			'k_1oxxcwx': '连续签到7次可获得',
 		};
 	}
 }
@@ -15891,6 +15900,7 @@ extension on _StringsZhHant {
 			'k_03bdsr8': '收款方',
 			'k_13pba6u': '设置背景',
 			'k_03bn2bm': '付款码',
+			'k_1oxxcwx': '连续签到7次可获得',
 		};
 	}
 }
