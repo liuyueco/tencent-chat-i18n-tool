@@ -3,9 +3,9 @@
  * Generated file. Do not edit.
  *
  * Locales: 5
- * Strings: 7742 (1548.4 per locale)
+ * Strings: 8337 (1667.4 per locale)
  *
- * Built on 2026-01-12 at 11:24 UTC
+ * Built on 2026-09-04 at 08:10 UTC
  */
 
 import 'package:flutter/widgets.dart';
@@ -1875,6 +1875,125 @@ class _StringsEn {
 	String get k_1oxxcwx => 'Unlock at 7-day streak';
 	String get k_0b2qn74 => 'The gift shop will launch between January and February.';
 	String get k_16mvjic => 'Please stay tuned.';
+	String get k_1uoauq9 => '[Ponmi Ampao]';
+	String get k_1u0zu59 => 'Ponmi Official Account';
+	String k_14h9dd7({required Object option1}) => 'Minimum withdrawal amount is $option1';
+	String get k_0gx4703 => 'Identity Verification';
+	String get k_1tk9b1t => 'Failed to get identity verification status';
+	String get k_02nxsoa => 'Not verified';
+	String get k_09dysw7 => 'Please submit your identity information. After approval, you can bind a bank card and perform fund operations';
+	String get k_0mb4hgu => 'Identity information submitted. Please wait for review';
+	String get k_0f7zpcx => 'Approved';
+	String get k_1vwiif0 => 'Identity verification approved';
+	String get k_0pixah8 => 'Please update your information and resubmit';
+	String get k_15ibx7m => 'ID Type';
+	String get k_15gxxbu => 'Full Name';
+	String get k_0ice9t9 => 'Please enter the name on your ID';
+	String get k_12j5aqs => 'ID Number';
+	String get k_17ivr9h => 'Please enter your ID number';
+	String get k_0twhazf => 'Please enter your full name';
+	String get k_117b2ya => 'ID Photos';
+	String get k_0bodmb7 => 'Front of ID';
+	String get k_0bsawwt => 'Back of ID';
+	String get k_0j61vv2 => 'Please upload the front of your ID';
+	String get k_1i2z3q8 => 'Please upload the back of your ID';
+	String get k_1jx5ek2 => 'Submitting...';
+	String get k_0gwzc1g => 'Submit Verification';
+	String get k_0f7d4n9 => 'Submission failed';
+	String get k_0qycyhx => 'Submission failed. Please try again later';
+	String get k_0woopqp => 'Please complete identity verification and get approved before binding a bank card';
+	String get k_11h9mlr => 'Confirm Withdrawal';
+	String get k_0d41fnx => 'Requested Amount';
+	String get k_02m9lju => 'Fee';
+	String get k_0f9qd2g => 'Amount Received';
+	String get k_131k5a4 => 'Receiving Account';
+	String get k_0f7kjm9 => 'Withdrawal failed';
+	String get k_0zq7ift => 'No available receiving accounts';
+	String get k_0jgx001 => 'Remaining withdrawal limit today';
+	String get k_0jgwv56 => 'Remaining withdrawal limit this month';
+	String get k_159vzyh => 'Calculating fee...';
+	String get k_0b0jd54 => 'Please wait while we calculate the fee';
+	String get k_0foq4r6 => 'Daily withdrawal limit exceeded';
+	String get k_0f7th8f => 'Monthly withdrawal limit exceeded';
+	String get k_1stf8o8 => 'Please bind an approved receiving account first';
+	String get k_176njmo => 'Withdrawal History';
+	String get k_05tuds2 => 'No withdrawal records';
+	String get k_03ibj2i => 'Processing';
+	String get k_0bz5xnn => 'Requested At';
+	String get k_0byava3 => 'Completed At';
+	String get k_1skpeu8 => 'Are you sure you want to delete this receiving account?';
+	String get k_15pi3mv => 'Add Receiving Account';
+	String get k_15pk1y6 => 'No receiving accounts';
+	String get k_002v2m1 => 'Default';
+	String get k_02m3m16 => 'Approved';
+	String get k_02m3eky => 'Rejected';
+	String get k_15pgg53 => 'Bind Receiving Account';
+	String get k_09ltcuc => 'Please bind a receiving account and wait for approval before continuing';
+	String get k_039svgw => 'View';
+	String get k_0uhsb7g => 'Please enter your GCash mobile number';
+	String get k_0iou8tk => 'Please select a bank';
+	String get k_1ahtiab => 'Invalid GCash mobile number. Please use 09XXXXXXXXX';
+	String get k_0o6xet1 => 'Please enter 09XXXXXXXXX';
+	String get k_1qs3pe8 => 'Please complete identity verification and get approved before continuing';
+	String get k_00yc0fu => 'Withdrawal amount is insufficient to cover the fee';
+	String get k_1yl4lcq => 'Remaining outflow limit today';
+	String get k_1yl3mcx => 'Remaining outflow limit this month';
+	String get k_1erdnt4 => 'Remaining inflow limit today';
+	String get k_1ereexv => 'Remaining inflow limit this month';
+	String get k_1bwbvxl => 'Daily outflow limit exceeded';
+	String get k_1f1vyis => 'Monthly outflow limit exceeded';
+	String get k_1l4pbwb => 'Daily inflow limit exceeded';
+	String get k_09dguja => 'Monthly inflow limit exceeded';
+	String get k_0d3bh9i => 'View Limits';
+	String get k_0d388ih => 'Account Limits';
+	String get k_1b2jjfd => 'Daily Outflow Limit';
+	String get k_1b2jp1w => 'Monthly Outflow Limit';
+	String get k_1a496q3 => 'Daily Inflow Limit';
+	String get k_1a4a2fa => 'Monthly Inflow Limit';
+	String get k_0hvt9lt => 'Daily cumulative limit for withdrawals, red packets, and transfers';
+	String get k_1imdv58 => 'Monthly cumulative limit for withdrawals, red packets, and transfers';
+	String get k_0k1g0cc => 'Daily cumulative limit for top-ups, received red packets, and received transfers';
+	String get k_0yoyg29 => 'Monthly cumulative limit for top-ups, received red packets, and received transfers';
+	String k_0iayfuq({required Object option1, required Object option2}) => 'Used $option1, limit $option2';
+	String k_0cv7tb7({required Object option1}) => 'Remaining $option1';
+	String get k_1iexrys => 'No limit data available';
+	String get k_038o38g => 'Used';
+	String get k_002s3fs => 'Limit';
+	String get k_02jqzc4 => ', limit ';
+	String get k_003tp91 => 'Remaining';
+	String k_0ho7c30({required Object option1, required Object option2, required Object option3}) => 'Withdrawn today $option1, this time $option2, total $option3';
+	String get k_0r1n53d => 'SMS verification is required for this withdrawal';
+	String get k_0f9a922 => 'SMS verification code sent successfully';
+	String get k_0d7ez1o => 'Please do not request again';
+	String get k_1pqb6ae => 'SMS verification is not required for this withdrawal amount';
+	String get k_1rrz3vr => 'Please complete SMS verification first';
+	String get k_1hl2xlb => 'SMS verification code has expired';
+	String get k_05r8z51 => 'Incorrect SMS verification code';
+	String get k_0bvf72v => 'Please bind a phone number first';
+	String get k_003n1un => 'Date';
+	String get k_09az411 => 'Photos & Videos';
+	String get k_003mnrm => 'Transactions';
+	String get k_003mnem => 'Links';
+	String get k_0rcu2g0 => 'Quick search chat content. Payment password is locked. Please contact an administrator to unlock';
+	String get k_1yx24zy => 'Please set a 6-digit password';
+	String get k_0rj3mbt => 'Incorrect verification code';
+	String k_07mwwbr({required Object option1}) => 'Incorrect payment password. $option1 attempts remaining';
+	String get k_06esh4s => 'Payment password locked';
+	String get k_1asi6jx => 'Please contact an administrator to unlock. Self-service reset is not supported';
+	String k_032ev4t({required Object option1}) => 'Fee ₱$option1';
+	String k_0qziw21({required Object option1}) => 'Fee $option1%';
+	String k_1xr9ai4({required Object option1}) => 'Fee $option1';
+	String k_01jpt58({required Object option1}) => 'Sample fee ₱$option1';
+	String k_1wzy418({required Object option1}) => 'Min ₱$option1';
+	String k_03ybjxj({required Object option1, required Object option2}) => '$option1 ($option2)';
+	String get k_0d39e3u => 'FAQ';
+	String get k_003mnsy => 'Notice';
+	String get k_1huz6gk => 'Please review important information about balance usage, third-party payment processing, compliance, and fund-related terms.';
+	String get k_08m9zdb => 'Scan this QR code to share platform balance with this user.';
+	String get k_075d53r => 'Please verify the recipient before confirming the transaction.';
+	String get k_1i0n8fp => 'Balances are recorded within the platform. Top-ups and withdrawals are processed by our authorized third-party payment provider PayMongo, which is regulated by Bangko Sentral ng Pilipinas.';
+	String get k_0di1ahc => 'Account Balance';
+	String get k_0y00hcs => 'Funds are securely processed through licensed third-party payment providers. Your account balance reflects completed payment transactions.';
 }
 
 // Path: <root>
@@ -3443,6 +3562,125 @@ class _StringsJa implements _StringsEn {
 	@override String get k_1oxxcwx => '连续签到7次可获得';
 	@override String get k_0b2qn74 => '礼物商城将在1月到2月上线';
 	@override String get k_16mvjic => '敬请期待';
+	@override String get k_1uoauq9 => '[Ponmi 红包]';
+	@override String get k_1u0zu59 => 'Ponmi官方公众号';
+	@override String k_14h9dd7({required Object option1}) => '提现最低金额为$option1';
+	@override String get k_0gx4703 => '实名认证';
+	@override String get k_1tk9b1t => '实名认证状态获取失败';
+	@override String get k_02nxsoa => '未认证';
+	@override String get k_09dysw7 => '请提交实名信息，审核通过后可绑定银行卡并进行资金操作';
+	@override String get k_0mb4hgu => '实名信息已提交，请等待后台审核';
+	@override String get k_0f7zpcx => '审核通过';
+	@override String get k_1vwiif0 => '实名认证已通过';
+	@override String get k_0pixah8 => '请修改信息后重新提交';
+	@override String get k_15ibx7m => '证件类型';
+	@override String get k_15gxxbu => '真实姓名';
+	@override String get k_0ice9t9 => '请输入证件姓名';
+	@override String get k_12j5aqs => '证件号码';
+	@override String get k_17ivr9h => '请输入证件号码';
+	@override String get k_0twhazf => '请输入真实姓名';
+	@override String get k_117b2ya => '证件照片';
+	@override String get k_0bodmb7 => '证件正面';
+	@override String get k_0bsawwt => '证件反面';
+	@override String get k_0j61vv2 => '请上传证件正面照片';
+	@override String get k_1i2z3q8 => '请上传证件反面照片';
+	@override String get k_1jx5ek2 => '提交中...';
+	@override String get k_0gwzc1g => '提交认证';
+	@override String get k_0f7d4n9 => '提交失败';
+	@override String get k_0qycyhx => '提交失败，请稍后重试';
+	@override String get k_0woopqp => '请先完成实名认证并通过审核后再绑定银行卡';
+	@override String get k_11h9mlr => '确认提现';
+	@override String get k_0d41fnx => '申请金额';
+	@override String get k_02m9lju => '手续费';
+	@override String get k_0f9qd2g => '实际到账';
+	@override String get k_131k5a4 => '收款账户';
+	@override String get k_0f7kjm9 => '提现失败';
+	@override String get k_0zq7ift => '暂无可用收款账户';
+	@override String get k_0jgx001 => '今日剩余提现额度';
+	@override String get k_0jgwv56 => '本月剩余提现额度';
+	@override String get k_159vzyh => '正在计算手续费...';
+	@override String get k_0b0jd54 => '请稍候，正在计算手续费';
+	@override String get k_0foq4r6 => '已超过每日提现限额';
+	@override String get k_0f7th8f => '已超过每月提现限额';
+	@override String get k_1stf8o8 => '请先绑定审核通过的收款账户';
+	@override String get k_176njmo => '提现记录';
+	@override String get k_05tuds2 => '暂无提现记录';
+	@override String get k_03ibj2i => '处理中';
+	@override String get k_0bz5xnn => '申请时间';
+	@override String get k_0byava3 => '完成时间';
+	@override String get k_1skpeu8 => '确定要删除该收款账户吗？';
+	@override String get k_15pi3mv => '添加收款账户';
+	@override String get k_15pk1y6 => '暂无收款账户';
+	@override String get k_002v2m1 => '默认';
+	@override String get k_02m3m16 => '已通过';
+	@override String get k_02m3eky => '未通过';
+	@override String get k_15pgg53 => '绑定收款账户';
+	@override String get k_09ltcuc => '请先绑定并等待收款账户审核通过后再操作';
+	@override String get k_039svgw => '去查看';
+	@override String get k_0uhsb7g => '请输入GCash手机号';
+	@override String get k_0iou8tk => '请选择银行';
+	@override String get k_1ahtiab => 'GCash手机号格式不正确，请使用09XXXXXXXXX';
+	@override String get k_0o6xet1 => '请输入09XXXXXXXXX';
+	@override String get k_1qs3pe8 => '请先完成实名认证并通过审核后再操作';
+	@override String get k_00yc0fu => '提现金额不足以支付手续费';
+	@override String get k_1yl4lcq => '今日剩余流出额度';
+	@override String get k_1yl3mcx => '本月剩余流出额度';
+	@override String get k_1erdnt4 => '今日剩余转入额度';
+	@override String get k_1ereexv => '本月剩余转入额度';
+	@override String get k_1bwbvxl => '已超过每日流出限额';
+	@override String get k_1f1vyis => '已超过每月流出限额';
+	@override String get k_1l4pbwb => '已超过每日转入限额';
+	@override String get k_09dguja => '已超过每月转入限额';
+	@override String get k_0d3bh9i => '查看限额';
+	@override String get k_0d388ih => '账户限额';
+	@override String get k_1b2jjfd => '每日流出限额';
+	@override String get k_1b2jp1w => '每月流出限额';
+	@override String get k_1a496q3 => '每日转入限额';
+	@override String get k_1a4a2fa => '每月转入限额';
+	@override String get k_0hvt9lt => '提现、发红包、转账支出的每日累计限额';
+	@override String get k_1imdv58 => '提现、发红包、转账支出的每月累计限额';
+	@override String get k_0k1g0cc => '充值、收红包、收转账的每日累计限额';
+	@override String get k_0yoyg29 => '充值、收红包、收转账的每月累计限额';
+	@override String k_0iayfuq({required Object option1, required Object option2}) => '已使用$option1，限额$option2';
+	@override String k_0cv7tb7({required Object option1}) => '剩余$option1';
+	@override String get k_1iexrys => '暂无限额数据';
+	@override String get k_038o38g => '已使用';
+	@override String get k_002s3fs => '限额';
+	@override String get k_02jqzc4 => '，限额';
+	@override String get k_003tp91 => '剩余';
+	@override String k_0ho7c30({required Object option1, required Object option2, required Object option3}) => '今日已提现$option1，本次$option2，累计$option3';
+	@override String get k_0r1n53d => '本次提现需短信验证';
+	@override String get k_0f9a922 => '短信验证码发送成功';
+	@override String get k_0d7ez1o => '请勿重复获取';
+	@override String get k_1pqb6ae => '当前提现金额无需短信验证';
+	@override String get k_1rrz3vr => '请先完成短信验证';
+	@override String get k_1hl2xlb => '短信验证码已过期';
+	@override String get k_05r8z51 => '短信验证码不正确';
+	@override String get k_0bvf72v => '请先绑定手机号';
+	@override String get k_003n1un => '日期';
+	@override String get k_09az411 => '图片与视频';
+	@override String get k_003mnrm => '交易';
+	@override String get k_003mnem => '链接';
+	@override String get k_0rcu2g0 => '快速搜索聊天内容支付密码已锁定，请联系管理员解锁';
+	@override String get k_1yx24zy => '请设置6位数密码';
+	@override String get k_0rj3mbt => '验证码不正确';
+	@override String k_07mwwbr({required Object option1}) => '支付密码错误，还可尝试$option1次';
+	@override String get k_06esh4s => '支付密码已锁定';
+	@override String get k_1asi6jx => '请联系管理员解锁，暂不支持自助重置';
+	@override String k_032ev4t({required Object option1}) => '手续费 ₱$option1';
+	@override String k_0qziw21({required Object option1}) => '手续费 $option1%';
+	@override String k_1xr9ai4({required Object option1}) => '手续费 $option1';
+	@override String k_01jpt58({required Object option1}) => '示例手续费 ₱$option1';
+	@override String k_1wzy418({required Object option1}) => '最低 ₱$option1';
+	@override String k_03ybjxj({required Object option1, required Object option2}) => '$option1（$option2）';
+	@override String get k_0d39e3u => '常见问题';
+	@override String get k_003mnsy => '注意';
+	@override String get k_1huz6gk => '请查阅有关余额使用、第三方支付处理、合规以及资金相关条款的重要信息。';
+	@override String get k_08m9zdb => '扫描此二维码可与该用户分享平台余额。';
+	@override String get k_075d53r => '确认交易前请核实收款方。';
+	@override String get k_1i0n8fp => '余额记录于平台内。充值与提现由我们授权的第三方支付服务商 PayMongo 处理，该机构受菲律宾中央银行（Bangko Sentral ng Pilipinas）监管。';
+	@override String get k_0di1ahc => '账户余额';
+	@override String get k_0y00hcs => '资金通过持牌第三方支付服务商安全处理。您的账户余额反映已完成的支付交易。';
 }
 
 // Path: <root>
@@ -5011,6 +5249,125 @@ class _StringsKo implements _StringsEn {
 	@override String get k_1oxxcwx => '连续签到7次可获得';
 	@override String get k_0b2qn74 => '礼物商城将在1月到2月上线';
 	@override String get k_16mvjic => '敬请期待';
+	@override String get k_1uoauq9 => '[Ponmi 红包]';
+	@override String get k_1u0zu59 => 'Ponmi官方公众号';
+	@override String k_14h9dd7({required Object option1}) => '提现最低金额为$option1';
+	@override String get k_0gx4703 => '实名认证';
+	@override String get k_1tk9b1t => '实名认证状态获取失败';
+	@override String get k_02nxsoa => '未认证';
+	@override String get k_09dysw7 => '请提交实名信息，审核通过后可绑定银行卡并进行资金操作';
+	@override String get k_0mb4hgu => '实名信息已提交，请等待后台审核';
+	@override String get k_0f7zpcx => '审核通过';
+	@override String get k_1vwiif0 => '实名认证已通过';
+	@override String get k_0pixah8 => '请修改信息后重新提交';
+	@override String get k_15ibx7m => '证件类型';
+	@override String get k_15gxxbu => '真实姓名';
+	@override String get k_0ice9t9 => '请输入证件姓名';
+	@override String get k_12j5aqs => '证件号码';
+	@override String get k_17ivr9h => '请输入证件号码';
+	@override String get k_0twhazf => '请输入真实姓名';
+	@override String get k_117b2ya => '证件照片';
+	@override String get k_0bodmb7 => '证件正面';
+	@override String get k_0bsawwt => '证件反面';
+	@override String get k_0j61vv2 => '请上传证件正面照片';
+	@override String get k_1i2z3q8 => '请上传证件反面照片';
+	@override String get k_1jx5ek2 => '提交中...';
+	@override String get k_0gwzc1g => '提交认证';
+	@override String get k_0f7d4n9 => '提交失败';
+	@override String get k_0qycyhx => '提交失败，请稍后重试';
+	@override String get k_0woopqp => '请先完成实名认证并通过审核后再绑定银行卡';
+	@override String get k_11h9mlr => '确认提现';
+	@override String get k_0d41fnx => '申请金额';
+	@override String get k_02m9lju => '手续费';
+	@override String get k_0f9qd2g => '实际到账';
+	@override String get k_131k5a4 => '收款账户';
+	@override String get k_0f7kjm9 => '提现失败';
+	@override String get k_0zq7ift => '暂无可用收款账户';
+	@override String get k_0jgx001 => '今日剩余提现额度';
+	@override String get k_0jgwv56 => '本月剩余提现额度';
+	@override String get k_159vzyh => '正在计算手续费...';
+	@override String get k_0b0jd54 => '请稍候，正在计算手续费';
+	@override String get k_0foq4r6 => '已超过每日提现限额';
+	@override String get k_0f7th8f => '已超过每月提现限额';
+	@override String get k_1stf8o8 => '请先绑定审核通过的收款账户';
+	@override String get k_176njmo => '提现记录';
+	@override String get k_05tuds2 => '暂无提现记录';
+	@override String get k_03ibj2i => '处理中';
+	@override String get k_0bz5xnn => '申请时间';
+	@override String get k_0byava3 => '完成时间';
+	@override String get k_1skpeu8 => '确定要删除该收款账户吗？';
+	@override String get k_15pi3mv => '添加收款账户';
+	@override String get k_15pk1y6 => '暂无收款账户';
+	@override String get k_002v2m1 => '默认';
+	@override String get k_02m3m16 => '已通过';
+	@override String get k_02m3eky => '未通过';
+	@override String get k_15pgg53 => '绑定收款账户';
+	@override String get k_09ltcuc => '请先绑定并等待收款账户审核通过后再操作';
+	@override String get k_039svgw => '去查看';
+	@override String get k_0uhsb7g => '请输入GCash手机号';
+	@override String get k_0iou8tk => '请选择银行';
+	@override String get k_1ahtiab => 'GCash手机号格式不正确，请使用09XXXXXXXXX';
+	@override String get k_0o6xet1 => '请输入09XXXXXXXXX';
+	@override String get k_1qs3pe8 => '请先完成实名认证并通过审核后再操作';
+	@override String get k_00yc0fu => '提现金额不足以支付手续费';
+	@override String get k_1yl4lcq => '今日剩余流出额度';
+	@override String get k_1yl3mcx => '本月剩余流出额度';
+	@override String get k_1erdnt4 => '今日剩余转入额度';
+	@override String get k_1ereexv => '本月剩余转入额度';
+	@override String get k_1bwbvxl => '已超过每日流出限额';
+	@override String get k_1f1vyis => '已超过每月流出限额';
+	@override String get k_1l4pbwb => '已超过每日转入限额';
+	@override String get k_09dguja => '已超过每月转入限额';
+	@override String get k_0d3bh9i => '查看限额';
+	@override String get k_0d388ih => '账户限额';
+	@override String get k_1b2jjfd => '每日流出限额';
+	@override String get k_1b2jp1w => '每月流出限额';
+	@override String get k_1a496q3 => '每日转入限额';
+	@override String get k_1a4a2fa => '每月转入限额';
+	@override String get k_0hvt9lt => '提现、发红包、转账支出的每日累计限额';
+	@override String get k_1imdv58 => '提现、发红包、转账支出的每月累计限额';
+	@override String get k_0k1g0cc => '充值、收红包、收转账的每日累计限额';
+	@override String get k_0yoyg29 => '充值、收红包、收转账的每月累计限额';
+	@override String k_0iayfuq({required Object option1, required Object option2}) => '已使用$option1，限额$option2';
+	@override String k_0cv7tb7({required Object option1}) => '剩余$option1';
+	@override String get k_1iexrys => '暂无限额数据';
+	@override String get k_038o38g => '已使用';
+	@override String get k_002s3fs => '限额';
+	@override String get k_02jqzc4 => '，限额';
+	@override String get k_003tp91 => '剩余';
+	@override String k_0ho7c30({required Object option1, required Object option2, required Object option3}) => '今日已提现$option1，本次$option2，累计$option3';
+	@override String get k_0r1n53d => '本次提现需短信验证';
+	@override String get k_0f9a922 => '短信验证码发送成功';
+	@override String get k_0d7ez1o => '请勿重复获取';
+	@override String get k_1pqb6ae => '当前提现金额无需短信验证';
+	@override String get k_1rrz3vr => '请先完成短信验证';
+	@override String get k_1hl2xlb => '短信验证码已过期';
+	@override String get k_05r8z51 => '短信验证码不正确';
+	@override String get k_0bvf72v => '请先绑定手机号';
+	@override String get k_003n1un => '日期';
+	@override String get k_09az411 => '图片与视频';
+	@override String get k_003mnrm => '交易';
+	@override String get k_003mnem => '链接';
+	@override String get k_0rcu2g0 => '快速搜索聊天内容支付密码已锁定，请联系管理员解锁';
+	@override String get k_1yx24zy => '请设置6位数密码';
+	@override String get k_0rj3mbt => '验证码不正确';
+	@override String k_07mwwbr({required Object option1}) => '支付密码错误，还可尝试$option1次';
+	@override String get k_06esh4s => '支付密码已锁定';
+	@override String get k_1asi6jx => '请联系管理员解锁，暂不支持自助重置';
+	@override String k_032ev4t({required Object option1}) => '手续费 ₱$option1';
+	@override String k_0qziw21({required Object option1}) => '手续费 $option1%';
+	@override String k_1xr9ai4({required Object option1}) => '手续费 $option1';
+	@override String k_01jpt58({required Object option1}) => '示例手续费 ₱$option1';
+	@override String k_1wzy418({required Object option1}) => '最低 ₱$option1';
+	@override String k_03ybjxj({required Object option1, required Object option2}) => '$option1（$option2）';
+	@override String get k_0d39e3u => '常见问题';
+	@override String get k_003mnsy => '注意';
+	@override String get k_1huz6gk => '请查阅有关余额使用、第三方支付处理、合规以及资金相关条款的重要信息。';
+	@override String get k_08m9zdb => '扫描此二维码可与该用户分享平台余额。';
+	@override String get k_075d53r => '确认交易前请核实收款方。';
+	@override String get k_1i0n8fp => '余额记录于平台内。充值与提现由我们授权的第三方支付服务商 PayMongo 处理，该机构受菲律宾中央银行（Bangko Sentral ng Pilipinas）监管。';
+	@override String get k_0di1ahc => '账户余额';
+	@override String get k_0y00hcs => '资金通过持牌第三方支付服务商安全处理。您的账户余额反映已完成的支付交易。';
 }
 
 // Path: <root>
@@ -6578,6 +6935,125 @@ class _StringsZhHans implements _StringsEn {
 	@override String get k_1oxxcwx => '连续签到7次可获得';
 	@override String get k_0b2qn74 => '礼物商城将在1月到2月上线';
 	@override String get k_16mvjic => '敬请期待';
+	@override String get k_1uoauq9 => '[Ponmi 红包]';
+	@override String get k_1u0zu59 => 'Ponmi官方公众号';
+	@override String k_14h9dd7({required Object option1}) => '提现最低金额为$option1';
+	@override String get k_0gx4703 => '实名认证';
+	@override String get k_1tk9b1t => '实名认证状态获取失败';
+	@override String get k_02nxsoa => '未认证';
+	@override String get k_09dysw7 => '请提交实名信息，审核通过后可绑定银行卡并进行资金操作';
+	@override String get k_0mb4hgu => '实名信息已提交，请等待后台审核';
+	@override String get k_0f7zpcx => '审核通过';
+	@override String get k_1vwiif0 => '实名认证已通过';
+	@override String get k_0pixah8 => '请修改信息后重新提交';
+	@override String get k_15ibx7m => '证件类型';
+	@override String get k_15gxxbu => '真实姓名';
+	@override String get k_0ice9t9 => '请输入证件姓名';
+	@override String get k_12j5aqs => '证件号码';
+	@override String get k_17ivr9h => '请输入证件号码';
+	@override String get k_0twhazf => '请输入真实姓名';
+	@override String get k_117b2ya => '证件照片';
+	@override String get k_0bodmb7 => '证件正面';
+	@override String get k_0bsawwt => '证件反面';
+	@override String get k_0j61vv2 => '请上传证件正面照片';
+	@override String get k_1i2z3q8 => '请上传证件反面照片';
+	@override String get k_1jx5ek2 => '提交中...';
+	@override String get k_0gwzc1g => '提交认证';
+	@override String get k_0f7d4n9 => '提交失败';
+	@override String get k_0qycyhx => '提交失败，请稍后重试';
+	@override String get k_0woopqp => '请先完成实名认证并通过审核后再绑定银行卡';
+	@override String get k_11h9mlr => '确认提现';
+	@override String get k_0d41fnx => '申请金额';
+	@override String get k_02m9lju => '手续费';
+	@override String get k_0f9qd2g => '实际到账';
+	@override String get k_131k5a4 => '收款账户';
+	@override String get k_0f7kjm9 => '提现失败';
+	@override String get k_0zq7ift => '暂无可用收款账户';
+	@override String get k_0jgx001 => '今日剩余提现额度';
+	@override String get k_0jgwv56 => '本月剩余提现额度';
+	@override String get k_159vzyh => '正在计算手续费...';
+	@override String get k_0b0jd54 => '请稍候，正在计算手续费';
+	@override String get k_0foq4r6 => '已超过每日提现限额';
+	@override String get k_0f7th8f => '已超过每月提现限额';
+	@override String get k_1stf8o8 => '请先绑定审核通过的收款账户';
+	@override String get k_176njmo => '提现记录';
+	@override String get k_05tuds2 => '暂无提现记录';
+	@override String get k_03ibj2i => '处理中';
+	@override String get k_0bz5xnn => '申请时间';
+	@override String get k_0byava3 => '完成时间';
+	@override String get k_1skpeu8 => '确定要删除该收款账户吗？';
+	@override String get k_15pi3mv => '添加收款账户';
+	@override String get k_15pk1y6 => '暂无收款账户';
+	@override String get k_002v2m1 => '默认';
+	@override String get k_02m3m16 => '已通过';
+	@override String get k_02m3eky => '未通过';
+	@override String get k_15pgg53 => '绑定收款账户';
+	@override String get k_09ltcuc => '请先绑定并等待收款账户审核通过后再操作';
+	@override String get k_039svgw => '去查看';
+	@override String get k_0uhsb7g => '请输入GCash手机号';
+	@override String get k_0iou8tk => '请选择银行';
+	@override String get k_1ahtiab => 'GCash手机号格式不正确，请使用09XXXXXXXXX';
+	@override String get k_0o6xet1 => '请输入09XXXXXXXXX';
+	@override String get k_1qs3pe8 => '请先完成实名认证并通过审核后再操作';
+	@override String get k_00yc0fu => '提现金额不足以支付手续费';
+	@override String get k_1yl4lcq => '今日剩余流出额度';
+	@override String get k_1yl3mcx => '本月剩余流出额度';
+	@override String get k_1erdnt4 => '今日剩余转入额度';
+	@override String get k_1ereexv => '本月剩余转入额度';
+	@override String get k_1bwbvxl => '已超过每日流出限额';
+	@override String get k_1f1vyis => '已超过每月流出限额';
+	@override String get k_1l4pbwb => '已超过每日转入限额';
+	@override String get k_09dguja => '已超过每月转入限额';
+	@override String get k_0d3bh9i => '查看限额';
+	@override String get k_0d388ih => '账户限额';
+	@override String get k_1b2jjfd => '每日流出限额';
+	@override String get k_1b2jp1w => '每月流出限额';
+	@override String get k_1a496q3 => '每日转入限额';
+	@override String get k_1a4a2fa => '每月转入限额';
+	@override String get k_0hvt9lt => '提现、发红包、转账支出的每日累计限额';
+	@override String get k_1imdv58 => '提现、发红包、转账支出的每月累计限额';
+	@override String get k_0k1g0cc => '充值、收红包、收转账的每日累计限额';
+	@override String get k_0yoyg29 => '充值、收红包、收转账的每月累计限额';
+	@override String k_0iayfuq({required Object option1, required Object option2}) => '已使用$option1，限额$option2';
+	@override String k_0cv7tb7({required Object option1}) => '剩余$option1';
+	@override String get k_1iexrys => '暂无限额数据';
+	@override String get k_038o38g => '已使用';
+	@override String get k_002s3fs => '限额';
+	@override String get k_02jqzc4 => '，限额';
+	@override String get k_003tp91 => '剩余';
+	@override String k_0ho7c30({required Object option1, required Object option2, required Object option3}) => '今日已提现$option1，本次$option2，累计$option3';
+	@override String get k_0r1n53d => '本次提现需短信验证';
+	@override String get k_0f9a922 => '短信验证码发送成功';
+	@override String get k_0d7ez1o => '请勿重复获取';
+	@override String get k_1pqb6ae => '当前提现金额无需短信验证';
+	@override String get k_1rrz3vr => '请先完成短信验证';
+	@override String get k_1hl2xlb => '短信验证码已过期';
+	@override String get k_05r8z51 => '短信验证码不正确';
+	@override String get k_0bvf72v => '请先绑定手机号';
+	@override String get k_003n1un => '日期';
+	@override String get k_09az411 => '图片与视频';
+	@override String get k_003mnrm => '交易';
+	@override String get k_003mnem => '链接';
+	@override String get k_0rcu2g0 => '快速搜索聊天内容支付密码已锁定，请联系管理员解锁';
+	@override String get k_1yx24zy => '请设置6位数密码';
+	@override String get k_0rj3mbt => '验证码不正确';
+	@override String k_07mwwbr({required Object option1}) => '支付密码错误，还可尝试$option1次';
+	@override String get k_06esh4s => '支付密码已锁定';
+	@override String get k_1asi6jx => '请联系管理员解锁，暂不支持自助重置';
+	@override String k_032ev4t({required Object option1}) => '手续费 ₱$option1';
+	@override String k_0qziw21({required Object option1}) => '手续费 $option1%';
+	@override String k_1xr9ai4({required Object option1}) => '手续费 $option1';
+	@override String k_01jpt58({required Object option1}) => '示例手续费 ₱$option1';
+	@override String k_1wzy418({required Object option1}) => '最低 ₱$option1';
+	@override String k_03ybjxj({required Object option1, required Object option2}) => '$option1（$option2）';
+	@override String get k_0d39e3u => '常见问题';
+	@override String get k_003mnsy => '注意';
+	@override String get k_1huz6gk => '请查阅有关余额使用、第三方支付处理、合规以及资金相关条款的重要信息。';
+	@override String get k_08m9zdb => '扫描此二维码可与该用户分享平台余额。';
+	@override String get k_075d53r => '确认交易前请核实收款方。';
+	@override String get k_1i0n8fp => '余额记录于平台内。充值与提现由我们授权的第三方支付服务商 PayMongo 处理，该机构受菲律宾中央银行（Bangko Sentral ng Pilipinas）监管。';
+	@override String get k_0di1ahc => '账户余额';
+	@override String get k_0y00hcs => '资金通过持牌第三方支付服务商安全处理。您的账户余额反映已完成的支付交易。';
 }
 
 // Path: <root>
@@ -8143,6 +8619,125 @@ class _StringsZhHant implements _StringsEn {
 	@override String get k_1oxxcwx => '连续签到7次可获得';
 	@override String get k_0b2qn74 => '礼物商城将在1月到2月上线';
 	@override String get k_16mvjic => '敬请期待';
+	@override String get k_1uoauq9 => '[Ponmi 红包]';
+	@override String get k_1u0zu59 => 'Ponmi官方公众号';
+	@override String k_14h9dd7({required Object option1}) => '提现最低金额为$option1';
+	@override String get k_0gx4703 => '实名认证';
+	@override String get k_1tk9b1t => '实名认证状态获取失败';
+	@override String get k_02nxsoa => '未认证';
+	@override String get k_09dysw7 => '请提交实名信息，审核通过后可绑定银行卡并进行资金操作';
+	@override String get k_0mb4hgu => '实名信息已提交，请等待后台审核';
+	@override String get k_0f7zpcx => '审核通过';
+	@override String get k_1vwiif0 => '实名认证已通过';
+	@override String get k_0pixah8 => '请修改信息后重新提交';
+	@override String get k_15ibx7m => '证件类型';
+	@override String get k_15gxxbu => '真实姓名';
+	@override String get k_0ice9t9 => '请输入证件姓名';
+	@override String get k_12j5aqs => '证件号码';
+	@override String get k_17ivr9h => '请输入证件号码';
+	@override String get k_0twhazf => '请输入真实姓名';
+	@override String get k_117b2ya => '证件照片';
+	@override String get k_0bodmb7 => '证件正面';
+	@override String get k_0bsawwt => '证件反面';
+	@override String get k_0j61vv2 => '请上传证件正面照片';
+	@override String get k_1i2z3q8 => '请上传证件反面照片';
+	@override String get k_1jx5ek2 => '提交中...';
+	@override String get k_0gwzc1g => '提交认证';
+	@override String get k_0f7d4n9 => '提交失败';
+	@override String get k_0qycyhx => '提交失败，请稍后重试';
+	@override String get k_0woopqp => '请先完成实名认证并通过审核后再绑定银行卡';
+	@override String get k_11h9mlr => '确认提现';
+	@override String get k_0d41fnx => '申请金额';
+	@override String get k_02m9lju => '手续费';
+	@override String get k_0f9qd2g => '实际到账';
+	@override String get k_131k5a4 => '收款账户';
+	@override String get k_0f7kjm9 => '提现失败';
+	@override String get k_0zq7ift => '暂无可用收款账户';
+	@override String get k_0jgx001 => '今日剩余提现额度';
+	@override String get k_0jgwv56 => '本月剩余提现额度';
+	@override String get k_159vzyh => '正在计算手续费...';
+	@override String get k_0b0jd54 => '请稍候，正在计算手续费';
+	@override String get k_0foq4r6 => '已超过每日提现限额';
+	@override String get k_0f7th8f => '已超过每月提现限额';
+	@override String get k_1stf8o8 => '请先绑定审核通过的收款账户';
+	@override String get k_176njmo => '提现记录';
+	@override String get k_05tuds2 => '暂无提现记录';
+	@override String get k_03ibj2i => '处理中';
+	@override String get k_0bz5xnn => '申请时间';
+	@override String get k_0byava3 => '完成时间';
+	@override String get k_1skpeu8 => '确定要删除该收款账户吗？';
+	@override String get k_15pi3mv => '添加收款账户';
+	@override String get k_15pk1y6 => '暂无收款账户';
+	@override String get k_002v2m1 => '默认';
+	@override String get k_02m3m16 => '已通过';
+	@override String get k_02m3eky => '未通过';
+	@override String get k_15pgg53 => '绑定收款账户';
+	@override String get k_09ltcuc => '请先绑定并等待收款账户审核通过后再操作';
+	@override String get k_039svgw => '去查看';
+	@override String get k_0uhsb7g => '请输入GCash手机号';
+	@override String get k_0iou8tk => '请选择银行';
+	@override String get k_1ahtiab => 'GCash手机号格式不正确，请使用09XXXXXXXXX';
+	@override String get k_0o6xet1 => '请输入09XXXXXXXXX';
+	@override String get k_1qs3pe8 => '请先完成实名认证并通过审核后再操作';
+	@override String get k_00yc0fu => '提现金额不足以支付手续费';
+	@override String get k_1yl4lcq => '今日剩余流出额度';
+	@override String get k_1yl3mcx => '本月剩余流出额度';
+	@override String get k_1erdnt4 => '今日剩余转入额度';
+	@override String get k_1ereexv => '本月剩余转入额度';
+	@override String get k_1bwbvxl => '已超过每日流出限额';
+	@override String get k_1f1vyis => '已超过每月流出限额';
+	@override String get k_1l4pbwb => '已超过每日转入限额';
+	@override String get k_09dguja => '已超过每月转入限额';
+	@override String get k_0d3bh9i => '查看限额';
+	@override String get k_0d388ih => '账户限额';
+	@override String get k_1b2jjfd => '每日流出限额';
+	@override String get k_1b2jp1w => '每月流出限额';
+	@override String get k_1a496q3 => '每日转入限额';
+	@override String get k_1a4a2fa => '每月转入限额';
+	@override String get k_0hvt9lt => '提现、发红包、转账支出的每日累计限额';
+	@override String get k_1imdv58 => '提现、发红包、转账支出的每月累计限额';
+	@override String get k_0k1g0cc => '充值、收红包、收转账的每日累计限额';
+	@override String get k_0yoyg29 => '充值、收红包、收转账的每月累计限额';
+	@override String k_0iayfuq({required Object option1, required Object option2}) => '已使用$option1，限额$option2';
+	@override String k_0cv7tb7({required Object option1}) => '剩余$option1';
+	@override String get k_1iexrys => '暂无限额数据';
+	@override String get k_038o38g => '已使用';
+	@override String get k_002s3fs => '限额';
+	@override String get k_02jqzc4 => '，限额';
+	@override String get k_003tp91 => '剩余';
+	@override String k_0ho7c30({required Object option1, required Object option2, required Object option3}) => '今日已提现$option1，本次$option2，累计$option3';
+	@override String get k_0r1n53d => '本次提现需短信验证';
+	@override String get k_0f9a922 => '短信验证码发送成功';
+	@override String get k_0d7ez1o => '请勿重复获取';
+	@override String get k_1pqb6ae => '当前提现金额无需短信验证';
+	@override String get k_1rrz3vr => '请先完成短信验证';
+	@override String get k_1hl2xlb => '短信验证码已过期';
+	@override String get k_05r8z51 => '短信验证码不正确';
+	@override String get k_0bvf72v => '请先绑定手机号';
+	@override String get k_003n1un => '日期';
+	@override String get k_09az411 => '图片与视频';
+	@override String get k_003mnrm => '交易';
+	@override String get k_003mnem => '链接';
+	@override String get k_0rcu2g0 => '快速搜索聊天内容支付密码已锁定，请联系管理员解锁';
+	@override String get k_1yx24zy => '请设置6位数密码';
+	@override String get k_0rj3mbt => '验证码不正确';
+	@override String k_07mwwbr({required Object option1}) => '支付密码错误，还可尝试$option1次';
+	@override String get k_06esh4s => '支付密码已锁定';
+	@override String get k_1asi6jx => '请联系管理员解锁，暂不支持自助重置';
+	@override String k_032ev4t({required Object option1}) => '手续费 ₱$option1';
+	@override String k_0qziw21({required Object option1}) => '手续费 $option1%';
+	@override String k_1xr9ai4({required Object option1}) => '手续费 $option1';
+	@override String k_01jpt58({required Object option1}) => '示例手续费 ₱$option1';
+	@override String k_1wzy418({required Object option1}) => '最低 ₱$option1';
+	@override String k_03ybjxj({required Object option1, required Object option2}) => '$option1（$option2）';
+	@override String get k_0d39e3u => '常见问题';
+	@override String get k_003mnsy => '注意';
+	@override String get k_1huz6gk => '请查阅有关余额使用、第三方支付处理、合规以及资金相关条款的重要信息。';
+	@override String get k_08m9zdb => '扫描此二维码可与该用户分享平台余额。';
+	@override String get k_075d53r => '确认交易前请核实收款方。';
+	@override String get k_1i0n8fp => '余额记录于平台内。充值与提现由我们授权的第三方支付服务商 PayMongo 处理，该机构受菲律宾中央银行（Bangko Sentral ng Pilipinas）监管。';
+	@override String get k_0di1ahc => '账户余额';
+	@override String get k_0y00hcs => '资金通过持牌第三方支付服务商安全处理。您的账户余额反映已完成的支付交易。';
 }
 
 /// Flat map(s) containing all translations.
@@ -9697,6 +10292,125 @@ extension on _StringsEn {
 			'k_1oxxcwx': 'Unlock at 7-day streak',
 			'k_0b2qn74': 'The gift shop will launch between January and February.',
 			'k_16mvjic': 'Please stay tuned.',
+			'k_1uoauq9': '[Ponmi Ampao]',
+			'k_1u0zu59': 'Ponmi Official Account',
+			'k_14h9dd7': ({required Object option1}) => 'Minimum withdrawal amount is $option1',
+			'k_0gx4703': 'Identity Verification',
+			'k_1tk9b1t': 'Failed to get identity verification status',
+			'k_02nxsoa': 'Not verified',
+			'k_09dysw7': 'Please submit your identity information. After approval, you can bind a bank card and perform fund operations',
+			'k_0mb4hgu': 'Identity information submitted. Please wait for review',
+			'k_0f7zpcx': 'Approved',
+			'k_1vwiif0': 'Identity verification approved',
+			'k_0pixah8': 'Please update your information and resubmit',
+			'k_15ibx7m': 'ID Type',
+			'k_15gxxbu': 'Full Name',
+			'k_0ice9t9': 'Please enter the name on your ID',
+			'k_12j5aqs': 'ID Number',
+			'k_17ivr9h': 'Please enter your ID number',
+			'k_0twhazf': 'Please enter your full name',
+			'k_117b2ya': 'ID Photos',
+			'k_0bodmb7': 'Front of ID',
+			'k_0bsawwt': 'Back of ID',
+			'k_0j61vv2': 'Please upload the front of your ID',
+			'k_1i2z3q8': 'Please upload the back of your ID',
+			'k_1jx5ek2': 'Submitting...',
+			'k_0gwzc1g': 'Submit Verification',
+			'k_0f7d4n9': 'Submission failed',
+			'k_0qycyhx': 'Submission failed. Please try again later',
+			'k_0woopqp': 'Please complete identity verification and get approved before binding a bank card',
+			'k_11h9mlr': 'Confirm Withdrawal',
+			'k_0d41fnx': 'Requested Amount',
+			'k_02m9lju': 'Fee',
+			'k_0f9qd2g': 'Amount Received',
+			'k_131k5a4': 'Receiving Account',
+			'k_0f7kjm9': 'Withdrawal failed',
+			'k_0zq7ift': 'No available receiving accounts',
+			'k_0jgx001': 'Remaining withdrawal limit today',
+			'k_0jgwv56': 'Remaining withdrawal limit this month',
+			'k_159vzyh': 'Calculating fee...',
+			'k_0b0jd54': 'Please wait while we calculate the fee',
+			'k_0foq4r6': 'Daily withdrawal limit exceeded',
+			'k_0f7th8f': 'Monthly withdrawal limit exceeded',
+			'k_1stf8o8': 'Please bind an approved receiving account first',
+			'k_176njmo': 'Withdrawal History',
+			'k_05tuds2': 'No withdrawal records',
+			'k_03ibj2i': 'Processing',
+			'k_0bz5xnn': 'Requested At',
+			'k_0byava3': 'Completed At',
+			'k_1skpeu8': 'Are you sure you want to delete this receiving account?',
+			'k_15pi3mv': 'Add Receiving Account',
+			'k_15pk1y6': 'No receiving accounts',
+			'k_002v2m1': 'Default',
+			'k_02m3m16': 'Approved',
+			'k_02m3eky': 'Rejected',
+			'k_15pgg53': 'Bind Receiving Account',
+			'k_09ltcuc': 'Please bind a receiving account and wait for approval before continuing',
+			'k_039svgw': 'View',
+			'k_0uhsb7g': 'Please enter your GCash mobile number',
+			'k_0iou8tk': 'Please select a bank',
+			'k_1ahtiab': 'Invalid GCash mobile number. Please use 09XXXXXXXXX',
+			'k_0o6xet1': 'Please enter 09XXXXXXXXX',
+			'k_1qs3pe8': 'Please complete identity verification and get approved before continuing',
+			'k_00yc0fu': 'Withdrawal amount is insufficient to cover the fee',
+			'k_1yl4lcq': 'Remaining outflow limit today',
+			'k_1yl3mcx': 'Remaining outflow limit this month',
+			'k_1erdnt4': 'Remaining inflow limit today',
+			'k_1ereexv': 'Remaining inflow limit this month',
+			'k_1bwbvxl': 'Daily outflow limit exceeded',
+			'k_1f1vyis': 'Monthly outflow limit exceeded',
+			'k_1l4pbwb': 'Daily inflow limit exceeded',
+			'k_09dguja': 'Monthly inflow limit exceeded',
+			'k_0d3bh9i': 'View Limits',
+			'k_0d388ih': 'Account Limits',
+			'k_1b2jjfd': 'Daily Outflow Limit',
+			'k_1b2jp1w': 'Monthly Outflow Limit',
+			'k_1a496q3': 'Daily Inflow Limit',
+			'k_1a4a2fa': 'Monthly Inflow Limit',
+			'k_0hvt9lt': 'Daily cumulative limit for withdrawals, red packets, and transfers',
+			'k_1imdv58': 'Monthly cumulative limit for withdrawals, red packets, and transfers',
+			'k_0k1g0cc': 'Daily cumulative limit for top-ups, received red packets, and received transfers',
+			'k_0yoyg29': 'Monthly cumulative limit for top-ups, received red packets, and received transfers',
+			'k_0iayfuq': ({required Object option1, required Object option2}) => 'Used $option1, limit $option2',
+			'k_0cv7tb7': ({required Object option1}) => 'Remaining $option1',
+			'k_1iexrys': 'No limit data available',
+			'k_038o38g': 'Used',
+			'k_002s3fs': 'Limit',
+			'k_02jqzc4': ', limit ',
+			'k_003tp91': 'Remaining',
+			'k_0ho7c30': ({required Object option1, required Object option2, required Object option3}) => 'Withdrawn today $option1, this time $option2, total $option3',
+			'k_0r1n53d': 'SMS verification is required for this withdrawal',
+			'k_0f9a922': 'SMS verification code sent successfully',
+			'k_0d7ez1o': 'Please do not request again',
+			'k_1pqb6ae': 'SMS verification is not required for this withdrawal amount',
+			'k_1rrz3vr': 'Please complete SMS verification first',
+			'k_1hl2xlb': 'SMS verification code has expired',
+			'k_05r8z51': 'Incorrect SMS verification code',
+			'k_0bvf72v': 'Please bind a phone number first',
+			'k_003n1un': 'Date',
+			'k_09az411': 'Photos & Videos',
+			'k_003mnrm': 'Transactions',
+			'k_003mnem': 'Links',
+			'k_0rcu2g0': 'Quick search chat content. Payment password is locked. Please contact an administrator to unlock',
+			'k_1yx24zy': 'Please set a 6-digit password',
+			'k_0rj3mbt': 'Incorrect verification code',
+			'k_07mwwbr': ({required Object option1}) => 'Incorrect payment password. $option1 attempts remaining',
+			'k_06esh4s': 'Payment password locked',
+			'k_1asi6jx': 'Please contact an administrator to unlock. Self-service reset is not supported',
+			'k_032ev4t': ({required Object option1}) => 'Fee ₱$option1',
+			'k_0qziw21': ({required Object option1}) => 'Fee $option1%',
+			'k_1xr9ai4': ({required Object option1}) => 'Fee $option1',
+			'k_01jpt58': ({required Object option1}) => 'Sample fee ₱$option1',
+			'k_1wzy418': ({required Object option1}) => 'Min ₱$option1',
+			'k_03ybjxj': ({required Object option1, required Object option2}) => '$option1 ($option2)',
+			'k_0d39e3u': 'FAQ',
+			'k_003mnsy': 'Notice',
+			'k_1huz6gk': 'Please review important information about balance usage, third-party payment processing, compliance, and fund-related terms.',
+			'k_08m9zdb': 'Scan this QR code to share platform balance with this user.',
+			'k_075d53r': 'Please verify the recipient before confirming the transaction.',
+			'k_1i0n8fp': 'Balances are recorded within the platform. Top-ups and withdrawals are processed by our authorized third-party payment provider PayMongo, which is regulated by Bangko Sentral ng Pilipinas.',
+			'k_0di1ahc': 'Account Balance',
+			'k_0y00hcs': 'Funds are securely processed through licensed third-party payment providers. Your account balance reflects completed payment transactions.',
 		};
 	}
 }
@@ -11254,6 +11968,125 @@ extension on _StringsJa {
 			'k_1oxxcwx': '连续签到7次可获得',
 			'k_0b2qn74': '礼物商城将在1月到2月上线',
 			'k_16mvjic': '敬请期待',
+			'k_1uoauq9': '[Ponmi 红包]',
+			'k_1u0zu59': 'Ponmi官方公众号',
+			'k_14h9dd7': ({required Object option1}) => '提现最低金额为$option1',
+			'k_0gx4703': '实名认证',
+			'k_1tk9b1t': '实名认证状态获取失败',
+			'k_02nxsoa': '未认证',
+			'k_09dysw7': '请提交实名信息，审核通过后可绑定银行卡并进行资金操作',
+			'k_0mb4hgu': '实名信息已提交，请等待后台审核',
+			'k_0f7zpcx': '审核通过',
+			'k_1vwiif0': '实名认证已通过',
+			'k_0pixah8': '请修改信息后重新提交',
+			'k_15ibx7m': '证件类型',
+			'k_15gxxbu': '真实姓名',
+			'k_0ice9t9': '请输入证件姓名',
+			'k_12j5aqs': '证件号码',
+			'k_17ivr9h': '请输入证件号码',
+			'k_0twhazf': '请输入真实姓名',
+			'k_117b2ya': '证件照片',
+			'k_0bodmb7': '证件正面',
+			'k_0bsawwt': '证件反面',
+			'k_0j61vv2': '请上传证件正面照片',
+			'k_1i2z3q8': '请上传证件反面照片',
+			'k_1jx5ek2': '提交中...',
+			'k_0gwzc1g': '提交认证',
+			'k_0f7d4n9': '提交失败',
+			'k_0qycyhx': '提交失败，请稍后重试',
+			'k_0woopqp': '请先完成实名认证并通过审核后再绑定银行卡',
+			'k_11h9mlr': '确认提现',
+			'k_0d41fnx': '申请金额',
+			'k_02m9lju': '手续费',
+			'k_0f9qd2g': '实际到账',
+			'k_131k5a4': '收款账户',
+			'k_0f7kjm9': '提现失败',
+			'k_0zq7ift': '暂无可用收款账户',
+			'k_0jgx001': '今日剩余提现额度',
+			'k_0jgwv56': '本月剩余提现额度',
+			'k_159vzyh': '正在计算手续费...',
+			'k_0b0jd54': '请稍候，正在计算手续费',
+			'k_0foq4r6': '已超过每日提现限额',
+			'k_0f7th8f': '已超过每月提现限额',
+			'k_1stf8o8': '请先绑定审核通过的收款账户',
+			'k_176njmo': '提现记录',
+			'k_05tuds2': '暂无提现记录',
+			'k_03ibj2i': '处理中',
+			'k_0bz5xnn': '申请时间',
+			'k_0byava3': '完成时间',
+			'k_1skpeu8': '确定要删除该收款账户吗？',
+			'k_15pi3mv': '添加收款账户',
+			'k_15pk1y6': '暂无收款账户',
+			'k_002v2m1': '默认',
+			'k_02m3m16': '已通过',
+			'k_02m3eky': '未通过',
+			'k_15pgg53': '绑定收款账户',
+			'k_09ltcuc': '请先绑定并等待收款账户审核通过后再操作',
+			'k_039svgw': '去查看',
+			'k_0uhsb7g': '请输入GCash手机号',
+			'k_0iou8tk': '请选择银行',
+			'k_1ahtiab': 'GCash手机号格式不正确，请使用09XXXXXXXXX',
+			'k_0o6xet1': '请输入09XXXXXXXXX',
+			'k_1qs3pe8': '请先完成实名认证并通过审核后再操作',
+			'k_00yc0fu': '提现金额不足以支付手续费',
+			'k_1yl4lcq': '今日剩余流出额度',
+			'k_1yl3mcx': '本月剩余流出额度',
+			'k_1erdnt4': '今日剩余转入额度',
+			'k_1ereexv': '本月剩余转入额度',
+			'k_1bwbvxl': '已超过每日流出限额',
+			'k_1f1vyis': '已超过每月流出限额',
+			'k_1l4pbwb': '已超过每日转入限额',
+			'k_09dguja': '已超过每月转入限额',
+			'k_0d3bh9i': '查看限额',
+			'k_0d388ih': '账户限额',
+			'k_1b2jjfd': '每日流出限额',
+			'k_1b2jp1w': '每月流出限额',
+			'k_1a496q3': '每日转入限额',
+			'k_1a4a2fa': '每月转入限额',
+			'k_0hvt9lt': '提现、发红包、转账支出的每日累计限额',
+			'k_1imdv58': '提现、发红包、转账支出的每月累计限额',
+			'k_0k1g0cc': '充值、收红包、收转账的每日累计限额',
+			'k_0yoyg29': '充值、收红包、收转账的每月累计限额',
+			'k_0iayfuq': ({required Object option1, required Object option2}) => '已使用$option1，限额$option2',
+			'k_0cv7tb7': ({required Object option1}) => '剩余$option1',
+			'k_1iexrys': '暂无限额数据',
+			'k_038o38g': '已使用',
+			'k_002s3fs': '限额',
+			'k_02jqzc4': '，限额',
+			'k_003tp91': '剩余',
+			'k_0ho7c30': ({required Object option1, required Object option2, required Object option3}) => '今日已提现$option1，本次$option2，累计$option3',
+			'k_0r1n53d': '本次提现需短信验证',
+			'k_0f9a922': '短信验证码发送成功',
+			'k_0d7ez1o': '请勿重复获取',
+			'k_1pqb6ae': '当前提现金额无需短信验证',
+			'k_1rrz3vr': '请先完成短信验证',
+			'k_1hl2xlb': '短信验证码已过期',
+			'k_05r8z51': '短信验证码不正确',
+			'k_0bvf72v': '请先绑定手机号',
+			'k_003n1un': '日期',
+			'k_09az411': '图片与视频',
+			'k_003mnrm': '交易',
+			'k_003mnem': '链接',
+			'k_0rcu2g0': '快速搜索聊天内容支付密码已锁定，请联系管理员解锁',
+			'k_1yx24zy': '请设置6位数密码',
+			'k_0rj3mbt': '验证码不正确',
+			'k_07mwwbr': ({required Object option1}) => '支付密码错误，还可尝试$option1次',
+			'k_06esh4s': '支付密码已锁定',
+			'k_1asi6jx': '请联系管理员解锁，暂不支持自助重置',
+			'k_032ev4t': ({required Object option1}) => '手续费 ₱$option1',
+			'k_0qziw21': ({required Object option1}) => '手续费 $option1%',
+			'k_1xr9ai4': ({required Object option1}) => '手续费 $option1',
+			'k_01jpt58': ({required Object option1}) => '示例手续费 ₱$option1',
+			'k_1wzy418': ({required Object option1}) => '最低 ₱$option1',
+			'k_03ybjxj': ({required Object option1, required Object option2}) => '$option1（$option2）',
+			'k_0d39e3u': '常见问题',
+			'k_003mnsy': '注意',
+			'k_1huz6gk': '请查阅有关余额使用、第三方支付处理、合规以及资金相关条款的重要信息。',
+			'k_08m9zdb': '扫描此二维码可与该用户分享平台余额。',
+			'k_075d53r': '确认交易前请核实收款方。',
+			'k_1i0n8fp': '余额记录于平台内。充值与提现由我们授权的第三方支付服务商 PayMongo 处理，该机构受菲律宾中央银行（Bangko Sentral ng Pilipinas）监管。',
+			'k_0di1ahc': '账户余额',
+			'k_0y00hcs': '资金通过持牌第三方支付服务商安全处理。您的账户余额反映已完成的支付交易。',
 		};
 	}
 }
@@ -12811,6 +13644,125 @@ extension on _StringsKo {
 			'k_1oxxcwx': '连续签到7次可获得',
 			'k_0b2qn74': '礼物商城将在1月到2月上线',
 			'k_16mvjic': '敬请期待',
+			'k_1uoauq9': '[Ponmi 红包]',
+			'k_1u0zu59': 'Ponmi官方公众号',
+			'k_14h9dd7': ({required Object option1}) => '提现最低金额为$option1',
+			'k_0gx4703': '实名认证',
+			'k_1tk9b1t': '实名认证状态获取失败',
+			'k_02nxsoa': '未认证',
+			'k_09dysw7': '请提交实名信息，审核通过后可绑定银行卡并进行资金操作',
+			'k_0mb4hgu': '实名信息已提交，请等待后台审核',
+			'k_0f7zpcx': '审核通过',
+			'k_1vwiif0': '实名认证已通过',
+			'k_0pixah8': '请修改信息后重新提交',
+			'k_15ibx7m': '证件类型',
+			'k_15gxxbu': '真实姓名',
+			'k_0ice9t9': '请输入证件姓名',
+			'k_12j5aqs': '证件号码',
+			'k_17ivr9h': '请输入证件号码',
+			'k_0twhazf': '请输入真实姓名',
+			'k_117b2ya': '证件照片',
+			'k_0bodmb7': '证件正面',
+			'k_0bsawwt': '证件反面',
+			'k_0j61vv2': '请上传证件正面照片',
+			'k_1i2z3q8': '请上传证件反面照片',
+			'k_1jx5ek2': '提交中...',
+			'k_0gwzc1g': '提交认证',
+			'k_0f7d4n9': '提交失败',
+			'k_0qycyhx': '提交失败，请稍后重试',
+			'k_0woopqp': '请先完成实名认证并通过审核后再绑定银行卡',
+			'k_11h9mlr': '确认提现',
+			'k_0d41fnx': '申请金额',
+			'k_02m9lju': '手续费',
+			'k_0f9qd2g': '实际到账',
+			'k_131k5a4': '收款账户',
+			'k_0f7kjm9': '提现失败',
+			'k_0zq7ift': '暂无可用收款账户',
+			'k_0jgx001': '今日剩余提现额度',
+			'k_0jgwv56': '本月剩余提现额度',
+			'k_159vzyh': '正在计算手续费...',
+			'k_0b0jd54': '请稍候，正在计算手续费',
+			'k_0foq4r6': '已超过每日提现限额',
+			'k_0f7th8f': '已超过每月提现限额',
+			'k_1stf8o8': '请先绑定审核通过的收款账户',
+			'k_176njmo': '提现记录',
+			'k_05tuds2': '暂无提现记录',
+			'k_03ibj2i': '处理中',
+			'k_0bz5xnn': '申请时间',
+			'k_0byava3': '完成时间',
+			'k_1skpeu8': '确定要删除该收款账户吗？',
+			'k_15pi3mv': '添加收款账户',
+			'k_15pk1y6': '暂无收款账户',
+			'k_002v2m1': '默认',
+			'k_02m3m16': '已通过',
+			'k_02m3eky': '未通过',
+			'k_15pgg53': '绑定收款账户',
+			'k_09ltcuc': '请先绑定并等待收款账户审核通过后再操作',
+			'k_039svgw': '去查看',
+			'k_0uhsb7g': '请输入GCash手机号',
+			'k_0iou8tk': '请选择银行',
+			'k_1ahtiab': 'GCash手机号格式不正确，请使用09XXXXXXXXX',
+			'k_0o6xet1': '请输入09XXXXXXXXX',
+			'k_1qs3pe8': '请先完成实名认证并通过审核后再操作',
+			'k_00yc0fu': '提现金额不足以支付手续费',
+			'k_1yl4lcq': '今日剩余流出额度',
+			'k_1yl3mcx': '本月剩余流出额度',
+			'k_1erdnt4': '今日剩余转入额度',
+			'k_1ereexv': '本月剩余转入额度',
+			'k_1bwbvxl': '已超过每日流出限额',
+			'k_1f1vyis': '已超过每月流出限额',
+			'k_1l4pbwb': '已超过每日转入限额',
+			'k_09dguja': '已超过每月转入限额',
+			'k_0d3bh9i': '查看限额',
+			'k_0d388ih': '账户限额',
+			'k_1b2jjfd': '每日流出限额',
+			'k_1b2jp1w': '每月流出限额',
+			'k_1a496q3': '每日转入限额',
+			'k_1a4a2fa': '每月转入限额',
+			'k_0hvt9lt': '提现、发红包、转账支出的每日累计限额',
+			'k_1imdv58': '提现、发红包、转账支出的每月累计限额',
+			'k_0k1g0cc': '充值、收红包、收转账的每日累计限额',
+			'k_0yoyg29': '充值、收红包、收转账的每月累计限额',
+			'k_0iayfuq': ({required Object option1, required Object option2}) => '已使用$option1，限额$option2',
+			'k_0cv7tb7': ({required Object option1}) => '剩余$option1',
+			'k_1iexrys': '暂无限额数据',
+			'k_038o38g': '已使用',
+			'k_002s3fs': '限额',
+			'k_02jqzc4': '，限额',
+			'k_003tp91': '剩余',
+			'k_0ho7c30': ({required Object option1, required Object option2, required Object option3}) => '今日已提现$option1，本次$option2，累计$option3',
+			'k_0r1n53d': '本次提现需短信验证',
+			'k_0f9a922': '短信验证码发送成功',
+			'k_0d7ez1o': '请勿重复获取',
+			'k_1pqb6ae': '当前提现金额无需短信验证',
+			'k_1rrz3vr': '请先完成短信验证',
+			'k_1hl2xlb': '短信验证码已过期',
+			'k_05r8z51': '短信验证码不正确',
+			'k_0bvf72v': '请先绑定手机号',
+			'k_003n1un': '日期',
+			'k_09az411': '图片与视频',
+			'k_003mnrm': '交易',
+			'k_003mnem': '链接',
+			'k_0rcu2g0': '快速搜索聊天内容支付密码已锁定，请联系管理员解锁',
+			'k_1yx24zy': '请设置6位数密码',
+			'k_0rj3mbt': '验证码不正确',
+			'k_07mwwbr': ({required Object option1}) => '支付密码错误，还可尝试$option1次',
+			'k_06esh4s': '支付密码已锁定',
+			'k_1asi6jx': '请联系管理员解锁，暂不支持自助重置',
+			'k_032ev4t': ({required Object option1}) => '手续费 ₱$option1',
+			'k_0qziw21': ({required Object option1}) => '手续费 $option1%',
+			'k_1xr9ai4': ({required Object option1}) => '手续费 $option1',
+			'k_01jpt58': ({required Object option1}) => '示例手续费 ₱$option1',
+			'k_1wzy418': ({required Object option1}) => '最低 ₱$option1',
+			'k_03ybjxj': ({required Object option1, required Object option2}) => '$option1（$option2）',
+			'k_0d39e3u': '常见问题',
+			'k_003mnsy': '注意',
+			'k_1huz6gk': '请查阅有关余额使用、第三方支付处理、合规以及资金相关条款的重要信息。',
+			'k_08m9zdb': '扫描此二维码可与该用户分享平台余额。',
+			'k_075d53r': '确认交易前请核实收款方。',
+			'k_1i0n8fp': '余额记录于平台内。充值与提现由我们授权的第三方支付服务商 PayMongo 处理，该机构受菲律宾中央银行（Bangko Sentral ng Pilipinas）监管。',
+			'k_0di1ahc': '账户余额',
+			'k_0y00hcs': '资金通过持牌第三方支付服务商安全处理。您的账户余额反映已完成的支付交易。',
 		};
 	}
 }
@@ -14367,6 +15319,125 @@ extension on _StringsZhHans {
 			'k_1oxxcwx': '连续签到7次可获得',
 			'k_0b2qn74': '礼物商城将在1月到2月上线',
 			'k_16mvjic': '敬请期待',
+			'k_1uoauq9': '[Ponmi 红包]',
+			'k_1u0zu59': 'Ponmi官方公众号',
+			'k_14h9dd7': ({required Object option1}) => '提现最低金额为$option1',
+			'k_0gx4703': '实名认证',
+			'k_1tk9b1t': '实名认证状态获取失败',
+			'k_02nxsoa': '未认证',
+			'k_09dysw7': '请提交实名信息，审核通过后可绑定银行卡并进行资金操作',
+			'k_0mb4hgu': '实名信息已提交，请等待后台审核',
+			'k_0f7zpcx': '审核通过',
+			'k_1vwiif0': '实名认证已通过',
+			'k_0pixah8': '请修改信息后重新提交',
+			'k_15ibx7m': '证件类型',
+			'k_15gxxbu': '真实姓名',
+			'k_0ice9t9': '请输入证件姓名',
+			'k_12j5aqs': '证件号码',
+			'k_17ivr9h': '请输入证件号码',
+			'k_0twhazf': '请输入真实姓名',
+			'k_117b2ya': '证件照片',
+			'k_0bodmb7': '证件正面',
+			'k_0bsawwt': '证件反面',
+			'k_0j61vv2': '请上传证件正面照片',
+			'k_1i2z3q8': '请上传证件反面照片',
+			'k_1jx5ek2': '提交中...',
+			'k_0gwzc1g': '提交认证',
+			'k_0f7d4n9': '提交失败',
+			'k_0qycyhx': '提交失败，请稍后重试',
+			'k_0woopqp': '请先完成实名认证并通过审核后再绑定银行卡',
+			'k_11h9mlr': '确认提现',
+			'k_0d41fnx': '申请金额',
+			'k_02m9lju': '手续费',
+			'k_0f9qd2g': '实际到账',
+			'k_131k5a4': '收款账户',
+			'k_0f7kjm9': '提现失败',
+			'k_0zq7ift': '暂无可用收款账户',
+			'k_0jgx001': '今日剩余提现额度',
+			'k_0jgwv56': '本月剩余提现额度',
+			'k_159vzyh': '正在计算手续费...',
+			'k_0b0jd54': '请稍候，正在计算手续费',
+			'k_0foq4r6': '已超过每日提现限额',
+			'k_0f7th8f': '已超过每月提现限额',
+			'k_1stf8o8': '请先绑定审核通过的收款账户',
+			'k_176njmo': '提现记录',
+			'k_05tuds2': '暂无提现记录',
+			'k_03ibj2i': '处理中',
+			'k_0bz5xnn': '申请时间',
+			'k_0byava3': '完成时间',
+			'k_1skpeu8': '确定要删除该收款账户吗？',
+			'k_15pi3mv': '添加收款账户',
+			'k_15pk1y6': '暂无收款账户',
+			'k_002v2m1': '默认',
+			'k_02m3m16': '已通过',
+			'k_02m3eky': '未通过',
+			'k_15pgg53': '绑定收款账户',
+			'k_09ltcuc': '请先绑定并等待收款账户审核通过后再操作',
+			'k_039svgw': '去查看',
+			'k_0uhsb7g': '请输入GCash手机号',
+			'k_0iou8tk': '请选择银行',
+			'k_1ahtiab': 'GCash手机号格式不正确，请使用09XXXXXXXXX',
+			'k_0o6xet1': '请输入09XXXXXXXXX',
+			'k_1qs3pe8': '请先完成实名认证并通过审核后再操作',
+			'k_00yc0fu': '提现金额不足以支付手续费',
+			'k_1yl4lcq': '今日剩余流出额度',
+			'k_1yl3mcx': '本月剩余流出额度',
+			'k_1erdnt4': '今日剩余转入额度',
+			'k_1ereexv': '本月剩余转入额度',
+			'k_1bwbvxl': '已超过每日流出限额',
+			'k_1f1vyis': '已超过每月流出限额',
+			'k_1l4pbwb': '已超过每日转入限额',
+			'k_09dguja': '已超过每月转入限额',
+			'k_0d3bh9i': '查看限额',
+			'k_0d388ih': '账户限额',
+			'k_1b2jjfd': '每日流出限额',
+			'k_1b2jp1w': '每月流出限额',
+			'k_1a496q3': '每日转入限额',
+			'k_1a4a2fa': '每月转入限额',
+			'k_0hvt9lt': '提现、发红包、转账支出的每日累计限额',
+			'k_1imdv58': '提现、发红包、转账支出的每月累计限额',
+			'k_0k1g0cc': '充值、收红包、收转账的每日累计限额',
+			'k_0yoyg29': '充值、收红包、收转账的每月累计限额',
+			'k_0iayfuq': ({required Object option1, required Object option2}) => '已使用$option1，限额$option2',
+			'k_0cv7tb7': ({required Object option1}) => '剩余$option1',
+			'k_1iexrys': '暂无限额数据',
+			'k_038o38g': '已使用',
+			'k_002s3fs': '限额',
+			'k_02jqzc4': '，限额',
+			'k_003tp91': '剩余',
+			'k_0ho7c30': ({required Object option1, required Object option2, required Object option3}) => '今日已提现$option1，本次$option2，累计$option3',
+			'k_0r1n53d': '本次提现需短信验证',
+			'k_0f9a922': '短信验证码发送成功',
+			'k_0d7ez1o': '请勿重复获取',
+			'k_1pqb6ae': '当前提现金额无需短信验证',
+			'k_1rrz3vr': '请先完成短信验证',
+			'k_1hl2xlb': '短信验证码已过期',
+			'k_05r8z51': '短信验证码不正确',
+			'k_0bvf72v': '请先绑定手机号',
+			'k_003n1un': '日期',
+			'k_09az411': '图片与视频',
+			'k_003mnrm': '交易',
+			'k_003mnem': '链接',
+			'k_0rcu2g0': '快速搜索聊天内容支付密码已锁定，请联系管理员解锁',
+			'k_1yx24zy': '请设置6位数密码',
+			'k_0rj3mbt': '验证码不正确',
+			'k_07mwwbr': ({required Object option1}) => '支付密码错误，还可尝试$option1次',
+			'k_06esh4s': '支付密码已锁定',
+			'k_1asi6jx': '请联系管理员解锁，暂不支持自助重置',
+			'k_032ev4t': ({required Object option1}) => '手续费 ₱$option1',
+			'k_0qziw21': ({required Object option1}) => '手续费 $option1%',
+			'k_1xr9ai4': ({required Object option1}) => '手续费 $option1',
+			'k_01jpt58': ({required Object option1}) => '示例手续费 ₱$option1',
+			'k_1wzy418': ({required Object option1}) => '最低 ₱$option1',
+			'k_03ybjxj': ({required Object option1, required Object option2}) => '$option1（$option2）',
+			'k_0d39e3u': '常见问题',
+			'k_003mnsy': '注意',
+			'k_1huz6gk': '请查阅有关余额使用、第三方支付处理、合规以及资金相关条款的重要信息。',
+			'k_08m9zdb': '扫描此二维码可与该用户分享平台余额。',
+			'k_075d53r': '确认交易前请核实收款方。',
+			'k_1i0n8fp': '余额记录于平台内。充值与提现由我们授权的第三方支付服务商 PayMongo 处理，该机构受菲律宾中央银行（Bangko Sentral ng Pilipinas）监管。',
+			'k_0di1ahc': '账户余额',
+			'k_0y00hcs': '资金通过持牌第三方支付服务商安全处理。您的账户余额反映已完成的支付交易。',
 		};
 	}
 }
@@ -15921,6 +16992,125 @@ extension on _StringsZhHant {
 			'k_1oxxcwx': '连续签到7次可获得',
 			'k_0b2qn74': '礼物商城将在1月到2月上线',
 			'k_16mvjic': '敬请期待',
+			'k_1uoauq9': '[Ponmi 红包]',
+			'k_1u0zu59': 'Ponmi官方公众号',
+			'k_14h9dd7': ({required Object option1}) => '提现最低金额为$option1',
+			'k_0gx4703': '实名认证',
+			'k_1tk9b1t': '实名认证状态获取失败',
+			'k_02nxsoa': '未认证',
+			'k_09dysw7': '请提交实名信息，审核通过后可绑定银行卡并进行资金操作',
+			'k_0mb4hgu': '实名信息已提交，请等待后台审核',
+			'k_0f7zpcx': '审核通过',
+			'k_1vwiif0': '实名认证已通过',
+			'k_0pixah8': '请修改信息后重新提交',
+			'k_15ibx7m': '证件类型',
+			'k_15gxxbu': '真实姓名',
+			'k_0ice9t9': '请输入证件姓名',
+			'k_12j5aqs': '证件号码',
+			'k_17ivr9h': '请输入证件号码',
+			'k_0twhazf': '请输入真实姓名',
+			'k_117b2ya': '证件照片',
+			'k_0bodmb7': '证件正面',
+			'k_0bsawwt': '证件反面',
+			'k_0j61vv2': '请上传证件正面照片',
+			'k_1i2z3q8': '请上传证件反面照片',
+			'k_1jx5ek2': '提交中...',
+			'k_0gwzc1g': '提交认证',
+			'k_0f7d4n9': '提交失败',
+			'k_0qycyhx': '提交失败，请稍后重试',
+			'k_0woopqp': '请先完成实名认证并通过审核后再绑定银行卡',
+			'k_11h9mlr': '确认提现',
+			'k_0d41fnx': '申请金额',
+			'k_02m9lju': '手续费',
+			'k_0f9qd2g': '实际到账',
+			'k_131k5a4': '收款账户',
+			'k_0f7kjm9': '提现失败',
+			'k_0zq7ift': '暂无可用收款账户',
+			'k_0jgx001': '今日剩余提现额度',
+			'k_0jgwv56': '本月剩余提现额度',
+			'k_159vzyh': '正在计算手续费...',
+			'k_0b0jd54': '请稍候，正在计算手续费',
+			'k_0foq4r6': '已超过每日提现限额',
+			'k_0f7th8f': '已超过每月提现限额',
+			'k_1stf8o8': '请先绑定审核通过的收款账户',
+			'k_176njmo': '提现记录',
+			'k_05tuds2': '暂无提现记录',
+			'k_03ibj2i': '处理中',
+			'k_0bz5xnn': '申请时间',
+			'k_0byava3': '完成时间',
+			'k_1skpeu8': '确定要删除该收款账户吗？',
+			'k_15pi3mv': '添加收款账户',
+			'k_15pk1y6': '暂无收款账户',
+			'k_002v2m1': '默认',
+			'k_02m3m16': '已通过',
+			'k_02m3eky': '未通过',
+			'k_15pgg53': '绑定收款账户',
+			'k_09ltcuc': '请先绑定并等待收款账户审核通过后再操作',
+			'k_039svgw': '去查看',
+			'k_0uhsb7g': '请输入GCash手机号',
+			'k_0iou8tk': '请选择银行',
+			'k_1ahtiab': 'GCash手机号格式不正确，请使用09XXXXXXXXX',
+			'k_0o6xet1': '请输入09XXXXXXXXX',
+			'k_1qs3pe8': '请先完成实名认证并通过审核后再操作',
+			'k_00yc0fu': '提现金额不足以支付手续费',
+			'k_1yl4lcq': '今日剩余流出额度',
+			'k_1yl3mcx': '本月剩余流出额度',
+			'k_1erdnt4': '今日剩余转入额度',
+			'k_1ereexv': '本月剩余转入额度',
+			'k_1bwbvxl': '已超过每日流出限额',
+			'k_1f1vyis': '已超过每月流出限额',
+			'k_1l4pbwb': '已超过每日转入限额',
+			'k_09dguja': '已超过每月转入限额',
+			'k_0d3bh9i': '查看限额',
+			'k_0d388ih': '账户限额',
+			'k_1b2jjfd': '每日流出限额',
+			'k_1b2jp1w': '每月流出限额',
+			'k_1a496q3': '每日转入限额',
+			'k_1a4a2fa': '每月转入限额',
+			'k_0hvt9lt': '提现、发红包、转账支出的每日累计限额',
+			'k_1imdv58': '提现、发红包、转账支出的每月累计限额',
+			'k_0k1g0cc': '充值、收红包、收转账的每日累计限额',
+			'k_0yoyg29': '充值、收红包、收转账的每月累计限额',
+			'k_0iayfuq': ({required Object option1, required Object option2}) => '已使用$option1，限额$option2',
+			'k_0cv7tb7': ({required Object option1}) => '剩余$option1',
+			'k_1iexrys': '暂无限额数据',
+			'k_038o38g': '已使用',
+			'k_002s3fs': '限额',
+			'k_02jqzc4': '，限额',
+			'k_003tp91': '剩余',
+			'k_0ho7c30': ({required Object option1, required Object option2, required Object option3}) => '今日已提现$option1，本次$option2，累计$option3',
+			'k_0r1n53d': '本次提现需短信验证',
+			'k_0f9a922': '短信验证码发送成功',
+			'k_0d7ez1o': '请勿重复获取',
+			'k_1pqb6ae': '当前提现金额无需短信验证',
+			'k_1rrz3vr': '请先完成短信验证',
+			'k_1hl2xlb': '短信验证码已过期',
+			'k_05r8z51': '短信验证码不正确',
+			'k_0bvf72v': '请先绑定手机号',
+			'k_003n1un': '日期',
+			'k_09az411': '图片与视频',
+			'k_003mnrm': '交易',
+			'k_003mnem': '链接',
+			'k_0rcu2g0': '快速搜索聊天内容支付密码已锁定，请联系管理员解锁',
+			'k_1yx24zy': '请设置6位数密码',
+			'k_0rj3mbt': '验证码不正确',
+			'k_07mwwbr': ({required Object option1}) => '支付密码错误，还可尝试$option1次',
+			'k_06esh4s': '支付密码已锁定',
+			'k_1asi6jx': '请联系管理员解锁，暂不支持自助重置',
+			'k_032ev4t': ({required Object option1}) => '手续费 ₱$option1',
+			'k_0qziw21': ({required Object option1}) => '手续费 $option1%',
+			'k_1xr9ai4': ({required Object option1}) => '手续费 $option1',
+			'k_01jpt58': ({required Object option1}) => '示例手续费 ₱$option1',
+			'k_1wzy418': ({required Object option1}) => '最低 ₱$option1',
+			'k_03ybjxj': ({required Object option1, required Object option2}) => '$option1（$option2）',
+			'k_0d39e3u': '常见问题',
+			'k_003mnsy': '注意',
+			'k_1huz6gk': '请查阅有关余额使用、第三方支付处理、合规以及资金相关条款的重要信息。',
+			'k_08m9zdb': '扫描此二维码可与该用户分享平台余额。',
+			'k_075d53r': '确认交易前请核实收款方。',
+			'k_1i0n8fp': '余额记录于平台内。充值与提现由我们授权的第三方支付服务商 PayMongo 处理，该机构受菲律宾中央银行（Bangko Sentral ng Pilipinas）监管。',
+			'k_0di1ahc': '账户余额',
+			'k_0y00hcs': '资金通过持牌第三方支付服务商安全处理。您的账户余额反映已完成的支付交易。',
 		};
 	}
 }
